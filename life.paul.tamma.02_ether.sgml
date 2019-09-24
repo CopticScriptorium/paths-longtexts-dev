@@ -1,6 +1,7 @@
-<meta annotation="-" author="-" collection="-" Coptic_edition="-" corpus="-" country="Egypt" document_cts_urn="-" endnote="-optional-" Greek_source="-optional-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msItem_title="-" msName="-" next="-optional but recommended-" note="-optional-" objectType="-" order="-optional but recommended-" origDate="-optional but recommended-" origDate_notAfter="-optional but recommended-" origDate_notBefore="-optional but recommended-" origDate_precision="-optional-" origPlace="-" pages_from="-" pages_to="-" parsing="-ONLY automatic, checked, gold-" placeName="-" previous="-optional but recommended-" project="-" redundant="-" repository="-" segmentation="-ONLY automatic, checked, gold-" source="-optional-" source_info="-optional-" tagging="-ONLY automatic, checked, gold-" title="-" translation="-" Trismegistos="-" version_date="-" version_n="-" witness="-optional-">
-<translation translation="...">
+<meta annotation="-" author="-" collection="-" Coptic_edition="-" corpus="-" country="Egypt" document_cts_urn="-" endnote="-optional-" Greek_source="-optional-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="-" msName="-" next="-optional but recommended-" note="-optional-" objectType="-" order="-optional but recommended-" origDate="-optional but recommended-" origDate_notAfter="-optional but recommended-" origDate_notBefore="-optional but recommended-" origDate_precision="-optional-" origPlace="-" pages_from="-" pages_to="-" parsing="automatic" placeName="-" previous="-optional but recommended-" project="-" redundant="-" repository="-" segmentation="automatic" source="-optional-" source_info="-optional-" tagging="automatic" title="-" translation="-" Trismegistos="-" version_date="2019-09-30" version_n="3.0.0" witness="-optional-">
 <p p="p">
+<translation translation="...">
+<lb lb="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -261,8 +262,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -480,12 +481,30 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛⲓ">
-<norm_group norm_group="ⲁⲛⲓ">
-<orig orig="ⲁⲛⲓ">
-<norm norm="ⲁⲛⲓ">
-<lemma lemma="ⲉⲓⲛⲉ">
-<pos pos="VIMP">
-ⲁⲛⲓ
+<norm_group norm_group="ⲁⲛⲉⲓ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
+<pos pos="V">
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -750,8 +769,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲡⲁⲓⲱⲧ">
 <norm_group norm_group="ⲁⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲁ">
@@ -961,8 +980,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1234,8 +1253,8 @@
 </norm_group>
 </orig_group>
 </persName_type>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1538,10 +1557,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϥⲥⲱⲙⲁ">
 <norm_group norm_group="ⲡⲉϥⲥⲱⲙⲁ">
 <orig orig="ⲡⲉϥ">
@@ -1953,8 +1972,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2065,8 +2084,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -2307,8 +2326,8 @@
 </placeName_type>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2495,8 +2514,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -2611,6 +2630,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+</p>
+<p p="p">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2779,8 +2802,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -2957,8 +2980,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -3197,8 +3220,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -3521,8 +3544,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲙⲁ">
 <norm_group norm_group="ⲙⲁ">
 <orig orig="ⲙⲁ">
@@ -3915,8 +3938,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -4186,10 +4209,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲕⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲕⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -4472,8 +4495,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -4673,10 +4696,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<translation translation="...">
+</p>
 <p p="p">
+<translation translation="...">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲛⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -5285,8 +5310,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -5316,12 +5341,30 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛⲓ">
-<norm_group norm_group="ⲁⲛⲓ">
-<orig orig="ⲁⲛⲓ">
-<norm norm="ⲁⲛⲓ">
-<lemma lemma="ⲉⲓⲛⲉ">
-<pos pos="VIMP">
-ⲁⲛⲓ
+<norm_group norm_group="ⲁⲛⲉⲓ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
+<pos pos="V">
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -5597,9 +5640,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -5864,9 +5907,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
+</lb>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -6010,8 +6053,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲡⲉϫⲉ">
@@ -6120,8 +6163,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6223,8 +6266,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6459,8 +6502,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲙⲙⲟⲛ">
 <norm_group norm_group="ⲙⲙⲟⲛ">
 <orig orig="ⲙⲙⲟ">
@@ -6633,10 +6676,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -6785,8 +6828,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6952,8 +6995,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6998,8 +7041,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -7754,9 +7797,11 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
+</p>
 <p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -7772,7 +7817,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲉⲣⲡⲃⲟⲗ">
-<norm_group norm_group="ⲛⲧⲉⲣⲛⲉⲣⲡⲃⲟⲗ">
+<norm_group norm_group="ⲛⲧⲉⲣⲛⲣⲡⲃⲟⲗ">
 <orig orig="ⲛⲧⲉⲣ">
 <norm norm="ⲛⲧⲉⲣ">
 <lemma lemma="ⲛⲧⲉⲣⲉ">
@@ -7791,11 +7836,29 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲣⲡⲃⲟⲗ">
-<norm norm="ⲉⲣⲡⲃⲟⲗ">
-<lemma lemma="ⲉⲣⲡⲃⲟⲗ">
+<orig orig="ⲉⲣ">
+<norm norm="ⲣ">
+<lemma lemma="ⲉⲓⲣⲉ">
 <pos pos="V">
-ⲉⲣⲡⲃⲟⲗ
+ⲉⲣ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲡ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲃⲟⲗ">
+<norm norm="ⲃⲟⲗ">
+<lemma lemma="ⲃⲟⲗ">
+<pos pos="N">
+ⲃⲟⲗ
 </pos>
 </lemma>
 </norm>
@@ -7834,12 +7897,30 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛⲓ">
-<norm_group norm_group="ⲁⲛⲓ">
-<orig orig="ⲁⲛⲓ">
-<norm norm="ⲁⲛⲓ">
-<lemma lemma="ⲉⲓⲛⲉ">
-<pos pos="VIMP">
-ⲁⲛⲓ
+<norm_group norm_group="ⲁⲛⲉⲓ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
+<pos pos="V">
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -8006,9 +8087,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
+</lb>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -8090,8 +8171,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -8779,8 +8860,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛϫⲛⲟⲩϥ">
 <norm_group norm_group="ⲁⲛϫⲛⲟⲩϥ">
 <orig orig="ⲁ">
@@ -8878,8 +8959,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9080,10 +9161,10 @@
 </norm_group>
 </orig_group>
 </placeName_type>
-</p>
+</lb>
 </translation>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -9353,8 +9434,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲡⲉϫⲉ">
@@ -9633,8 +9714,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -9907,8 +9988,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10046,10 +10127,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10227,8 +10308,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10361,8 +10442,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10482,8 +10563,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲛϩⲱⲥⲟⲛ">
 <norm_group norm_group="ⲛϩⲱⲥⲟⲛ">
 <orig orig="ⲛ">
@@ -10962,8 +11043,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -11076,8 +11157,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -11463,8 +11544,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲓϩⲓⲥⲉ">
 <norm_group norm_group="ⲁⲓϩⲓⲥⲉ">
 <orig orig="ⲁ">
@@ -11625,8 +11706,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -12004,9 +12085,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
@@ -12238,9 +12319,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
+</lb>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -12379,8 +12460,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -12727,8 +12808,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</lb>
+</translation>
 </p>
 <p p="p">
+<translation translation="...">
+<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -13338,8 +13423,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13697,8 +13782,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -14035,8 +14120,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -14227,9 +14312,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -14532,9 +14617,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
+</lb>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -14657,12 +14742,30 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛⲓ">
-<norm_group norm_group="ⲁⲛⲓ">
-<orig orig="ⲁⲛⲓ">
-<norm norm="ⲁⲛⲓ">
-<lemma lemma="ⲁⲛⲓ">
-<pos pos="N">
-ⲁⲛⲓ
+<norm_group norm_group="ⲁⲛⲉⲓ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
+<pos pos="V">
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -14767,8 +14870,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -15440,9 +15543,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ">
 <norm_group norm_group="ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ">
@@ -16217,9 +16320,11 @@
 </norm_group>
 </orig_group>
 </translation>
+</lb>
 </p>
-<translation translation="...">
 <p p="p">
+<translation translation="...">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -16516,12 +16621,30 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛⲓ">
-<norm_group norm_group="ⲁⲛⲓ">
-<orig orig="ⲁⲛⲓ">
-<norm norm="ⲁⲛⲓ">
-<lemma lemma="ⲁⲛⲓ">
+<norm_group norm_group="ⲁⲛⲉⲓ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
 <pos pos="V">
-ⲁⲛⲓ
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -16587,22 +16710,42 @@
 <norm norm="ϩⲓⲣⲏⲛⲏ">
 <lemma lemma="ϩⲓⲣⲏⲛⲏ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲓⲣⲏⲛⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲓ">
-<norm_group norm_group="ⲁⲛⲓ">
-<orig orig="ⲁⲛⲓ">
-<norm norm="ⲁⲛⲓ">
-<lemma lemma="ⲉⲓⲛⲉ">
-<pos pos="VIMP">
-ⲁⲛⲓ
+<norm_group norm_group="ⲁⲛⲉⲓ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
+<pos pos="V">
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -16849,9 +16992,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
@@ -16975,9 +17118,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
+</lb>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <orig orig="ⲁ">
@@ -17442,8 +17585,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲁⲥⲡⲁⲍⲉ">
 <norm_group norm_group="ⲁⲛⲁⲥⲡⲁⲍⲉ">
 <orig orig="ⲁ">
@@ -17732,10 +17875,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
+<lb lb="lb">
 <translation translation="...">
-<p p="p">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -18088,9 +18231,14 @@
 <morph morph="ⲣⲉϥ">
 ⲣⲉϥ
 </morph>
-<morph morph="ϣⲉⲙϣⲉⲉⲓⲇⲟⲗⲟⲛ">
-ϣⲉⲙϣⲉⲉⲓⲇⲟⲗⲟⲛ
+<morph morph="ϣⲉⲙϣⲉ">
+ϣⲉⲙϣⲉ
 </morph>
+<lang lang="Greek">
+<morph morph="ⲉⲓⲇⲟⲗⲟⲛ">
+ⲉⲓⲇⲟⲗⲟⲛ
+</morph>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -18146,8 +18294,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+</lb>
 </p>
 <p p="p">
+<translation translation="...">
+<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -18600,8 +18752,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <norm_group norm_group="ⲡⲉϫⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <orig orig="ⲡⲉϫⲉ">
@@ -18739,8 +18891,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -19036,10 +19188,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
 <translation translation="...">
-<p p="p">
+<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -19522,8 +19674,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -19895,8 +20047,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</lb>
+</translation>
 </p>
 <p p="p">
+<translation translation="...">
+<lb lb="lb">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -20234,8 +20390,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -20568,8 +20724,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
-<p p="p">
+</lb>
+<lb lb="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -20669,9 +20825,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</p>
+</lb>
 </translation>
-<p p="p">
+<lb lb="lb">
 <translation translation="...">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲩⲧⲱⲟⲩⲛ">
@@ -21850,5 +22006,6 @@
 </norm_group>
 </orig_group>
 </translation>
+</lb>
 </p>
 </meta>
