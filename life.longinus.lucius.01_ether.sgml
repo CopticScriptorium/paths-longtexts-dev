@@ -8,7 +8,9 @@
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
+<date_type date_type="test">
 ⲡ
+</date_type>
 </pos>
 </lemma>
 </norm>
