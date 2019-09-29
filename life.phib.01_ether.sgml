@@ -1,5 +1,6 @@
-<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS" corpus="life.phib" country="Egypt" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName="MERC.BB" objectType="codex" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" PATHS_CLM_ID="256" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName="MERC.BB" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" objectType="codex" order="1" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
 <p_n p_n="0">
+<chapter_n chapter_n="0">
 <translation translation="...">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
@@ -763,8 +764,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="1">
+<chapter_n chapter_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲁⲗⲏⲑⲱⲥ">
 <norm_group norm_group="ⲁⲗⲏⲑⲱⲥ">
@@ -1576,8 +1579,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="2">
+<chapter_n chapter_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲛⲉⲟⲩⲛⲟⲩⲥⲟⲛ">
 <norm_group norm_group="ⲛⲉⲟⲩⲛⲟⲩⲥⲟⲛ">
@@ -2995,8 +3000,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="3">
+<chapter_n chapter_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
@@ -5070,8 +5077,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="4">
+<chapter_n chapter_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲉϥϣⲟⲟⲡ">
@@ -7975,8 +7984,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="5">
+<chapter_n chapter_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲁⲓⲣⲟⲩⲣⲟⲙⲡⲉ">
 <norm_group norm_group="ⲁⲓⲣⲟⲩⲣⲟⲙⲡⲉ">
@@ -10081,8 +10092,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="6">
+<chapter_n chapter_n="6">
 <translation translation="...">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
@@ -13350,8 +13363,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="7">
+<chapter_n chapter_n="7">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -17087,8 +17102,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="8">
+<chapter_n chapter_n="8">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -19398,8 +19415,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="9">
+<chapter_n chapter_n="9">
 <translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
@@ -22098,8 +22117,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="10">
+<chapter_n chapter_n="10">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲧⲁⲙⲓⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲧⲁⲙⲓⲟⲥ">
@@ -23799,5 +23820,6 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 </meta>
