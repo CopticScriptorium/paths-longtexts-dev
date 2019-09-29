@@ -1,5 +1,6 @@
-<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" corpus="life.phib" country="Egypt" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName=" MERC.BB" objectType="codex" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" PATHS_CLM_ID="256" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:11-18" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName=" MERC.BB" objectType="codex" order="2" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" placeName="Hamuli" prev="urn:cts:copticLit:lives.phib.paths_ed:0-10" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
 <p_n p_n="11">
+<chapter_n chapter_n="11">
 <translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲱⲥ">
 <norm_group norm_group="ⲙⲛⲛⲥⲱⲥ">
@@ -736,12 +737,23 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϯⲣⲏⲛⲏ">
-<norm_group norm_group="ⲧ">
-<orig orig="ϯⲣⲏⲛⲏ">
+<norm_group norm_group="ⲧⲉⲓⲣⲏⲛⲏ">
+<orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
-ϯⲣⲏⲛⲏ
+ϯ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲣⲏⲛⲏ">
+<norm norm="ⲉⲓⲣⲏⲛⲏ">
+<lemma lemma="ⲉⲓⲣⲏⲛⲏ">
+<pos pos="N">
+<lang lang="Greek">
+ⲣⲏⲛⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -1769,7 +1781,7 @@
 <norm_group norm_group="ⲉⲕⲉϣⲱⲡⲉ">
 <orig orig="ⲉⲕⲉ">
 <norm norm="ⲉⲕⲉ">
-<lemma lemma="ⲉⲕⲉ">
+<lemma lemma="ⲉⲣⲉ_ⲛⲧⲟⲕ">
 <pos pos="AOPT_PPERS">
 ⲉⲕⲉ
 </pos>
@@ -1931,7 +1943,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲥ︤ⲏ︦ⲣ︥">
-<norm_group norm_group="ⲙⲡⲥⲏⲣ">
+<norm_group norm_group="ⲙⲡⲥⲱⲧⲏⲣ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -1951,10 +1963,12 @@
 </norm>
 </orig>
 <orig orig="ⲥ︤ⲏ︦ⲣ︥">
-<norm norm="ⲥⲏⲣ">
-<lemma lemma="ⲥⲏⲣ">
+<norm norm="ⲥⲱⲧⲏⲣ">
+<lemma lemma="ⲥⲱⲧⲏⲣ">
 <pos pos="N">
+<lang lang="Greek">
 ⲥ︤ⲏ︦ⲣ︥
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -2586,8 +2600,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="12">
+<chapter_n chapter_n="12">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -9010,8 +9026,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="13">
+<chapter_n chapter_n="13">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
@@ -10339,8 +10357,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="14">
+<chapter_n chapter_n="14">
 <translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
@@ -15465,8 +15485,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="15">
+<chapter_n chapter_n="15">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -17490,8 +17512,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="16">
+<chapter_n chapter_n="16">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲱⲥⲕ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲱⲥⲕ">
@@ -20007,8 +20031,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="17">
+<chapter_n chapter_n="17">
 <translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲱⲥ">
 <norm_group norm_group="ⲙⲛⲛⲥⲱⲥ">
@@ -22589,8 +22615,10 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 <p_n p_n="18">
+<chapter_n chapter_n="18">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϩⲧⲟⲟⲩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϩⲧⲟⲟⲩⲉ">
@@ -27428,5 +27456,6 @@
 </norm_group>
 </orig_group>
 </translation>
+</chapter_n>
 </p_n>
 </meta>
