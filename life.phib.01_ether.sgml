@@ -1,4 +1,4 @@
-<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName="MERC.BB" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" objectType="codex" order="1" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName="MERC.BB" objectType="codex" order="1" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
 <translation translation="...">
@@ -4131,8 +4131,8 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
-<lemma lemma="ⲥⲟⲃⲕ">
+<pos pos="VSTAT">
+<lemma lemma="ⲥⲃⲟⲕ">
 <orig orig="ⲥⲟⲃⲕ">
 <norm norm="ⲥⲟⲃⲕ">
 ⲥⲟⲃⲕ
@@ -5926,7 +5926,7 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
+<pos pos="V_PPERO">
 <lemma lemma="ϣⲓ">
 <orig orig="ϣⲓⲧ">
 <norm norm="ϣⲓⲧ">
@@ -6001,7 +6001,7 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
+<pos pos="V_PPERO">
 <lemma lemma="ⲁⲁⲧ">
 <orig orig="ⲁⲁⲧ">
 <norm norm="ⲁⲁⲧ">
@@ -6299,20 +6299,11 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="ART">
-<lemma lemma="ⲡ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-ⲛ
-</norm>
-</orig>
-</lemma>
-</pos>
-<pos pos="N">
-<lemma lemma="ϭⲓ">
-<orig orig="ϭⲓ">
-<norm norm="ϭⲓ">
-ϭⲓ
+<pos pos="PTC">
+<lemma lemma="ⲛϭⲓ">
+<orig orig="ⲛϭⲓ">
+<norm norm="ⲛϭⲓ">
+ⲛϭⲓ
 </norm>
 </orig>
 </lemma>
@@ -6540,8 +6531,8 @@
 </pos>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲉⲩⲡⲟ">
-<norm_group norm_group="ⲛⲉⲩⲡⲟ">
+<orig_group orig_group="ⲛⲉⲩⲡⲟⲗⲩⲧⲉⲩⲉ">
+<norm_group norm_group="ⲛⲉⲩⲡⲟⲗⲓⲧⲉⲩⲉ">
 <pos pos="CPRET">
 <lemma lemma="ⲛⲉⲣⲉ">
 <orig orig="ⲛⲉ">
@@ -6561,23 +6552,12 @@
 </lemma>
 </pos>
 <pos pos="V">
-<lemma lemma="ⲡⲟ">
-<orig orig="ⲡⲟ">
-<norm norm="ⲡⲟ">
-ⲡⲟ
-</norm>
-</orig>
-</lemma>
-</pos>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲗⲩⲧⲉⲩⲉ">
-<norm_group norm_group="ⲗⲩⲧⲉⲩⲉ">
-<pos pos="V">
-<lemma lemma="ⲗⲩⲧⲉⲩⲉ">
-<orig orig="ⲗⲩⲧⲉⲩⲉ">
-<norm norm="ⲗⲩⲧⲉⲩⲉ">
-ⲗⲩⲧⲉⲩⲉ
+<lemma lemma="ⲡⲟⲗⲓⲧⲉⲩⲉ">
+<orig orig="ⲡⲟⲗⲩⲧⲉⲩⲉ">
+<norm norm="ⲡⲟⲗⲓⲧⲉⲩⲉ">
+<lang lang="Greek">
+ⲡⲟⲗⲩⲧⲉⲩⲉ
+</lang>
 </norm>
 </orig>
 </lemma>
@@ -8256,8 +8236,8 @@
 </pos>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲛⲙⲟⲟϣ">
-<norm_group norm_group="ⲉⲛⲙⲟⲟϣ">
+<orig_group orig_group="ⲉⲛⲙⲟⲟϣⲉ">
+<norm_group norm_group="ⲉⲛⲙⲟⲟϣⲉ">
 <pos pos="PREP">
 <lemma lemma="ⲉ">
 <orig orig="ⲉ">
@@ -8277,10 +8257,10 @@
 </lemma>
 </pos>
 <pos pos="N">
-<lemma lemma="ⲙⲟⲟϣ">
-<orig orig="ⲙⲟⲟϣ">
-<norm norm="ⲙⲟⲟϣ">
-ⲙⲟⲟϣ
+<lemma lemma="ⲙⲟⲟϣⲉ">
+<orig orig="ⲙⲟⲟϣⲉ">
+<norm norm="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟϣⲉ
 </norm>
 </orig>
 </lemma>
@@ -8290,15 +8270,6 @@
 <orig_group orig_group="ⲉϩⲛⲛⲧⲟⲟⲩ">
 <norm_group norm_group="ⲉϩⲛⲛⲧⲟⲟⲩ">
 <pos pos="PREP">
-<lemma lemma="ⲉ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-ⲉ
-</norm>
-</orig>
-</lemma>
-</pos>
-<pos pos="ART">
 <lemma lemma="ϩⲛ">
 <orig orig="ϩⲛ">
 <norm norm="ϩⲛ">
@@ -8307,6 +8278,8 @@
 </orig>
 </lemma>
 </pos>
+</norm_group>
+</orig_group>
 <pos pos="PPERI">
 <lemma lemma="ⲛⲧⲟⲟⲩ">
 <orig orig="ⲛⲧⲟⲟⲩ">
@@ -8316,8 +8289,6 @@
 </orig>
 </lemma>
 </pos>
-</norm_group>
-</orig_group>
 <orig_group orig_group="ⲧⲏⲣⲟⲩ">
 <norm_group norm_group="ⲧⲏⲣⲟⲩ">
 <pos pos="IMOD">
@@ -8469,11 +8440,20 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="EXIST">
-<lemma lemma="ϣⲁⲛ">
-<orig orig="ϣⲁⲛ">
-<norm norm="ϣⲁⲛ">
+<pos pos="AAOR">
+<lemma lemma="ϣⲁⲣⲉ">
+<orig orig="ϣⲁ">
+<norm norm="ϣⲁ">
 ϣⲁⲛ
+</norm>
+</orig>
+</lemma>
+</pos>
+<pos pos="PPERS">
+<lemma lemma="ⲛ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+ⲛ
 </norm>
 </orig>
 </lemma>
@@ -8513,7 +8493,7 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉⲛⲉⲥⲛⲏⲩ">
 <norm_group norm_group="ⲛⲧⲉⲛⲉⲥⲛⲏⲩ">
-<pos pos="PREP">
+<pos pos="ACONJ">
 <lemma lemma="ⲛⲧⲉ">
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
@@ -12666,20 +12646,29 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="PPOS">
-<lemma lemma="ⲡⲉⲧⲛ">
-<orig orig="ⲛⲉⲧⲛ">
-<norm norm="ⲛⲉⲧⲛ">
-ⲛⲉⲧⲛ
+<pos pos="ART">
+<lemma lemma="ⲡ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</lemma>
+</pos>
+<pos pos="CREL">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
+ⲉⲧ
 </norm>
 </orig>
 </lemma>
 </pos>
 <pos pos="N">
-<lemma lemma="ⲁϣⲱ">
-<orig orig="ⲁϣⲱ">
-<norm norm="ⲁϣⲱ">
-ⲁϣⲱ
+<lemma lemma="ⲛⲁϣⲉ">
+<orig orig="ⲛⲁϣⲱ">
+<norm norm="ⲛⲁϣⲱ">
+ⲛⲁϣⲱ
 </norm>
 </orig>
 </lemma>
@@ -13084,7 +13073,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲩⲏⲏⲡ">
-<norm_group norm_group="ⲉⲩⲏⲏⲡ">
+<norm_group norm_group="ⲉⲩⲏⲡ">
 <pos pos="CCIRC">
 <lemma lemma="ⲉⲣⲉ">
 <orig orig="ⲉ">
@@ -13103,10 +13092,10 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
-<lemma lemma="ⲏⲏⲡ">
+<pos pos="VSTAT">
+<lemma lemma="ⲱⲡ">
 <orig orig="ⲏⲏⲡ">
-<norm norm="ⲏⲏⲡ">
+<norm norm="ⲏⲡ">
 ⲏⲏⲡ
 </norm>
 </orig>
@@ -13261,10 +13250,10 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
-<lemma lemma="ⲏⲏⲡ">
+<pos pos="VSTAT">
+<lemma lemma="ⲱⲡ">
 <orig orig="ⲏⲏⲡ">
-<norm norm="ⲏⲏⲡ">
+<norm norm="ⲏⲡ">
 ⲏⲏⲡ
 </norm>
 </orig>
@@ -13294,53 +13283,31 @@
 </pos>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲛⲛⲉ">
-<norm_group norm_group="ⲙⲛⲛⲉ">
+<orig_group orig_group="ⲙⲛⲛⲉⲧⲛϣⲏⲣⲉ">
+<norm_group norm_group="ⲙⲛⲛⲉⲧⲛϣⲏⲣⲉ">
 <pos pos="PREP">
-<lemma lemma="ⲛ">
-<orig orig="ⲙ">
-<norm norm="ⲙ">
-ⲙ
+<lemma lemma="ⲙⲛ">
+<orig orig="ⲙⲛ">
+<norm norm="ⲙⲛ">
+ⲙⲛ
 </norm>
 </orig>
 </lemma>
 </pos>
-<pos pos="ART">
-<lemma lemma="ⲡ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-ⲛ
-</norm>
-</orig>
-</lemma>
-</pos>
-<pos pos="CPRET">
-<lemma lemma="ⲛⲉⲣⲉ">
-<orig orig="ⲛⲉ">
-<norm norm="ⲛⲉ">
-ⲛⲉ
-</norm>
-</orig>
-</lemma>
-</pos>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲧⲛϣⲏⲣⲉ">
-<norm_group norm_group="ⲧⲛϣⲏⲣⲉ">
-<pos pos="ART">
-<lemma lemma="ⲡ">
-<orig orig="ⲧ">
-<norm norm="ⲧ">
-ⲧ
+<pos pos="PPOS">
+<lemma lemma="ⲡⲉⲧⲛ">
+<orig orig="ⲛⲉⲧⲛ">
+<norm norm="ⲛⲉⲧⲛ">
+ⲛⲉⲧⲛ
 </norm>
 </orig>
 </lemma>
 </pos>
 <pos pos="N">
-<lemma lemma="ⲛϣⲏⲣⲉ">
-<orig orig="ⲛϣⲏⲣⲉ">
-<norm norm="ⲛϣⲏⲣⲉ">
-ⲛϣⲏⲣⲉ
+<lemma lemma="ϣⲏⲣⲉ">
+<orig orig="ϣⲏⲣⲉ">
+<norm norm="ϣⲏⲣⲉ">
+ϣⲏⲣⲉ
 </norm>
 </orig>
 </lemma>
@@ -13542,20 +13509,11 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲁϫⲱ">
 <norm_group norm_group="ⲛⲧⲁϫⲱ">
-<pos pos="ACONJ">
-<lemma lemma="ⲛⲧⲉ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-ⲛ
-</norm>
-</orig>
-</lemma>
-</pos>
-<pos pos="PPERS">
-<lemma lemma="ⲁⲛⲟⲕ">
-<orig orig="ⲧⲁ">
-<norm norm="ⲧⲁ">
-ⲧⲁ
+<pos pos="ACONJ_PPERS">
+<lemma lemma="ⲛⲧⲉ_ⲁⲛⲟⲕ">
+<orig orig="ⲛⲧⲁ">
+<norm norm="ⲛⲧⲁ">
+ⲛⲧⲁ
 </norm>
 </orig>
 </lemma>
@@ -14371,20 +14329,11 @@
 </orig_group>
 <orig_group orig_group="ⲁϫⲉⲡϣⲁϫⲉ">
 <norm_group norm_group="ⲁϫⲉⲡϣⲁϫⲉ">
-<pos pos="APST">
-<lemma lemma="ⲁ">
-<orig orig="ⲁ">
-<norm norm="ⲁ">
-ⲁ
-</norm>
-</orig>
-</lemma>
-</pos>
-<pos pos="CONJ">
-<lemma lemma="ϫⲉ">
-<orig orig="ϫⲉ">
-<norm norm="ϫⲉ">
-ϫⲉ
+<pos pos="VIMP">
+<lemma lemma="ⲁϫⲉ">
+<orig orig="ⲁϫⲉ">
+<norm norm="ⲁϫⲉ">
+ⲁϫⲉ
 </norm>
 </orig>
 </lemma>
@@ -16080,8 +16029,8 @@
 </pos>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲱⲱϥⲟⲛ">
-<norm_group norm_group="ϩⲱⲱϥⲟⲛ">
+<orig_group orig_group="ϩⲱⲱϥ">
+<norm_group norm_group="ϩⲱⲱϥ">
 <pos pos="IMOD">
 <lemma lemma="ϩⲱⲱ">
 <orig orig="ϩⲱⲱ">
@@ -16092,10 +16041,23 @@
 </lemma>
 </pos>
 <pos pos="N">
-<lemma lemma="ϥⲟⲛ">
-<orig orig="ϥⲟⲛ">
-<norm norm="ϥⲟⲛ">
-ϥⲟⲛ
+<lemma lemma="ϥ">
+<orig orig="ϥ">
+<norm norm="ϥ">
+ϥ
+</norm>
+</orig>
+</lemma>
+</pos>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<pos pos="ADV">
+<lemma lemma="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm norm="ⲟⲛ">
+ⲟⲛ
 </norm>
 </orig>
 </lemma>
