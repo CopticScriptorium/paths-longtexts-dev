@@ -1,4 +1,4 @@
-<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName="MERC.BB" objectType="codex" order="1" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS, Orlandi (1975)" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" idno="M601" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" msName="MERC.BB" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." objectType="codex" order="1" origDate="975" origDate_notAfter="1000" origDate_notBefore="951" origDate_precision="medium" origPlace="Monastery of the Archangel Michael at Phantoou" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" placeName="Hamuli" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="The Morgan Library and Museum" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0256.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="-" version_n="3.1.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
 <translation translation="...">
@@ -8278,8 +8278,6 @@
 </orig>
 </lemma>
 </pos>
-</norm_group>
-</orig_group>
 <pos pos="PPERI">
 <lemma lemma="ⲛⲧⲟⲟⲩ">
 <orig orig="ⲛⲧⲟⲟⲩ">
@@ -8289,6 +8287,8 @@
 </orig>
 </lemma>
 </pos>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲧⲏⲣⲟⲩ">
 <norm_group norm_group="ⲧⲏⲣⲟⲩ">
 <pos pos="IMOD">
@@ -16780,11 +16780,20 @@
 </orig>
 </lemma>
 </pos>
+<pos pos="N">
+<lemma lemma="ϫⲟⲉⲓⲥ">
+<orig orig="ϫ︤ⲥ︥">
+<norm norm="ϫⲥ">
+ϫ︤ⲥ︥
+</norm>
+</orig>
+</lemma>
+</pos>
 <pos pos="V">
-<lemma lemma="ϫⲥⲧⲁϩⲙⲉ">
-<orig orig="ϫ︤ⲥ︥ⲧⲁϩⲙⲉ">
-<norm norm="ϫⲥⲧⲁϩⲙⲉ">
-ϫ︤ⲥ︥ⲧⲁϩⲙⲉ
+<lemma lemma="ⲧⲁϩⲙⲉ">
+<orig orig="ⲧⲁϩⲙⲉ">
+<norm norm="ⲧⲁϩⲙⲉ">
+ⲧⲁϩⲙⲉ
 </norm>
 </orig>
 </lemma>
@@ -17613,10 +17622,19 @@
 </lemma>
 </pos>
 <pos pos="V">
-<lemma lemma="ⲧⲁⲩⲟⲟϥ">
-<orig orig="ⲧⲁⲩⲟⲟϥ">
-<norm norm="ⲧⲁⲩⲟⲟϥ">
-ⲧⲁⲩⲟⲟϥ
+<lemma lemma="ⲧⲁⲩⲟⲟ">
+<orig orig="ⲧⲁⲩⲟⲟ">
+<norm norm="ⲧⲁⲩⲟⲟ">
+ⲧⲁⲩⲟⲟ
+</norm>
+</orig>
+</lemma>
+</pos>
+<pos pos="PPERO">
+<lemma lemma="ϥ">
+<orig orig="ϥ">
+<norm norm="ϥ">
+ϥ
 </norm>
 </orig>
 </lemma>
@@ -21886,20 +21904,20 @@
 </orig_group>
 <orig_group orig_group="ⲉⲧⲉⲕⲛⲁⲟⲩⲱϩ">
 <norm_group norm_group="ⲉⲧⲉⲕⲛⲁⲟⲩⲱϩ">
-<pos pos="PREP">
-<lemma lemma="ⲉ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-ⲉ
+<pos pos="CREL">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<orig orig="ⲉⲧⲉ">
+<norm norm="ⲉⲧⲉ">
+ⲉⲧⲉ
 </norm>
 </orig>
 </lemma>
 </pos>
-<pos pos="PPOS">
-<lemma lemma="ⲡⲉⲕ">
-<orig orig="ⲧⲉⲕ">
-<norm norm="ⲧⲉⲕ">
-ⲧⲉⲕ
+<pos pos="PPERS">
+<lemma lemma="ⲛⲧⲟⲕ">
+<orig orig="ⲕ">
+<norm norm="ⲕ">
+ⲕ
 </norm>
 </orig>
 </lemma>
