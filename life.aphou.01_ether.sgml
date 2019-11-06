@@ -1,7 +1,7 @@
-<meta annotation="Caroline Schroeder, Lance Martin, Amir Zeldes" author="unknown" collection="-" Coptic_edition="-" corpus="life.aphou" country="Egypt" document_cts_urn="-" idno="Museo Egizio 6300" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" next="-optional but recommended-" note="Dates are based on the palaeographical and codicological criteria of PATHS" objectType="codex" order="-optional but recommended-" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" pages_from="-" pages_to="-" parsing="automatic" PATHS_CLM_ID="47" placeName="This" previous="-optional but recommended-" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum, Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou" translation="none" Trismegistos="108414" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" collection="-" Coptic_edition="Rossi (1885) fasc. 3" corpus="life.aphou" country="Egypt" document_cts_urn="-" idno="6300" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" next="-optional but recommended-" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's editions" objectType="codex" order="01" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" pages_from="-" pages_to="-" parsing="automatic" paths.manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" placeName="This" previous="-optional but recommended-" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 1" translation="none" Trismegistos="108414" version_date="-" version_n="3.1.0">
 <p p="p">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="0">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
 <pos pos="ART">
@@ -215,8 +215,8 @@
 </norm_group>
 </orig_group>
 </date_type>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="1">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <pos pos="PREP">
@@ -381,6 +381,8 @@
 </norm_group>
 </orig_group>
 </roleName_type>
+</chapter_n>
+<chapter_n chapter_n="2">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <pos pos="PDEM">
@@ -499,6 +501,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="3">
 <orig_group orig_group="ⲉⲩⲙⲟⲩⲧⲉ">
 <norm_group norm_group="ⲉⲩⲙⲟⲩⲧⲉ">
 <pos pos="CCIRC">
@@ -636,8 +640,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ϣⲟⲣⲡ">
 <norm_group norm_group="ϣⲟⲣⲡ">
 <pos pos="ADV">
@@ -831,8 +833,6 @@
 </norm_group>
 </orig_group>
 </roleName_type>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <pos pos="PDEM">
@@ -1002,10 +1002,8 @@
 </norm_group>
 </orig_group>
 </roleName_type>
-</lb>
 </translation>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲁⲛⲁⲥⲧⲣⲉⲫⲉ">
 <norm_group norm_group="ⲁϥⲁⲛⲁⲥⲧⲣⲉⲫⲉ">
 <pos pos="APST">
@@ -1111,10 +1109,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
+</chapter_n>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="4">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲧⲣⲉⲩⲛⲕⲟⲧⲕ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲧⲣⲉⲩⲛⲕⲟⲧⲕ">
 <pos pos="PREP">
@@ -1528,10 +1526,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="5">
 <orig_group orig_group="ⲁϥⲣⲁⲛⲁϥ">
 <norm_group norm_group="ⲁϥⲣⲁⲛⲁϥ">
 <pos pos="APST">
@@ -1706,8 +1704,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲕⲁⲁϥ">
 <norm_group norm_group="ⲁϥⲕⲁⲁϥ">
 <pos pos="APST">
@@ -2143,10 +2139,10 @@
 </date_type>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="6">
 <orig_group orig_group="ⲧⲉϥⲧⲣⲟⲫⲏ">
 <norm_group norm_group="ⲧⲉϥⲧⲣⲟⲫⲏ">
 <pos pos="PPOS">
@@ -2326,8 +2322,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="7">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -2558,8 +2554,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ϫⲓⲛⲧⲁⲩⲥⲟⲧϥ">
 <norm_group norm_group="ϫⲓⲛⲧⲁⲩⲥⲟⲧϥ">
 <pos pos="CONJ">
@@ -2810,10 +2804,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="8">
 <orig_group orig_group="ⲛⲉϣⲁϥⲁⲡⲁⲛⲧⲁ">
 <norm_group norm_group="ⲛⲉϣⲁϥⲁⲡⲁⲛⲧⲁ">
 <pos pos="CPRET">
@@ -3144,8 +3138,8 @@
 </norm_group>
 </orig_group>
 </date_type>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="9">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -3465,8 +3459,6 @@
 </orig_group>
 </placeName_ref>
 </placeName_type>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -3625,8 +3617,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="10">
 <orig_group orig_group="ⲛⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲛⲉϥϣⲟⲟⲡ">
 <pos pos="CPRET">
@@ -3786,8 +3778,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="11">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -3935,8 +3927,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <pos pos="PDEM">
@@ -4208,8 +4198,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲩϯⲙⲧⲟⲛ">
 <norm_group norm_group="ⲉⲩϯⲙⲧⲟⲛ">
 <pos pos="CCIRC">
@@ -4521,8 +4509,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <pos pos="ADV">
@@ -4691,8 +4677,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="12">
 <orig_group orig_group="ϩⲛⲧⲉⲡⲣⲱ">
 <norm_group norm_group="ϩⲛⲧⲉⲡⲣⲱ">
 <pos pos="PREP">
@@ -5112,8 +5098,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="13">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -5237,8 +5223,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="14">
 <orig_group orig_group="ⲉϥϣⲁⲛϣⲱⲛⲉ">
 <norm_group norm_group="ⲉϥϣⲁⲛϣⲱⲛⲉ">
 <pos pos="ACOND_PPERS">
@@ -5722,8 +5708,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -5888,8 +5872,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <pos pos="PREP">
@@ -6057,8 +6039,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲃⲟⲗϫⲉ">
 <norm_group norm_group="ⲉⲃⲟⲗϫⲉ">
 <pos pos="ADV">
@@ -6198,8 +6178,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ϫⲉⲉⲧⲃⲉ">
 <norm_group norm_group="ϫⲉⲉⲧⲃⲉ">
 <pos pos="CONJ">
@@ -6323,8 +6301,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="15">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <pos pos="PPERI">
@@ -6428,8 +6406,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ϫⲉⲁⲛⲟⲕ">
 <norm_group norm_group="ϫⲉⲁⲛⲟⲕ">
 <pos pos="CONJ">
@@ -6502,6 +6478,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="16">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
 <pos pos="CONJ">
@@ -6805,9 +6783,7 @@
 </quote_ref>
 </quote_type>
 </translation>
-</lb>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲁⲓⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁⲓⲥⲱⲧⲙ">
 <pos pos="APST">
@@ -6954,8 +6930,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -7128,8 +7102,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉⲛⲥⲱⲧⲏⲣ">
 <norm_group norm_group="ⲡⲉⲛⲥⲱⲧⲏⲣ">
 <pos pos="PPOS">
@@ -7448,8 +7420,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="17">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <pos pos="CONJ">
@@ -7673,10 +7645,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="18">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <pos pos="APST">
@@ -7948,10 +7920,10 @@
 </norm_group>
 </orig_group>
 </date_type>
-</lb>
+</chapter_n>
 </translation>
+<chapter_n chapter_n="19">
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁϥⲥⲱⲧⲙ">
 <pos pos="APST">
@@ -8253,8 +8225,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <pos pos="CONJ">
@@ -8450,8 +8420,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
 <pos pos="CONJ">
@@ -8991,10 +8959,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲡϣⲁϫⲉ">
 <norm_group norm_group="ⲡϣⲁϫⲉ">
 <pos pos="ART">
@@ -9250,6 +9216,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="20">
 <orig_group orig_group="ⲁϥⲣⲡⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲁϥⲣⲡⲙⲉⲉⲩⲉ">
 <pos pos="APST">
@@ -9366,6 +9334,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="21">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -9669,12 +9639,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <pos pos="APREC">
@@ -10074,10 +10042,10 @@
 </norm_group>
 </orig_group>
 </rs_type>
-</lb>
 </translation>
+</chapter_n>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="22">
 <orig_group orig_group="ⲁϥⲁϩⲉ">
 <norm_group norm_group="ⲁϥⲁϩⲉ">
 <pos pos="APST">
@@ -10523,8 +10491,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="23">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <pos pos="PREP">
@@ -10847,6 +10815,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="24">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -11197,8 +11167,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="25">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <pos pos="PPERI">
@@ -11434,8 +11404,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <pos pos="PREP">
@@ -11708,12 +11676,11 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲁϩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲁϩⲉ">
 <pos pos="APREC">
@@ -11899,8 +11866,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -12139,8 +12104,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <pos pos="VBD">
@@ -12216,8 +12179,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -12484,8 +12445,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <pos pos="PREP">
@@ -12897,8 +12856,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <persName_type persName_type="archi_bishop">
 <orig_group orig_group="ⲑⲉⲟⲫⲓⲗⲟⲥ">
 <norm_group norm_group="ⲑⲉⲟⲫⲓⲗⲟⲥ">
@@ -13282,8 +13239,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -13573,8 +13528,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲡⲉⲓⲇⲏ">
 <norm_group norm_group="ⲉⲡⲉⲓⲇⲏ">
 <pos pos="CONJ">
@@ -13808,10 +13761,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <pos pos="PPERI">
@@ -14131,8 +14082,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲧⲁⲓ">
 <norm_group norm_group="ⲧⲁⲓ">
 <pos pos="PDEM">
@@ -14331,8 +14280,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲕⲉⲗⲉⲩⲉ">
 <norm_group norm_group="ⲁϥⲕⲉⲗⲉⲩⲉ">
 <pos pos="APST">
@@ -14560,12 +14507,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲁⲣⲭⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲁⲣⲭⲉⲓ">
 <pos pos="APREC">
@@ -14722,8 +14667,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <pos pos="PREP">
@@ -15195,8 +15138,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -15518,8 +15459,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
 <pos pos="VBD">
@@ -15801,8 +15740,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -16172,8 +16109,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -16623,8 +16558,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -16713,8 +16646,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <pos pos="CONJ">
@@ -17127,8 +17058,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -17791,8 +17720,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -18133,8 +18060,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉϣⲁϥϩⲙⲟⲟⲥ">
 <norm_group norm_group="ⲉϣⲁϥϩⲙⲟⲟⲥ">
 <pos pos="CCIRC">
@@ -18420,8 +18345,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲫⲟⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲫⲟⲩ">
 <pos pos="VBD">
@@ -18732,8 +18655,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲛⲓⲟⲩⲇⲁⲓ">
 <norm_group norm_group="ⲛⲓⲟⲩⲇⲁⲓ">
 <pos pos="ART">
@@ -19304,10 +19225,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -20212,8 +20131,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -20273,12 +20190,10 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
 <pos pos="VBD">
@@ -20725,10 +20640,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥϫⲟⲟⲥ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥϫⲟⲟⲥ">
 <pos pos="ART">
@@ -21370,8 +21283,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲉⲟⲟⲩ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲉⲟⲟⲩ">
 <pos pos="PREP">
@@ -21890,8 +21801,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲛⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲉⲛⲙⲉⲉⲩⲉ">
 <pos pos="PREP">
@@ -22464,8 +22373,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <pos pos="CONJ">
@@ -22857,8 +22764,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -23239,8 +23144,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲙⲁⲗⲗⲟⲛ">
 <norm_group norm_group="ⲙⲁⲗⲗⲟⲛ">
 <pos pos="ADV">
@@ -23827,8 +23730,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <pos pos="CONJ">
@@ -24387,8 +24288,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲉⲧⲃⲉⲧⲇⲓⲁⲫⲟⲣⲁ">
 <norm_group norm_group="ⲉⲧⲃⲉⲧⲇⲓⲁⲫⲟⲣⲁ">
 <pos pos="PREP">
@@ -24654,8 +24553,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ⲙⲛϣϭⲟⲙ">
 <norm_group norm_group="ⲙⲛϣϭⲟⲙ">
 <pos pos="EXIST">
@@ -25133,12 +25030,10 @@
 </orig_group>
 </quote_ref>
 </quote_type>
-</lb>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <pos pos="APREC">
@@ -25443,8 +25338,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
 <orig_group orig_group="ϫⲉⲟⲛⲧⲱⲥ">
 <norm_group norm_group="ϫⲉⲟⲛⲧⲱⲥ">
 <pos pos="CONJ">
@@ -25638,10 +25531,8 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 <translation translation="...">
-<lb lb="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <pos pos="PPERI">
@@ -25907,7 +25798,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</lb>
 </translation>
 </p>
 </meta>
