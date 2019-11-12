@@ -11681,6 +11681,7 @@
 </p>
 <p p="p">
 <translation translation="...">
+<chapter_n chapter_n="26">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲁϩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲁϩⲉ">
 <pos pos="APREC">
@@ -11866,6 +11867,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="27">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -12179,6 +12182,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="28">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -12678,6 +12683,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="29">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <pos pos="CONJ">
@@ -12856,6 +12863,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="30">
 <persName_type persName_type="archi_bishop">
 <orig_group orig_group="ⲑⲉⲟⲫⲓⲗⲟⲥ">
 <norm_group norm_group="ⲑⲉⲟⲫⲓⲗⲟⲥ">
@@ -13239,6 +13248,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="31">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -14280,6 +14291,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="32">
 <orig_group orig_group="ⲁϥⲕⲉⲗⲉⲩⲉ">
 <norm_group norm_group="ⲁϥⲕⲉⲗⲉⲩⲉ">
 <pos pos="APST">
@@ -14507,10 +14520,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
+<chapter_n chapter_n="33">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲁⲣⲭⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲁⲣⲭⲉⲓ">
 <pos pos="APREC">
@@ -15138,6 +15153,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="34">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -15459,6 +15476,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="35">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
 <pos pos="VBD">
@@ -15740,6 +15759,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="36">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -15976,6 +15997,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="37">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <pos pos="CONJ">
@@ -16109,6 +16132,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="38">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -16558,6 +16583,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="39">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -16635,17 +16662,32 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
-<lemma lemma="ⲙⲉⲅⲉⲛⲟⲓⲧⲟ">
-<orig orig="ⲙⲉⲅⲉⲛⲟⲓⲧⲟ">
-<norm norm="ⲙⲉⲅⲉⲛⲟⲓⲧⲟ">
-ⲙⲉⲅⲉⲛⲟⲓⲧⲟ
+<pos pos="FM">
+<lemma lemma="ⲙⲏ">
+<orig orig="ⲙⲉ">
+<norm norm="ⲙⲉ">
+<lang lang="Greek">
+ⲙⲉ
+</lang>
+</norm>
+</orig>
+</lemma>
+</pos>
+<pos pos="FM">
+<lemma lemma="ⲅⲉⲛⲟⲓⲧⲟ">
+<orig orig="ⲅⲉⲛⲟⲓⲧⲟ">
+<norm norm="ⲅⲉⲛⲟⲓⲧⲟ">
+<lang lang="Greek">
+ⲅⲉⲛⲟⲓⲧⲟ
+</lang>
 </norm>
 </orig>
 </lemma>
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="40">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <pos pos="CONJ">
@@ -17058,6 +17100,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="41">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -17720,6 +17764,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="42">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -18345,6 +18391,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="43">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲫⲟⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲫⲟⲩ">
 <pos pos="VBD">
@@ -18655,6 +18703,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="44">
 <orig_group orig_group="ⲛⲓⲟⲩⲇⲁⲓ">
 <norm_group norm_group="ⲛⲓⲟⲩⲇⲁⲓ">
 <pos pos="ART">
@@ -19225,8 +19275,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
 </translation>
 <translation translation="...">
+<chapter_n chapter_n="45">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -19488,6 +19540,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="46">
 <orig_group orig_group="ϩⲙⲡⲧⲣⲉⲛⲧⲁⲗⲟϥ">
 <norm_group norm_group="ϩⲙⲡⲧⲣⲉⲛⲧⲁⲗⲟϥ">
 <pos pos="PREP">
@@ -20159,20 +20213,11 @@
 </orig_group>
 <orig_group orig_group="ⲧⲙⲡⲓⲥⲧⲉⲩⲉ">
 <norm_group norm_group="ⲧⲙⲡⲓⲥⲧⲉⲩⲉ">
-<pos pos="COP">
-<lemma lemma="ⲧ">
-<orig orig="ⲧ">
-<norm norm="ⲧ">
-ⲧ
-</norm>
-</orig>
-</lemma>
-</pos>
-<pos pos="PREP">
-<lemma lemma="ⲛ">
-<orig orig="ⲙ">
-<norm norm="ⲙ">
-ⲙ
+<pos pos="NEG">
+<lemma lemma="ⲧⲙ">
+<orig orig="ⲧⲙ">
+<norm norm="ⲧⲙ">
+ⲧⲙ
 </norm>
 </orig>
 </lemma>
@@ -20190,10 +20235,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
 </translation>
 </p>
 <p p="p">
 <translation translation="...">
+<chapter_n chapter_n="47">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
 <pos pos="VBD">
@@ -20640,8 +20687,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
 </translation>
 <translation translation="...">
+<chapter_n chapter_n="48">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥϫⲟⲟⲥ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥϫⲟⲟⲥ">
 <pos pos="ART">
@@ -20856,6 +20905,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="49">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <pos pos="PPERI">
@@ -21283,6 +21334,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="50">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲉⲟⲟⲩ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲉⲟⲟⲩ">
 <pos pos="PREP">
@@ -21801,6 +21854,8 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
+<chapter_n chapter_n="51">
 <orig_group orig_group="ⲉⲛⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲉⲛⲙⲉⲉⲩⲉ">
 <pos pos="PREP">
@@ -22204,6 +22259,7 @@
 </pos>
 </norm_group>
 </orig_group>
+</chapter_n>
 <orig_group orig_group="ϩⲁⲙⲁ">
 <norm_group norm_group="ϩⲁⲙⲁ">
 <pos pos="PREP">
