@@ -1,7 +1,7 @@
-<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Rossi (1885) fasc. 3" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:0-61" idno="63000" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" next="-optional but recommended-" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's editions" objectType="codex" order="01" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" pages_from="-" pages_to="-" parsing="automatic" paths.manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" placeName="This" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 1" translation="none" Trismegistos="108414" version_date="-" version_n="3.1.0">
-<translation translation="...">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:0-61" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" next="urn:cts:copticLit:lives.aphou.paths_ed:62-132" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="01" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths.manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" placeName="This" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 1" translation="none" Trismegistos="108414" version_date="-" version_n="3.1.0">
 <p_source p_source="PATHS">
 <chapter_n chapter_n="0">
+<translation translation="...">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
 <pos pos="ART">
@@ -215,10 +215,12 @@
 </norm_group>
 </orig_group>
 </date_type>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <pos pos="PREP">
@@ -383,8 +385,10 @@
 </norm_group>
 </orig_group>
 </roleName_type>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <pos pos="PDEM">
@@ -503,8 +507,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲉⲩⲙⲟⲩⲧⲉ">
 <norm_group norm_group="ⲉⲩⲙⲟⲩⲧⲉ">
 <pos pos="CCIRC">
@@ -1009,8 +1015,6 @@
 </orig_group>
 </roleName_type>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲁⲛⲁⲥⲧⲣⲉⲫⲉ">
 <norm_group norm_group="ⲁϥⲁⲛⲁⲥⲧⲣⲉⲫⲉ">
@@ -1120,9 +1124,9 @@
 </p_source>
 </translation>
 </chapter_n>
-<translation translation="...">
 <p_source p_source="PATHS">
 <chapter_n chapter_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲧⲣⲉⲩⲛⲕⲟⲧⲕ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲧⲣⲉⲩⲛⲕⲟⲧⲕ">
 <pos pos="PREP">
@@ -1536,11 +1540,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
-<translation translation="...">
 <chapter_n chapter_n="5">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲣⲁⲛⲁϥ">
 <norm_group norm_group="ⲁϥⲣⲁⲛⲁϥ">
@@ -2154,11 +2158,11 @@
 </norm_group>
 </orig_group>
 </p_source>
-</chapter_n>
 </translation>
-<translation translation="...">
+</chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="6">
+<translation translation="...">
 <orig_group orig_group="ⲧⲉϥⲧⲣⲟⲫⲏ">
 <norm_group norm_group="ⲧⲉϥⲧⲣⲟⲫⲏ">
 <pos pos="PPOS">
@@ -2338,9 +2342,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="7">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -2825,11 +2831,11 @@
 </norm_group>
 </orig_group>
 </p_source>
-</chapter_n>
 </translation>
-<translation translation="...">
+</chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="8">
+<translation translation="...">
 <orig_group orig_group="ⲛⲉϣⲁϥⲁⲡⲁⲛⲧⲁ">
 <norm_group norm_group="ⲛⲉϣⲁϥⲁⲡⲁⲛⲧⲁ">
 <pos pos="CPRET">
@@ -3160,9 +3166,11 @@
 </norm_group>
 </orig_group>
 </date_type>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="9">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -3644,9 +3652,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="10">
+<translation translation="...">
 <orig_group orig_group="ⲛⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲛⲉϥϣⲟⲟⲡ">
 <pos pos="CPRET">
@@ -3806,9 +3816,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="11">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -4714,9 +4726,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="12">
+<translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲡⲣⲱ">
 <norm_group norm_group="ϩⲛⲧⲉⲡⲣⲱ">
 <pos pos="PREP">
@@ -5136,10 +5150,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="13">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -5263,9 +5279,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="14">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲉϥϣⲁⲛϣⲱⲛⲉ">
 <norm_group norm_group="ⲉϥϣⲁⲛϣⲱⲛⲉ">
@@ -6352,8 +6370,10 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="15">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
@@ -6532,8 +6552,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="16">
+<translation translation="...">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
 <pos pos="CONJ">
@@ -6701,8 +6723,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</translation>
-<translation translation="...">
 <orig_group orig_group="ϫⲉⲁⲛⲟⲕ">
 <norm_group norm_group="ϫⲉⲁⲛⲟⲕ">
 <pos pos="CONJ">
@@ -6836,9 +6856,7 @@
 </orig_group>
 </quote_ref>
 </quote_type>
-</translation>
 </p_source>
-<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲓⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁⲓⲥⲱⲧⲙ">
@@ -7481,9 +7499,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="17">
+<translation translation="...">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <pos pos="CONJ">
@@ -7707,12 +7727,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <chapter_n chapter_n="18">
+<translation translation="...">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <pos pos="APST">
@@ -7984,9 +8004,9 @@
 </norm_group>
 </orig_group>
 </date_type>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
 <chapter_n chapter_n="19">
 <translation translation="...">
 <p_source p_source="PATHS">
@@ -9030,8 +9050,6 @@
 </norm_group>
 </orig_group>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲡϣⲁϫⲉ">
 <norm_group norm_group="ⲡϣⲁϫⲉ">
@@ -9288,8 +9306,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="20">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲣⲡⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲁϥⲣⲡⲙⲉⲉⲩⲉ">
 <pos pos="APST">
@@ -9406,8 +9426,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="21">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -9712,8 +9734,6 @@
 </norm_group>
 </orig_group>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
@@ -10117,9 +10137,9 @@
 </p_source>
 </translation>
 </chapter_n>
-<translation translation="...">
 <p_source p_source="PATHS">
 <chapter_n chapter_n="22">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲁϩⲉ">
 <norm_group norm_group="ⲁϥⲁϩⲉ">
 <pos pos="APST">
@@ -10565,10 +10585,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="23">
+<translation translation="...">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <pos pos="PREP">
@@ -10891,8 +10913,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="24">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -11243,9 +11267,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="25">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
@@ -11757,11 +11783,11 @@
 </norm_group>
 </orig_group>
 </p_source>
-</chapter_n>
 </translation>
-<translation translation="...">
+</chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="26">
+<translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲁϩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲁϩⲉ">
 <pos pos="APREC">
@@ -11947,9 +11973,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="27">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -12267,8 +12295,10 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="28">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -12771,8 +12801,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="29">
+<translation translation="...">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <pos pos="CONJ">
@@ -12951,10 +12983,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="30">
+<translation translation="...">
 <persName_type persName_type="archi_bishop">
 <orig_group orig_group="ⲑⲉⲟⲫⲓⲗⲟⲥ">
 <norm_group norm_group="ⲑⲉⲟⲫⲓⲗⲟⲥ">
@@ -13338,9 +13372,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="31">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -13867,8 +13903,6 @@
 </norm_group>
 </orig_group>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -14390,9 +14424,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="32">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲕⲉⲗⲉⲩⲉ">
 <norm_group norm_group="ⲁϥⲕⲉⲗⲉⲩⲉ">
 <pos pos="APST">
@@ -14620,11 +14656,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
-<translation translation="...">
 <chapter_n chapter_n="33">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲁⲣⲭⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲁⲣⲭⲉⲓ">
@@ -15256,9 +15292,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="34">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -15580,10 +15618,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="35">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
 <pos pos="VBD">
@@ -15623,8 +15663,6 @@
 </pos>
 </norm_group>
 </orig_group>
-</translation>
-<translation translation="...">
 <orig_group orig_group="ϫⲉⲁⲛⲟⲕ">
 <norm_group norm_group="ϫⲉⲁⲛⲟⲕ">
 <pos pos="CONJ">
@@ -15865,10 +15903,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="36">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -16105,8 +16145,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="37">
+<translation translation="...">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <pos pos="CONJ">
@@ -16240,10 +16282,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="38">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -16693,10 +16737,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="39">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -16798,10 +16844,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="40">
+<translation translation="...">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <pos pos="CONJ">
@@ -17214,10 +17262,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="41">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <pos pos="APST">
@@ -17880,9 +17930,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="42">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
@@ -18512,9 +18564,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="43">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲫⲟⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲫⲟⲩ">
 <pos pos="VBD">
@@ -18825,10 +18879,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="lb">
 <chapter_n chapter_n="44">
+<translation translation="...">
 <orig_group orig_group="ⲛⲓⲟⲩⲇⲁⲓ">
 <norm_group norm_group="ⲛⲓⲟⲩⲇⲁⲓ">
 <pos pos="ART">
@@ -19399,12 +19455,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <chapter_n chapter_n="45">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <pos pos="VBD">
@@ -19666,8 +19722,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="46">
+<translation translation="...">
 <orig_group orig_group="ϩⲙⲡⲧⲣⲉⲛⲧⲁⲗⲟϥ">
 <norm_group norm_group="ϩⲙⲡⲧⲣⲉⲛⲧⲁⲗⲟϥ">
 <pos pos="PREP">
@@ -20364,11 +20422,11 @@
 </norm_group>
 </orig_group>
 </p_source>
-</chapter_n>
 </translation>
-<translation translation="...">
+</chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="47">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
 <pos pos="VBD">
@@ -20815,12 +20873,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
-<translation translation="...">
 <p_source p_source="PATHS">
 <chapter_n chapter_n="48">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥϫⲟⲟⲥ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥϫⲟⲟⲥ">
 <pos pos="ART">
@@ -21035,8 +21093,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="49">
+<translation translation="...">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <pos pos="PPERI">
@@ -21464,10 +21524,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="50">
+<translation translation="...">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲉⲟⲟⲩ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲉⲟⲟⲩ">
 <pos pos="PREP">
@@ -21986,10 +22048,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="51">
+<translation translation="...">
 <orig_group orig_group="ⲉⲛⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲉⲛⲙⲉⲉⲩⲉ">
 <pos pos="PREP">
@@ -22393,7 +22457,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
+<chapter_n chapter_n="52">
+<translation translation="...">
 <orig_group orig_group="ϩⲁⲙⲁ">
 <norm_group norm_group="ϩⲁⲙⲁ">
 <pos pos="PREP">
@@ -22563,9 +22630,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
+</chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="53">
+<translation translation="...">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <pos pos="CONJ">
@@ -22715,8 +22785,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="54">
+<translation translation="...">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <pos pos="CONJ">
@@ -22856,8 +22928,10 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="55">
+<translation translation="...">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <pos pos="CONJ">
@@ -22961,10 +23035,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="56">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <pos pos="CONJ">
@@ -23345,10 +23421,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="57">
+<translation translation="...">
 <orig_group orig_group="ⲙⲁⲗⲗⲟⲛ">
 <norm_group norm_group="ⲙⲁⲗⲗⲟⲛ">
 <pos pos="ADV">
@@ -23935,10 +24013,12 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="58">
+<translation translation="...">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <pos pos="CONJ">
@@ -24497,9 +24577,11 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
 <chapter_n chapter_n="59">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲉⲧⲃⲉⲧⲇⲓⲁⲫⲟⲣⲁ">
 <norm_group norm_group="ⲉⲧⲃⲉⲧⲇⲓⲁⲫⲟⲣⲁ">
@@ -25246,10 +25328,10 @@
 </quote_ref>
 </quote_type>
 </p_source>
-</chapter_n>
 </translation>
-<translation translation="...">
+</chapter_n>
 <chapter_n chapter_n="60">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
@@ -25751,11 +25833,11 @@
 </norm_group>
 </orig_group>
 </p_source>
-</chapter_n>
 </translation>
-<translation translation="...">
+</chapter_n>
 <p_source p_source="PATHS">
 <chapter_n chapter_n="61">
+<translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <pos pos="PPERI">
@@ -26021,7 +26103,7 @@
 </pos>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 </p_source>
-</translation>
 </meta>
