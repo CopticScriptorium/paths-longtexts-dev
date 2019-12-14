@@ -1,7 +1,7 @@
-<meta annotation="PATHS, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Tito Orlandi, Paolo di Tamma, Opere, Roma CIM, 1988 " corpus="life.paul.tamma" country="Egypt" document_cts_urn="-" endnote="-optional-" Greek_source="-optional-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Paul of Tamma" msName="-" next="-optional but recommended-" note="-optional-" objectType="-" order="01" origDate="-optional but recommended-" origDate_notAfter="-optional but recommended-" origDate_notBefore="-optional but recommended-" origDate_precision="-optional-" origPlace="-" pages_from="-" pages_to="-" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" placeName="-" previous="-optional but recommended-" project="-" redundant="-" repository="-" segmentation="automatic" source="-optional-" source_info="-optional-" tagging="automatic" title="Life of Paul of Tamma" translation="-" Trismegistos="-" version_date="2019-09-30" version_n="3.0.0" witness="-optional-">
-<p p="p">
+<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Tito Orlandi, Paolo di Tamma, Opere, Roma CIM, 1988 " corpus="life.paul.tamma" country="Egypt" document_cts_urn="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Paul of Tamma" next="-optional but recommended-" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on paragraphs in PATHS edition." order="1" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Paul of Tamma part 1" translation="none" Trismegistos="none" version_date="-" version_n="3.1.0">
+<p_source p_source="PATHS">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
 <orig orig="ⲡ">
@@ -485,8 +485,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
 <orig orig="ⲥⲱⲧⲙ">
@@ -881,8 +881,8 @@
 </lemma>
 </norm>
 </orig>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig orig="ⲥⲟⲟⲩ">
 <norm norm="ⲥⲟⲟⲩ">
 <lemma lemma="ⲥⲟⲟⲩ">
@@ -1158,8 +1158,8 @@
 </norm_group>
 </orig_group>
 </date_type>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -1266,10 +1266,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -1414,8 +1414,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -1684,12 +1684,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -1970,8 +1970,8 @@
 </lemma>
 </norm>
 </orig>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1983,8 +1983,8 @@
 </lemma>
 </norm>
 </orig>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1999,8 +1999,8 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
 <orig_group orig_group="ϣⲱϣ">
 <norm_group norm_group="ϣⲱϣ">
@@ -2028,8 +2028,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2180,8 +2180,8 @@
 </roleName_type>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2512,8 +2512,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2784,8 +2784,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -3470,8 +3470,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <orig orig="ⲡ">
@@ -3779,8 +3779,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <orig orig="ⲡ">
@@ -4077,8 +4077,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <norm_group norm_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <orig orig="ⲉⲕⲉ">
@@ -4366,8 +4366,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -4694,8 +4694,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -4877,12 +4877,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥϫⲓ">
 <norm_group norm_group="ⲁϥϫⲓ">
 <orig orig="ⲁ">
@@ -5285,8 +5285,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6191,8 +6191,8 @@
 </lemma>
 </norm>
 </orig>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig orig="ϣⲁ">
 <norm norm="ϣⲁ">
 <lemma lemma="ϣⲁⲣⲉ">
@@ -6310,8 +6310,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <norm_group norm_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <orig orig="ⲙⲉ">
@@ -6814,8 +6814,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6959,8 +6959,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <norm_group norm_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <orig orig="ⲙⲉⲣⲉ">
@@ -7066,8 +7066,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥϥⲓ">
 <norm_group norm_group="ⲁϥϥⲓ">
 <orig orig="ⲁ">
@@ -7637,8 +7637,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -7899,8 +7899,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -8140,8 +8140,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -8362,8 +8362,8 @@
 </lemma>
 </norm>
 </orig>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -8828,8 +8828,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -9070,8 +9070,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -9673,12 +9673,12 @@
 </placeName_type>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -10076,8 +10076,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <orig orig="ϩⲛ">
@@ -10345,10 +10345,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -10692,8 +10692,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <norm_group norm_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <orig orig="ϫⲉ">
@@ -11113,8 +11113,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -11755,10 +11755,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -12033,8 +12033,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -12256,12 +12256,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲗⲁⲕⲙ">
 <norm_group norm_group="ⲗⲁⲕⲙ">
 <orig orig="ⲗⲁⲕⲙ">
@@ -12450,8 +12450,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲓⲥⲱ">
 <norm_group norm_group="ⲁⲓⲥⲱ">
 <orig orig="ⲁ">
@@ -12684,8 +12684,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲓ">
 <orig orig="ⲁⲛⲓ">
@@ -12905,8 +12905,8 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
 <orig_group orig_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
 <norm_group norm_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
@@ -12974,8 +12974,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲛⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁⲛⲥⲱⲧⲙ">
 <orig orig="ⲁ">
@@ -13373,8 +13373,8 @@
 </norm_group>
 </orig_group>
 </persName_type>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲕⲁⲗⲱⲥ">
 <norm_group norm_group="ⲕⲁⲗⲱⲥ">
 <orig orig="ⲕⲁⲗⲱⲥ">
@@ -13590,8 +13590,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲧⲉⲓ">
 <norm_group norm_group="ⲧⲉⲓ">
 <orig orig="ⲧⲉⲓ">
@@ -13680,10 +13680,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -13971,8 +13971,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥϫⲛⲟⲩϥ">
 <norm_group norm_group="ⲁϥϫⲛⲟⲩϥ">
 <orig orig="ⲁ">
@@ -14110,8 +14110,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -14208,8 +14208,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <orig orig="ⲁⲣⲓ">
@@ -14501,8 +14501,8 @@
 </norm_group>
 </orig_group>
 </date_type>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -14729,9 +14729,9 @@
 </norm_group>
 </orig_group>
 </date_type>
-</lb>
+</chapter_n>
 </translation>
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <translation translation="...">
 <orig_group orig_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
@@ -14810,8 +14810,8 @@
 </norm_group>
 </orig_group>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
@@ -15080,8 +15080,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -15386,8 +15386,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -15972,8 +15972,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16237,11 +16237,11 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
-</p>
-<p p="p">
-<lb lb="lb">
+</p_source>
+<p_source p_source="PATHS">
+<chapter_n chapter_n="lb">
 <translation translation="...">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -16686,9 +16686,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</lb>
+</chapter_n>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -16912,8 +16912,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -17183,8 +17183,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <orig orig="ⲡⲉⲛ">
@@ -17666,8 +17666,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲕⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲕⲥⲟⲟⲩⲛ">
 <orig orig="ⲕ">
@@ -17924,8 +17924,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -18064,8 +18064,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -18208,8 +18208,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -18634,10 +18634,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -19125,8 +19125,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -19329,12 +19329,12 @@
 </norm_group>
 </orig_group>
 </placeName_type>
-</lb>
+</chapter_n>
 </translation>
-</p>
-<p p="p">
+</p_source>
+<p_source p_source="PATHS">
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -19554,8 +19554,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -19740,8 +19740,8 @@
 </orig_group>
 </placeName_ref>
 </placeName_type>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ϩⲉ">
 <norm_group norm_group="ϩⲉ">
 <orig orig="ϩⲉ">
@@ -20115,8 +20115,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -20526,8 +20526,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -20783,8 +20783,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21028,8 +21028,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21167,8 +21167,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21279,10 +21279,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
 <translation translation="...">
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21455,8 +21455,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21557,8 +21557,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21736,8 +21736,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -22007,8 +22007,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -22210,8 +22210,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -22530,8 +22530,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
-<lb lb="lb">
+</chapter_n>
+<chapter_n chapter_n="lb">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
 <orig orig="ⲉϣⲱⲡⲉ">
@@ -22821,9 +22821,9 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb>
+</chapter_n>
 </translation>
-<lb lb="lb">
+<chapter_n chapter_n="lb">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -23037,6 +23037,6 @@
 </norm_group>
 </orig_group>
 </translation>
-</lb>
-</p>
+</chapter_n>
+</p_source>
 </meta>
