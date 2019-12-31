@@ -2,6 +2,7 @@
 <ch_n ch_n="1">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
 <orig orig="ⲡ">
@@ -485,9 +486,11 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <v_n v_n="2">
+<translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
@@ -896,8 +899,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -1160,10 +1165,12 @@
 </norm_group>
 </orig_group>
 </date_type>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -1270,10 +1277,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="5">
+<translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -1418,10 +1427,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="6">
+<translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -1690,12 +1701,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
 <ch_n ch_n="2">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -1976,10 +1989,12 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1991,12 +2006,14 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
 <ch_n ch_n="3">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -2036,10 +2053,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2190,10 +2209,12 @@
 </roleName_type>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2524,10 +2545,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2798,10 +2821,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="5">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -3486,10 +3511,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="6">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <orig orig="ⲡ">
@@ -3797,10 +3824,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="7">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <orig orig="ⲡ">
@@ -4097,10 +4126,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="8">
+<translation translation="...">
 <orig_group orig_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <norm_group norm_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <orig orig="ⲉⲕⲉ">
@@ -4388,10 +4419,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="9">
+<translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -4718,10 +4751,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="10">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -4903,12 +4938,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
 <ch_n ch_n="4">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲁϥϫⲓ">
 <norm_group norm_group="ⲁϥϫⲓ">
 <orig orig="ⲁ">
@@ -5311,10 +5348,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6221,10 +6260,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ϣⲁⲓⲟⲩⲱⲙ">
 <norm_group norm_group="ϣⲁⲓⲟⲩⲱⲙ">
 <orig orig="ϣⲁ">
@@ -6344,10 +6385,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <norm_group norm_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <orig orig="ⲙⲉ">
@@ -6850,10 +6893,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="5">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6997,10 +7042,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="6">
+<translation translation="...">
 <orig_group orig_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <norm_group norm_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <orig orig="ⲙⲉⲣⲉ">
@@ -7106,10 +7153,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="7">
+<translation translation="...">
 <orig_group orig_group="ⲁϥϥⲓ">
 <norm_group norm_group="ⲁϥϥⲓ">
 <orig orig="ⲁ">
@@ -7679,10 +7728,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="8">
+<translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -7943,10 +7994,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="9">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -8186,10 +8239,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="10">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -8410,10 +8465,12 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="11">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -8876,10 +8933,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="12">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -9120,10 +9179,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="13">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -9725,12 +9786,14 @@
 </placeName_type>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
 <ch_n ch_n="5">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -10128,10 +10191,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <orig orig="ϩⲛ">
@@ -10399,10 +10464,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -10746,10 +10813,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <norm_group norm_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <orig orig="ϫⲉ">
@@ -11169,10 +11238,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="5">
+<translation translation="...">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -11813,10 +11884,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="6">
+<translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -12091,10 +12164,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="7">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -12303,10 +12378,12 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 </ch_n>
 <ch_n ch_n="6">
 <v_n v_n="1">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -12318,12 +12395,14 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 </norm_group>
 </orig_group>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲗⲁⲕⲙ">
 <norm_group norm_group="ⲗⲁⲕⲙ">
 <orig orig="ⲗⲁⲕⲙ">
@@ -12512,10 +12591,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲁⲓⲥⲱ">
 <norm_group norm_group="ⲁⲓⲥⲱ">
 <orig orig="ⲁ">
@@ -12748,10 +12829,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲓ">
 <orig orig="ⲁⲛⲓ">
@@ -12955,10 +13038,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </ch_n>
 <ch_n ch_n="7">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -12974,8 +13059,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
 <norm_group norm_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
 <orig orig="ⲛ">
@@ -13042,10 +13129,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲁⲛⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁⲛⲥⲱⲧⲙ">
 <orig orig="ⲁ">
@@ -13443,10 +13532,12 @@
 </norm_group>
 </orig_group>
 </persName_type>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲕⲁⲗⲱⲥ">
 <norm_group norm_group="ⲕⲁⲗⲱⲥ">
 <orig orig="ⲕⲁⲗⲱⲥ">
@@ -13638,8 +13729,10 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 <v_n v_n="5">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -13651,8 +13744,10 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 <v_n v_n="6">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -13757,9 +13852,11 @@
 </norm_group>
 </orig_group>
 </p_source>
+</translation>
 </v_n>
 <p_source p_source="PATHS">
 <v_n v_n="7">
+<translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -14047,10 +14144,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="8">
+<translation translation="...">
 <orig_group orig_group="ⲁϥϫⲛⲟⲩϥ">
 <norm_group norm_group="ⲁϥϫⲛⲟⲩϥ">
 <orig orig="ⲁ">
@@ -14188,10 +14287,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="9">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -14288,10 +14389,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="10">
+<translation translation="...">
 <orig_group orig_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <orig orig="ⲁⲣⲓ">
@@ -14583,10 +14686,12 @@
 </norm_group>
 </orig_group>
 </date_type>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="11">
+<translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -14813,10 +14918,12 @@
 </norm_group>
 </orig_group>
 </date_type>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="12">
+<translation translation="...">
 <orig_group orig_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
 <orig orig="ⲛ">
@@ -14869,8 +14976,10 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 <v_n v_n="13">
+<translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -14893,12 +15002,14 @@
 </lemma>
 </norm>
 </orig>
+</translation>
 </v_n>
 </norm_group>
 </orig_group>
 </ch_n>
 <ch_n ch_n="8">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -15166,10 +15277,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -15474,10 +15587,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -16062,10 +16177,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16329,12 +16446,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
 <ch_n ch_n="9">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -16777,10 +16896,12 @@
 </rs_type>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -17004,10 +17125,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -17277,10 +17400,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="4">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <orig orig="ⲡⲉⲛ">
@@ -17762,10 +17887,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="5">
+<translation translation="...">
 <orig_group orig_group="ⲕⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲕⲥⲟⲟⲩⲛ">
 <orig orig="ⲕ">
@@ -18022,10 +18149,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="6">
+<translation translation="...">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -18164,6 +18293,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
@@ -18314,6 +18444,7 @@
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="8">
+<translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -18738,10 +18869,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="9">
+<translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -19229,10 +19362,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="10">
+<translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -19435,12 +19570,14 @@
 </norm_group>
 </orig_group>
 </placeName_type>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
 <ch_n ch_n="10">
 <p_source p_source="PATHS">
 <v_n v_n="1">
+<translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -19660,10 +19797,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="2">
+<translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -19848,10 +19987,12 @@
 </orig_group>
 </placeName_ref>
 </placeName_type>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="3">
+<translation translation="...">
 <orig_group orig_group="ϩⲉ">
 <norm_group norm_group="ϩⲉ">
 <orig orig="ϩⲉ">
@@ -20225,6 +20366,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
@@ -20642,6 +20784,7 @@
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="5">
+<translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -20897,10 +21040,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="6">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21144,10 +21289,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="7">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21285,6 +21432,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
@@ -21403,6 +21551,7 @@
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="9">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21575,10 +21724,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="10">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21679,10 +21830,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="11">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21860,10 +22013,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="12">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -22133,10 +22288,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="13">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -22338,6 +22495,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
@@ -22664,6 +22822,7 @@
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="15">
+<translation translation="...">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
 <orig orig="ⲉϣⲱⲡⲉ">
@@ -22953,10 +23112,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 <p_source p_source="PATHS">
 <v_n v_n="16">
+<translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -23168,6 +23329,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </v_n>
 </p_source>
 </ch_n>
