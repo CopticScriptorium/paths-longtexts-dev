@@ -1,7 +1,8 @@
 <meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="-optional but recommended-" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Chapter divisions based on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Paul of Tamma part 1-redo" translation="none" Trismegistos="none" version_date="-" version_n="3.1.0">
-<ch_n ch_n="PATHS">
+<ch_n ch_n="1">
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="PATHS">
+<v_n v_n="1">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
 <orig orig="ⲡ">
@@ -486,7 +487,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<v_n v_n="2">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
 <orig orig="ⲥⲱⲧⲙ">
@@ -881,8 +884,8 @@
 </lemma>
 </norm>
 </orig>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
 <orig orig="ⲥⲟⲟⲩ">
 <norm norm="ⲥⲟⲟⲩ">
 <lemma lemma="ⲥⲟⲟⲩ">
@@ -894,6 +897,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</v_n>
+<v_n v_n="3">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -1159,7 +1164,9 @@
 </orig_group>
 </date_type>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="4">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -1267,9 +1274,11 @@
 </norm_group>
 </orig_group>
 </v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="PATHS">
+<v_n v_n="5">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -1415,7 +1424,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="6">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -1685,11 +1696,13 @@
 </norm_group>
 </orig_group>
 </v_n>
+</p_source>
 </translation>
 </ch_n>
-<ch_n ch_n="PATHS">
 <translation translation="...">
-<v_n v_n="lb">
+<ch_n ch_n="2">
+<p_source p_source="PATHS">
+<v_n v_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -1971,7 +1984,9 @@
 </norm>
 </orig>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="2">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1984,7 +1999,11 @@
 </norm>
 </orig>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+</ch_n>
+<ch_n ch_n="3">
+<p_source p_source="PATHS">
+<v_n v_n="1">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1999,8 +2018,6 @@
 </norm_group>
 </orig_group>
 </translation>
-</ch_n>
-<ch_n ch_n="PATHS">
 <translation translation="...">
 <orig_group orig_group="ϣⲱϣ">
 <norm_group norm_group="ϣⲱϣ">
@@ -2029,7 +2046,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="2">
 <orig_group orig_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2181,7 +2200,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="3">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2513,7 +2534,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="4">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2785,7 +2808,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="5">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -3471,7 +3496,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="6">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <orig orig="ⲡ">
@@ -3780,7 +3807,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="7">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <orig orig="ⲡ">
@@ -4078,7 +4107,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="8">
 <orig_group orig_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <norm_group norm_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <orig orig="ⲉⲕⲉ">
@@ -4367,7 +4398,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="9">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -4695,7 +4728,9 @@
 </norm_group>
 </orig_group>
 </v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="PATHS">
+<v_n v_n="10">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -4878,11 +4913,12 @@
 </norm_group>
 </orig_group>
 </v_n>
+</p_source>
 </translation>
 </ch_n>
-<ch_n ch_n="PATHS">
+<ch_n ch_n="4">
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥϫⲓ">
 <norm_group norm_group="ⲁϥϫⲓ">
 <orig orig="ⲁ">
@@ -5285,8 +5321,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6191,8 +6227,8 @@
 </lemma>
 </norm>
 </orig>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig orig="ϣⲁ">
 <norm norm="ϣⲁ">
 <lemma lemma="ϣⲁⲣⲉ">
@@ -6310,8 +6346,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <norm_group norm_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <orig orig="ⲙⲉ">
@@ -6814,8 +6850,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6959,8 +6995,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <norm_group norm_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <orig orig="ⲙⲉⲣⲉ">
@@ -7066,8 +7102,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥϥⲓ">
 <norm_group norm_group="ⲁϥϥⲓ">
 <orig orig="ⲁ">
@@ -7637,8 +7673,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -7899,8 +7935,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <orig orig="ⲡⲉϫⲉ">
@@ -8140,8 +8176,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -8362,8 +8398,8 @@
 </lemma>
 </norm>
 </orig>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -8828,8 +8864,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -9070,8 +9106,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -9673,12 +9709,12 @@
 </placeName_type>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 </ch_n>
 <ch_n ch_n="PATHS">
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -10076,8 +10112,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <orig orig="ϩⲛ">
@@ -10345,10 +10381,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -10692,8 +10728,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <norm_group norm_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <orig orig="ϫⲉ">
@@ -11113,8 +11149,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -11755,10 +11791,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -12033,8 +12069,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -12256,12 +12292,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 </ch_n>
 <ch_n ch_n="PATHS">
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲗⲁⲕⲙ">
 <norm_group norm_group="ⲗⲁⲕⲙ">
 <orig orig="ⲗⲁⲕⲙ">
@@ -12450,8 +12486,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲓⲥⲱ">
 <norm_group norm_group="ⲁⲓⲥⲱ">
 <orig orig="ⲁ">
@@ -12684,8 +12720,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲓ">
 <orig orig="ⲁⲛⲓ">
@@ -12974,8 +13010,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲛⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁⲛⲥⲱⲧⲙ">
 <orig orig="ⲁ">
@@ -13373,8 +13409,8 @@
 </norm_group>
 </orig_group>
 </persName_type>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲕⲁⲗⲱⲥ">
 <norm_group norm_group="ⲕⲁⲗⲱⲥ">
 <orig orig="ⲕⲁⲗⲱⲥ">
@@ -13590,8 +13626,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲧⲉⲓ">
 <norm_group norm_group="ⲧⲉⲓ">
 <orig orig="ⲧⲉⲓ">
@@ -13680,10 +13716,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -13971,8 +14007,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥϫⲛⲟⲩϥ">
 <norm_group norm_group="ⲁϥϫⲛⲟⲩϥ">
 <orig orig="ⲁ">
@@ -14110,8 +14146,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -14208,8 +14244,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <orig orig="ⲁⲣⲓ">
@@ -14501,8 +14537,8 @@
 </norm_group>
 </orig_group>
 </date_type>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -14729,9 +14765,9 @@
 </norm_group>
 </orig_group>
 </date_type>
-</v_n>
+</p_source>
 </translation>
-<v_n v_n="lb">
+<p_source p_source="lb">
 <translation translation="...">
 <orig_group orig_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
@@ -15080,8 +15116,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -15386,8 +15422,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -15972,8 +16008,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16237,12 +16273,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 </ch_n>
 <ch_n ch_n="PATHS">
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -16685,10 +16721,10 @@
 </rs_type>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -16912,8 +16948,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -17183,8 +17219,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <orig orig="ⲡⲉⲛ">
@@ -17666,8 +17702,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲕⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲕⲥⲟⲟⲩⲛ">
 <orig orig="ⲕ">
@@ -17924,8 +17960,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -18064,8 +18100,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -18208,8 +18244,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -18634,10 +18670,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -19125,8 +19161,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -19329,12 +19365,12 @@
 </norm_group>
 </orig_group>
 </placeName_type>
-</v_n>
+</p_source>
 </translation>
 </ch_n>
 <ch_n ch_n="PATHS">
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -19554,8 +19590,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -19740,8 +19776,8 @@
 </orig_group>
 </placeName_ref>
 </placeName_type>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ϩⲉ">
 <norm_group norm_group="ϩⲉ">
 <orig orig="ϩⲉ">
@@ -20115,8 +20151,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -20526,8 +20562,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -20783,8 +20819,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21028,8 +21064,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21167,8 +21203,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21279,10 +21315,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21455,8 +21491,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21557,8 +21593,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -21736,8 +21772,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -22007,8 +22043,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -22210,8 +22246,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -22530,8 +22566,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
-<v_n v_n="lb">
+</p_source>
+<p_source p_source="lb">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
 <orig orig="ⲉϣⲱⲡⲉ">
@@ -22821,10 +22857,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 <translation translation="...">
-<v_n v_n="lb">
+<p_source p_source="lb">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -23036,7 +23072,7 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</p_source>
 </translation>
 </ch_n>
 </meta>
