@@ -1,4 +1,4 @@
-<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS, Orlandi (1975)" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Tagging has been very lightly corrected." order="1" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0256.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="-" version_n="3.1.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS, Orlandi (1975)" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Tagging has been only very lightly corrected." order="1" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0256.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="-" version_n="3.1.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
 <translation translation="...">
@@ -16529,16 +16529,20 @@
 </orig>
 </lemma>
 </pos>
-<pos pos="V">
-<lemma lemma="ϯⲥⲟⲟⲩⲛ">
-<orig orig="ϯⲥⲟⲟⲩⲛ">
-<norm norm="ϯⲥⲟⲟⲩⲛ">
-<morph morph="ϯ">
+<pos pos="PPERS">
+<lemma lemma="ⲁⲛⲟⲕ">
+<orig orig="ϯ">
+<norm norm="ϯ">
 ϯ
-</morph>
-<morph morph="ⲥⲟⲟⲩⲛ">
+</norm>
+</orig>
+</lemma>
+</pos>
+<pos pos="V">
+<lemma lemma="ⲥⲟⲟⲩⲛ">
+<orig orig="ⲥⲟⲟⲩⲛ">
+<norm norm="ⲥⲟⲟⲩⲛ">
 ⲥⲟⲟⲩⲛ
-</morph>
 </norm>
 </orig>
 </lemma>
