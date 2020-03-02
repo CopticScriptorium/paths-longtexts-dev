@@ -5914,8 +5914,8 @@
 <norm_group norm_group="ⲛⲧⲛⲥⲟⲟⲩⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛⲧⲉ">
-<pos pos="ACONJ">
+<lemma lemma="ⲛ">
+<pos pos="NEG">
 ⲛ
 </pos>
 </lemma>
@@ -6896,17 +6896,17 @@
 </orig>
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲁⲛⲟⲛ">
-<pos pos="PPERS">
+<lemma lemma="ⲛ">
+<pos pos="NEG">
 ⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
 <orig orig="ⲉϥ">
-<norm norm="ⲉϥ">
-<lemma lemma="ⲉϥ">
-<pos pos="PPERO">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲧⲟϥ">
+<pos pos="PPERS">
 ⲉϥ
 </pos>
 </lemma>
