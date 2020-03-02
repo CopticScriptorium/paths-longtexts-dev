@@ -6623,8 +6623,8 @@
 <norm_group norm_group="ⲛϯⲟⲩⲱϣ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛⲧⲉ">
-<pos pos="ACONJ">
+<lemma lemma="ⲛ">
+<pos pos="NEG">
 ⲛ
 </pos>
 </lemma>
@@ -7009,10 +7009,12 @@
 <orig orig="ⲉⲍⲉⲕⲓⲏⲗ">
 <norm norm="ⲉⲍⲉⲕⲓⲏⲗ">
 <lemma lemma="ⲉⲍⲉⲕⲓⲏⲗ">
-<pos pos="ANEGAOR">
+<pos pos="NPROP">
+<lang lang="Hebrew">
 <persName_type persName_type="monk">
 ⲉⲍⲉⲕⲓⲏⲗ
 </persName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
