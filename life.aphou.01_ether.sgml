@@ -8091,8 +8091,8 @@
 </orig_group>
 <orig_group orig_group="ⲛⲥⲥⲩⲙⲫⲱⲛⲉⲓ">
 <norm_group norm_group="ⲛⲥⲥⲩⲙⲫⲱⲛⲉⲓ">
-<pos pos="ACONJ">
-<lemma lemma="ⲛⲧⲉ">
+<pos pos="NEG">
+<lemma lemma="ⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 ⲛ
@@ -14139,7 +14139,7 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲁⲛⲥⲩⲛⲅⲣⲁⲫⲉⲩⲥ">
 <norm_group norm_group="ⲛⲧⲁⲛⲥⲩⲛⲅⲣⲁⲫⲉⲩⲥ">
-<pos pos="NEG">
+<pos pos="PREP">
 <lemma lemma="ⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -17198,8 +17198,8 @@
 </orig_group>
 <orig_group orig_group="ⲛⲥⲉⲉⲓⲛⲉ">
 <norm_group norm_group="ⲛⲥⲉⲉⲓⲛⲉ">
-<pos pos="ACONJ">
-<lemma lemma="ⲛⲧⲉ">
+<pos pos="NEG">
+<lemma lemma="ⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 ⲛ
@@ -22962,8 +22962,8 @@
 </orig_group>
 <orig_group orig_group="ⲛⲥϣⲁϫⲉ">
 <norm_group norm_group="ⲛⲥϣⲁϫⲉ">
-<pos pos="ACONJ">
-<lemma lemma="ⲛⲧⲉ">
+<pos pos="NEG">
+<lemma lemma="ⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 ⲛ
@@ -25208,8 +25208,8 @@
 </orig_group>
 <orig_group orig_group="ⲛⲥϣϣⲉ">
 <norm_group norm_group="ⲛⲥϣϣⲉ">
-<pos pos="ACONJ">
-<lemma lemma="ⲛⲧⲉ">
+<pos pos="NEG">
+<lemma lemma="ⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 ⲛ
