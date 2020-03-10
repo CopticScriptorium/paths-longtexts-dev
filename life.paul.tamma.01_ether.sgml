@@ -1,7 +1,7 @@
-<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Paul of Tamma part 1" translation="none" Trismegistos="none" version_date="-" version_n="3.1.0">
-<ch_n ch_n="1">
+<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths.authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Paul of Tamma part 1" translation="none" Trismegistos="none" version_date="2020-03-13" version_n="3.1.0">
+<chapter_n chapter_n="1">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
 <norm_group norm_group="ⲡⲃⲓⲟⲥ">
@@ -487,9 +487,9 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲥⲱⲧⲙ">
@@ -900,8 +900,8 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
-<v_n v_n="3">
+</verse_n>
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
@@ -1166,10 +1166,10 @@
 </orig_group>
 </date_type>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -1278,10 +1278,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="5">
+<verse_n verse_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -1428,10 +1428,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="6">
+<verse_n verse_n="6">
 <translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
@@ -1702,12 +1702,12 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
-<ch_n ch_n="2">
+</chapter_n>
+<chapter_n chapter_n="2">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -1976,8 +1976,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[...][...][...]">
-<norm_group norm_group=".........">
+<orig_group orig_group="[...][...]">
+<norm_group norm_group="[...][...]">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1990,10 +1990,10 @@
 </norm>
 </orig>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
@@ -2007,13 +2007,17 @@
 </norm>
 </orig>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
-<ch_n ch_n="3">
+</norm_group>
+</orig_group>
+</chapter_n>
+<chapter_n chapter_n="3">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="[...]">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -2054,10 +2058,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
@@ -2210,10 +2214,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
@@ -2546,10 +2550,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -2822,10 +2826,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="5">
+<verse_n verse_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲩⲧⲱⲟⲩⲛ">
@@ -3512,10 +3516,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="6">
+<verse_n verse_n="6">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
@@ -3825,10 +3829,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="7">
+<verse_n verse_n="7">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲱⲧⲙ">
@@ -4127,10 +4131,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="8">
+<verse_n verse_n="8">
 <translation translation="...">
 <orig_group orig_group="ⲉⲕⲉⲥⲱⲧⲙ">
 <norm_group norm_group="ⲉⲕⲉⲥⲱⲧⲙ">
@@ -4420,10 +4424,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="9">
+<verse_n verse_n="9">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
@@ -4752,10 +4756,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="10">
+<verse_n verse_n="10">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -4939,12 +4943,12 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
-<ch_n ch_n="4">
+</chapter_n>
+<chapter_n chapter_n="4">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲁϥϫⲓ">
 <norm_group norm_group="ⲁϥϫⲓ">
@@ -5349,10 +5353,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -6261,10 +6265,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ϣⲁⲓⲟⲩⲱⲙ">
 <norm_group norm_group="ϣⲁⲓⲟⲩⲱⲙ">
@@ -6386,10 +6390,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲙⲉⲓⲟⲩⲱⲙ">
 <norm_group norm_group="ⲙⲉⲓⲟⲩⲱⲙ">
@@ -6894,10 +6898,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="5">
+<verse_n verse_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
@@ -7043,10 +7047,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="6">
+<verse_n verse_n="6">
 <translation translation="...">
 <orig_group orig_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
 <norm_group norm_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
@@ -7154,10 +7158,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="7">
+<verse_n verse_n="7">
 <translation translation="...">
 <orig_group orig_group="ⲁϥϥⲓ">
 <norm_group norm_group="ⲁϥϥⲓ">
@@ -7729,10 +7733,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="8">
+<verse_n verse_n="8">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
@@ -7995,10 +7999,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="9">
+<verse_n verse_n="9">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
@@ -8240,10 +8244,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="10">
+<verse_n verse_n="10">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -8466,10 +8470,10 @@
 </norm>
 </orig>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="11">
+<verse_n verse_n="11">
 <translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
@@ -8934,10 +8938,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="12">
+<verse_n verse_n="12">
 <translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -9180,10 +9184,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="13">
+<verse_n verse_n="13">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
@@ -9787,12 +9791,12 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
-<ch_n ch_n="5">
+</chapter_n>
+<chapter_n chapter_n="5">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
@@ -10192,10 +10196,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩⲉⲧⲙⲙⲁⲩ">
@@ -10465,10 +10469,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
@@ -10814,10 +10818,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ϫⲉⲡϫⲟⲉⲓⲥ">
 <norm_group norm_group="ϫⲉⲡϫⲟⲉⲓⲥ">
@@ -11239,10 +11243,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="5">
+<verse_n verse_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
@@ -11885,10 +11889,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="6">
+<verse_n verse_n="6">
 <translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
@@ -12165,10 +12169,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="7">
+<verse_n verse_n="7">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
@@ -12379,10 +12383,10 @@
 </norm>
 </orig>
 </translation>
-</v_n>
-</ch_n>
-<ch_n ch_n="6">
-<v_n v_n="1">
+</verse_n>
+</chapter_n>
+<chapter_n chapter_n="6">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
@@ -12396,12 +12400,12 @@
 </norm>
 </orig>
 </translation>
-</v_n>
+</verse_n>
 </norm_group>
 </orig_group>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲗⲁⲕⲙ">
 <norm_group norm_group="ⲗⲁⲕⲙ">
@@ -12592,10 +12596,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲁⲓⲥⲱ">
 <norm_group norm_group="ⲁⲓⲥⲱ">
@@ -12830,10 +12834,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲓ">
@@ -13039,10 +13043,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
-</ch_n>
-<ch_n ch_n="7">
-<v_n v_n="1">
+</verse_n>
+</chapter_n>
+<chapter_n chapter_n="7">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
@@ -13060,8 +13064,8 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
-<v_n v_n="2">
+</verse_n>
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
 <norm_group norm_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
@@ -13130,10 +13134,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲁⲛⲥⲱⲧⲙ">
 <norm_group norm_group="ⲁⲛⲥⲱⲧⲙ">
@@ -13533,10 +13537,10 @@
 </orig_group>
 </persName_type>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲕⲁⲗⲱⲥ">
 <norm_group norm_group="ⲕⲁⲗⲱⲥ">
@@ -13730,8 +13734,8 @@
 </norm>
 </orig>
 </translation>
-</v_n>
-<v_n v_n="5">
+</verse_n>
+<verse_n verse_n="5">
 <translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
@@ -13745,8 +13749,8 @@
 </norm>
 </orig>
 </translation>
-</v_n>
-<v_n v_n="6">
+</verse_n>
+<verse_n verse_n="6">
 <translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
@@ -13853,9 +13857,9 @@
 </orig_group>
 </p_source>
 </translation>
-</v_n>
+</verse_n>
 <p_source p_source="PATHS">
-<v_n v_n="7">
+<verse_n verse_n="7">
 <translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
@@ -14145,10 +14149,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="8">
+<verse_n verse_n="8">
 <translation translation="...">
 <orig_group orig_group="ⲁϥϫⲛⲟⲩϥ">
 <norm_group norm_group="ⲁϥϫⲛⲟⲩϥ">
@@ -14288,10 +14292,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="9">
+<verse_n verse_n="9">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -14390,10 +14394,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="10">
+<verse_n verse_n="10">
 <translation translation="...">
 <orig_group orig_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
@@ -14687,10 +14691,10 @@
 </orig_group>
 </date_type>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="11">
+<verse_n verse_n="11">
 <translation translation="...">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -14919,10 +14923,10 @@
 </orig_group>
 </date_type>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="12">
+<verse_n verse_n="12">
 <translation translation="...">
 <orig_group orig_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
@@ -14977,8 +14981,8 @@
 </norm>
 </orig>
 </translation>
-</v_n>
-<v_n v_n="13">
+</verse_n>
+<verse_n verse_n="13">
 <translation translation="...">
 <orig orig="[...]">
 <norm norm="...">
@@ -15003,12 +15007,12 @@
 </norm>
 </orig>
 </translation>
-</v_n>
+</verse_n>
 </norm_group>
 </orig_group>
-</ch_n>
-<ch_n ch_n="8">
-<v_n v_n="1">
+</chapter_n>
+<chapter_n chapter_n="8">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
@@ -15278,10 +15282,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
@@ -15588,10 +15592,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -16178,10 +16182,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -16447,12 +16451,12 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
-<ch_n ch_n="9">
+</chapter_n>
+<chapter_n chapter_n="9">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -16897,10 +16901,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
@@ -17126,10 +17130,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
@@ -17401,10 +17405,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉⲛⲉⲓⲱⲧ">
@@ -17888,10 +17892,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="5">
+<verse_n verse_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲕⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲕⲥⲟⲟⲩⲛ">
@@ -18150,10 +18154,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="6">
+<verse_n verse_n="6">
 <translation translation="...">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
@@ -18294,10 +18298,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="7">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲁ">
@@ -18440,10 +18444,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="8">
+<verse_n verse_n="8">
 <translation translation="...">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -18870,10 +18874,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="9">
+<verse_n verse_n="9">
 <translation translation="...">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
@@ -19363,10 +19367,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="10">
+<verse_n verse_n="10">
 <translation translation="...">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
@@ -19571,12 +19575,12 @@
 </orig_group>
 </placeName_type>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
-<ch_n ch_n="10">
+</chapter_n>
+<chapter_n chapter_n="10">
 <p_source p_source="PATHS">
-<v_n v_n="1">
+<verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
@@ -19798,10 +19802,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="2">
+<verse_n verse_n="2">
 <translation translation="...">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
@@ -19988,10 +19992,10 @@
 </placeName_ref>
 </placeName_type>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="3">
+<verse_n verse_n="3">
 <translation translation="...">
 <orig_group orig_group="ϩⲉ">
 <norm_group norm_group="ϩⲉ">
@@ -20367,10 +20371,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="4">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -20780,10 +20784,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="5">
+<verse_n verse_n="5">
 <translation translation="...">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
@@ -21041,10 +21045,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="6">
+<verse_n verse_n="6">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -21290,10 +21294,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="7">
+<verse_n verse_n="7">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -21433,10 +21437,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="8">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -21547,10 +21551,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="9">
+<verse_n verse_n="9">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -21725,10 +21729,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="10">
+<verse_n verse_n="10">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -21831,10 +21835,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="11">
+<verse_n verse_n="11">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -22014,10 +22018,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="12">
+<verse_n verse_n="12">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -22289,10 +22293,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="13">
+<verse_n verse_n="13">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -22496,10 +22500,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="14">
+<verse_n verse_n="14">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -22818,10 +22822,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="15">
+<verse_n verse_n="15">
 <translation translation="...">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
@@ -23113,10 +23117,10 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
-<v_n v_n="16">
+<verse_n verse_n="16">
 <translation translation="...">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -23330,7 +23334,7 @@
 </norm_group>
 </orig_group>
 </translation>
-</v_n>
+</verse_n>
 </p_source>
-</ch_n>
+</chapter_n>
 </meta>
