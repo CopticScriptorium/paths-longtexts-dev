@@ -1976,8 +1976,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[...][...]">
-<norm_group norm_group="[...][...]">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -1989,12 +1989,16 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 </p_source>
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -2006,18 +2010,18 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 </p_source>
-</norm_group>
-</orig_group>
 </chapter_n>
 <chapter_n chapter_n="3">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
 <translation translation="...">
 <orig_group orig_group="[...]">
-<norm_group norm_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -8456,8 +8460,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[...][...]">
-<norm_group norm_group="......">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -8469,12 +8473,16 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 </p_source>
 <p_source p_source="PATHS">
 <verse_n verse_n="11">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -12358,8 +12366,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[...][...][...]">
-<norm_group norm_group=".........">
+<orig_group orig_group="[...][...]">
+<norm_group norm_group="......">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -12382,12 +12390,16 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 </chapter_n>
 <chapter_n chapter_n="6">
 <verse_n verse_n="1">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -12399,10 +12411,10 @@
 </lemma>
 </norm>
 </orig>
-</translation>
-</verse_n>
 </norm_group>
 </orig_group>
+</translation>
+</verse_n>
 </p_source>
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
@@ -13720,8 +13732,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[...][...][...]">
-<norm_group norm_group=".........">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -13733,10 +13745,14 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 <verse_n verse_n="5">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -13748,10 +13764,14 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 <verse_n verse_n="6">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -14967,8 +14987,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[...][...][...]">
-<norm_group norm_group=".........">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -14980,10 +15000,14 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </translation>
 </verse_n>
 <verse_n verse_n="13">
 <translation translation="...">
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -14995,6 +15019,10 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="[...]">
+<norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
@@ -15006,10 +15034,10 @@
 </lemma>
 </norm>
 </orig>
-</translation>
-</verse_n>
 </norm_group>
 </orig_group>
+</translation>
+</verse_n>
 </chapter_n>
 <chapter_n chapter_n="8">
 <verse_n verse_n="1">
