@@ -1,4 +1,4 @@
-<meta annotation="Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." objectType="codex" order="1" parsing="automatic" paths.works="&lt;a href='http://paths.uniroma1.it/atlas/works/418'&gt;418&lt;/a&gt;" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 1" translation="none" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." objectType="codex" order="1" parsing="automatic" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/418'&gt;418&lt;/a&gt;" people="none" places="none" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 1" translation="none" version_date="2019-09-30" version_n="3.0.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
 <translation translation="...">
@@ -2486,8 +2486,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲡϩⲓⲉⲣⲟⲥⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
-<norm_group norm_group="ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲡϩⲓⲉⲣⲟⲥⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<orig_group orig_group="ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲡϩⲓⲉⲣⲟⲥ">
+<norm_group norm_group="ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲡϩⲓⲉⲣⲟⲥ">
 <orig orig="ⲕⲁⲧⲁ">
 <norm norm="ⲕⲁⲧⲁ">
 <lemma lemma="ⲕⲁⲧⲁ">
@@ -2535,12 +2535,37 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲓⲉⲣⲟⲥⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
-<norm norm="ϩⲓⲉⲣⲟⲥⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
-<lemma lemma="ϩⲓⲉⲣⲟⲥⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<orig orig="ϩⲓⲉⲣⲟⲥ">
+<norm norm="ϩⲓⲉⲣⲟⲥ">
+<lemma lemma="ϩⲓⲉⲣⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲓⲉⲣⲟⲥ
-ⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ
+</lang>
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<norm_group norm_group="ⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<norm norm="ⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<lemma lemma="ⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<pos pos="N">
+<lang lang="Greek">
+ⲁⲡⲟⲥⲧⲟⲗⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -2713,8 +2738,8 @@
 </orig_group>
 </translation>
 <translation translation="...">
-<orig_group orig_group="ⲡⲙⲁⲉⲧⲛϭⲱϣⲧ">
-<norm_group norm_group="ⲡⲙⲁⲉⲧⲛϭⲱϣⲧ">
+<orig_group orig_group="ⲡⲙⲁ">
+<norm_group norm_group="ⲡⲙⲁ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -2726,10 +2751,31 @@
 </orig>
 <orig orig="ⲙⲁⲉⲧⲛ">
 <norm norm="ⲙⲁⲉⲧⲛ">
-<lemma lemma="ⲙⲁⲉⲧⲛ">
+<lemma lemma="ⲙⲁ">
 <pos pos="N">
 ⲙⲁ
-ⲉⲧⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲧⲛϭⲱϣⲧ">
+<norm_group norm_group="ⲉⲧⲛϭⲱϣⲧ">
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
+ⲉⲧ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
 </pos>
 </lemma>
 </norm>
@@ -3198,9 +3244,11 @@
 <norm norm="ⲗⲟⲅⲅⲓⲛⲟⲥ">
 <lemma lemma="ⲗⲟⲅⲅⲓⲛⲟⲥ">
 <pos pos="NPROP">
+<lang lang="Latin">
 <persName_type persName_type="monk">
 ⲗⲟⲅⲅⲓⲛⲟⲥ
 </persName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -3239,7 +3287,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲛⲁⲧⲓⲕⲟⲥ">
-<norm_group norm_group="ⲙⲡⲛⲁⲧⲓⲕⲟⲥ">
+<norm_group norm_group="ⲙⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -3249,20 +3297,13 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲛⲁⲧⲓⲕⲟⲥ">
-<norm norm="ⲛⲁⲧⲓⲕⲟⲥ">
-<lemma lemma="ⲛⲁⲧⲓⲕⲟⲥ">
+<orig orig="ⲡⲛⲁⲧⲓⲕⲟⲥ">
+<norm norm="ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲥ">
+<lemma lemma="ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲥ">
 <pos pos="N">
-ⲛⲁⲧⲓⲕⲟⲥ
+<lang lang="Greek">
+ⲡⲛⲁⲧⲓⲕⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -3290,9 +3331,11 @@
 <norm norm="ⲗⲟⲩⲅⲓⲟⲥ">
 <lemma lemma="ⲗⲟⲩⲅⲓⲟⲥ">
 <pos pos="NPROP">
+<lang lang="Latin">
 <persName_type persName_type="monk">
 ⲗⲟⲩⲅⲓⲟⲥ
 </persName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -3354,12 +3397,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲱⲕⲉⲃⲟⲗ">
-<norm norm="ϫⲱⲕⲉⲃⲟⲗ">
-<lemma lemma="ϫⲱⲕⲉⲃⲟⲗ">
+<orig orig="ϫⲱⲕ">
+<norm norm="ϫⲱⲕ">
+<lemma lemma="ϫⲱⲕ">
 <pos pos="V">
-ϫⲱⲕⲉ
-ⲃⲟⲗ
+ϫⲱⲕ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲉⲃⲟⲗ">
+<norm norm="ⲉⲃⲟⲗ">
+<lemma lemma="ⲉⲃⲟⲗ">
+<pos pos="ADV">
+ⲉⲃⲟⲗ
 </pos>
 </lemma>
 </norm>
@@ -4053,8 +4104,8 @@
 <norm_group norm_group="ⲉϥⲉⲡⲉⲓⲭⲉⲣⲉⲓ">
 <orig orig="ⲉϥⲉ">
 <norm norm="ⲉϥⲉ">
-<lemma lemma="ⲉϥⲉ">
-<pos pos="AOPT">
+<lemma lemma="ⲉⲣⲉ_ⲛⲧⲟϥ">
+<pos pos="AOPT_PPERS">
 ⲉϥⲉ
 </pos>
 </lemma>
