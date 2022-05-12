@@ -1,4 +1,4 @@
-<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS, Orlandi (1975)" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Tagging has been only very lightly corrected." order="1" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" people="Apollos; David; Moses; Paul the Apostle" places="Dairut" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0256.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="2020-03-13" version_n="3.1.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS, Orlandi (1975)" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Tagging has been only very lightly corrected." order="1" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" people="Apollos; David; Moses; Paul the Apostle" places="Dairut" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0256.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="2020-08-31" version_n="4.0.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
 <translation translation="...">
@@ -15944,8 +15944,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥⲟⲩⲉⲙ">
-<norm_group norm_group="ⲁϥⲟⲩⲉⲙ">
+<orig_group orig_group="ⲁϥⲟⲩⲉⲙⲡⲟⲉⲓⲕ">
+<norm_group norm_group="ⲁϥⲟⲩⲉⲙⲡⲟⲉⲓⲕ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -15973,10 +15973,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲡⲟⲉⲓⲕ">
-<norm_group norm_group="ⲡⲟⲉⲓⲕ">
 <entity entity="object">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
