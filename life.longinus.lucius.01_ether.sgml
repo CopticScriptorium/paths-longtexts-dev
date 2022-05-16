@@ -1,4 +1,4 @@
-<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." objectType="codex" order="1" parsing="automatic" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/418'&gt;418&lt;/a&gt;" people="(pass)`; John the Apostle; Paul the Apostle; Saint Peter; Solomon" places="Alexandria; Jerusalem; Lycia" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 1" translation="none" version_date="2019-09-30" version_n="3.0.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." objectType="codex" order="1" parsing="automatic" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/418'&gt;418&lt;/a&gt;" people="John the Apostle; Paul the Apostle; Saint Peter; Solomon" places="Alexandria; Jerusalem; Lycia" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 1" translation="none" version_date="2020-08-31" version_n="4.0.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
 <translation translation="...">
@@ -3396,7 +3396,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="(pass)`" entity="person">
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -8600,7 +8600,7 @@
 <orig orig="ⲟⲩⲛ">
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
-<pos pos="EXIST">
+<pos pos="PTC">
 ⲟⲩⲛ
 </pos>
 </lemma>
@@ -8614,7 +8614,7 @@
 <orig orig="ϫⲱ">
 <norm norm="ϫⲱ">
 <lemma lemma="ϫⲱ">
-<pos pos="N">
+<pos pos="V">
 ϫⲱ
 </pos>
 </lemma>
@@ -10454,12 +10454,10 @@
 </lemma>
 </norm>
 </orig>
-</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲇⲓⲁⲑⲏⲕⲏ">
 <norm_group norm_group="ⲇⲓⲁⲑⲏⲕⲏ">
-<entity entity="abstract">
 <orig orig="ⲇⲓⲁⲑⲏⲕⲏ">
 <norm norm="ⲇⲓⲁⲑⲏⲕⲏ">
 <lemma lemma="ⲇⲓⲁⲑⲏⲕⲏ">
@@ -10471,9 +10469,9 @@
 </lemma>
 </norm>
 </orig>
-</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲙⲛⲧⲕⲩⲛⲏ">
 <norm_group norm_group="ⲙⲛⲧⲕⲩⲛⲏ">
 <orig orig="ⲙⲛ">
@@ -10961,7 +10959,7 @@
 <orig orig="ⲟⲩⲛ">
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
-<pos pos="EXIST">
+<pos pos="PTC">
 ⲟⲩⲛ
 </pos>
 </lemma>
@@ -25631,7 +25629,7 @@
 <orig orig="ⲟⲩⲛ">
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
-<pos pos="EXIST">
+<pos pos="PTC">
 ⲟⲩⲛ
 </pos>
 </lemma>
