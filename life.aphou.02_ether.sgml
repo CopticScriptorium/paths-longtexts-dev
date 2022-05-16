@@ -1,8 +1,8 @@
 <meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:62-132" entities="automatic" identities="checked" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="2" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths_manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" people="Devil; Isaiah; Jesus; Jethro (biblical figure); Moses; Pope Theophilus of Alexandria" placeName="This" places="Midian; Oxyrhynchus" previous="urn:cts:copticLit:lives.aphou.paths_ed:0-61" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 2" translation="none" Trismegistos="108414" version_date="2020-08-31" version_n="4.0.0">
 <p_source p_source="PATHS">
 <p_n p_n="62">
-<chapter_n chapter_n="62">
 <translation translation="...">
+<chapter_n chapter_n="62">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -393,12 +393,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="63">
-<chapter_n chapter_n="63">
 <translation translation="...">
+<chapter_n chapter_n="63">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <orig orig="ⲙⲛⲛⲥⲁ">
@@ -860,12 +860,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="64">
-<chapter_n chapter_n="64">
 <translation translation="...">
+<chapter_n chapter_n="64">
 <orig_group orig_group="ϯⲥⲱⲧⲙ">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
@@ -1052,12 +1052,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="65">
-<chapter_n chapter_n="65">
 <translation translation="...">
+<chapter_n chapter_n="65">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -1360,12 +1360,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="66">
-<chapter_n chapter_n="66">
 <translation translation="...">
+<chapter_n chapter_n="66">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1430,12 +1430,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="67">
-<chapter_n chapter_n="67">
 <translation translation="...">
+<chapter_n chapter_n="67">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -1790,12 +1790,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="68">
-<chapter_n chapter_n="68">
 <translation translation="...">
+<chapter_n chapter_n="68">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -2052,12 +2052,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="69">
-<chapter_n chapter_n="69">
 <translation translation="...">
+<chapter_n chapter_n="69">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
 <orig orig="ⲡⲗⲏⲛ">
@@ -2759,12 +2759,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="70">
-<chapter_n chapter_n="70">
 <translation translation="...">
+<chapter_n chapter_n="70">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -3442,12 +3442,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="71">
-<chapter_n chapter_n="71">
 <translation translation="...">
+<chapter_n chapter_n="71">
 <orig_group orig_group="ⲛⲧⲟⲕ">
 <norm_group norm_group="ⲛⲧⲟⲕ">
 <orig orig="ⲛⲧⲟⲕ">
@@ -3958,12 +3958,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="72">
-<chapter_n chapter_n="72">
 <translation translation="...">
+<chapter_n chapter_n="72">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -4374,12 +4374,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="73">
-<chapter_n chapter_n="73">
 <translation translation="...">
+<chapter_n chapter_n="73">
 <orig_group orig_group="ⲛⲉϥⲙⲟⲕϩ">
 <norm_group norm_group="ⲛⲉϥⲙⲟⲕϩ">
 <orig orig="ⲛⲉ">
@@ -4859,12 +4859,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="74">
-<chapter_n chapter_n="74">
 <translation translation="...">
+<chapter_n chapter_n="74">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5073,12 +5073,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="75">
-<chapter_n chapter_n="75">
 <translation translation="...">
+<chapter_n chapter_n="75">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5428,14 +5428,14 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="76">
-<chapter_n chapter_n="76">
 <translation translation="...">
+<chapter_n chapter_n="76">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥϫⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥϫⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -5580,12 +5580,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="77">
-<chapter_n chapter_n="77">
 <translation translation="...">
+<chapter_n chapter_n="77">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6364,12 +6364,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="78">
-<chapter_n chapter_n="78">
 <translation translation="...">
+<chapter_n chapter_n="78">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6746,12 +6746,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="79">
-<chapter_n chapter_n="79">
 <translation translation="...">
+<chapter_n chapter_n="79">
 <orig_group orig_group="ⲛⲧⲟⲟⲩ">
 <norm_group norm_group="ⲛⲧⲟⲟⲩ">
 <orig orig="ⲛⲧⲟⲟⲩ">
@@ -6912,12 +6912,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="80">
-<chapter_n chapter_n="80">
 <translation translation="...">
+<chapter_n chapter_n="80">
 <orig_group orig_group="ⲁⲩϣⲓⲛⲉ">
 <norm_group norm_group="ⲁⲩϣⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -7090,12 +7090,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="81">
-<chapter_n chapter_n="81">
 <translation translation="...">
+<chapter_n chapter_n="81">
 <orig_group orig_group="ⲉⲛⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲛⲉϥϣⲟⲟⲡ">
 <orig orig="ⲉ">
@@ -7260,14 +7260,14 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="82">
-<chapter_n chapter_n="82">
 <translation translation="...">
+<chapter_n chapter_n="82">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲑⲗⲓⲃⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲑⲗⲓⲃⲉ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -7483,12 +7483,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="83">
-<chapter_n chapter_n="83">
 <translation translation="...">
+<chapter_n chapter_n="83">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -7929,12 +7929,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="84">
-<chapter_n chapter_n="84">
 <translation translation="...">
+<chapter_n chapter_n="84">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -8446,12 +8446,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="85">
-<chapter_n chapter_n="85">
 <translation translation="...">
+<chapter_n chapter_n="85">
 <orig_group orig_group="ⲛϭⲉⲣⲁϭⲉ">
 <norm_group norm_group="ⲛϭⲉⲣⲁϭⲉ">
 <orig orig="ⲛ">
@@ -8771,12 +8771,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="86">
-<chapter_n chapter_n="86">
 <translation translation="...">
+<chapter_n chapter_n="86">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -8984,12 +8984,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="87">
-<chapter_n chapter_n="87">
 <translation translation="...">
+<chapter_n chapter_n="87">
 <orig_group orig_group="ⲁϥϣⲁϫⲉ">
 <norm_group norm_group="ⲁϥϣⲁϫⲉ">
 <orig orig="ⲁ">
@@ -9278,12 +9278,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="88">
-<chapter_n chapter_n="88">
 <translation translation="...">
+<chapter_n chapter_n="88">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -9407,12 +9407,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="89">
-<chapter_n chapter_n="89">
 <translation translation="...">
+<chapter_n chapter_n="89">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9660,12 +9660,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="90">
-<chapter_n chapter_n="90">
 <translation translation="...">
+<chapter_n chapter_n="90">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9737,7 +9737,7 @@
 <orig orig="ⲟⲩⲛ">
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
-<pos pos="EXIST">
+<pos pos="PTC">
 ⲟⲩⲛ
 </pos>
 </lemma>
@@ -9866,12 +9866,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="91">
-<chapter_n chapter_n="91">
 <translation translation="...">
+<chapter_n chapter_n="91">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -10174,14 +10174,14 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="92">
-<chapter_n chapter_n="92">
 <translation translation="...">
+<chapter_n chapter_n="92">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -11036,12 +11036,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="93">
-<chapter_n chapter_n="93">
 <translation translation="...">
+<chapter_n chapter_n="93">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -11945,12 +11945,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="94">
-<chapter_n chapter_n="94">
 <translation translation="...">
+<chapter_n chapter_n="94">
 <orig_group orig_group="ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <entity entity="person">
@@ -12106,12 +12106,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="95">
-<chapter_n chapter_n="95">
 <translation translation="...">
+<chapter_n chapter_n="95">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12665,12 +12665,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="96">
-<chapter_n chapter_n="96">
 <translation translation="...">
+<chapter_n chapter_n="96">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13056,12 +13056,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="97">
-<chapter_n chapter_n="97">
 <translation translation="...">
+<chapter_n chapter_n="97">
 <orig_group orig_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <norm_group norm_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <orig orig="ⲉⲓⲥ">
@@ -13285,12 +13285,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="98">
-<chapter_n chapter_n="98">
 <translation translation="...">
+<chapter_n chapter_n="98">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13480,12 +13480,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="99">
-<chapter_n chapter_n="99">
 <translation translation="...">
+<chapter_n chapter_n="99">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -13798,12 +13798,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="100">
-<chapter_n chapter_n="100">
 <translation translation="...">
+<chapter_n chapter_n="100">
 <entity entity="abstract">
 <orig_group orig_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
@@ -14265,12 +14265,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="101">
-<chapter_n chapter_n="101">
 <translation translation="...">
+<chapter_n chapter_n="101">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -15145,12 +15145,12 @@
 </orig_group>
 </entity>
 </date_type>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="102">
-<chapter_n chapter_n="102">
 <translation translation="...">
+<chapter_n chapter_n="102">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -15429,12 +15429,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="103">
-<chapter_n chapter_n="103">
 <translation translation="...">
+<chapter_n chapter_n="103">
 <orig_group orig_group="ⲁϥⲕⲁⲑⲓⲥⲧⲁ">
 <norm_group norm_group="ⲁϥⲕⲁⲑⲓⲥⲧⲁ">
 <orig orig="ⲁ">
@@ -15727,12 +15727,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="104">
-<chapter_n chapter_n="104">
 <translation translation="...">
+<chapter_n chapter_n="104">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16407,12 +16407,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="105">
-<chapter_n chapter_n="105">
 <translation translation="...">
+<chapter_n chapter_n="105">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -16629,12 +16629,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="106">
-<chapter_n chapter_n="106">
 <translation translation="...">
+<chapter_n chapter_n="106">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16767,12 +16767,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="107">
-<chapter_n chapter_n="107">
 <translation translation="...">
+<chapter_n chapter_n="107">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16988,12 +16988,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="108">
-<chapter_n chapter_n="108">
 <translation translation="...">
+<chapter_n chapter_n="108">
 <orig_group orig_group="ⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <entity entity="time">
@@ -17301,12 +17301,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="109">
-<chapter_n chapter_n="109">
 <translation translation="...">
+<chapter_n chapter_n="109">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -18157,12 +18157,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="110">
-<chapter_n chapter_n="110">
 <translation translation="...">
+<chapter_n chapter_n="110">
 <orig_group orig_group="ⲧⲁⲓ">
 <norm_group norm_group="ⲧⲁⲓ">
 <entity entity="abstract">
@@ -18840,12 +18840,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="111">
-<chapter_n chapter_n="111">
 <translation translation="...">
+<chapter_n chapter_n="111">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -19140,12 +19140,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="112">
-<chapter_n chapter_n="112">
 <translation translation="...">
+<chapter_n chapter_n="112">
 <orig_group orig_group="ⲉⲧⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲉ">
@@ -19486,12 +19486,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="113">
-<chapter_n chapter_n="113">
 <translation translation="...">
+<chapter_n chapter_n="113">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -19628,12 +19628,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="114">
-<chapter_n chapter_n="114">
 <translation translation="...">
+<chapter_n chapter_n="114">
 <orig_group orig_group="ⲛⲇⲓⲁⲕⲟⲛⲟⲥ">
 <norm_group norm_group="ⲛⲇⲓⲁⲕⲟⲛⲟⲥ">
 <roleName_type roleName_type="ecclesiastical">
@@ -20326,12 +20326,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="115">
-<chapter_n chapter_n="115">
 <translation translation="...">
+<chapter_n chapter_n="115">
 <orig_group orig_group="ⲛⲉϩⲓⲟⲙⲉ">
 <norm_group norm_group="ⲛⲉϩⲓⲟⲙⲉ">
 <entity entity="person">
@@ -20623,12 +20623,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="116">
-<chapter_n chapter_n="116">
 <translation translation="...">
+<chapter_n chapter_n="116">
 <orig_group orig_group="ϩⲱⲥⲧⲉ">
 <norm_group norm_group="ϩⲱⲥⲧⲉ">
 <orig orig="ϩⲱⲥⲧⲉ">
@@ -20905,12 +20905,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="117">
-<chapter_n chapter_n="117">
 <translation translation="...">
+<chapter_n chapter_n="117">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -21397,12 +21397,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="118">
-<chapter_n chapter_n="118">
 <translation translation="...">
+<chapter_n chapter_n="118">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩϫⲓⲧⲟⲩ">
 <norm_group norm_group="ⲛⲉⲛⲧⲁⲩϫⲓⲧⲟⲩ">
 <entity entity="person">
@@ -21639,12 +21639,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="119">
-<chapter_n chapter_n="119">
 <translation translation="...">
+<chapter_n chapter_n="119">
 <orig_group orig_group="ⲛⲣⲉϥϫⲓⲛϭⲟⲛⲥ">
 <norm_group norm_group="ⲛⲣⲉϥϫⲓⲛϭⲟⲛⲥ">
 <orig orig="ⲛ">
@@ -21904,12 +21904,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="120">
-<chapter_n chapter_n="120">
 <translation translation="...">
+<chapter_n chapter_n="120">
 <orig_group orig_group="ϣⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ϣⲁⲥϣⲱⲡⲉ">
 <orig orig="ϣⲁ">
@@ -22224,12 +22224,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="121">
-<chapter_n chapter_n="121">
 <translation translation="...">
+<chapter_n chapter_n="121">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22481,12 +22481,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="122">
-<chapter_n chapter_n="122">
 <translation translation="...">
+<chapter_n chapter_n="122">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <orig orig="ⲕⲁⲛ">
@@ -22858,12 +22858,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="123">
-<chapter_n chapter_n="123">
 <translation translation="...">
+<chapter_n chapter_n="123">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -23217,12 +23217,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="124">
-<chapter_n chapter_n="124">
 <translation translation="...">
+<chapter_n chapter_n="124">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -23385,14 +23385,14 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="125">
-<chapter_n chapter_n="125">
 <translation translation="...">
+<chapter_n chapter_n="125">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -24124,12 +24124,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="126">
-<chapter_n chapter_n="126">
 <translation translation="...">
+<chapter_n chapter_n="126">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -24541,12 +24541,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="127">
-<chapter_n chapter_n="127">
 <translation translation="...">
+<chapter_n chapter_n="127">
 <orig_group orig_group="ⲕⲁⲓⲅⲁⲣ">
 <norm_group norm_group="ⲕⲁⲓⲅⲁⲣ">
 <orig orig="ⲕⲁⲓ">
@@ -24862,12 +24862,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="128">
-<chapter_n chapter_n="128">
 <translation translation="...">
+<chapter_n chapter_n="128">
 <orig_group orig_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <entity entity="abstract">
@@ -25295,12 +25295,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="129">
-<chapter_n chapter_n="129">
 <translation translation="...">
+<chapter_n chapter_n="129">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -25713,12 +25713,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="130">
-<chapter_n chapter_n="130">
 <translation translation="...">
+<chapter_n chapter_n="130">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
 <orig orig="ⲉϣⲱⲡⲉ">
@@ -25984,12 +25984,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="131">
-<chapter_n chapter_n="131">
 <translation translation="...">
+<chapter_n chapter_n="131">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -26621,12 +26621,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 <p_n p_n="132">
-<chapter_n chapter_n="132">
 <translation translation="...">
+<chapter_n chapter_n="132">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -28006,8 +28006,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </chapter_n>
+</translation>
 </p_n>
 </p_source>
 </meta>
