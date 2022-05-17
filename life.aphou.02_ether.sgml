@@ -4722,21 +4722,35 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ϫⲓⲛⲧⲁ">
-<norm_group norm_group="ϫⲓⲛⲧⲁ">
-<orig orig="ϫⲓⲛⲧⲁ">
-<norm norm="ϫⲓⲛⲧⲁ">
-<lemma lemma="ϫⲓⲛⲧⲁ">
-<pos pos="V">
-ϫⲓⲛⲧⲁ
+<orig_group orig_group="ϫⲓⲛⲧⲁⲛⲁⲓ">
+<norm_group norm_group="ϫⲓⲛⲛⲧⲁⲛⲁⲓ">
+<orig orig="ϫⲓ">
+<norm norm="ϫⲓⲛ">
+<lemma lemma="ϫⲓⲛ">
+<pos pos="CONJ">
+ϫⲓ
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲁⲓ">
-<norm_group norm_group="ⲛⲁⲓ">
+<orig orig="ⲛⲧ">
+<norm norm="ⲛⲧ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
+ⲛⲧ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
 <entity entity="abstract">
 <orig orig="ⲛⲁⲓ">
 <norm norm="ⲛⲁⲓ">
