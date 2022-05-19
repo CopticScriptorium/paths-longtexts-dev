@@ -14204,19 +14204,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲏⲣ">
-<norm norm="ⲧⲏⲣ">
-<lemma lemma="ⲧⲏⲣ">
-<pos pos="IMOD">
+<orig orig="ⲧⲏⲣϥ">
+<norm norm="ⲧⲏⲣϥ">
+<lemma lemma="ⲧⲏⲣϥ">
+<pos pos="N">
 ⲧⲏⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϥ">
-<norm norm="ϥ">
-<lemma lemma="ⲛⲧⲟϥ">
-<pos pos="PPERO">
 ϥ
 </pos>
 </lemma>
@@ -26497,19 +26489,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲏⲣ">
-<norm norm="ⲧⲏⲣ">
-<lemma lemma="ⲧⲏⲣ">
-<pos pos="IMOD">
+<orig orig="ⲧⲏⲣϥ">
+<norm norm="ⲧⲏⲣϥ">
+<lemma lemma="ⲧⲏⲣϥ">
+<pos pos="N">
 ⲧⲏⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϥ">
-<norm norm="ϥ">
-<lemma lemma="ⲛⲧⲟϥ">
-<pos pos="PPERO">
 ϥ
 </pos>
 </lemma>
