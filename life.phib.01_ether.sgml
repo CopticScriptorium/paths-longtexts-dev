@@ -1,7 +1,7 @@
 <meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" attributed_author="Papohe" author="unknown" Coptic_edition="PATHS, Orlandi (1975)" corpus="life.phib" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.phib.paths_ed:0-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Phib" next="urn:cts:copticLit:lives.phib.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Tagging has been only very lightly corrected." order="1" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/83'&gt;83&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/256'&gt;256&lt;/a&gt;" people="Apollos; David; Moses; Paul the Apostle" places="Dairut" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0256.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Phib part 1" translation="none" Trismegistos="none" version_date="2022-09-26" version_n="4.4.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
-<translation translation="...">
+<translation translation="The life of our holy father Apa Phib, the holy Anchorite, which Papohe, disciple of the blessed and perfect Apa Apollo, has documented.">
 <verse_n verse_n="1">
 <entity entity="abstract">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
@@ -203,7 +203,9 @@
 <norm norm="ϩⲓⲥⲧⲱⲣⲓⲍⲉ">
 <lemma lemma="ϩⲓⲥⲧⲱⲣⲓⲍⲉ">
 <pos pos="V">
+<lang lang="Greek">
 ϩⲓⲥⲧⲱⲣⲓⲍⲉ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -312,9 +314,11 @@
 <norm norm="ⲁⲡⲟⲗⲗⲱ">
 <lemma lemma="ⲁⲡⲟⲗⲗⲱ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <persName_type persName_type="saint">
 ⲁⲡⲟⲗⲗⲱ
 </persName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -384,7 +388,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="The blessed Apa Phib lay to rest on the 25th of the month of Paope, in the peace of God.">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲛⲧⲁϥⲙⲧⲟⲛ">
 <norm_group norm_group="ⲛⲧⲁϥⲙⲧⲟⲛ">
@@ -578,6 +582,7 @@
 </norm>
 </orig>
 <entity identity="Paopi" entity="time">
+<entity_identity entity_identity="Paopi">
 <orig orig="ⲉⲃⲟⲧ">
 <norm norm="ⲉⲃⲟⲧ">
 <lemma lemma="ⲉⲃⲟⲧ">
@@ -602,6 +607,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 </date_type>
 </entity>
@@ -688,7 +694,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="May his blessings be with us! Amen.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲉⲣⲉⲛϥⲥⲙⲟⲩ">
 <norm_group norm_group="ⲉⲣⲉⲛⲉϥⲥⲙⲟⲩ">
@@ -803,7 +809,7 @@
 </p_n>
 <p_n p_n="1">
 <chapter_n chapter_n="1">
-<translation translation="...">
+<translation translation="Truly the word of David the holy psalmist, who shouts “The righteous one will be remembered forever!” is true, as is">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲁⲗⲏⲑⲱⲥ">
 <norm_group norm_group="ⲁⲗⲏⲑⲱⲥ">
@@ -892,6 +898,7 @@
 </norm>
 </orig>
 <entity identity="David" entity="person">
+<entity_identity entity_identity="David">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -905,7 +912,9 @@
 <norm norm="ϩⲩⲙⲛⲟⲇⲟⲥ">
 <lemma lemma="ϩⲩⲙⲛⲟⲇⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲩⲙⲛⲟⲇⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -951,6 +960,7 @@
 </norm_group>
 </orig_group>
 </persName_type>
+</entity_identity>
 </entity>
 </entity>
 <orig_group orig_group="ⲉϥⲱϣ">
@@ -1251,7 +1261,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“The righteous one will grow tall like a palm tree, and expand like the cedars in Lebanon.” This was fulfilled for the holy one.">
 <verse_n verse_n="2">
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="Ps.91 , 13">
@@ -1646,7 +1656,7 @@
 </p_n>
 <p_n p_n="2">
 <chapter_n chapter_n="2">
-<translation translation="...">
+<translation translation="There was a brother whose name was Apa Phib, a native of Sinemoun, within the borders of Hermopolis.">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲛⲉⲟⲩⲛⲟⲩⲥⲟⲛ">
 <norm_group norm_group="ⲛⲉⲟⲩⲛⲟⲩⲥⲟⲛ">
@@ -1928,7 +1938,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="He came to my holy father Apa Apollo, and lived as a monk with him.">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲁϥⲉⲓ">
 <norm_group norm_group="ⲁϥⲉⲓ">
@@ -2123,7 +2133,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="They remained with one another for about five years.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁⲩϭⲱ">
 <norm_group norm_group="ⲁⲩϭⲱ">
@@ -2263,7 +2273,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Afterwards, the head of the church had me bring them both, and he left them with one another in the mountain of Tetkooh, and went on until the day he lay to rest.">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲙⲛⲛⲥⲱⲥ">
 <norm_group norm_group="ⲙⲛⲛⲥⲱⲥ">
@@ -2675,7 +2685,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="They both lived with one another, acting with great conduct, there being neither a man able to count them nor able to speak about their abundance.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲛⲧⲟⲟⲩ">
 <norm_group norm_group="ⲛⲧⲟⲟⲩ">
@@ -3109,7 +3119,7 @@
 </p_n>
 <p_n p_n="3">
 <chapter_n chapter_n="3">
-<translation translation="...">
+<translation translation="Listen to me, my beloved brothers in the Lord, and I will tell you about the mighty works and the living doctrines of our blessed father Apa Apollo, man of God,">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
@@ -3515,7 +3525,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="who has offered up his body in holy sacrifice to God,">
 <verse_n verse_n="2">
 <entity entity="person">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲧⲁⲗⲟ">
@@ -3730,7 +3740,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="who has become a dwelling place to the Father, and a resting place to the Son, and a gathering place to the Holy Spirit.">
 <verse_n verse_n="3">
 <entity entity="person">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥϣⲱⲡⲉ">
@@ -4100,7 +4110,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="I, Papohe the steward, the least of men, was a young child, a little one in the house of my fathers.">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -4379,7 +4389,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="God sent his messenger, and brought me out of the house of my father, and guided me on the ways of righteousness, and brought me to the good life-saving shepherd, and I moored at the harbor of salvation, in which there was no robber, which was truly our beloved father, Apa Apollo the Israelite, in whom there was no deception.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲁⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ⲁⲡⲛⲟⲩⲧⲉ">
@@ -5276,7 +5286,7 @@
 </p_n>
 <p_n p_n="4">
 <chapter_n chapter_n="4">
-<translation translation="...">
+<translation translation="He was in this mountain prior to the Lord revealing his glory down upon him. I knocked on the door, and he came out to me immediately, with a smile on his face.">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲉϥϣⲟⲟⲡ">
@@ -5782,7 +5792,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="For my father was gentle towards any good person, very good in every aspect before God and men.">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲉⲛⲉⲟⲩⲣⲙⲣⲁϣ">
 <norm_group norm_group="ⲉⲛⲉⲟⲩⲣⲙⲣⲁϣ">
@@ -6130,7 +6140,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="He took me in gladly, and made me a monk alongside him, and I was worthy of staying in the shade of his holy prayers and his fatherhood.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁϥϣⲓⲧ">
 <norm_group norm_group="ⲁϥϣⲓⲧ">
@@ -6482,7 +6492,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="And there was our beloved brother, Apa Phif the pious one, with him.">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲉⲛⲉϥⲙⲙⲁⲩ">
 <norm_group norm_group="ⲉⲛⲉϥⲙⲙⲁⲩ">
@@ -6712,7 +6722,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Both of them lived their lives with great discipline and great innumerable acts of conduct.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲛⲧⲟⲟⲩ">
 <norm_group norm_group="ⲛⲧⲟⲟⲩ">
@@ -6994,7 +7004,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Apa Phib was a man who loved the quiet life, desiring to stay in the desert all the time, living his life.">
 <verse_n verse_n="6">
 <entity entity="person">
 <orig_group orig_group="ⲁⲡⲁ">
@@ -7322,7 +7332,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="My father was a peaceful man, who loved the entire image of God as one individual person.">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
@@ -7653,7 +7663,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="The brothers were gathered around him like bees, sweet towards their mother, listening to the words of life and his holy commandments, amazed at the mighty works of God which happened through our father.">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲛⲉⲥⲛⲏⲩ">
 <norm_group norm_group="ⲛⲉⲥⲛⲏⲩ">
@@ -8267,7 +8277,7 @@
 </p_n>
 <p_n p_n="5">
 <chapter_n chapter_n="5">
-<translation translation="...">
+<translation translation="I spent a year with them on this mountain. Afterwards, we journeyed out of that place, and continued to journey through all the mountains like wild animals.">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲁⲓⲣⲟⲩⲣⲟⲙⲡⲉ">
 <norm_group norm_group="ⲁⲓⲣⲟⲩⲣⲟⲙⲡⲉ">
@@ -8700,7 +8710,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="So any place wherein we'd stay and the brothers heard about my father, they'd come to him and learn the rules of divinity through him.">
 <verse_n verse_n="2">
 <entity entity="place">
 <orig_group orig_group="ⲙⲁ">
@@ -9088,7 +9098,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="And he spoke to them about the suffering in their souls, consoling all of them with his sweet words, as they glorified God.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁⲩⲱⲛⲉϥϫⲱ">
 <norm_group norm_group="ⲁⲩⲱⲛⲉϥϫⲱ">
@@ -9428,7 +9438,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="I spent a year with him, through my father.">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁⲓⲣⲟⲩⲣⲟⲙⲡⲉ">
 <norm_group norm_group="ⲁⲓⲣⲟⲩⲣⲟⲙⲡⲉ">
@@ -9610,7 +9620,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="After these things still, Apa Phib was a man who loved the quiet life all the time.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
@@ -9849,7 +9859,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="My father was an ascetic.">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
@@ -9953,7 +9963,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="I too went along, tending to worldly needs, taking care of the holy ones' errands. Because of this, he called me Papohe the Steward.">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -10450,7 +10460,7 @@
 </p_n>
 <p_n p_n="6">
 <chapter_n chapter_n="6">
-<translation translation="...">
+<translation translation="One day, as the three of us were gathered together glorifying God, my father turned to Apa Phib with a cheerful face and said to him,">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
@@ -10945,7 +10955,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“I see you, O my son, loving the quiet life and hating the empty glory of men.">
 <verse_n verse_n="2">
 <orig_group orig_group="ϯⲛⲁⲩ">
 <norm_group norm_group="ϯⲛⲁⲩ">
@@ -11241,7 +11251,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="For it is written in the gospel that no city can hide atop a mountain, nor is a lamp lit and put under a bushel, but rather it is put upon the lampstand, and it illuminates all those who are in the house. So you, O my son, are the hidden lamp, who will be offered up upon the lampstand and illuminate all those who are in the house, and scent will scatter out of the entire world along with a gift of forgiveness on your day this year.”">
 <verse_n verse_n="3">
 <orig_group orig_group="ϥⲥⲏϩ">
 <norm_group norm_group="ϥⲥⲏϩ">
@@ -11588,8 +11598,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲁⲟⲩ">
-<norm_group norm_group="ϩⲁⲟⲩ">
+<orig_group orig_group="ϩⲁⲟⲩϣⲓ">
+<norm_group norm_group="ϩⲁⲟⲩϣⲓ">
 <orig orig="ϩⲁ">
 <norm norm="ϩⲁ">
 <lemma lemma="ϩⲁ">
@@ -11609,10 +11619,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ϣⲓ">
-<norm_group norm_group="ϣⲓ">
 <orig orig="ϣⲓ">
 <norm norm="ϣⲓ">
 <lemma lemma="ϣⲓ">
@@ -11622,9 +11628,9 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
-</entity>
 <orig_group orig_group=",">
 <norm_group norm_group=",">
 <orig orig=",">
@@ -11653,8 +11659,17 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϣⲁⲩⲕⲁⲁϥ">
-<norm_group norm_group="ϣⲁⲩⲕⲁⲁϥ">
+<orig_group orig_group="ⲉϣⲁⲩⲕⲁⲁϥ">
+<norm_group norm_group="ⲉϣⲁⲩⲕⲁⲁϥ">
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CFOC">
+ⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig orig="ϣⲁ">
 <norm norm="ϣⲁ">
 <lemma lemma="ϣⲁⲣⲉ">
@@ -12482,7 +12497,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Immediately Apa Phib kneeled and begged to my father. My father then answered him saying, “Get up, my son.">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
@@ -12920,7 +12935,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="It is not I who speaks, but rather the Holy Spirit, the one who prophesies about whichever things will happen before they happen.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲛⲁⲛⲟⲕ">
 <norm_group norm_group="ⲛⲁⲛⲟⲕ">
@@ -13220,7 +13235,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="So now, keep this secret until the moment it's revealed.">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
@@ -13399,7 +13414,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="For it is written in the Deuteronomy of Moses that whatever is hidden belongs to the Lord your God,">
 <verse_n verse_n="7">
 <orig_group orig_group="ϥⲥⲏϩ">
 <norm_group norm_group="ϥⲥⲏϩ">
@@ -13488,7 +13503,9 @@
 <lemma lemma="ⲙⲱⲩⲥⲏⲥ">
 <pos pos="NPROP">
 <lang lang="Hebrew">
+<entity_identity entity_identity="Moses">
 ⲙⲱⲩⲥⲏⲥ
+</entity_identity>
 </lang>
 </pos>
 </lemma>
@@ -13646,7 +13663,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="and what is visible belongs to you and your children.”">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲛⲉⲧⲟⲩⲟⲛϩ">
 <norm_group norm_group="ⲛⲉⲧⲟⲩⲟⲛϩ">
@@ -13816,7 +13833,7 @@
 </p_n>
 <p_n p_n="7">
 <chapter_n chapter_n="7">
-<translation translation="...">
+<translation translation="Apa Phib answered and said,">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -13955,7 +13972,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“Permit me to tell you something without your getting angry with me. I truly wouldn't speak condescendingly or arrogantly,">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲕⲉⲗⲉⲩⲉ">
 <norm_group norm_group="ⲕⲉⲗⲉⲩⲉ">
@@ -14360,7 +14377,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="but rather, I'm impressed at the Holy Spirit that's among God's glorious man, who has them getting along with one another in their conversations.” The blessed Apa Apollo said to him, “Say your piece, my son.”">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
@@ -14906,7 +14923,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Apa Phib answered saying,">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -15061,7 +15078,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“One day it happened to me, when I was young in my parents' house, tending to their sheep in the field, that an elderly saint of God passed by me through the field.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
@@ -15542,7 +15559,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="For evening had come, and I led him in to where the sheep were, and I kept pleading to him so that he would eat some bread.">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲛⲉⲁⲣⲟⲩϩⲉ">
 <norm_group norm_group="ⲛⲉⲁⲣⲟⲩϩⲉ">
@@ -15950,7 +15967,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="He was persuaded by me, and ate the bread.">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
@@ -16101,7 +16118,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="I did a small act of good for him, and he rested with me until the morning.">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲁⲓⲣⲟⲩⲕⲟⲩⲓ">
 <norm_group norm_group="ⲁⲓⲣⲟⲩⲕⲟⲩⲓ">
@@ -16317,7 +16334,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="When morning came and he was about to journey on, I bowed to him so that he would bless us. And he, too, said to me that same thing you had told me: ‘A day of forgiveness shall happen in your name.’">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϩⲧⲟⲟⲩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϩⲧⲟⲟⲩⲉ">
@@ -16492,8 +16509,8 @@
 </orig>
 <orig orig="ⲡⲁϩⲧ">
 <norm norm="ⲡⲁϩⲧ">
-<lemma lemma="ⲡⲱϩⲧ">
-<pos pos="V">
+<lemma lemma="ⲡⲱϩⲧ_ⲁⲛⲟⲕ">
+<pos pos="V_PPERO">
 ⲡⲁϩⲧ
 </pos>
 </lemma>
@@ -16523,8 +16540,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲉⲣⲟⲓ">
-<norm_group norm_group="ϫⲉⲉⲣⲟⲓ">
+<orig_group orig_group="ϫⲉⲉϥⲉⲥⲙⲟⲩ">
+<norm_group norm_group="ϫⲉⲉϥⲉⲥⲙⲟⲩ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -16534,7 +16551,29 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲣⲟ">
+<orig orig="ⲉϥⲉ">
+<norm norm="ⲉϥⲉ">
+<lemma lemma="ⲉⲣⲉ_ⲛⲧⲟϥ">
+<pos pos="AOPT_PPERS">
+ⲉϥⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲥⲙⲟⲩ">
+<norm norm="ⲥⲙⲟⲩ">
+<lemma lemma="ⲥⲙⲟⲩ">
+<pos pos="V">
+ⲥⲙⲟⲩ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲣⲟⲛ̣">
+<norm_group norm_group="ⲉⲣⲟⲛ">
+<orig orig="ⲉⲣⲟⲛ">
 <norm norm="ⲉⲣⲟ">
 <lemma lemma="ⲉ">
 <pos pos="PREP">
@@ -16543,11 +16582,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲓ">
-<norm norm="ⲓ">
-<lemma lemma="ⲁⲛⲟⲕ">
+<orig orig="ⲛ̣">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERO">
-ⲓ
+ⲛ̣
 </pos>
 </lemma>
 </norm>
@@ -16984,7 +17023,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="So now, at this point, I'm shocked, since I don't know what will happen.">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
@@ -17193,7 +17232,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="On one particular day I had become worthy, and the Lord called me to your fatherhood.">
 <verse_n verse_n="11">
 <entity entity="time">
 <orig_group orig_group="ⲟⲩ">
@@ -17443,7 +17482,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="So in whatever way it pleases the Lord, may his good will happen.”">
 <verse_n verse_n="12">
 <orig_group orig_group="ⲛⲑⲉ">
 <norm_group norm_group="ⲛⲧϩⲉ">
@@ -17669,7 +17708,7 @@
 </p_n>
 <p_n p_n="8">
 <chapter_n chapter_n="8">
-<translation translation="...">
+<translation translation="The gladiator of Christ, the victor to the left and right, Apa Apollo, answered,">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -17916,7 +17955,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“Listen to me, and I will tell you these things,">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
@@ -18054,7 +18093,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="for it is the Lord who has spoken to me. I myself would not utter it with any pride, but rather would tell you what will happen to us together.">
 <verse_n verse_n="3">
 <entity entity="person">
 <orig_group orig_group="ⲡϫⲥ">
@@ -18493,7 +18532,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="My savior said to me, ‘This word which Paul said, written to the Corinthians:">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -18540,7 +18579,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛϭⲓⲡⲁⲥ︤ⲏ︦ⲣ︥">
-<norm_group norm_group="ⲛϭⲓⲡⲁⲥⲏⲣ">
+<norm_group norm_group="ⲛϭⲓⲡⲁⲥⲱⲧⲏⲣ">
 <orig orig="ⲛϭⲓ">
 <norm norm="ⲛϭⲓ">
 <lemma lemma="ⲛϭⲓ">
@@ -18551,20 +18590,22 @@
 </norm>
 </orig>
 <entity entity="person">
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡ
+<orig orig="ⲡⲁ">
+<norm norm="ⲡⲁ">
+<lemma lemma="ⲡⲁ">
+<pos pos="PPOS">
+ⲡⲁ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁⲥ︤ⲏ︦ⲣ︥">
-<norm norm="ⲁⲥⲏⲣ">
-<lemma lemma="ⲁⲥⲏⲣ">
+<orig orig="ⲥ︤ⲏ︦ⲣ︥">
+<norm norm="ⲥⲱⲧⲏⲣ">
+<lemma lemma="ⲥⲱⲧⲏⲣ">
 <pos pos="N">
-ⲁⲥ︤ⲏ︦ⲣ︥
+<lang lang="Greek">
+ⲥ︤ⲏ︦ⲣ︥
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -18631,7 +18672,9 @@
 <pos pos="NPROP">
 <lang lang="Greek">
 <persName_type persName_type="biblical">
+<entity_identity entity_identity="Paul the Apostle">
 ⲡⲁⲩⲗⲟⲥ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -18707,6 +18750,7 @@
 </norm>
 </orig>
 <entity identity="First Epistle to the Corinthians" entity="abstract">
+<entity_identity entity_identity="First Epistle to the Corinthians">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -18725,6 +18769,7 @@
 </lemma>
 </norm>
 </orig>
+</entity_identity>
 </entity>
 </norm_group>
 </orig_group>
@@ -18758,7 +18803,7 @@
 </translation>
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="I Cor. 16 , 12">
-<translation translation="...">
+<translation translation="“Now concerning Apollos, the brother, I strongly urged him to come with you; and it was perhaps not his plan to come to you now,">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲉⲧⲃⲉ">
 <norm_group norm_group="ⲉⲧⲃⲉ">
@@ -18780,7 +18825,9 @@
 <norm norm="ⲁⲡⲟⲗⲗⲱ">
 <lemma lemma="ⲁⲡⲟⲗⲗⲱ">
 <pos pos="NPROP">
+<entity_identity entity_identity="Apollos">
 ⲁⲡⲟⲗⲗⲱ
+</entity_identity>
 </pos>
 </lemma>
 </norm>
@@ -19132,7 +19179,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="but he is coming if he finds the time.”">
 <verse_n verse_n="6">
 <orig_group orig_group="ϥⲛⲏⲩ">
 <norm_group norm_group="ϥⲛⲏⲩ">
@@ -19243,7 +19290,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Because of this, the holy spirit continued begging my father, ‘Let him come now.’">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
@@ -19473,7 +19520,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="My father answered, ‘He is coming if he finds the time.’ So now, my children, we are prepared to deal with anything which the Lord would task us with. May his will happen. Glory to him forever and ever, Amen.”">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -20063,7 +20110,7 @@
 </p_n>
 <p_n p_n="9">
 <chapter_n chapter_n="9">
-<translation translation="...">
+<translation translation="After all these things, we arrived at a deserted mountain opposite a village called Tahruj, and found rocky ravines there. We made small habitations, and dwelled in them, and we had conducted ourselves with great conduct.">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
@@ -20286,6 +20333,7 @@
 </norm>
 </orig>
 <entity identity="Dairut" entity="place">
+<entity_identity entity_identity="Dairut">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -20335,6 +20383,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 </entity>
 </entity>
@@ -20744,7 +20793,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="When all the brothers heard about my father being there, they came to him and listened to the words of life from his mouth.">
 <verse_n verse_n="2">
 <entity entity="person">
 <orig_group orig_group="ⲛⲉⲥⲛⲏⲩ">
@@ -21164,7 +21213,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="The place was deserted, with no water in it.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲡⲙⲁ">
 <norm_group norm_group="ⲡⲙⲁ">
@@ -21321,7 +21370,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="My father said to me,">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -21406,7 +21455,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“My son Papohe, dig into the ground, and we'll see that God will give us water for the brothers heading to us.”">
 <verse_n verse_n="5">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁϣⲏⲣⲉ">
@@ -21726,7 +21775,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="And when we dug down about four cubits, a fountain of good and very sweet water sprang up to drink from.">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -22062,7 +22111,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="And we spent two years drinking from it along with those heading to us. My father then said to me,">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -22371,7 +22420,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="“Let's make a well, and leave it for the brothers heading to us.">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲙⲁⲣⲛⲧⲁⲙⲓⲟ">
 <norm_group norm_group="ⲙⲁⲣⲛⲧⲁⲙⲓⲟ">
@@ -22569,7 +22618,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="The Lord has already told us: ‘Any place in which you'll reside, I will leave it lasting forever.’”">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲁⲡϫ︤ⲥ︥">
 <norm_group norm_group="ⲁⲡϫⲟⲉⲓⲥ">
@@ -22909,7 +22958,7 @@
 </p_n>
 <p_n p_n="10">
 <chapter_n chapter_n="10">
-<translation translation="...">
+<translation translation="When we made it, we journeyed out of that place to go to a place in the south called Apa Pamin.">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲧⲁⲙⲓⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲛⲧⲁⲙⲓⲟⲥ">
@@ -23278,7 +23327,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="And while still journeying, we came to the mountain of Tetkooh, this mountain which God appointed his blessing of eternal life.">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲉⲧⲉⲓ">
 <norm_group norm_group="ⲉⲧⲓ">
@@ -23637,7 +23686,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="We lodged with pious brothers who were in that mountain, and they did great acts of good for us.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁⲛϭⲟⲓⲗⲉ">
 <norm_group norm_group="ⲁⲛϭⲟⲓⲗⲉ">
@@ -23957,7 +24006,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="Our blessed brother Apa Phif lay to rest there on the 25th of Paope at the 3rd hour of the day, and we were very saddened, heartbroken for him with great grief.">
 <verse_n verse_n="4">
 <entity entity="person">
 <orig_group orig_group="ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ">
@@ -24540,37 +24589,33 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="We buried him there.">
 <verse_n verse_n="5">
-<orig_group orig_group="ⲁⲛ">
-<norm_group norm_group="ⲁⲛ">
-<orig orig="ⲁⲛ">
-<norm norm="ⲁⲛ">
-<lemma lemma="ⲁⲛ">
-<pos pos="NEG">
-ⲁⲛ
+<orig_group orig_group="ⲁⲛⲧⲱⲙⲥ">
+<norm_group norm_group="ⲁⲛⲧⲱⲙⲥ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲧⲱⲙⲥ">
-<norm_group norm_group="ⲧⲱⲙⲥ">
-<orig orig="ⲧⲱⲙ">
-<norm norm="ⲧⲱⲙ">
-<lemma lemma="ⲧⲱⲙ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧⲱⲙⲥ">
+<norm norm="ⲧⲱⲙⲥ">
+<lemma lemma="ⲧⲱⲙⲥ">
 <pos pos="V">
-ⲧⲱⲙ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲥ">
-<norm norm="ⲥ">
-<lemma lemma="ⲛⲧⲟⲥ">
-<pos pos="PPERO">
-ⲥ
+ⲧⲱⲙⲥ
 </pos>
 </lemma>
 </norm>
