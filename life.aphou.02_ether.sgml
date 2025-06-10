@@ -1,9 +1,9 @@
-<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" arabic_translation="Philippe Zaher" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:62-132" entities="automatic" identities="checked" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="2" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths_manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" people="Devil; Isaiah; Jesus; Jethro (biblical figure); Moses; Pope Theophilus of Alexandria" placeName="This" places="Midian; Oxyrhynchus" previous="urn:cts:copticLit:lives.aphou.paths_ed:0-61" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 2" translation="none" Trismegistos="108414" version_date="2022-09-26" version_n="4.4.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Philippe Zaher, Amir Zeldes" arabic_translation="Philippe Zaher" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:62-132" entities="automatic" identities="checked" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="2" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths_manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" people="Devil; Isaiah; Jesus; Jethro (biblical figure); Moses; Pope Theophilus of Alexandria" placeName="This" places="Midian; Oxyrhynchus" previous="urn:cts:copticLit:lives.aphou.paths_ed:0-61" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 2" translation="none" Trismegistos="108414" version_date="-" version_n="6.2.0">
 <p_source p_source="PATHS">
 <p_n p_n="62">
 <translation translation="And immediately he wrote to all the lands and he repudiated the previous statement that it was faulty and it was without understanding that we thought it up.">
 <chapter_n chapter_n="62">
-<arabic arabic="وللوقت اَعَلن في كل كورة متبرأً من تلك العبارة الخاطئة، &quot;وانما بدون فهم اعتقدنا بها&quot;">
+<arabic arabic="وللوقت اَعَلن في كل كورة متبرأً من تلك العبارة الخاطئة، 'وانما بدون فهم اعتقدنا بها'">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -401,7 +401,7 @@
 <p_n p_n="63">
 <translation translation="Afterwards, the blessed one beseeched him: tell me, what has been your life and where are you from, of which people. For I see your appearance like that of a crazy person,">
 <chapter_n chapter_n="63">
-<arabic arabic="وبعد ئلك استحلف (أي رئيس الأساقفة) الطوباوي (أفو) قائلاً: &quot;اخبرني ما هي سيرتك؟ ومن أين موطنك في جنسك؟ لأني أرى هيئتك مثل أولئك العوام">
+<arabic arabic="وبعد ئلك استحلف (أي رئيس الأساقفة) الطوباوي (أفو) قائلاً: 'اخبرني ما هي سيرتك؟ ومن أين موطنك في جنسك؟ لأني أرى هيئتك مثل أولئك العوام">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <orig orig="ⲙⲛⲛⲥⲁ">
@@ -859,7 +859,7 @@
 <p_n p_n="64">
 <translation translation="But on the other hand I hear your words which are truly exalted beyond those of a sage.">
 <chapter_n chapter_n="64">
-<arabic arabic="لكني أيضًا اسمع كلامك أرفع من كلام الحكماء&quot;">
+<arabic arabic="لكني أيضًا اسمع كلامك أرفع من كلام الحكماء'">
 <orig_group orig_group="ϯⲥⲱⲧⲙ">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
@@ -1053,7 +1053,7 @@
 <p_n p_n="65">
 <translation translation="He answered: I have wished to live like a monk, but I am far from that honor">
 <chapter_n chapter_n="65">
-<arabic arabic="اجاب قائلاً: &quot; لقد أردتُ أن احيا كراهب، إلا أنني بعيد عن تلك الكرامة، ">
+<arabic arabic="اجاب قائلاً: ' لقد أردتُ أن احيا كراهب، إلا أنني بعيد عن تلك الكرامة، ">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -2770,7 +2770,7 @@
 <p_n p_n="70">
 <translation translation="...">
 <chapter_n chapter_n="70">
-<arabic arabic="لكنك أظهرت البساطة التي في المسيح، مثل موسى العظيم، الذي أطاع يثرون كاهن مديان، هذا بالحقيقة الذي قاله المخلص لآبائنا الرسل : &quot;إن (لم) ترجعوا وتصيروا مثل الأولاد الصغار&quot;">
+<arabic arabic="لكنك أظهرت البساطة التي في المسيح، مثل موسى العظيم، الذي أطاع يثرون كاهن مديان، هذا بالحقيقة الذي قاله المخلص لآبائنا الرسل : 'إن (لم) ترجعوا وتصيروا مثل الأولاد الصغار'">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -3455,7 +3455,7 @@
 <p_n p_n="71">
 <translation translation="...">
 <chapter_n chapter_n="71">
-<arabic arabic="أما أنتَ فاعترفتَ بالحقيقة أنك رجعتَ بالكلية عن الكبرياء إلى النقاوة وبساطة الطفولة&quot;، بعد هذا إلتمس (اي رئيس الأساقفة) منه أن يبقى معه بضع أيام.">
+<arabic arabic="أما أنتَ فاعترفتَ بالحقيقة أنك رجعتَ بالكلية عن الكبرياء إلى النقاوة وبساطة الطفولة'، بعد هذا إلتمس (اي رئيس الأساقفة) منه أن يبقى معه بضع أيام.">
 <orig_group orig_group="ⲛⲧⲟⲕ">
 <norm_group norm_group="ⲛⲧⲟⲕ">
 <orig orig="ⲛⲧⲟⲕ">
@@ -3973,7 +3973,7 @@
 <p_n p_n="72">
 <translation translation="...">
 <chapter_n chapter_n="72">
-<arabic arabic="أما هو فتوسل قائلاً: &quot; هذا ليس في استطاعتي&quot;، وهكذا خرج من لدنه بسلام وإكرام">
+<arabic arabic="أما هو فتوسل قائلاً: ' هذا ليس في استطاعتي'، وهكذا خرج من لدنه بسلام وإكرام">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -5619,7 +5619,7 @@
 <p_n p_n="77">
 <translation translation="...">
 <chapter_n chapter_n="77">
-<arabic arabic="أجاب قائلاً: &quot;أفو راهب من مدينتكم، احضروه إليَّ، لأرسمه لكم اسقفًا&quot;. فأجاب القسوس قائلين نحن لا نعرف راهبًا في ايبارشيتنا (يُدعى) أفو، كما أننا نعتقد أن لا يوجد احد بيننا يعرفه&quot;.">
+<arabic arabic="أجاب قائلاً: 'أفو راهب من مدينتكم، احضروه إليَّ، لأرسمه لكم اسقفًا'. فأجاب القسوس قائلين نحن لا نعرف راهبًا في ايبارشيتنا (يُدعى) أفو، كما أننا نعتقد أن لا يوجد احد بيننا يعرفه'.">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6405,7 +6405,7 @@
 <p_n p_n="78">
 <translation translation="...">
 <chapter_n chapter_n="78">
-<arabic arabic="فأجاب رئيس الأساقفة أيضًا قائلاً لهم: &quot;إذا لم تُحضروه إليَّ فلن اشرطن لكم أحدًا الآن&quot;.">
+<arabic arabic="فأجاب رئيس الأساقفة أيضًا قائلاً لهم: 'إذا لم تُحضروه إليَّ فلن اشرطن لكم أحدًا الآن'.">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -7534,7 +7534,7 @@
 <p_n p_n="83">
 <translation translation="...">
 <chapter_n chapter_n="83">
-<arabic arabic="فأجاب الذي يعرفه منهم: &quot;نعم أنا اعرفه قبل اليوم، حيث اعتدتُ أن أجده في البرية مقيمًا بين البقر الوحشي&quot;.">
+<arabic arabic="فأجاب الذي يعرفه منهم: 'نعم أنا اعرفه قبل اليوم، حيث اعتدتُ أن أجده في البرية مقيمًا بين البقر الوحشي'.">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -7982,7 +7982,7 @@
 <p_n p_n="84">
 <translation translation="...">
 <chapter_n chapter_n="84">
-<arabic arabic="وللوقت أمروا أن يكمن له الصيادون حتى يمسكوه، لأن الأخ اعلمهم : &quot;إذا ما عَلِم هذا؛ أنكم تبحثون عنه لتجعلوه اسقفًا فسوف يهرب&quot;">
+<arabic arabic="وللوقت أمروا أن يكمن له الصيادون حتى يمسكوه، لأن الأخ اعلمهم : 'إذا ما عَلِم هذا؛ أنكم تبحثون عنه لتجعلوه اسقفًا فسوف يهرب'">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -9025,7 +9025,7 @@
 <p_n p_n="87">
 <translation translation="...">
 <chapter_n chapter_n="87">
-<arabic arabic="فتكلَّم معهم: &quot;ما شأنكم بي لتمسكوني؟ أنا أيضًا انسان مثلكم">
+<arabic arabic="فتكلَّم معهم: 'ما شأنكم بي لتمسكوني؟ أنا أيضًا انسان مثلكم">
 <orig_group orig_group="ⲁϥϣⲁϫⲉ">
 <norm_group norm_group="ⲁϥϣⲁϫⲉ">
 <orig orig="ⲁ">
@@ -9321,7 +9321,7 @@
 <p_n p_n="88">
 <translation translation="...">
 <chapter_n chapter_n="88">
-<arabic arabic="فإن كنتم تصطادون حيوانات، فهوذا بقروحشي قد اصطدتموه&quot;">
+<arabic arabic="فإن كنتم تصطادون حيوانات، فهوذا بقروحشي قد اصطدتموه'">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -9452,7 +9452,7 @@
 <p_n p_n="89">
 <translation translation="...">
 <chapter_n chapter_n="89">
-<arabic arabic="قالوا له: &quot; نحن نعرف أنك انسان، ونحن نبحث عنك، لأجل هذا امسكناك&quot;">
+<arabic arabic="قالوا له: ' نحن نعرف أنك انسان، ونحن نبحث عنك، لأجل هذا امسكناك'">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9707,7 +9707,7 @@
 <p_n p_n="90">
 <translation translation="...">
 <chapter_n chapter_n="90">
-<arabic arabic="قال لهم: &quot;أنا إذًا مَنْ تطلبونه، كفوا عن هذا (أي البقر الوحشي) ليذهب&quot;.">
+<arabic arabic="قال لهم: 'أنا إذًا مَنْ تطلبونه، كفوا عن هذا (أي البقر الوحشي) ليذهب'.">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10227,7 +10227,7 @@
 <p_n p_n="92">
 <translation translation="...">
 <chapter_n chapter_n="92">
-<arabic arabic="فلما رآه فرح جدًا، وعندما اخبروه عن  الطريقة التي كيف امسكوه بها، تعجب جدًا وقال: &quot;لقد أتيتَ يا أفو، تعال أنت أيضًا لتتألم مع الأعضاء شركائك . أنت تجاهد بمفردك حتى اليوم، لتخلص، الآن أيضًا ارجع وثبِّت اخوتك وجاهد مع نفسك عنهم&quot;">
+<arabic arabic="فلما رآه فرح جدًا، وعندما اخبروه عن  الطريقة التي كيف امسكوه بها، تعجب جدًا وقال: 'لقد أتيتَ يا أفو، تعال أنت أيضًا لتتألم مع الأعضاء شركائك . أنت تجاهد بمفردك حتى اليوم، لتخلص، الآن أيضًا ارجع وثبِّت اخوتك وجاهد مع نفسك عنهم'">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -11106,7 +11106,7 @@
 <p_n p_n="93">
 <translation translation="...">
 <chapter_n chapter_n="93">
-<arabic arabic="أجاب أنبا أفو: &quot;أنا، من أنا، أيها السيد، سيدي، حتى تقول هذا وتتكلم معي هكذا؟ لأني أنا رجل ضعيف، وبسبب ضعفي هربتُ من مخالطة البشرلكي لا اسير في الأمواج المضطربة لتلك الحياة. الآن أستحلفك بالرب ألاتُجبرني ، لأن هذا الأمر غير ممكن لي&quot;">
+<arabic arabic="أجاب أنبا أفو: 'أنا، من أنا، أيها السيد، سيدي، حتى تقول هذا وتتكلم معي هكذا؟ لأني أنا رجل ضعيف، وبسبب ضعفي هربتُ من مخالطة البشرلكي لا اسير في الأمواج المضطربة لتلك الحياة. الآن أستحلفك بالرب ألاتُجبرني ، لأن هذا الأمر غير ممكن لي'">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -12207,7 +12207,7 @@ AOPT_PPERS
 <p_n p_n="95">
 <translation translation="...">
 <chapter_n chapter_n="95">
-<arabic arabic="وقال له: &quot; حيٌّ هو الرب، إن لم تحلني من القسم الذي ربطتني به،، فسوف اجعلك غريبًا عن كل الدعوة المسيحية للرب، في ذلك الدهر و(الدهر) الآتي&quot;">
+<arabic arabic="وقال له: ' حيٌّ هو الرب، إن لم تحلني من القسم الذي ربطتني به،، فسوف اجعلك غريبًا عن كل الدعوة المسيحية للرب، في ذلك الدهر و(الدهر) الآتي'">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12768,7 +12768,7 @@ AOPT_PPERS
 <p_n p_n="96">
 <translation translation="...">
 <chapter_n chapter_n="96">
-<arabic arabic="وللوقت خر أنبا أفو قائلاً: &quot;أستسلمتُ، إذ أن هذا عار عليّ ، وشِدّة إلى الأبد، ">
+<arabic arabic="وللوقت خر أنبا أفو قائلاً: 'أستسلمتُ، إذ أن هذا عار عليّ ، وشِدّة إلى الأبد، ">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13161,7 +13161,7 @@ AOPT_PPERS
 <p_n p_n="97">
 <translation translation="...">
 <chapter_n chapter_n="97">
-<arabic arabic="هوذا أنا عندك ، إذا تمكنتُ أن أقوم بالعمل، فاصنع لي ما يسرّك&quot;">
+<arabic arabic="هوذا أنا عندك ، إذا تمكنتُ أن أقوم بالعمل، فاصنع لي ما يسرّك'">
 <orig_group orig_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <norm_group norm_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <orig orig="ⲉⲓⲥ">
@@ -13401,7 +13401,7 @@ V
 <p_n p_n="98">
 <translation translation="...">
 <chapter_n chapter_n="98">
-<arabic arabic="وللوقت جثا وقال: &quot;سامحني ياسيدي الأب&quot;">
+<arabic arabic="وللوقت جثا وقال: 'سامحني ياسيدي الأب'">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -20840,7 +20840,7 @@ NUM
 <p_n p_n="116">
 <translation translation="...">
 <chapter_n chapter_n="116">
-<arabic arabic="حتى أنه كان يُقال عن المدينة كلها في تلك الأيام: &quot;إن هؤلاء حقًا هم شعب الله&quot;">
+<arabic arabic="حتى أنه كان يُقال عن المدينة كلها في تلك الأيام: 'إن هؤلاء حقًا هم شعب الله'">
 <orig_group orig_group="ϩⲱⲥⲧⲉ">
 <norm_group norm_group="ϩⲱⲥⲧⲉ">
 <orig orig="ϩⲱⲥⲧⲉ">
@@ -21124,7 +21124,7 @@ NUM
 <p_n p_n="117">
 <translation translation="...">
 <chapter_n chapter_n="117">
-<arabic arabic="إذ أنه اكن يقول لهم مرات كثيرة من التعليم قائلاً: &quot;إن قلبي لا يتَكّدّر بسبب الذين ظُلموا بقدر الذين ظَلَموا">
+<arabic arabic="إذ أنه اكن يقول لهم مرات كثيرة من التعليم قائلاً: 'إن قلبي لا يتَكّدّر بسبب الذين ظُلموا بقدر الذين ظَلَموا">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -23089,7 +23089,7 @@ NUM
 <p_n p_n="123">
 <translation translation="...">
 <chapter_n chapter_n="123">
-<arabic arabic="وكان يقول باكيًا: &quot; هذا الكلام يخص رجلاً ملكًا، وقد قاله في اصوام ومسوح">
+<arabic arabic="وكان يقول باكيًا: ' هذا الكلام يخص رجلاً ملكًا، وقد قاله في اصوام ومسوح">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -23622,7 +23622,7 @@ NUM
 <p_n p_n="125">
 <translation translation="...">
 <chapter_n chapter_n="125">
-<arabic arabic="وحدث عندما اكمل حياته ، أن دنا منه الأخوة وهو على وشك الإنتقال ، واثقين من كمال شعبه، وطهارة اسقفيته، التي شهدوا هم لها، وقالوا له: &quot;يأبنا، قل لنا كلمة قبل أن تنطلق من عندنا&quot;">
+<arabic arabic="وحدث عندما اكمل حياته ، أن دنا منه الأخوة وهو على وشك الإنتقال ، واثقين من كمال شعبه، وطهارة اسقفيته، التي شهدوا هم لها، وقالوا له: 'يأبنا، قل لنا كلمة قبل أن تنطلق من عندنا'">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -24361,7 +24361,7 @@ NUM
 <p_n p_n="126">
 <translation translation="...">
 <chapter_n chapter_n="126">
-<arabic arabic="أما هو فتكلم معهم قائلاً: &quot;أمر واحد الذي أوصيكم به أنا، ألا تدعوا أحد منكم يشتهي شيئًا من العظمة">
+<arabic arabic="أما هو فتكلم معهم قائلاً: 'أمر واحد الذي أوصيكم به أنا، ألا تدعوا أحد منكم يشتهي شيئًا من العظمة">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
