@@ -1,8 +1,9 @@
 <meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" arabic_translation="Philippe Zaher" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:62-132" entities="automatic" identities="checked" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="2" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths_manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" people="Devil; Isaiah; Jesus; Jethro (biblical figure); Moses; Pope Theophilus of Alexandria" placeName="This" places="Midian; Oxyrhynchus" previous="urn:cts:copticLit:lives.aphou.paths_ed:0-61" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 2" translation="none" Trismegistos="108414" version_date="2022-09-26" version_n="4.4.0">
 <p_source p_source="PATHS">
 <p_n p_n="62">
-<translation translation="...">
+<translation translation="And immediately he wrote to all the lands and he repudiated the previous statement that it was faulty and it was without understanding that we thought it up.">
 <chapter_n chapter_n="62">
+<arabic arabic="وللوقت اَعَلن في كل كورة متبرأً من تلك العبارة الخاطئة، &quot;وانما بدون فهم اعتقدنا بها&quot;">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -393,12 +394,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="63">
-<translation translation="...">
+<translation translation="Afterwards, the blessed one beseeched him: tell me, what has been your life and where are you from, of which people. For I see your appearance like that of a crazy person,">
 <chapter_n chapter_n="63">
+<arabic arabic="وبعد ئلك استحلف (أي رئيس الأساقفة) الطوباوي (أفو) قائلاً: &quot;اخبرني ما هي سيرتك؟ ومن أين موطنك في جنسك؟ لأني أرى هيئتك مثل أولئك العوام">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <orig orig="ⲙⲛⲛⲥⲁ">
@@ -457,21 +460,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲁⲣ">
-<norm norm="ⲧⲁⲣ">
-<lemma lemma="ⲧⲁⲣ">
-<pos pos="AFUTCONJ">
-ⲧⲁⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<entity entity="person">
-<orig orig="ⲕⲉ">
-<norm norm="ⲕⲉ">
-<lemma lemma="ⲕⲉ">
-<pos pos="ART">
-ⲕⲉ
+<orig orig="ⲧⲁⲣⲕⲉ">
+<norm norm="ⲧⲁⲣⲕⲉ">
+<lemma lemma="ⲧⲁⲣⲕⲟ">
+<pos pos="V">
+ⲧⲁⲣⲕⲉ
 </pos>
 </lemma>
 </norm>
@@ -551,7 +544,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</entity>
 </entity>
 <orig_group orig_group="ϫⲉⲙⲁⲧⲁⲙⲟⲓ">
 <norm_group norm_group="ϫⲉⲙⲁⲧⲁⲙⲟⲓ">
@@ -860,12 +852,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="64">
-<translation translation="...">
+<translation translation="But on the other hand I hear your words which are truly exalted beyond those of a sage.">
 <chapter_n chapter_n="64">
+<arabic arabic="لكني أيضًا اسمع كلامك أرفع من كلام الحكماء&quot;">
 <orig_group orig_group="ϯⲥⲱⲧⲙ">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
@@ -1052,12 +1046,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="65">
-<translation translation="...">
+<translation translation="He answered: I have wished to live like a monk, but I am far from that honor">
 <chapter_n chapter_n="65">
+<arabic arabic="اجاب قائلاً: &quot; لقد أردتُ أن احيا كراهب، إلا أنني بعيد عن تلك الكرامة، ">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -1360,12 +1356,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="66">
-<translation translation="...">
+<translation translation="And I am a man from Oxyrhynchus">
 <chapter_n chapter_n="66">
+<arabic arabic=",انا أيضًا بهنساوي">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1430,12 +1428,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="67">
-<translation translation="...">
+<translation translation="but since you are the one by whose wisdom we are strengthened, because of this the enemy has done this against you knowing that a multitude will stumble because of this.">
 <chapter_n chapter_n="67">
+<arabic arabic="لكن حيث أنك أنتَ هو الذي نعتمد على حكمتك، من أجل هذا بدأ العدو في عمل هذا بواسطتك، عالمًا أنه يوجد كثيرون سيعثرون">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -1790,12 +1790,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="68">
-<translation translation="...">
+<translation translation="And they will suffer loss and they will not hear the word of the Holy Teaching that comes forth from your mouth.">
 <chapter_n chapter_n="68">
+<arabic arabic="بسبب هذا، ويتضررون، ولا يسمعون كلام التعليم المقدس الخرج من فمك">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -2052,12 +2054,14 @@
 </orig_group>
 </entity>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="69">
 <translation translation="...">
 <chapter_n chapter_n="69">
+<arabic arabic="إلا أنه من أجل المحبة الكائنة فيك نحو الله، هوذا أنتَ قد تغَلبتَ على حيل ابليس بكل اشكالها، عند سماعك كلمات حقارتي، لأن العظمة التي بداخلك لم تقدر أن تجعلك مترفعًا عن الفهم، حتى أنك تتغلب على رغبتك الشخصية">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
 <orig orig="ⲡⲗⲏⲛ">
@@ -2729,7 +2733,7 @@
 <orig orig="ⲙⲙⲓⲛ">
 <norm norm="ⲙⲙⲓⲛ">
 <lemma lemma="ⲙⲙⲓⲛ">
-<pos pos="V">
+<pos pos="PTC">
 ⲙⲙⲓⲛ
 </pos>
 </lemma>
@@ -2759,12 +2763,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="70">
 <translation translation="...">
 <chapter_n chapter_n="70">
+<arabic arabic="لكنك أظهرت البساطة التي في المسيح، مثل موسى العظيم، الذي أطاع يثرون كاهن مديان، هذا بالحقيقة الذي قاله المخلص لآبائنا الرسل : &quot;إن (لم) ترجعوا وتصيروا مثل الأولاد الصغار&quot;">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -3442,12 +3448,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="71">
 <translation translation="...">
 <chapter_n chapter_n="71">
+<arabic arabic="أما أنتَ فاعترفتَ بالحقيقة أنك رجعتَ بالكلية عن الكبرياء إلى النقاوة وبساطة الطفولة&quot;، بعد هذا إلتمس (اي رئيس الأساقفة) منه أن يبقى معه بضع أيام.">
 <orig_group orig_group="ⲛⲧⲟⲕ">
 <norm_group norm_group="ⲛⲧⲟⲕ">
 <orig orig="ⲛⲧⲟⲕ">
@@ -3958,12 +3966,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="72">
 <translation translation="...">
 <chapter_n chapter_n="72">
+<arabic arabic="أما هو فتوسل قائلاً: &quot; هذا ليس في استطاعتي&quot;، وهكذا خرج من لدنه بسلام وإكرام">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -4374,12 +4384,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="73">
 <translation translation="...">
 <chapter_n chapter_n="73">
+<arabic arabic="وكان مغتمًا بينما هو خارج من عنده، مثل ابن يمشي أبوه من عنده، وبعد ثلاث سنوات منذ حدث ذلك، رقد اسقف البهنسا">
 <orig_group orig_group="ⲛⲉϥⲙⲟⲕϩ">
 <norm_group norm_group="ⲛⲉϥⲙⲟⲕϩ">
 <orig orig="ⲛⲉ">
@@ -4873,12 +4885,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="74">
 <translation translation="...">
 <chapter_n chapter_n="74">
+<arabic arabic="وحسب العادة، اجتمعت المدينة كلها معًا برأي واحد">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5087,12 +5101,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="75">
 <translation translation="...">
 <chapter_n chapter_n="75">
+<arabic arabic="واعطوا التزكية لأحد القساوسة وكان أيضًا تقيًا، وارسلوه إلى الإسكندرية مع التزكيات لكي يُرسم أسقف">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5442,6 +5458,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
@@ -5450,6 +5467,7 @@
 <p_n p_n="76">
 <translation translation="...">
 <chapter_n chapter_n="76">
+<arabic arabic="ولما تسلَّم رئيس الأساقفة تاوفيليس الرسائل">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥϫⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥϫⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -5594,12 +5612,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="77">
 <translation translation="...">
 <chapter_n chapter_n="77">
+<arabic arabic="أجاب قائلاً: &quot;أفو راهب من مدينتكم، احضروه إليَّ، لأرسمه لكم اسقفًا&quot;. فأجاب القسوس قائلين نحن لا نعرف راهبًا في ايبارشيتنا (يُدعى) أفو، كما أننا نعتقد أن لا يوجد احد بيننا يعرفه&quot;.">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6378,12 +6398,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="78">
 <translation translation="...">
 <chapter_n chapter_n="78">
+<arabic arabic="فأجاب رئيس الأساقفة أيضًا قائلاً لهم: &quot;إذا لم تُحضروه إليَّ فلن اشرطن لكم أحدًا الآن&quot;.">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6760,12 +6782,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="79">
 <translation translation="...">
 <chapter_n chapter_n="79">
+<arabic arabic="أما هم فخرجوا من لدنه  ومضوا إلى مدينتهم">
 <orig_group orig_group="ⲛⲧⲟⲟⲩ">
 <norm_group norm_group="ⲛⲧⲟⲟⲩ">
 <orig orig="ⲛⲧⲟⲟⲩ">
@@ -6926,12 +6950,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="80">
 <translation translation="...">
 <chapter_n chapter_n="80">
+<arabic arabic="واستفسروا عن الرجل فلم يتعرفوا عليه في كل الإيبارشية">
 <orig_group orig_group="ⲁⲩϣⲓⲛⲉ">
 <norm_group norm_group="ⲁⲩϣⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -7104,12 +7130,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="81">
 <translation translation="...">
 <chapter_n chapter_n="81">
+<arabic arabic="إذ لم يكن ساكنًا بين الناس ، لكن مع الوحوش">
 <orig_group orig_group="ⲉⲛⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲛⲉϥϣⲟⲟⲡ">
 <orig orig="ⲉ">
@@ -7274,6 +7302,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
@@ -7282,6 +7311,7 @@
 <p_n p_n="82">
 <translation translation="...">
 <chapter_n chapter_n="82">
+<arabic arabic="ولما اغتمّوا جمعوا الرهبان وسألوهم عن الرجل">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲑⲗⲓⲃⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲑⲗⲓⲃⲉ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -7497,12 +7527,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="83">
 <translation translation="...">
 <chapter_n chapter_n="83">
+<arabic arabic="فأجاب الذي يعرفه منهم: &quot;نعم أنا اعرفه قبل اليوم، حيث اعتدتُ أن أجده في البرية مقيمًا بين البقر الوحشي&quot;.">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -7943,12 +7975,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="84">
 <translation translation="...">
 <chapter_n chapter_n="84">
+<arabic arabic="وللوقت أمروا أن يكمن له الصيادون حتى يمسكوه، لأن الأخ اعلمهم : &quot;إذا ما عَلِم هذا؛ أنكم تبحثون عنه لتجعلوه اسقفًا فسوف يهرب&quot;">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -8203,19 +8237,19 @@
 <orig_group orig_group="ⲧⲁⲙⲟⲟⲩ">
 <norm_group norm_group="ⲧⲁⲙⲟⲟⲩ">
 <entity entity="substance">
-<orig orig="ⲧⲁ">
+<orig orig="ⲧⲁⲙⲟ">
 <norm norm="ⲧⲁ">
-<lemma lemma="ⲡⲁ">
-<pos pos="PPOS">
+<lemma lemma="ⲧⲁⲙⲟ">
+<pos pos="V">
 ⲧⲁ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲟⲟⲩ">
-<norm norm="ⲙⲟⲟⲩ">
-<lemma lemma="ⲙⲟⲟⲩ">
-<pos pos="N">
+<orig orig="ⲟⲩ">
+<norm norm="ⲟⲩ">
+<lemma lemma="ⲛⲧⲟⲟⲩ">
+<pos pos="PPERO">
 ⲙⲟⲟⲩ
 </pos>
 </lemma>
@@ -8235,47 +8269,29 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CFOC">
+<orig orig="ⲉϥϣⲁⲛ">
+<norm norm="ⲉϥϣⲁⲛ">
+<lemma lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ">
+<pos pos="ACOND_PPERS">
 ⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
-<norm norm="ϥ">
-<lemma lemma="ⲛⲧⲟϥ">
-<pos pos="PPERS">
-ϥ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϣⲁ">
-<norm norm="ϣⲁ">
-<lemma lemma="ϣⲁ">
-<pos pos="PREP">
-ϣⲁ
-</pos>
-</lemma>
-</norm>
-</orig>
 <entity entity="abstract">
-<orig orig="ⲛⲉⲓ">
-<norm norm="ⲛⲉⲓ">
-<lemma lemma="ⲡⲉⲓ">
-<pos pos="PDEM">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
 ⲛⲉⲓ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲉ">
-<norm norm="ⲙⲉ">
-<lemma lemma="ⲙⲉ">
-<pos pos="N">
+<orig orig="ⲉⲓⲙⲉ">
+<norm norm="ⲉⲓⲙⲉ">
+<lemma lemma="ⲉⲓⲙⲉ">
+<pos pos="V">
 ⲙⲉ
 </pos>
 </lemma>
@@ -8460,12 +8476,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="85">
 <translation translation="...">
 <chapter_n chapter_n="85">
+<arabic arabic="فكمن له الصيادون بفخاخهم، ةفي الليل خرج لكي يشرب ماءًا مع البقر الوحشي">
 <orig_group orig_group="ⲛϭⲉⲣⲁϭⲉ">
 <norm_group norm_group="ⲛϭⲉⲣⲁϭⲉ">
 <orig orig="ⲛ">
@@ -8669,7 +8687,7 @@
 </orig>
 <orig orig="ⲩϣⲏ">
 <norm norm="ⲩϣⲏ">
-<lemma lemma="ⲩϣⲏ">
+<lemma lemma="ⲟⲩϣⲏ">
 <pos pos="N">
 ⲩϣⲏ
 </pos>
@@ -8785,12 +8803,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="86">
 <translation translation="...">
 <chapter_n chapter_n="86">
+<arabic arabic="وللوقت باغته الصيادون وامسكوه واحتجزوه">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -8998,12 +9018,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="87">
 <translation translation="...">
 <chapter_n chapter_n="87">
+<arabic arabic="فتكلَّم معهم: &quot;ما شأنكم بي لتمسكوني؟ أنا أيضًا انسان مثلكم">
 <orig_group orig_group="ⲁϥϣⲁϫⲉ">
 <norm_group norm_group="ⲁϥϣⲁϫⲉ">
 <orig orig="ⲁ">
@@ -9292,12 +9314,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="88">
 <translation translation="...">
 <chapter_n chapter_n="88">
+<arabic arabic="فإن كنتم تصطادون حيوانات، فهوذا بقروحشي قد اصطدتموه&quot;">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -9421,12 +9445,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="89">
 <translation translation="...">
 <chapter_n chapter_n="89">
+<arabic arabic="قالوا له: &quot; نحن نعرف أنك انسان، ونحن نبحث عنك، لأجل هذا امسكناك&quot;">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9674,12 +9700,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="90">
 <translation translation="...">
 <chapter_n chapter_n="90">
+<arabic arabic="قال لهم: &quot;أنا إذًا مَنْ تطلبونه، كفوا عن هذا (أي البقر الوحشي) ليذهب&quot;.">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9880,12 +9908,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="91">
 <translation translation="...">
 <chapter_n chapter_n="91">
+<arabic arabic="وفي الحال تركوا البقر الوحشي وأركبوه (مركب أو دابة) ، وللوقت احضروه إلى الإسكندرية، إلى رئيس الأساقفة">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -10188,6 +10218,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
@@ -10196,6 +10227,7 @@
 <p_n p_n="92">
 <translation translation="...">
 <chapter_n chapter_n="92">
+<arabic arabic="فلما رآه فرح جدًا، وعندما اخبروه عن  الطريقة التي كيف امسكوه بها، تعجب جدًا وقال: &quot;لقد أتيتَ يا أفو، تعال أنت أيضًا لتتألم مع الأعضاء شركائك . أنت تجاهد بمفردك حتى اليوم، لتخلص، الآن أيضًا ارجع وثبِّت اخوتك وجاهد مع نفسك عنهم&quot;">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -10568,11 +10600,28 @@
 </norm>
 </orig>
 <entity entity="object">
-<orig orig="ⲕⲉⲓⲁⲫⲟⲩ">
-<norm norm="ⲕⲉⲓⲁⲫⲟⲩ">
-<lemma lemma="ⲕⲉⲓⲁⲫⲟⲩ">
-<pos pos="N">
-ⲕⲉⲓ
+<orig orig="ⲕ">
+<norm norm="ⲕ">
+<lemma lemma="ⲛⲧⲟⲕ">
+<pos pos="PPERS">
+ⲕ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲉⲓ">
+<norm norm="ⲉⲓ">
+<lemma lemma="ⲉⲓ">
+<pos pos="V">
+ⲉⲓ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲁⲫⲟⲩ">
+<norm norm="ⲁⲫⲟⲩ">
+<lemma lemma="ⲁⲫⲟⲩ">
+<pos pos="NPROP">
 <persName_type persName_type="monk">
 ⲁⲫⲟⲩ
 </persName_type>
@@ -11050,12 +11099,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="93">
 <translation translation="...">
 <chapter_n chapter_n="93">
+<arabic arabic="أجاب أنبا أفو: &quot;أنا، من أنا، أيها السيد، سيدي، حتى تقول هذا وتتكلم معي هكذا؟ لأني أنا رجل ضعيف، وبسبب ضعفي هربتُ من مخالطة البشرلكي لا اسير في الأمواج المضطربة لتلك الحياة. الآن أستحلفك بالرب ألاتُجبرني ، لأن هذا الأمر غير ممكن لي&quot;">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -11233,11 +11284,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲕⲉϫⲉ">
-<norm norm="ⲉⲕⲉϫⲉ">
-<lemma lemma="ⲉⲕⲉϫⲉ">
-<pos pos="EXIST">
+<orig orig="ⲉⲕⲉ">
+<norm norm="ⲉⲕⲉ">
+<lemma lemma="ⲉⲣⲉ_'ⲛⲧⲟⲕ">
+<pos pos="AOPT_PPERS">
 ⲉⲕⲉϫⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϫⲉ">
+<norm norm="ϫⲉ">
+<lemma lemma="ϫⲱ">
+<pos pos="V">
+AOPT_PPERS
 </pos>
 </lemma>
 </norm>
@@ -11669,11 +11729,20 @@
 </orig_group>
 <orig_group orig_group="ⲙⲙⲡⲓⲃⲓⲟⲥ">
 <norm_group norm_group="ⲙⲙⲡⲓⲃⲓⲟⲥ">
-<orig orig="ⲙⲙⲡⲓ">
-<norm norm="ⲙⲙⲡⲓ">
-<lemma lemma="ⲙⲙⲡⲓ">
+<orig orig="ⲙⲙ">
+<norm norm="ⲙⲙ">
+<lemma lemma="ⲙⲙ">
 <pos pos="PREP">
-ⲙⲙⲡⲓ
+ⲙⲙ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲡⲓ">
+<norm norm="ⲡⲓ">
+<lemma lemma="ⲡⲓ">
+<pos pos="PDEM">
+ⲡⲓ
 </pos>
 </lemma>
 </norm>
@@ -11823,11 +11892,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲓⲧ">
-<norm norm="ϫⲓⲧ">
+<orig orig="ϫⲓ">
+<norm norm="ϫⲓ">
 <lemma lemma="ϫⲓ">
 <pos pos="V">
-ϫⲓⲧ
+ϫⲓ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm norm="ⲧ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERO">
+ⲧ
 </pos>
 </lemma>
 </norm>
@@ -11959,12 +12037,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="94">
 <translation translation="...">
 <chapter_n chapter_n="94">
+<arabic arabic="فحزن رئيس الأساقفة للغاية من أجل القَسَم بالرب">
 <orig_group orig_group="ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <entity entity="person">
@@ -12120,12 +12200,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="95">
 <translation translation="...">
 <chapter_n chapter_n="95">
+<arabic arabic="وقال له: &quot; حيٌّ هو الرب، إن لم تحلني من القسم الذي ربطتني به،، فسوف اجعلك غريبًا عن كل الدعوة المسيحية للرب، في ذلك الدهر و(الدهر) الآتي&quot;">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12679,12 +12761,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="96">
 <translation translation="...">
 <chapter_n chapter_n="96">
+<arabic arabic="وللوقت خر أنبا أفو قائلاً: &quot;أستسلمتُ، إذ أن هذا عار عليّ ، وشِدّة إلى الأبد، ">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13070,12 +13154,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="97">
 <translation translation="...">
 <chapter_n chapter_n="97">
+<arabic arabic="هوذا أنا عندك ، إذا تمكنتُ أن أقوم بالعمل، فاصنع لي ما يسرّك&quot;">
 <orig_group orig_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <norm_group norm_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <orig orig="ⲉⲓⲥ">
@@ -13153,11 +13239,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲣ">
-<norm norm="ϣⲣ">
-<lemma lemma="ϣⲣ">
+<orig orig="ϣ">
+<norm norm="ϣ">
+<lemma lemma="ϣ">
 <pos pos="V">
 ϣⲣ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲣ">
+<norm norm="ⲣ">
+<lemma lemma="ⲉⲓⲣⲉ">
+<pos pos="V">
+V
 </pos>
 </lemma>
 </norm>
@@ -13299,12 +13394,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="98">
 <translation translation="...">
 <chapter_n chapter_n="98">
+<arabic arabic="وللوقت جثا وقال: &quot;سامحني ياسيدي الأب&quot;">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13494,12 +13591,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="99">
 <translation translation="...">
 <chapter_n chapter_n="99">
+<arabic arabic="فعاتبه وارسله إلى مدينته، وعندما بدأ في الأسقفية، بدأ أيضًا قي ممارسات أخرى على تلك الشاكلة:">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -13800,11 +13899,20 @@
 </lemma>
 </norm>
 </orig>
+<orig orig="ⲧⲓ">
+<norm norm="ⲧⲓ">
+<lemma lemma="ⲡⲓ">
+<pos pos="PDEM">
+ⲧⲓ
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig orig="ⲧⲓⲙⲓⲛⲉ">
-<norm norm="ⲧⲓⲙⲓⲛⲉ">
-<lemma lemma="ⲧⲓⲙⲓⲛⲉ">
+<norm norm="ⲙⲓⲛⲉ">
+<lemma lemma="ⲙⲓⲛⲉ">
 <pos pos="N">
-ⲧⲓⲙⲓⲛⲉ
+ⲙⲓⲛⲉ
 </pos>
 </lemma>
 </norm>
@@ -13812,12 +13920,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="100">
 <translation translation="...">
 <chapter_n chapter_n="100">
+<arabic arabic="لأنه طوال فترة الأسقفيةالتي أمضاها، لو يقضي ليلة واحدة في النوم في المدينة، ولم يأكل خبزة واحدة بها يومًا ما على الإطلاق">
 <entity entity="abstract">
 <orig_group orig_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
@@ -13957,13 +14067,21 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲟⲩ">
-<norm norm="ⲣⲟⲩ">
-<lemma lemma="ⲣⲟⲩ">
+<orig orig="ⲣ">
+<norm norm="ⲣ">
+<lemma lemma="ⲉⲓⲣⲉ">
 <pos pos="V">
 <morph morph="ⲣ">
 ⲣ
 </morph>
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟⲩ">
+<norm norm="ⲟⲩ">
+<lemma lemma="ⲟⲩ">
+<pos pos="ART">
 <morph morph="ⲟⲩ">
 ⲟⲩ
 </morph>
@@ -13972,20 +14090,11 @@
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲟⲩ">
-<pos pos="ART">
-ⲟⲩ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϣⲏ">
-<norm norm="ϣⲏ">
-<lemma lemma="ϣⲏ">
+<orig orig="ⲟⲩϣⲏ">
+<norm norm="ⲟⲩϣⲏ">
+<lemma lemma="ⲟⲩϣⲏ">
 <pos pos="N">
-ϣⲏ
+ⲟⲩϣⲏ
 </pos>
 </lemma>
 </norm>
@@ -14271,12 +14380,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="101">
 <translation translation="...">
 <chapter_n chapter_n="101">
+<arabic arabic="لكنه كان يسكن بمفرده في أحد الأديرة خارج المدينة، أما في السبت فكان معتادًا أن يأتي إلى الكنيسة ويجمع الشعب، ويتكلم معهم بكلمة الله إلى المساء، وكانوا يقضون ليلة السبت في قداساتهم، وصلواتهم، ومزاميرهم، وهو واقف قدامهم في الليتورجية المقدسة">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -14842,9 +14953,27 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲧⲉⲩϣⲏ">
-<norm norm="ⲣⲧⲉⲩϣⲏ">
-<lemma lemma="ⲣⲧⲉⲩϣⲏ">
+<orig orig="ⲣ">
+<norm norm="ⲣ">
+<lemma lemma="ⲉⲓⲣⲉ">
+<pos pos="V">
+PPERS
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm norm="ⲧ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+V
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲉⲩϣⲏ">
+<norm norm="ⲉⲩϣⲏ">
+<lemma lemma="ⲟⲩϣⲏ">
 <pos pos="V">
 ⲣⲧⲉⲩϣⲏ
 </pos>
@@ -15151,12 +15280,14 @@
 </orig_group>
 </entity>
 </date_type>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="102">
 <translation translation="...">
 <chapter_n chapter_n="102">
+<arabic arabic="كان أيضًا يُعلمهم إلى الساعة السادسة من (يوم) الأحد، ثم يعتزل ثانية في ديره حتى السبت (التالي)">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -15261,20 +15392,29 @@
 </orig_group>
 <orig_group orig_group="ϣⲁϫⲡⲥⲟ">
 <norm_group norm_group="ϣⲁϫⲡⲥⲟ">
-<orig orig="ϣⲁϫⲡ">
-<norm norm="ϣⲁϫⲡ">
-<lemma lemma="ϣⲁϫⲡ">
-<pos pos="N">
+<orig orig="ϣⲁ">
+<norm norm="ϣⲁ">
+<lemma lemma="ϣⲁ">
+<pos pos="PREP">
 ϣⲁϫⲡ
 </pos>
 </lemma>
 </norm>
 </orig>
 </entity>
+<orig orig="ϫⲡ">
+<norm norm="ϫⲡ">
+<lemma lemma="ϫⲡ">
+<pos pos="N">
+PREP
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig orig="ⲥⲟ">
 <norm norm="ⲥⲟ">
-<lemma lemma="ⲥⲱ">
-<pos pos="V">
+<lemma lemma="ⲥⲟ">
+<pos pos="NUM">
 ⲥⲟ
 </pos>
 </lemma>
@@ -15435,12 +15575,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="103">
 <translation translation="...">
 <chapter_n chapter_n="103">
+<arabic arabic="وعين الكاهن الذي كانوا قد أخذوه ليجعلوه اسقفًا على كل حسابات الكنيسة">
 <orig_group orig_group="ⲁϥⲕⲁⲑⲓⲥⲧⲁ">
 <norm_group norm_group="ⲁϥⲕⲁⲑⲓⲥⲧⲁ">
 <orig orig="ⲁ">
@@ -15733,12 +15875,14 @@
 </orig_group>
 </entity>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="104">
 <translation translation="...">
 <chapter_n chapter_n="104">
+<arabic arabic="وكان يقدم حسابات الكنيسة مرة كل عام، وكل ما يفضل من نفقات الكنيسة، يرسله لفقراء المدينة، وجيرانه، حتى أنهم ينسون شقاء فقرهم بسببه.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16413,12 +16557,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="105">
 <translation translation="...">
 <chapter_n chapter_n="105">
+<arabic arabic="لأن الأراخنة كانوا يساعادونه في مقتنيات الكنيسة الخارجية">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -16635,12 +16781,14 @@
 </orig_group>
 </entity>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="106">
 <translation translation="...">
 <chapter_n chapter_n="106">
+<arabic arabic="وكانوا يعطونه نذورًا وقرابين">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16773,12 +16921,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="107">
 <translation translation="...">
 <chapter_n chapter_n="107">
+<arabic arabic="فكان يقسمها على كل واحد حسب احتياجه">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16939,11 +17089,38 @@
 </lemma>
 </norm>
 </orig>
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+CREL
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟⲩⲁ">
+<norm norm="ⲟⲩⲁ">
+<lemma lemma="ⲟⲩⲁ">
+<pos pos="NUM">
+ART
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+NUM
+</pos>
+</lemma>
+</norm>
+</orig>
 <entity entity="person">
-<orig orig="ⲡⲟⲩⲁⲡⲟⲩⲁ">
-<norm norm="ⲡⲟⲩⲁⲡⲟⲩⲁ">
-<lemma lemma="ⲡⲟⲩⲁⲡⲟⲩⲁ">
-<pos pos="N">
+<orig orig="ⲟⲩⲁ">
+<norm norm="ⲟⲩⲁ">
+<lemma lemma="ⲟⲩⲁ">
+<pos pos="NUM">
 ⲡⲟⲩⲁⲡⲟⲩⲁ
 </pos>
 </lemma>
@@ -16994,12 +17171,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="108">
 <translation translation="...">
 <chapter_n chapter_n="108">
+<arabic arabic="أما في يوم السبت فكان يقضيه في [..] والمعوزين والمظلومين فكان يتكفل باحتياجاتهم">
 <orig_group orig_group="ⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <entity entity="time">
@@ -17307,12 +17486,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="109">
 <translation translation="...">
 <chapter_n chapter_n="109">
+<arabic arabic="وكان يظل واقفا أمام صراخهم حتى الساعة التاسعة، ومن الساعة التاسعة فصاعدًا كان يتفرغ للصلاة المقدسة حتى وقت المساء، ثم يناولهم ويخرج [..]ويصبر في سهر الليل حتى وقت السحر، ولم تكن تجرؤ أي أمرأة أن تقترب منه لتتناول وهي ترتدي أي شئ من الذهب">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -17453,11 +17634,20 @@
 </orig_group>
 <orig_group orig_group="ϣⲁϫⲡⲯⲓⲧⲉ">
 <norm_group norm_group="ϣⲁϫⲡⲯⲓⲧⲉ">
-<orig orig="ϣⲁϫⲡ">
-<norm norm="ϣⲁϫⲡ">
-<lemma lemma="ϣⲁϫⲡ">
+<orig orig="ϣⲁ">
+<norm norm="ϣⲁ">
+<lemma lemma="ϣⲁ">
 <pos pos="PREP">
-ϣⲁϫⲡ
+ϣⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϫⲡ">
+<norm norm="ϫⲡ">
+<lemma lemma="ϫⲡ">
+<pos pos="N">
+ϫⲡ
 </pos>
 </lemma>
 </norm>
@@ -17466,7 +17656,7 @@
 <orig orig="ⲯⲓⲧⲉ">
 <norm norm="ⲯⲓⲧⲉ">
 <lemma lemma="ⲯⲓⲧⲉ">
-<pos pos="N">
+<pos pos="NUM">
 ⲯⲓⲧⲉ
 </pos>
 </lemma>
@@ -17510,7 +17700,7 @@
 <orig orig="ⲯⲓⲧⲉ">
 <norm norm="ⲯⲓⲧⲉ">
 <lemma lemma="ⲯⲓⲧⲉ">
-<pos pos="V">
+<pos pos="NUM">
 ⲯⲓⲧⲉ
 </pos>
 </lemma>
@@ -18086,20 +18276,11 @@
 </orig_group>
 <orig_group orig_group="ⲉⲣⲉⲗⲁⲁⲩ">
 <norm_group norm_group="ⲉⲣⲉⲗⲁⲁⲩ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
-ⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲣⲉ">
-<norm norm="ⲣⲉ">
-<lemma lemma="ⲣⲉ">
-<pos pos="V">
-ⲣⲉ
+<orig orig="ⲉⲣⲉ">
+<norm norm="ⲉⲣⲉ">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
+ⲉⲣⲉ
 </pos>
 </lemma>
 </norm>
@@ -18163,12 +18344,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="110">
 <translation translation="...">
 <chapter_n chapter_n="110">
+<arabic arabic="وهكذا كان يعلِّم؛ ألا تقترب أي امرأة إليه للتناول من جسد ودم المسيح، ولديها أي شئ ظاهر من الذهب أو شئ من الثياب الملونة؛ لأن الشمامسة كانوا يخافونه">
 <orig_group orig_group="ⲧⲁⲓ">
 <norm_group norm_group="ⲧⲁⲓ">
 <entity entity="abstract">
@@ -18846,12 +19029,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="111">
 <translation translation="...">
 <chapter_n chapter_n="111">
+<arabic arabic="وكانوا يقفون حسب الرتبة عند كل باب، ولا يدَعون أحدًا أن يدخل مالم يكن يرتدين ثياب وقورة">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -18935,11 +19120,22 @@
 </orig_group>
 <orig_group orig_group="ⲕⲁⲧⲁⲣⲟ">
 <norm_group norm_group="ⲕⲁⲧⲁⲣⲟ">
-<orig orig="ⲕⲁⲧⲁⲣⲟ">
-<norm norm="ⲕⲁⲧⲁⲣⲟ">
-<lemma lemma="ⲕⲁⲧⲁⲣⲟ">
+<orig orig="ⲕⲁⲧⲁ">
+<norm norm="ⲕⲁⲧⲁ">
+<lemma lemma="ⲕⲁⲧⲁ">
+<pos pos="PREP">
+<lang lang="Greek">
+ⲕⲁⲧⲁ
+</lang>
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲣⲟ">
+<norm norm="ⲣⲟ">
+<lemma lemma="ⲣⲟ">
 <pos pos="N">
-ⲕⲁⲧⲁⲣⲟ
+ⲣⲟ
 </pos>
 </lemma>
 </norm>
@@ -19146,12 +19342,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="112">
 <translation translation="...">
 <chapter_n chapter_n="112">
+<arabic arabic="التي هي غطاء وجوههن وأياديهن، وغيرها من الثياب التي يرتدينها غير مصبوغة  عند صابغ الصوف">
 <orig_group orig_group="ⲉⲧⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲉ">
@@ -19492,12 +19690,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="113">
 <translation translation="...">
 <chapter_n chapter_n="113">
+<arabic arabic="ويكون لونها أيضًا زاه ولامع">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -19634,12 +19834,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="114">
 <translation translation="...">
 <chapter_n chapter_n="114">
+<arabic arabic="أيضاً بالمثل كان الشمامسة قد اتبعوا طريقته، فلم يكن أحدٌ منهم يعمل شيئًا ظالمًا، أو يأخذ بالربا، ليس هذا فقط، ولكن الكثيرون  أيضًا كفّوا عن المراباة، غيورين زاهدين في الحياة">
 <orig_group orig_group="ⲛⲇⲓⲁⲕⲟⲛⲟⲥ">
 <norm_group norm_group="ⲛⲇⲓⲁⲕⲟⲛⲟⲥ">
 <roleName_type roleName_type="ecclesiastical">
@@ -20332,12 +20534,14 @@
 </orig_group>
 </entity>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="115">
 <translation translation="...">
 <chapter_n chapter_n="115">
+<arabic arabic="والنساء أيضًا كُنّ يتنافسن في الوداعة، ولم تكن واحدة منهن تسبب الغضب في العبادة في الأماكن المقدسة">
 <orig_group orig_group="ⲛⲉϩⲓⲟⲙⲉ">
 <norm_group norm_group="ⲛⲉϩⲓⲟⲙⲉ">
 <entity entity="person">
@@ -20525,8 +20729,8 @@
 <norm_group norm_group="ϯⲛⲟⲩϭⲥ">
 <orig orig="ϯ">
 <norm norm="ϯ">
-<lemma lemma="ⲁⲛⲟⲕ">
-<pos pos="PPERS">
+<lemma lemma="ϯ">
+<pos pos="V">
 ϯ
 </pos>
 </lemma>
@@ -20535,7 +20739,7 @@
 <orig orig="ⲛⲟⲩϭⲥ">
 <norm norm="ⲛⲟⲩϭⲥ">
 <lemma lemma="ⲛⲟⲩϭⲥ">
-<pos pos="V">
+<pos pos="N">
 ⲛⲟⲩϭⲥ
 </pos>
 </lemma>
@@ -20629,12 +20833,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="116">
 <translation translation="...">
 <chapter_n chapter_n="116">
+<arabic arabic="حتى أنه كان يُقال عن المدينة كلها في تلك الأيام: &quot;إن هؤلاء حقًا هم شعب الله&quot;">
 <orig_group orig_group="ϩⲱⲥⲧⲉ">
 <norm_group norm_group="ϩⲱⲥⲧⲉ">
 <orig orig="ϩⲱⲥⲧⲉ">
@@ -20911,12 +21117,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="117">
 <translation translation="...">
 <chapter_n chapter_n="117">
+<arabic arabic="إذ أنه اكن يقول لهم مرات كثيرة من التعليم قائلاً: &quot;إن قلبي لا يتَكّدّر بسبب الذين ظُلموا بقدر الذين ظَلَموا">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -21403,12 +21611,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="118">
 <translation translation="...">
 <chapter_n chapter_n="118">
+<arabic arabic="لأن المظلومين يتسع لهم ملكوت السموات">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩϫⲓⲧⲟⲩ">
 <norm_group norm_group="ⲛⲉⲛⲧⲁⲩϫⲓⲧⲟⲩ">
 <entity entity="person">
@@ -21645,12 +21855,14 @@
 </orig_group>
 </entity>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="119">
 <translation translation="...">
 <chapter_n chapter_n="119">
+<arabic arabic=" أمّا الظالمون فيحرمون أنفسهم وحدهم منها ويوسّع لهم الهلاك">
 <orig_group orig_group="ⲛⲣⲉϥϫⲓⲛϭⲟⲛⲥ">
 <norm_group norm_group="ⲛⲣⲉϥϫⲓⲛϭⲟⲛⲥ">
 <orig orig="ⲛ">
@@ -21910,12 +22122,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="120">
 <translation translation="...">
 <chapter_n chapter_n="120">
+<arabic arabic="وكان كثيرًا ما يُصاب بالدهَش، فكانوا يقولون له ما يحدث في المدينة">
 <orig_group orig_group="ϣⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ϣⲁⲥϣⲱⲡⲉ">
 <orig orig="ϣⲁ">
@@ -22230,12 +22444,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="121">
 <translation translation="...">
 <chapter_n chapter_n="121">
+<arabic arabic="وكان يخبر الشعب أن يتوب، وكان يمنع الغضب من أن يتمكن منهم">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22487,12 +22703,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="122">
 <translation translation="...">
 <chapter_n chapter_n="122">
+<arabic arabic="وكان إذا أخطأ مرتل المزمور في عبارة أو غيَّرها، كان يمنعه أن يزيد شيئًا حتى يقولها ويصحح (قراءته) للمزمور">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <orig orig="ⲕⲁⲛ">
@@ -22864,12 +23082,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="123">
 <translation translation="...">
 <chapter_n chapter_n="123">
+<arabic arabic="وكان يقول باكيًا: &quot; هذا الكلام يخص رجلاً ملكًا، وقد قاله في اصوام ومسوح">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -23223,12 +23443,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="124">
 <translation translation="...">
 <chapter_n chapter_n="124">
+<arabic arabic="أما نحن فلا ننتبه إليه في عدم نجاسة">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -23391,6 +23613,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
@@ -23399,6 +23622,7 @@
 <p_n p_n="125">
 <translation translation="...">
 <chapter_n chapter_n="125">
+<arabic arabic="وحدث عندما اكمل حياته ، أن دنا منه الأخوة وهو على وشك الإنتقال ، واثقين من كمال شعبه، وطهارة اسقفيته، التي شهدوا هم لها، وقالوا له: &quot;يأبنا، قل لنا كلمة قبل أن تنطلق من عندنا&quot;">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -24130,12 +24354,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="126">
 <translation translation="...">
 <chapter_n chapter_n="126">
+<arabic arabic="أما هو فتكلم معهم قائلاً: &quot;أمر واحد الذي أوصيكم به أنا، ألا تدعوا أحد منكم يشتهي شيئًا من العظمة">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -24349,18 +24575,25 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉ">
-<norm norm="ⲉⲧⲓ">
-<lemma lemma="ⲉⲧⲓ">
-<pos pos="ADV">
-<lang lang="Greek">
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
+<lemma lemma="ⲉⲧ">
+<pos pos="CREL">
 ⲉ
-</lang>
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϯϩⲱⲛ">
+<orig orig="ⲓ">
+<norm norm="ϯ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERS">
+CREL
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϩⲱⲛ">
 <norm norm="ϩⲱⲛ">
 <lemma lemma="ϩⲱⲛ">
 <pos pos="V">
@@ -24547,12 +24780,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="127">
 <translation translation="...">
 <chapter_n chapter_n="127">
+<arabic arabic="إذ أنني بعد تلك التي هربتُ منها بالكاد والتي أمكنني أن أحافظ على ما اقتنيتُه في الرهبانية">
 <orig_group orig_group="ⲕⲁⲓⲅⲁⲣ">
 <norm_group norm_group="ⲕⲁⲓⲅⲁⲣ">
 <orig orig="ⲕⲁⲓ">
@@ -24715,17 +24950,17 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
-<pos pos="PREP">
+<pos pos="CREL">
 ⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
 <entity entity="place">
-<orig orig="ⲁⲓⲉ">
-<norm norm="ⲁⲓⲉ">
-<lemma lemma="ⲁⲓⲉ">
-<pos pos="N">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
 ⲁⲓⲉ
 </pos>
 </lemma>
@@ -24733,8 +24968,17 @@
 </orig>
 </entity>
 </entity>
-<orig orig="ϣ">
-<norm norm="ϣ">
+<orig orig="ⲓ">
+<norm norm="ⲓ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERS">
+place
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲉϣ">
+<norm norm="ⲉϣ">
 <lemma lemma="ϣ">
 <pos pos="V">
 ϣ
@@ -24868,12 +25112,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="128">
 <translation translation="...">
 <chapter_n chapter_n="128">
+<arabic arabic="أما الأسقفية فلا اذكر أني استفدتُ منها بأي شئ وبالكاد أيضًا قد استطعتُ أن أحفظ نفسي بالحال الذي كنت به منذ البدء.">
 <orig_group orig_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <entity entity="abstract">
@@ -25301,12 +25547,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="129">
 <translation translation="...">
 <chapter_n chapter_n="129">
+<arabic arabic="فإذ أوشك على رسامة شماس لم يكن يشرطنه ما لم يحفظ أولاً عن ظهر قلب خمسة وعشرون مزمورًا ورسالتين رسوليتين وجزءًا من الإنجيل.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -25719,12 +25967,14 @@
 </norm_group>
 </orig_group>
 </entity>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="130">
 <translation translation="...">
 <chapter_n chapter_n="130">
+<arabic arabic="وإذا كان كاهمًا فجزءًا من سفر اللاويين وجزءًا من سفر الأمثال وأيضًا جزءًا من أشعياء">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
 <orig orig="ⲉϣⲱⲡⲉ">
@@ -25990,12 +26240,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="131">
 <translation translation="...">
 <chapter_n chapter_n="131">
+<arabic arabic="ولأجل القانون الذي تمسك به لم يكن الكثير من الناس يتقدم إلى أمر كهذا مالم يستعدوا أولاً له بكل تدقيق، أيضًا لم يحدث البتة أن أحدًا أخذ رشوة لأجل الشرطونية في أيامه.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -26527,11 +26779,20 @@
 </orig_group>
 <orig_group orig_group="ϫⲓϩⲟⲙⲛⲧ">
 <norm_group norm_group="ϫⲓϩⲟⲙⲛⲧ">
-<orig orig="ϫⲓϩⲟⲙⲛⲧ">
-<norm norm="ϫⲓϩⲟⲙⲛⲧ">
-<lemma lemma="ϫⲓϩⲟⲙⲛⲧ">
+<orig orig="ϫⲓ">
+<norm norm="ϫⲓ">
+<lemma lemma="ϫⲓ">
 <pos pos="V">
-ϫⲓϩⲟⲙⲛⲧ
+ϫⲓ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϩⲟⲙⲛⲧ">
+<norm norm="ϩⲟⲙⲛⲧ">
+<lemma lemma="ϩⲟⲙⲛⲧ">
+<pos pos="N">
+ϩⲟⲙⲛⲧ
 </pos>
 </lemma>
 </norm>
@@ -26619,12 +26880,14 @@
 </entity>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="132">
 <translation translation="...">
 <chapter_n chapter_n="132">
+<arabic arabic="لكن عندما يُختار واحد من الشعب إلى المكان الذي يحتاجونه فيه، كان يجعلهم يمكثون أولاً بطول آناة ويُظهروا أنهم يحبون كلمة الله حتى أنهم أيضًا يشجعون الشعب (روحيًا) بطول آناة مثل هذه، وهذه هي الكيفية التي اكمل بها حياته حسنًا و مضى إلى الله بسلام في اليوم الحادي والعشرين من شهر توت بالمسيح يسوع ربنا هذا الذي من قِبَله المجد لله الآب معه مع الروح القدس إلى أبد الآبدين. آمين">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -26666,30 +26929,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲉ">
-<norm norm="ⲥⲉ">
-<lemma lemma="ⲥⲉ">
+<orig orig="ⲥⲉⲧⲡ">
+<norm norm="ⲥⲉⲧⲡ">
+<lemma lemma="ⲥⲱⲧⲡ">
 <pos pos="V">
 ⲥⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<entity entity="person">
-<orig orig="ⲧ">
-<norm norm="ⲧ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲧ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡ
 </pos>
 </lemma>
 </norm>
@@ -26753,7 +26997,6 @@
 </entity>
 </norm_group>
 </orig_group>
-</entity>
 <orig_group orig_group="ⲉⲡⲙⲁ">
 <norm_group norm_group="ⲉⲡⲙⲁ">
 <orig orig="ⲉ">
@@ -27616,13 +27859,22 @@
 </lemma>
 </norm>
 </orig>
+<orig orig="ⲥⲟⲩ">
+<norm norm="ⲥⲟⲩ">
+<lemma lemma="ⲥⲟⲩ">
+<pos pos="N">
+ⲥⲟⲩ
+</pos>
+</lemma>
+</norm>
+</orig>
 <entity entity="time">
 <date_type date_type="commemoration">
-<orig orig="ⲥⲟⲩϫⲟⲩⲧⲟⲩⲉ">
-<norm norm="ⲥⲟⲩϫⲟⲩⲧⲟⲩⲉ">
-<lemma lemma="ⲥⲟⲩϫⲟⲩⲧⲟⲩⲉ">
-<pos pos="N">
-ⲥⲟⲩϫⲟⲩⲧⲟⲩⲉ
+<orig orig="ϫⲟⲩⲧⲟⲩⲉ">
+<norm norm="ϫⲟⲩⲧⲟⲩⲉ">
+<lemma lemma="ϫⲟⲩⲧ_ⲟⲩⲁ">
+<pos pos="NUM">
+ϫⲟⲩⲧⲟⲩⲉ
 </pos>
 </lemma>
 </norm>
@@ -28004,6 +28256,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </chapter_n>
 </translation>
 </p_n>
