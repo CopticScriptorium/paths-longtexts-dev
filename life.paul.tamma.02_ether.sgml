@@ -1,8 +1,8 @@
-<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="02" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" people="Devil; Jesus; Michael (archangel); Pishoy" places="Asyut" previous="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" project="PATHS, Coptic SCRIPTORIUM" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Paul of Tamma part 2" translation="none" Trismegistos="none" version_date="2020-03-13" version_n="3.1.0">
+<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" arabic_translation="Philippe Zaher" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="02" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" people="Devil; Jesus; Michael (archangel); Pishoy" places="Asyut" previous="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" project="PATHS, Coptic SCRIPTORIUM" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Paul of Tamma part 2" translation="none" Trismegistos="none" version_date="2020-03-13" version_n="3.1.0">
 <chapter_n chapter_n="11">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ϩⲛ">
@@ -275,12 +275,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -803,12 +803,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲡⲁⲓⲱⲧ">
 <norm_group norm_group="ⲁⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲁ">
@@ -1030,12 +1030,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1311,12 +1311,12 @@
 </orig_group>
 </entity>
 </persName_type>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1621,12 +1621,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="6">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϥⲥⲱⲙⲁ">
 <norm_group norm_group="ⲡⲉϥⲥⲱⲙⲁ">
 <entity entity="object">
@@ -2050,12 +2050,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="7">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2170,12 +2170,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="8">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -2424,12 +2424,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="9">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -2622,8 +2622,8 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_source p_source="PATHS">
 <p_n p_n="10">
@@ -2740,23 +2740,23 @@
 </chapter_n>
 <chapter_n chapter_n="12">
 <p_n p_n="1">
+<translation translation="...">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
 <norm norm="...">
 <lemma lemma="UNKNOWN">
 <pos pos="UNKNOWN">
-<translation translation="...">
 <gap gap="gap">
 [...]
 </gap>
-</translation>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </p_n>
 <p_n p_n="2">
 <translation translation="...">
@@ -2938,8 +2938,8 @@
 </p_n>
 </p_source>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -3148,12 +3148,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -3396,12 +3396,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -3734,12 +3734,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="6">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <entity entity="place">
 <orig_group orig_group="ⲙⲁ">
 <norm_group norm_group="ⲙⲁ">
@@ -4144,12 +4144,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="7">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -4427,12 +4427,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="8">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲕⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲕⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -4725,12 +4725,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="9">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -4936,14 +4936,14 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 <chapter_n chapter_n="13">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲛⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -5564,12 +5564,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -5928,12 +5928,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -6224,12 +6224,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -6375,12 +6375,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲡⲉϫⲉ">
@@ -6493,12 +6493,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="6">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6600,12 +6600,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="7">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -6879,12 +6879,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="8">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲙⲙⲟⲛ">
 <norm_group norm_group="ⲙⲙⲟⲛ">
 <orig orig="ⲙⲙⲟ">
@@ -7064,12 +7064,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="9">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -7220,12 +7220,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="10">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -7397,12 +7397,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="11">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -7447,12 +7447,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="12">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -8222,14 +8222,14 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 <chapter_n chapter_n="14">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -8521,12 +8521,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -8608,12 +8608,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9349,12 +9349,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛϫⲛⲟⲩϥ">
 <norm_group norm_group="ⲁⲛϫⲛⲟⲩϥ">
 <orig orig="ⲁ">
@@ -9454,12 +9454,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9668,12 +9668,12 @@
 </placeName_type>
 </entity>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="6">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -9953,12 +9953,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="7">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲡⲉϫⲉ">
@@ -10259,12 +10259,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="8">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -10545,12 +10545,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="9">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10690,12 +10690,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="10">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10895,12 +10895,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="11">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -11033,12 +11033,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="12">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -11158,12 +11158,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="13">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛϩⲱⲥⲟⲛ">
 <norm_group norm_group="ⲛϩⲱⲥⲟⲛ">
 <orig orig="ⲛ">
@@ -11658,12 +11658,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="14">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -11778,12 +11778,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="15">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -12194,12 +12194,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="16">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲓϩⲓⲥⲉ">
 <norm_group norm_group="ⲁⲓϩⲓⲥⲉ">
 <orig orig="ⲁ">
@@ -12353,12 +12353,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="17">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -12467,6 +12467,7 @@
 <orig_group orig_group="ⲡⲇⲓⲁⲃⲟⲗⲟⲥ">
 <norm_group norm_group="ⲡⲇⲓⲁⲃⲟⲗⲟⲥ">
 <entity identity="Devil" entity="person">
+<entity_identity entity_identity="Devil">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -12487,6 +12488,7 @@
 </lemma>
 </norm>
 </orig>
+</entity_identity>
 </entity>
 </norm_group>
 </orig_group>
@@ -12740,12 +12742,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="18">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -12977,12 +12979,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="19">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -13123,12 +13125,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="20">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13481,14 +13483,14 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 <chapter_n chapter_n="15">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -13582,6 +13584,7 @@
 </norm>
 </orig>
 <entity identity="Devil" entity="person">
+<entity_identity entity_identity="Devil">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -13602,6 +13605,7 @@
 </lemma>
 </norm>
 </orig>
+</entity_identity>
 </entity>
 </norm_group>
 </orig_group>
@@ -14146,12 +14150,12 @@
 </orig_group>
 </entity>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -14485,6 +14489,7 @@
 </norm>
 </orig>
 <entity identity="Devil" entity="person">
+<entity_identity entity_identity="Devil">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -14505,6 +14510,7 @@
 </lemma>
 </norm>
 </orig>
+</entity_identity>
 </entity>
 </norm_group>
 </orig_group>
@@ -14521,12 +14527,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -14876,12 +14882,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲁⲓ">
 <norm_group norm_group="ⲡⲉϫⲁⲓ">
 <orig orig="ⲡⲉϫⲁ">
@@ -15083,12 +15089,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲡⲉϫⲉ">
@@ -15426,12 +15432,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="6">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <entity entity="person">
@@ -15703,12 +15709,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="7">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <entity entity="person">
@@ -16422,12 +16428,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="8">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ">
 <norm_group norm_group="ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ">
 <entity entity="person">
@@ -16580,6 +16586,7 @@
 </orig>
 <entity identity="Michael (archangel)" entity="person">
 <persName_type persName_type="arch_angel">
+<entity_identity entity_identity="Michael (archangel)">
 <orig orig="ⲙⲓⲭⲁⲏⲗ">
 <norm norm="ⲙⲓⲭⲁⲏⲗ">
 <lemma lemma="ⲙⲓⲭⲁⲏⲗ">
@@ -16617,6 +16624,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </persName_type>
 </entity>
 </entity>
@@ -17095,6 +17103,7 @@
 </orig>
 <entity identity="Michael (archangel)" entity="person">
 <persName_type persName_type="arch_angel">
+<entity_identity entity_identity="Michael (archangel)">
 <orig orig="ⲙⲓⲭⲁⲏⲗ">
 <norm norm="ⲙⲓⲭⲁⲏⲗ">
 <lemma lemma="ⲙⲓⲭⲁⲏⲗ">
@@ -17132,6 +17141,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </persName_type>
 </entity>
 <orig_group orig_group="ⲃⲱⲕ">
@@ -17226,14 +17236,14 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 <chapter_n chapter_n="16">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -17647,12 +17657,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲉⲓ">
 <orig orig="ⲁ">
@@ -17721,6 +17731,7 @@
 </orig>
 <entity identity="Asyut" entity="place">
 <placeName_type placeName_type="city_village">
+<entity_identity entity_identity="Asyut">
 <placeName_ref placeName_ref="pleiades:756593">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
@@ -17767,6 +17778,7 @@
 </norm_group>
 </orig_group>
 </placeName_ref>
+</entity_identity>
 </placeName_type>
 </entity>
 <orig_group orig_group="ⲁⲛϫⲓ">
@@ -17956,12 +17968,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <entity entity="person">
@@ -18087,12 +18099,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <orig orig="ⲁ">
@@ -18360,6 +18372,7 @@
 </norm_group>
 </orig_group>
 <entity identity="Pishoy" entity="person">
+<entity_identity entity_identity="Pishoy">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -18423,6 +18436,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲉϥϣⲟⲟⲡ">
@@ -18582,12 +18596,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲁⲥⲡⲁⲍⲉ">
 <norm_group norm_group="ⲁⲛⲁⲥⲡⲁⲍⲉ">
 <orig orig="ⲁ">
@@ -18888,12 +18902,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="6">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -19317,14 +19331,14 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 <chapter_n chapter_n="17">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -19785,12 +19799,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲉϫⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <norm_group norm_group="ⲡⲉϫⲉⲛⲉⲧⲟⲩⲁⲁⲃ">
 <orig orig="ⲡⲉϫⲉ">
@@ -19914,12 +19928,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -20225,12 +20239,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -20757,12 +20771,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="5">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -21126,14 +21140,14 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 <chapter_n chapter_n="18">
 <p_n p_n="1">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
 <norm_group norm_group="ⲧⲉⲛⲟⲩ">
 <orig orig="ⲧⲉⲛⲟⲩ">
@@ -21487,12 +21501,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="2">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -21536,6 +21550,7 @@
 </norm>
 </orig>
 <entity identity="Pishoy" entity="person">
+<entity_identity entity_identity="Pishoy">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -21656,6 +21671,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ϫⲉⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ϫⲉⲧⲱⲟⲩⲛ">
@@ -21844,12 +21860,12 @@
 </entity>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="3">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <entity entity="person">
@@ -21951,12 +21967,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 <p_n p_n="4">
-<p_source p_source="PATHS">
 <translation translation="...">
+<p_source p_source="PATHS">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁⲩⲧⲱⲟⲩⲛ">
 <orig orig="ⲁ">
@@ -22351,6 +22367,7 @@
 </norm>
 </orig>
 <entity identity="Jesus" entity="person">
+<entity_identity entity_identity="Jesus">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -22456,6 +22473,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 </entity>
 <orig_group orig_group="ⲁϥⲙⲟⲩ">
@@ -23161,8 +23179,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
 </p_source>
+</translation>
 </p_n>
 </chapter_n>
 </meta>
