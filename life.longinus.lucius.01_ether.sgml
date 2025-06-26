@@ -1,7 +1,7 @@
 <meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." objectType="codex" order="1" parsing="automatic" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/418'&gt;418&lt;/a&gt;" people="John the Apostle; Paul the Apostle; Saint Peter; Solomon" places="Alexandria; Jerusalem; Lycia" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 1" translation="none" version_date="2020-08-31" version_n="4.0.0">
 <p_n p_n="0">
 <chapter_n chapter_n="0">
-<translation translation="...">
+<translation translation="The life and conduct of our dear ascetic holy fathers, Apa Longinus and Apa Lucius, his spiritual father.">
 <entity entity="abstract">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
@@ -57,7 +57,9 @@
 <norm norm="ⲡⲟⲗⲏⲧⲓⲁ">
 <lemma lemma="ⲡⲟⲗⲏⲧⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲡⲟⲗⲏⲧⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -186,10 +188,7 @@
 <norm norm="ⲗⲟⲅⲅⲓⲛⲟⲥ">
 <lemma lemma="ⲗⲟⲅⲅⲓⲛⲟⲥ">
 <pos pos="NPROP">
-ⲗⲟⲅ
-</lb_n>
-<lb_n lb_n="2">
-ⲅⲓⲛⲟⲥ
+ⲗⲟⲅⲅⲓⲛⲟⲥ
 </pos>
 </lemma>
 </norm>
@@ -197,6 +196,7 @@
 </norm_group>
 </orig_group>
 </entity>
+</lb_n>
 <orig_group orig_group="ⲙⲛⲁⲡⲁ">
 <norm_group norm_group="ⲙⲛⲁⲡⲁ">
 <orig orig="ⲙⲛ">
@@ -305,7 +305,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Their dear lives concluded on the 2nd day of the month of Emshir, through God's peace. Amen.">
 <orig_group orig_group="ⲛⲧⲁⲩϫⲱⲕ">
 <norm_group norm_group="ⲛⲧⲁⲩϫⲱⲕ">
 <orig orig="ⲛⲧ">
@@ -385,7 +385,6 @@
 </lemma>
 </norm>
 </orig>
-</lb_n>
 <lb_n lb_n="3">
 <entity entity="abstract">
 <orig orig="ⲡⲉⲩ">
@@ -641,7 +640,7 @@
 </p_n>
 <p_n p_n="1">
 <chapter_n chapter_n="1">
-<translation translation="...">
+<translation translation="While they had achieved conduct fit for flesh-bearing men,">
 <lb_n lb_n="1">
 <entity entity="person">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩϫⲱⲕ">
@@ -746,9 +745,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -778,7 +779,7 @@
 <orig orig="ⲧⲟⲟⲙⲉ">
 <norm norm="ⲧⲟⲟⲙⲉ">
 <lemma lemma="ⲧⲟⲟⲙⲉ">
-<pos pos="V">
+<pos pos="VSTAT">
 ⲧⲟⲟⲙⲉ
 </pos>
 </lemma>
@@ -906,15 +907,15 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
-<orig_group orig_group="ⲉⲥⲧⲱ">
-<norm_group norm_group="ⲉⲥⲧⲱ">
-<orig orig="ⲉⲥⲧⲱ">
-<norm norm="ⲉⲥⲧⲱ">
-<lemma lemma="ⲉⲥⲧⲱ">
-<pos pos="V">
+<translation translation="let's suppose carnal tongues speak praises about them: Whoever has performed above the measure of men through their conduct, and whose rightful actions were above the burden of those who bear flesh, with nearly no flesh on them—which carnal tongue can speak the praise of those ones? Those of this kind need the tongue of incorporeal people to speak praises about them,">
+<orig_group orig_group="ⲉⲥⲧⲱⲛ">
+<norm_group norm_group="ⲉⲥⲧⲱⲛ">
+<orig orig="ⲉⲥⲧⲱⲛ">
+<norm norm="ⲉⲥⲧⲱⲛ">
+<lemma lemma="ⲉⲥⲧⲱⲛ">
+<pos pos="PTC">
 <lang lang="Greek">
-ⲉⲥⲧⲱ
+ⲉⲥⲧⲱⲛ
 </lang>
 </pos>
 </lemma>
@@ -922,14 +923,14 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲇⲉ">
+<orig_group orig_group="ⲇⲉ">
 <norm_group norm_group="ⲇⲉ">
-<orig orig="ⲛⲇⲉ">
+<orig orig="ⲇⲉ">
 <norm norm="ⲇⲉ">
 <lemma lemma="ⲇⲉ">
 <pos pos="PTC">
 <lang lang="Greek">
-ⲛⲇⲉ
+ⲇⲉ
 </lang>
 </pos>
 </lemma>
@@ -1108,30 +1109,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣ">
-<norm norm="ⲣ">
-<lemma lemma="ⲉⲓⲣⲉ">
+<orig orig="ⲣⲡⲉⲧⲡⲉ">
+<norm norm="ⲣⲡⲉⲧⲡⲉ">
+<lemma lemma="ⲣⲡⲉⲧⲡⲉ">
 <pos pos="V">
-ⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<entity entity="place">
-<orig orig="ⲡⲉ">
-<norm norm="ⲡⲉ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲧⲡⲉ">
-<norm norm="ⲧⲡⲉ">
-<lemma lemma="ⲧⲡⲉ">
-<pos pos="N">
-ⲧⲡⲉ
+ⲣⲡⲉⲧⲡⲉ
 </pos>
 </lemma>
 </norm>
@@ -1204,7 +1186,6 @@
 </norm_group>
 </orig_group>
 </entity>
-</entity>
 <orig_group orig_group="ϩⲛⲧⲉⲩⲡⲟⲗⲏϯⲁ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲡⲟⲗⲏϯⲁ">
 <orig orig="ϩⲛ">
@@ -1230,9 +1211,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -1289,47 +1272,18 @@
 </orig_group>
 <orig_group orig_group="ⲣⲡⲉⲧⲡⲉ">
 <norm_group norm_group="ⲣⲡⲉⲧⲡⲉ">
-<orig orig="ⲣ">
-<norm norm="ⲣ">
-<lemma lemma="ⲉⲓⲣⲉ">
+<orig orig="ⲣⲡⲉⲧⲡⲉ">
+<norm norm="ⲣⲡⲉⲧⲡⲉ">
+<lemma lemma="ⲣⲡⲉⲧⲡⲉ">
 <pos pos="V">
-ⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-</lb_n>
-<lb_n lb_n="4">
-<orig orig="ⲡⲉ">
-<norm norm="ⲡⲉ">
-<lemma lemma="ⲡⲉ">
-<pos pos="COP">
-ⲡⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<entity entity="place">
-<orig orig="ⲧ">
-<norm norm="ⲧ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲧ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲡⲉ">
-<norm norm="ⲡⲉ">
-<lemma lemma="ⲡⲉ">
-<pos pos="N">
-ⲡⲉ
+ⲣⲡⲉⲧⲡⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+</lb_n>
 <orig_group orig_group="ⲙⲡⲉϩⲣⲟϣ">
 <norm_group norm_group="ⲙⲡⲉϩⲣⲟϣ">
 <orig orig="ⲙ">
@@ -1442,7 +1396,6 @@
 </orig_group>
 </entity>
 </entity>
-</entity>
 <orig_group orig_group=",">
 <norm_group norm_group=",">
 <orig orig=",">
@@ -1462,7 +1415,9 @@
 <norm norm="ⲥⲭⲉⲇⲱⲛ">
 <lemma lemma="ⲥⲭⲉⲇⲱⲛ">
 <pos pos="ADV">
+<lang lang="Greek">
 ⲥⲭⲉⲇⲱⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -1566,7 +1521,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb_n>
 <lb_n lb_n="5">
 <orig_group orig_group="ⲛⲗⲁⲥ">
 <norm_group norm_group="ⲛⲗⲁⲥ">
@@ -1622,7 +1576,7 @@
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
-<pos pos="COP">
+<pos pos="ART">
 ⲡ
 </pos>
 </lemma>
@@ -2008,7 +1962,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="also like those whose angelic conduct had been fulfilled, those whose burden of the flesh didn't prevent them at all from becoming equal to angels or from the conduct of those who are in heaven being fulfilled whilst they're on earth, like what the apostolic priest had said:">
 <orig_group orig_group="ⲛⲑⲉ">
 <norm_group norm_group="ⲛⲧϩⲉ">
 <orig orig="ⲛ">
@@ -2142,9 +2096,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -2335,7 +2291,7 @@
 <orig orig="ⲗⲁⲁⲩ">
 <norm norm="ⲗⲁⲁⲩ">
 <lemma lemma="ⲗⲁⲁⲩ">
-<pos pos="N">
+<pos pos="ADV">
 ⲗⲁⲁⲩ
 </pos>
 </lemma>
@@ -2499,9 +2455,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -2703,7 +2661,9 @@
 <norm norm="ϩⲓⲉⲣⲟⲥ">
 <lemma lemma="ϩⲓⲉⲣⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲓⲉⲣⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -2787,7 +2747,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="“As for us, our citizenship is in heaven, wherein we await our Savior, our Lord,">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -3058,7 +3018,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="who will change our humility into the likeness of the body of his glory.”">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -3261,7 +3221,7 @@
 </p_n>
 <p_n p_n="2">
 <chapter_n chapter_n="2">
-<translation translation="...">
+<translation translation="Because of this, when I wanted to publish the story of the holy Apa Longinus and his spiritual father Apa Lucius who fulfilled their conduct, in order for me to not say “their contests” or “their struggles”, I was in doubt within myself. Being aware of my own weakness and the exaltedness of the virtues of that saint, like someone standing under a very tall rock, attempting to take that rock or go up it, I doubted from each side how I'd be able to go over that rock. Pardon my saying “rock”, as it was Christ.">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
@@ -3378,7 +3338,9 @@
 <norm norm="ϩⲓⲥⲧⲱⲣⲓⲁ">
 <lemma lemma="ϩⲓⲥⲧⲱⲣⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲓⲥⲧⲱⲣⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -3646,7 +3608,9 @@
 <norm norm="ⲡⲟⲗⲏⲧⲓⲁ">
 <lemma lemma="ⲡⲟⲗⲏⲧⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲡⲟⲗⲏⲧⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -3743,7 +3707,9 @@
 <norm norm="ⲁⲑⲗⲱⲛ">
 <lemma lemma="ⲁⲑⲗⲱⲛ">
 <pos pos="N">
+<lang lang="Greek">
 ⲁⲑⲗⲱⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -4834,7 +4800,9 @@
 <norm norm="ⲥⲩⲅⲛⲱⲙⲏ">
 <lemma lemma="ⲥⲩⲅⲛⲱⲙⲏ">
 <pos pos="N">
+<lang lang="Greek">
 ⲥⲩⲅⲛⲱⲙⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -4994,7 +4962,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="For wherever the saints are, the Lord of the saints is there.">
 <entity entity="place">
 <orig_group orig_group="ⲡⲙⲁ">
 <norm_group norm_group="ⲡⲙⲁ">
@@ -5102,7 +5070,7 @@
 <orig orig="ϥ">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
-<pos pos="PPERO">
+<pos pos="PPERS">
 ϥ
 </pos>
 </lemma>
@@ -5211,7 +5179,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="For whoever did not refrain from going into the mountains with Peter and John">
 <orig_group orig_group="ⲡⲉⲧⲉⲙⲡⲉϥϯⲥⲟ">
 <norm_group norm_group="ⲡⲉⲧⲉⲙⲡⲉϥϯⲥⲟ">
 <entity entity="person">
@@ -5424,23 +5392,23 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="also did not refrain from dwelling with Apa Longinus and Apa Lucius his father where they were. And, perhaps, however that vision showed Peter and John who'd gone into that rocky place,">
 <orig_group orig_group="ⲙⲡⲉϥϯⲥⲟ">
 <norm_group norm_group="ⲙⲡⲉϥϯⲥⲟ">
-<orig orig="ⲙ">
-<norm norm="ⲙ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
+<orig orig="ⲙⲡⲉ">
+<norm norm="ⲙⲡⲉ">
+<lemma lemma="ⲙⲡⲉ">
+<pos pos="ANEGPST">
 ⲙ
 </pos>
 </lemma>
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ⲡⲉϥ">
-<norm norm="ⲡⲉϥ">
-<lemma lemma="ⲡⲉϥ">
-<pos pos="PPOS">
+<orig orig="ϥ">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲧⲟϥ">
+<pos pos="PPERS">
 ⲡⲉϥ
 </pos>
 </lemma>
@@ -5449,7 +5417,7 @@
 <orig orig="ϯⲥⲟ">
 <norm norm="ϯⲥⲟ">
 <lemma lemma="ϯⲥⲟ">
-<pos pos="N">
+<pos pos="V">
 <morph morph="ϯ">
 ϯ
 </morph>
@@ -5910,7 +5878,7 @@
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
-<pos pos="COP">
+<pos pos="ART">
 ⲡ
 </pos>
 </lemma>
@@ -6041,7 +6009,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="this too is how he showed Apa Longinus and Apa Lucius the orthodox faith that many obtained through them, just like we'll make clear as we proceed.">
 <orig_group orig_group="ⲧⲁⲓ">
 <norm_group norm_group="ⲧⲁⲓ">
 <entity entity="abstract">
@@ -6625,7 +6593,7 @@
 </p_n>
 <p_n p_n="3">
 <chapter_n chapter_n="3">
-<translation translation="...">
+<translation translation="However, while I recognize my own weaknesses and wish to be silent on the story of those saints, on account of their exaltedness and my lowliness in turn,">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
@@ -6657,8 +6625,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲓⲥⲟⲟⲩ">
-<norm_group norm_group="ⲉⲓⲥⲟⲟⲩ">
+<orig_group orig_group="ⲉⲓⲥⲟⲟⲩⲛ">
+<norm_group norm_group="ⲉⲓⲥⲟⲟⲩⲛ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
@@ -6677,42 +6645,33 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲟ">
-<norm norm="ⲥⲟ">
-<lemma lemma="ⲥⲱ">
+<orig orig="ⲥⲟⲟⲩⲛ">
+<norm norm="ⲥⲟⲟⲩⲛ">
+<lemma lemma="ⲥⲟⲟⲩⲛ">
 <pos pos="V">
-ⲥⲟ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERO">
-ⲟⲩ
+ⲥⲟⲟⲟⲩⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲛⲁϭⲱϫⲃ">
+<orig_group orig_group="ⲛⲛⲁϭⲱϫⲃ">
 <norm_group norm_group="ⲛⲛⲁϭⲱϫⲃ">
-<orig orig="ⲛⲛⲛ">
-<norm norm="ⲛⲛ">
-<lemma lemma="ⲛⲛⲉ">
-<pos pos="ANEGOPT">
-ⲛⲛⲛ
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁ">
-<norm norm="ⲁ">
-<lemma lemma="ⲁⲛⲟⲕ">
-<pos pos="PPERS">
-ⲁ
+<orig orig="ⲛⲁ">
+<norm norm="ⲛⲁ">
+<lemma lemma="ⲡⲁ">
+<pos pos="PPOS">
+ⲛⲁ
 </pos>
 </lemma>
 </norm>
@@ -6720,7 +6679,7 @@
 <orig orig="ϭⲱϫⲃ">
 <norm norm="ϭⲱϫⲃ">
 <lemma lemma="ϭⲱϫⲃ">
-<pos pos="V">
+<pos pos="N">
 ϭⲱϫⲃ
 </pos>
 </lemma>
@@ -6857,7 +6816,9 @@
 <norm norm="ϩⲓⲥⲧⲱⲣⲓⲁ">
 <lemma lemma="ϩⲓⲥⲧⲱⲣⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲓⲥⲧⲱⲣⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -7024,7 +6985,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="it's as if I'm seeing the very accusation before my eyes, threatening me like so: “Is this kind of fear pleasing to God? If you wholly acknowledge that they're saints and that they're exemplaries, and that their conduct is so exalted, just like you're saying,">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -7096,7 +7057,9 @@
 <norm norm="ⲕⲣⲓⲙⲙⲁ">
 <lemma lemma="ⲕⲣⲓⲙⲙⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲕⲣⲓⲙⲙⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -7127,10 +7090,10 @@
 </orig_group>
 <orig_group orig_group="ⲙⲡⲙⲧⲟ">
 <norm_group norm_group="ⲙⲡⲙⲧⲟ">
-<orig orig="ⲙ">
-<norm norm="ⲙ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
+<orig orig="ⲙⲡⲙⲧⲟ">
+<norm norm="ⲙⲡⲙⲧⲟ">
+<lemma lemma="ⲙⲡⲉⲙⲧⲟ">
+<pos pos="ADV">
 ⲙ
 </pos>
 </lemma>
@@ -7388,20 +7351,11 @@
 </entity>
 <orig_group orig_group="ⲣⲁⲛⲁϥ">
 <norm_group norm_group="ⲣⲁⲛⲁϥ">
-<orig orig="ⲣ">
-<norm norm="ⲣ">
-<lemma lemma="ⲉⲓⲣⲉ">
+<orig orig="ⲣⲁⲛⲁ">
+<norm norm="ⲣⲁⲛⲁ">
+<lemma lemma="ⲣⲁⲛⲁ">
 <pos pos="V">
-ⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲁⲛⲁ">
-<norm norm="ⲁⲛⲁ">
-<lemma lemma="ⲁⲛⲁⲓ">
-<pos pos="N">
-ⲁⲛⲁ
+ⲣⲁⲛⲁ
 </pos>
 </lemma>
 </norm>
@@ -7686,7 +7640,9 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲡⲟ
+</lang>
 </lb_n>
 <lb_n lb_n="6">
 ⲗⲏϯⲁ
@@ -7863,7 +7819,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="and that it's possible for their lives to edify those who'd hear about them, why do you prefer silence over telling us about the lives of those saints?">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7955,12 +7911,12 @@
 </norm_group>
 </orig_group>
 <entity entity="person">
-<orig_group orig_group="ϣⲏⲣⲉ">
-<norm_group norm_group="ϣⲏⲣⲉ">
-<orig orig="ϣⲏⲣⲉ">
-<norm norm="ϣⲏⲣⲉ">
-<lemma lemma="ϣⲏⲣⲉ">
-<pos pos="N">
+<orig_group orig_group="ϣⲱⲡⲉ">
+<norm_group norm_group="ϣⲱⲡⲉ">
+<orig orig="ϣⲱⲡⲉ">
+<norm norm="ϣⲱⲡⲉ">
+<lemma lemma="ϣⲱⲡⲉ">
+<pos pos="V">
 ϣⲏⲣⲉ
 </pos>
 </lemma>
@@ -7991,8 +7947,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲧⲉⲛⲁⲥⲟⲧⲙⲉϥ">
-<norm_group norm_group="ⲛⲛⲧⲉⲛⲁⲥⲟⲧⲙⲉϥ">
+<orig_group orig_group="ⲛⲛⲉⲧⲛⲁⲥⲟⲧⲙⲉϥ">
+<norm_group norm_group="ⲛⲛⲉⲧⲛⲁⲥⲟⲧⲙⲉϥ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -8004,17 +7960,17 @@
 </orig>
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛⲧⲉ">
-<pos pos="ACONJ">
+<lemma lemma="ⲛ">
+<pos pos="ART">
 ⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲉ">
-<norm norm="ⲧⲉ">
-<lemma lemma="ⲛⲧⲟ">
-<pos pos="PPERS">
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
 ⲧⲉ
 </pos>
 </lemma>
@@ -8086,8 +8042,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲕⲥⲱⲧ">
-<norm_group norm_group="ⲕⲥⲱⲧ">
+<orig_group orig_group="ⲕⲥⲱⲧⲡ">
+<norm_group norm_group="ⲕⲥⲱⲧⲡ">
 <orig orig="ⲕ">
 <norm norm="ⲕ">
 <lemma lemma="ⲛⲧⲟⲕ">
@@ -8097,9 +8053,9 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲱⲧ">
-<norm norm="ⲥⲱⲧ">
-<lemma lemma="ⲥⲱⲧ">
+<orig orig="ⲥⲱⲧⲡ">
+<norm norm="ⲥⲱⲧⲡ">
+<lemma lemma="ⲥⲱⲧⲡ">
 <pos pos="V">
 ⲥⲱⲧ
 </pos>
@@ -8108,21 +8064,21 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲡⲙⲡⲕⲁⲣⲱⲧ">
-<norm_group norm_group="ⲡⲙⲡⲕⲁⲣⲱⲧ">
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
+<orig_group orig_group="ⲙⲡⲕⲁⲣⲱⲧ">
+<norm_group norm_group="ⲙⲡⲕⲁⲣⲱⲧ">
+<orig orig="ⲙ">
+<norm norm="ⲙ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
 ⲡ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲡ">
-<norm norm="ⲙⲡ">
-<lemma lemma="ⲙⲡⲉ">
-<pos pos="ANEGPST">
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
 ⲙⲡ
 </pos>
 </lemma>
@@ -8314,7 +8270,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Even if you cannot tell us about the conduct of those saints who are filled with every virtue, humbly tell us, nevertheless, whatever you can handle, so that you shall not become envious of the usefulness of the souls of those who'll hear about the lives of those holy exemplaries and follow a small part within themselves.">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <orig orig="ⲕⲁⲛ">
@@ -8387,8 +8343,8 @@
 <norm_group norm_group="ⲉϫⲱ">
 <orig orig="ⲉϫⲱ">
 <norm norm="ⲉϫⲱ">
-<lemma lemma="ⲉϫⲛ_ⲛⲧⲟ">
-<pos pos="PREP_PPERO">
+<lemma lemma="ⲉ_ϫⲱ">
+<pos pos="PREP">
 ⲉϫⲱ
 </pos>
 </lemma>
@@ -8445,9 +8401,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -8822,8 +8780,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲡϩⲡⲩ">
-<norm_group norm_group="ⲉⲡϩⲡⲩ">
+<orig_group orig_group="ⲉⲡϩⲏⲩ">
+<norm_group norm_group="ⲉⲡϩⲏⲩ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -8843,9 +8801,9 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲡⲩ">
-<norm norm="ϩⲡⲩ">
-<lemma lemma="ϩⲡⲩ">
+<orig orig="ϩⲏⲩ">
+<norm norm="ϩⲏⲩ">
+<lemma lemma="ϩⲏⲩ">
 <pos pos="N">
 ϩⲡⲩ
 </pos>
@@ -9180,7 +9138,7 @@
 <p_n p_n="4">
 <chapter_n chapter_n="4">
 <lb_n lb_n="1">
-<translation translation="...">
+<translation translation="Especially since the herald of truth, the masterful Paul, announces:">
 <orig_group orig_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <norm_group norm_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <orig orig="ⲙⲁⲗⲓⲥⲧⲁ">
@@ -9348,7 +9306,7 @@
 </orig_group>
 </translation>
 </lb_n>
-<translation translation="...">
+<translation translation="‘Remember your leaders, who've spoken the word of God to you. Those whose behavior you look up to—imitate their faith.’ And as God knows that they'll be of benefit to those who'll hear about the ones who lived their lives according to his will, he wrote down for us—through his Holy Spirit—the lives of the patriarchs and the rest of the saints">
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="Heb. 13 , 7">
 <lb_n lb_n="2">
@@ -9598,7 +9556,7 @@
 <lb_n lb_n="3">
 <orig orig="ⲧⲛ">
 <norm norm="ⲧⲛ">
-<lemma lemma="ⲁⲛⲟⲛ">
+<lemma lemma="ⲛⲧⲱⲧⲛ">
 <pos pos="PPERS">
 ⲧⲛ
 </pos>
@@ -9691,7 +9649,7 @@
 <orig orig="ⲧⲛⲧⲛ">
 <norm norm="ⲧⲛⲧⲛ">
 <lemma lemma="ⲧⲟⲛⲧⲛ">
-<pos pos="V">
+<pos pos="VIMP">
 ⲧⲛⲧⲛ
 </pos>
 </lemma>
@@ -10367,7 +10325,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="who were in the Old Testament and the New, so that we would not only hear about them, but also liken ourselves to their example. We, too, inherit the promises God made to those who love him.”">
 <entity entity="abstract">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -10449,7 +10407,9 @@
 <norm norm="ⲡⲁⲗⲁⲓⲁ">
 <lemma lemma="ⲡⲁⲗⲁⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲡⲁⲗⲁⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -10643,28 +10603,46 @@
 </orig_group>
 <orig_group orig_group="ⲉⲛⲛⲁⲧⲛⲧⲱⲛⲛ">
 <norm_group norm_group="ⲉⲛⲛⲁⲧⲛⲧⲱⲛⲛ">
-<orig orig="ⲉⲛⲛ">
-<norm norm="ⲉⲛⲛ">
-<lemma lemma="ⲉⲛⲛ">
-<pos pos="ANEGOPT">
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉⲛⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁ">
-<norm norm="ⲁ">
-<lemma lemma="ⲁⲛⲟⲕ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERS">
+ⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛⲁ">
+<norm norm="ⲛⲁ">
+<lemma lemma="ⲛⲁ">
+<pos pos="FUT">
 ⲁ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲛⲧⲱⲛⲛ">
-<norm norm="ⲧⲛⲧⲱⲛⲛ">
-<lemma lemma="ⲧⲛⲧⲱⲛⲛ">
+<orig orig="ⲧⲛⲧⲱⲛ">
+<norm norm="ⲧⲛⲧⲱⲛ">
+<lemma lemma="ⲧⲛⲧⲱⲛ">
 <pos pos="V">
+ⲛⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERI">
 ⲧⲛⲧⲱⲛⲛ
 </pos>
 </lemma>
@@ -10774,7 +10752,7 @@
 <orig orig="ⲉⲣⲏⲧ">
 <norm norm="ⲉⲣⲏⲧ">
 <lemma lemma="ⲉⲣⲏⲧ">
-<pos pos="V">
+<pos pos="N">
 ⲉⲣⲏⲧ
 </pos>
 </lemma>
@@ -10940,7 +10918,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Thus, thinking these things within myself, I considered it necessary to begin the history of the saints, and to commemorate their conduct for you, knowing with certainty that “the righteous person's memory is a good memory,” and that “a good reputation rejoices the heart,” and most of all, that “people rejoice when talking about the righteous,” like the wise Solomon had said.">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -10960,7 +10938,9 @@
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
 <pos pos="PTC">
+<lang lang="Greek">
 ⲟⲩⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -11214,7 +11194,9 @@
 <norm norm="ϩⲓⲥⲧⲱⲣⲓⲁ">
 <lemma lemma="ϩⲓⲥⲧⲱⲣⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲓⲥⲧⲱⲣⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -11371,9 +11353,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -12112,7 +12096,7 @@
 </orig_group>
 </lb_n>
 </translation>
-<translation translation="...">
+<translation translation="The conduct and life of our holy father, Apa Longinus, who hailed from the lavra of the Enaton in Alexandria.">
 <entity entity="abstract">
 <lb_n lb_n="15">
 <orig_group orig_group="ⲧⲡⲟⲗⲏϯⲁ">
@@ -12130,9 +12114,11 @@
 <norm norm="ⲡⲟⲗⲏϯⲁ">
 <lemma lemma="ⲡⲟⲗⲏϯⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <date_type date_type="liturgies_ceremonies">
 ⲡⲟⲗⲏϯⲁ
 </date_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -12294,10 +12280,10 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲩ">
-<norm norm="ⲩ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERS">
+<orig orig="ⲟⲩ">
+<norm norm="ⲟⲩ">
+<lemma lemma="ⲟⲩ">
+<pos pos="ART">
 ⲩ
 </pos>
 </lemma>
@@ -12449,7 +12435,7 @@
 </p_n>
 <p_n p_n="5">
 <chapter_n chapter_n="5">
-<translation translation="...">
+<translation translation="Now he was such a kind of person, being from a city in Lycia per his lineage belonging to the earth, being a citizen of the Jerusalem of heaven whose citizenship was in the heavens, according to the wise Paul's account.">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲉⲟⲩ">
 <norm_group norm_group="ⲛⲉⲟⲩ">
@@ -12464,8 +12450,8 @@
 </orig>
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERS">
+<lemma lemma="ⲟⲩⲁ">
+<pos pos="NUM">
 ⲟⲩ
 </pos>
 </lemma>
@@ -13101,7 +13087,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="While still a child, he loved the philosophy of monastic life, and made his way to a monastery in his home country of Lycia called “Apa Hieronikos's Place”.">
 <orig_group orig_group="ⲁⲓⲧⲉⲓ">
 <norm_group norm_group="ⲁⲓⲧⲉⲓ">
 <orig orig="ⲁⲓⲧⲉⲓ">
@@ -13678,7 +13664,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="And when he was worthy of donning the holy garb of monasticism at that monastery, he was handed over to a great ascetic whose name was Apa Lucius, who was adorned with the word of the holy scriptures and sagacity—the mother of all virtues.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -14244,7 +14230,9 @@
 <norm norm="ⲇⲓⲁⲕⲣⲏⲥⲓⲥ">
 <lemma lemma="ⲇⲓⲁⲕⲣⲏⲥⲓⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲇⲓⲁⲕⲣⲏⲥⲓⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14348,7 +14336,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="He also educated him in the faith and in every ritual appropriate to monastic life.">
 <orig_group orig_group="ⲁϥⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ">
 <norm_group norm_group="ⲁϥⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ">
 <orig orig="ⲁ">
@@ -14619,7 +14607,7 @@
 </p_n>
 <p_n p_n="6">
 <chapter_n chapter_n="6">
-<translation translation="...">
+<translation translation="After he'd spent time in the monastery living his life through Christ's virtues, i.e., humility, meekness, renunciation, and the rest of the virtues resembling these, the abbot—a quiet and peaceful man—passed away in that monastery, with someone else appointed in his stead. Then, disorder arose amongst the monastery's congregation, for this reason:">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲣⲟⲩⲟⲉⲓϣ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲟⲩⲟⲉⲓϣ">
@@ -15257,8 +15245,8 @@
 <norm_group norm_group="ⲉⲩⲣⲱⲙⲉ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -15694,7 +15682,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="They all knew Apa Lucius, and they all anticipated him to be the one who'd preside as abbot over them after whoever passed away. At any rate, when the saint comprehended the disorder that was destined to happen because of him,">
 <orig_group orig_group="ⲉⲩⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲉⲩⲥⲟⲟⲩⲛ">
 <orig orig="ⲉ">
@@ -16051,7 +16039,7 @@
 <orig orig="ⲗⲟⲓⲡⲟⲛ">
 <norm norm="ⲗⲟⲓⲡⲟⲛ">
 <lemma lemma="ⲗⲟⲓⲡⲟⲛ">
-<pos pos="ADV">
+<pos pos="CONJ">
 <lang lang="Greek">
 ⲗⲟⲓⲡⲟⲛ
 </lang>
@@ -16259,7 +16247,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="he decided to avoid their presence—i.e., to leave that monastery—so that the place should calm down.">
 <orig_group orig_group="ⲁϥⲥⲟⲧⲡⲥ">
 <norm_group norm_group="ⲁϥⲥⲟⲧⲡⲥ">
 <orig orig="ⲁ">
@@ -16603,7 +16591,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="All the more, he never stopped pursuing humility, like his Lord.">
 <orig_group orig_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <norm_group norm_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <orig orig="ⲙⲁⲗⲓⲥⲧⲁ">
@@ -16813,7 +16801,7 @@
 </p_n>
 <p_n p_n="7">
 <chapter_n chapter_n="7">
-<translation translation="...">
+<translation translation="As he thought about these things, he called his disciple Apa Longinus and said to him, “My son, we know it's superfluous for us to part from our monastery during our lives; but, in order for us to avoid being responsible for such disorder and having an accusation against us, I think it's better for us to retire somewhere alone, just like what's written in the Proverbs:">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -17169,8 +17157,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲣⲉⲛⲥⲉ">
-<norm_group norm_group="ⲉⲧⲣⲉⲛⲥⲉ">
+<orig_group orig_group="ⲉⲧⲣⲉⲛⲥⲉⲛ">
+<norm_group norm_group="ⲉⲧⲣⲉⲛⲥⲉⲛ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -17191,18 +17179,18 @@
 </orig>
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛⲧⲉ">
-<pos pos="ACONJ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
 ⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲉ">
-<norm norm="ⲥⲉ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERS">
-ⲥⲉ
+<orig orig="ⲥⲉⲛ">
+<norm norm="ⲥⲉⲛ">
+<lemma lemma="ⲥⲉⲛ">
+<pos pos="V">
+ⲥⲉⲛ
 </pos>
 </lemma>
 </norm>
@@ -17211,16 +17199,6 @@
 </orig_group>
 <orig_group orig_group="ⲛⲡⲉⲛⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <norm_group norm_group="ⲛⲡⲉⲛⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
-<entity entity="place">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
@@ -17230,15 +17208,13 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <norm norm="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <lemma lemma="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
-<pos pos="N">
+<pos pos="PPOS">
 <lang lang="Greek">
-ⲙⲟ
-</lb_n>
-<lb_n lb_n="3">
-ⲛⲁⲥⲧⲏⲣⲓⲟⲛ
+ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ
 </lang>
 </pos>
 </lemma>
@@ -17246,6 +17222,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</lb_n>
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -17336,10 +17313,10 @@
 </orig_group>
 <orig_group orig_group="ⲛⲛϣⲱⲡⲉ">
 <norm_group norm_group="ⲛⲛϣⲱⲡⲉ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
+<orig orig="ⲛⲛ">
+<norm norm="ⲛⲛⲉ">
+<lemma lemma="ⲛⲛⲉ">
+<pos pos="ANEGOPT">
 ⲛ
 </pos>
 </lemma>
@@ -17348,8 +17325,8 @@
 <entity entity="abstract">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
+<lemma lemma="ⲛ">
+<pos pos="PPERS">
 ⲛ
 </pos>
 </lemma>
@@ -17358,7 +17335,7 @@
 <orig orig="ϣⲱⲡⲉ">
 <norm norm="ϣⲱⲡⲉ">
 <lemma lemma="ϣⲱⲡⲉ">
-<pos pos="N">
+<pos pos="V">
 ϣⲱⲡⲉ
 </pos>
 </lemma>
@@ -17413,7 +17390,7 @@
 </orig>
 <orig orig="ϣⲧⲟⲣⲧⲣ">
 <norm norm="ϣⲧⲟⲣⲧⲣ">
-<lemma lemma="ϣⲧⲟⲣⲧⲣ">
+<lemma lemma="ϣⲧⲟⲣⲧⲉⲣ">
 <pos pos="N">
 ϣⲧⲟⲣⲧⲣ
 </pos>
@@ -17422,7 +17399,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb_n>
 <lb_n lb_n="4">
 <orig_group orig_group="ⲛⲧⲉⲓⲙⲓⲛⲉ">
 <norm_group norm_group="ⲛⲧⲉⲓⲙⲓⲛⲉ">
@@ -17600,19 +17576,10 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛ">
+<orig orig="ⲛⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERS">
 ⲛ
 </pos>
 </lemma>
@@ -17827,7 +17794,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="‘Better to dwell on the corner of a roof than to dwell in a new house and places affected by strife.’">
 <orig_group orig_group="ⲛⲁⲛⲟⲩⲥ">
 <norm_group norm_group="ⲛⲁⲛⲟⲩⲥ">
 <orig orig="ⲛⲁⲛⲟⲩ">
@@ -18131,7 +18098,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Thus, better that we retire somewhere alone and be at ease for the salvation of our souls,">
 <orig_group orig_group="ⲥⲣⲛⲟϥⲣⲉ">
 <norm_group norm_group="ⲥⲣⲛⲟϥⲣⲉ">
 <orig orig="ⲥ">
@@ -18319,8 +18286,8 @@
 <norm_group norm_group="ⲛⲧⲛⲥϥⲉ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛⲧⲉ">
-<pos pos="ACONJ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
 ⲛ
 </pos>
 </lemma>
@@ -18335,9 +18302,9 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥϥⲉ">
-<norm norm="ⲥϥⲉ">
-<lemma lemma="ⲥϥⲉ">
+<orig orig="ⲥⲣϥⲉ">
+<norm norm="ⲥⲣϥⲉ">
+<lemma lemma="ⲥⲣ̅ϥⲉ">
 <pos pos="V">
 ⲥϥⲉ
 </pos>
@@ -18428,7 +18395,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="for which we've renounced the world and those in it, than to sit here and see the distortion of our monastery.” Behold, this is the reason they left their monastery.">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -18573,13 +18540,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲏⲏⲏⲧϥ">
+<orig_group orig_group="ⲉⲧⲃⲏⲏⲧϥ">
 <norm_group norm_group="ⲉⲧⲃⲏⲏⲧϥ">
-<orig orig="ⲉⲧⲏⲏⲏⲧ">
+<orig orig="ⲉⲧⲃⲏⲏⲧ">
 <norm norm="ⲉⲧⲃⲏⲏⲧ">
 <lemma lemma="ⲉⲧⲃⲉ">
 <pos pos="PREP">
-ⲉⲧⲏⲏⲏⲧ
+ⲉⲧⲃⲏⲏⲧ
 </pos>
 </lemma>
 </norm>
@@ -19018,7 +18985,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Moreover, it was one of God's plans that came to pass, that he should reveal the graces of his goodness, which manage our bodies and our souls through his chosen ones, so that many should be saved through them.">
 <orig_group orig_group="ⲙⲁⲗⲗⲟⲛ">
 <norm_group norm_group="ⲙⲁⲗⲗⲟⲛ">
 <orig orig="ⲙⲁⲗⲗⲟⲛ">
@@ -19489,7 +19456,7 @@
 <norm_group norm_group="ϩⲓⲧⲟⲟⲧⲟⲩ">
 <orig orig="ϩⲓⲧⲟⲟⲧ">
 <norm norm="ϩⲓⲧⲟⲟⲧ">
-<lemma lemma="ϩⲓⲧⲟⲟⲧ">
+<lemma lemma="ϩⲓⲧⲛ̅">
 <pos pos="PREP">
 ϩⲓⲧⲟⲟⲧ
 </pos>
@@ -19528,7 +19495,7 @@
 </p_n>
 <p_n p_n="8">
 <chapter_n chapter_n="8">
-<translation translation="...">
+<translation translation="Now after they left their monastery, they arrived in a quiet town in that country of Lycia, and they settled in a church in that town referred to by the name of the honorable holy martyr Theoktistos.">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲉⲓ">
@@ -19850,9 +19817,9 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲱϩ">
-<norm norm="ⲟⲱϩ">
-<lemma lemma="ⲟⲱϩ">
+<orig orig="ⲟⲩⲱϩ">
+<norm norm="ⲟⲩⲱϩ">
+<lemma lemma="ⲟⲩⲱϩ">
 <pos pos="V">
 ⲟⲱϩ
 </pos>
@@ -19882,17 +19849,27 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲕⲕⲗⲏⲥⲓⲁϩⲙ">
-<norm norm="ⲉⲕⲕⲗⲏⲥⲓⲁϩⲙ">
-<lemma lemma="ⲉⲕⲕⲗⲏⲥⲓⲁϩⲙ">
+<orig orig="ⲉⲕⲕⲗⲏⲥⲓⲁ">
+<norm norm="ⲉⲕⲕⲗⲏⲥⲓⲁ">
+<lemma lemma="ⲉⲕⲕⲗⲏⲥⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 <placeName_type placeName_type="church_basilica">
 <placeName_ref placeName_ref="non_egyptian">
 ⲉⲕⲕⲗⲏⲥⲓⲁ
 </placeName_ref>
 </placeName_type>
+</lang>
+</pos>
+</lemma>
+</norm>
+</orig>
 </lb_n>
 <lb_n lb_n="3">
+<orig orig="ϩⲙ">
+<norm norm="ϩⲙ">
+<lemma lemma="ϩⲛ">
+<pos pos="PREP">
 ϩⲙ
 </pos>
 </lemma>
@@ -20086,8 +20063,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲙⲁⲣⲧⲩⲡⲟⲥ">
-<norm_group norm_group="ⲙⲙⲁⲣⲧⲩⲡⲟⲥ">
+<orig_group orig_group="ⲙⲙⲁⲣⲧⲩⲣⲟⲥ">
+<norm_group norm_group="ⲙⲙⲁⲣⲧⲩⲣⲟⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -20098,14 +20075,16 @@
 </norm>
 </orig>
 <entity entity="person">
-<orig orig="ⲙⲁⲣⲧⲩⲡⲟⲥ">
-<norm norm="ⲙⲁⲣⲧⲩⲡⲟⲥ">
-<lemma lemma="ⲙⲁⲣⲧⲩⲡⲟⲥ">
+<orig orig="ⲙⲁⲣⲧⲩⲣⲟⲥ">
+<norm norm="ⲙⲁⲣⲧⲩⲣⲟⲥ">
+<lemma lemma="ⲙⲁⲣⲧⲩⲣⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲙⲁⲣⲧⲩ
+</lang>
 </lb_n>
 <lb_n lb_n="4">
-ⲡⲟⲥ
+ⲣⲟⲥ
 </pos>
 </lemma>
 </norm>
@@ -20144,7 +20123,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="This other thing, moreover, didn't simply occur like this, but rather so that the miracles of God would appear,">
 <orig_group orig_group="ⲡⲉⲓⲕⲉⲟⲩⲁ">
 <norm_group norm_group="ⲡⲉⲓⲕⲉⲟⲩⲁ">
 <entity entity="person">
@@ -20428,7 +20407,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="per what was revealed through the meaning of the honorable name of the martyr Theoktistos, foreshadowing what would happen in his chapel through these saints.">
 <orig_group orig_group="ⲕⲁⲧⲁⲑⲉ">
 <norm_group norm_group="ⲕⲁⲧⲁⲧϩⲉ">
 <orig orig="ⲕⲁⲧⲁ">
@@ -20849,7 +20828,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Indeed, Theoktistos is translated “who has been built by God”. Whilst these saints were edified in the name of the martyr through their acts of asceticism and their numerous struggles,">
 <orig_group orig_group="ⲑⲉⲟⲕⲇⲓⲥⲧⲟⲥ">
 <norm_group norm_group="ⲑⲉⲟⲕⲧⲓⲥⲧⲟⲥ">
 <entity entity="person">
@@ -21362,7 +21341,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="they, in turn, edified lots of souls through the miracles and healings that God worked through them in that shrine.">
 <orig_group orig_group="ⲁⲩⲕⲱⲧ">
 <norm_group norm_group="ⲁⲩⲕⲱⲧ">
 <orig orig="ⲁ">
@@ -21734,7 +21713,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="After they settled there, many from the surrounding area had come, bringing the sick.">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱϩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱϩ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -21982,7 +21961,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Those possessed by unclean spirits, especially, were laid down in the burial ground which was there,">
 <orig_group orig_group="ⲛϩⲟⲩⲟ">
 <norm_group norm_group="ⲛϩⲟⲩⲟ">
 <orig orig="ⲛ">
@@ -22245,7 +22224,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="and they obtained healing through the prayers of that saint.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22441,7 +22420,7 @@
 <p_n p_n="9">
 <chapter_n chapter_n="9">
 <lb_n lb_n="1">
-<translation translation="...">
+<translation translation="There was a woman, in fact, who was possessed by a very stubborn unclean spirit.">
 <orig_group orig_group="ⲟⲩⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲟⲩⲥϩⲓⲙⲉ">
 <entity entity="person">
@@ -22632,7 +22611,7 @@
 </orig_group>
 </translation>
 </lb_n>
-<translation translation="...">
+<translation translation="She caused great distress and disorder through the demon inside her, so much so that anyone who would come near her had their clothes, as well as their bodies, torn at.">
 <lb_n lb_n="2">
 <orig_group orig_group="ⲇⲁⲓ">
 <norm_group norm_group="ⲇⲁⲓ">
@@ -23090,7 +23069,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="When they brought her to the servants of God and begged them to pray for her, so that she might obtain healing through their intervention,">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲛⲧⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲛⲧⲥ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -23441,7 +23420,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="she then began to hit and attack those around her. Then, she fell to their feet and remained tormented through the evil spirit inside her, and she was foaming at the mouth.">
 <orig_group orig_group="ⲁⲥⲁⲣⲭⲉⲓ">
 <norm_group norm_group="ⲁⲥⲁⲣⲭⲉⲓ">
 <orig orig="ⲁ">
@@ -24003,7 +23982,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="After she cried out in a loud voice, she acted like those who are dead. Then, after the blessed Lucius pitied her, he began to pray and raise his hands over her, and ordered his disciple Longinus to pray as well, and to lay his hands on her, and to make the sign of the cross on her.">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲥⲱϣ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲥⲱϣ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -24816,7 +24795,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="When this was done, the demon came out of her immediately, and she arose like someone who has arisen from slumber, cleansed of the scourge that was inside her.">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
@@ -25307,7 +25286,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="And like this, she was tending to the sick in the martyr's shrine from that day until her death.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -25608,7 +25587,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="Thus, this is the first miracle that God worked through them after they had left their monastery and settled in that church.">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
