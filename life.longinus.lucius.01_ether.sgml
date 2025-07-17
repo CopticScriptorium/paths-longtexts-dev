@@ -7179,10 +7179,10 @@
 </orig_group>
 <orig_group orig_group="ⲙⲡⲙⲧⲟ">
 <norm_group norm_group="ⲙⲡⲙⲧⲟ">
-<orig orig="ⲙⲡⲙⲧⲟ">
-<norm norm="ⲙⲡⲙⲧⲟ">
-<lemma lemma="ⲙⲡⲉⲙⲧⲟ">
-<pos pos="ADV">
+<orig orig="ⲙ">
+<norm norm="ⲙ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
 ⲙ
 </pos>
 </lemma>
@@ -8440,7 +8440,7 @@
 <norm_group norm_group="ⲉϫⲱ">
 <orig orig="ⲉϫⲱ">
 <norm norm="ⲉϫⲱ">
-<lemma lemma="ⲉ_ϫⲱ">
+<lemma lemma="ⲉϫⲱ">
 <pos pos="PREP">
 ⲉϫⲱ
 </pos>
@@ -8866,7 +8866,7 @@
 </orig>
 <orig orig="ⲫⲑⲟⲛⲓ">
 <norm norm="ⲫⲑⲟⲛⲓ">
-<lemma lemma="ⲫⲑⲟⲛⲓ">
+<lemma lemma="ⲫⲑⲟⲛⲉⲓ">
 <pos pos="V">
 <lang lang="Greek">
 ⲫⲑⲟⲛⲓ
