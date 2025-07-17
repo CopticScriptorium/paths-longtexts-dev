@@ -3,6 +3,7 @@
 <chapter_n chapter_n="0">
 <translation translation="The life and conduct of our dear ascetic holy fathers, Apa Longinus and Apa Lucius, his spiritual father.">
 <verse_n verse_n="1">
+<arabic arabic="حَيَاةُ وَسِيرَةُ الآبَاءِ المُقَدَّسِينَ المُكَرَّمِين النُّسَّاكِ, الأَبَا لُونْجِينُوس وَالأَبَا لوجْيُوس, أَبِيهِ الرُّوحِيِّ, ">
 <entity entity="abstract">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲡⲃⲓⲟⲥ">
@@ -306,10 +307,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Their dear lives concluded on the 2nd day of the month of Emshir, through God's peace. Amen.">
 <verse_n verse_n="2">
+<arabic arabic="اللَّذَيْنَ أَكْمَلا حَيَاتَهُمَا المُوَقَّرَةَ فِي اليَوْمِ الثَانِي مِنْ شَهْرِ أَمْشِير, فِي سَلامِ الرَّبِّ. آمِينَ.">
 <orig_group orig_group="ⲛⲧⲁⲩϫⲱⲕ">
 <norm_group norm_group="ⲛⲧⲁⲩϫⲱⲕ">
 <orig orig="ⲛⲧ">
@@ -640,6 +643,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -648,6 +652,7 @@
 <chapter_n chapter_n="1">
 <translation translation="While they had achieved conduct fit for flesh-bearing men,">
 <verse_n verse_n="1">
+<arabic arabic="أولَئِكَ الَّذينَ أَكْمَلُوا سِيَرًا مُلائِمَةً لِأُنَاسٍ حَامِلِينَ الجَسَدَ, ">
 <lb_n lb_n="1">
 <entity entity="person">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩϫⲱⲕ">
@@ -913,10 +918,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="let's suppose carnal tongues speak praises about them: Whoever has performed above the measure of men through their conduct, and whose rightful actions were above the burden of those who bear flesh, with nearly no flesh on them—which carnal tongue can speak the praise of those ones? Those of this kind need the tongue of incorporeal people to speak praises about them,">
 <verse_n verse_n="2">
+<arabic arabic="فَلْتَكُنْ أَلْسِنَةُ بَشَرِيَّةُ تَنْطِقُ بِمَدَائِحَ. إِنَّ أُولَئِكَ الَّذِينَ فَاقُوا قُدْرَةَ الْبَشَرِ فِي سِيرَتِهِمْ, وَفَاقَتْ أَعْمَالُهُم ثِقْلَ الَّذِينَ يَحْمِلونَ الْجَسَدَ - وَكَأنَّهُ لَا جَسَدَ فِيهِمْ - فَأيُّ لِسَانٍ بَشَرِيٍّ ذَاكَ الَّذي يَقْدِرُ أَنْ يَمْدَحَهُمْ؟ إِنَّ مِثْلَ هَؤلاءِ بِحَاجَةٍ إِلى لِسَانِ أَرْوَاحٍ غَيْرِ بَشَرِيَّةٍ لِكَيْ يَنْطِقَ بِمَدَائِحِهِمْ.">
 <orig_group orig_group="ⲉⲥⲧⲱⲛ">
 <norm_group norm_group="ⲉⲥⲧⲱⲛ">
 <orig orig="ⲉⲥⲧⲱⲛ">
@@ -1122,7 +1129,12 @@
 <norm norm="ⲣⲡⲉⲧⲡⲉ">
 <lemma lemma="ⲣⲡⲉⲧⲡⲉ">
 <pos pos="V">
-ⲣⲡⲉⲧⲡⲉ
+<morph morph="ⲣ">
+ⲣ
+</morph>
+<morph morph="ⲡⲉⲧⲡⲉ">
+ⲡⲉⲧⲡⲉ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -1268,10 +1280,12 @@
 </norm>
 </orig>
 <orig orig="ⲕⲁⲧⲟⲣⲑⲟⲙⲁ">
-<norm norm="ⲕⲁⲧⲟⲣⲑⲟⲙⲁ">
-<lemma lemma="ⲕⲁⲧⲟⲣⲑⲟⲙⲁ">
+<norm norm="ⲕⲁⲧⲟⲣⲑⲱⲙⲁ">
+<lemma lemma="ⲕⲁⲧⲟⲣⲑⲱⲙⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲕⲁⲧⲟⲣⲑⲟⲙⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -1285,7 +1299,12 @@
 <norm norm="ⲣⲡⲉⲧⲡⲉ">
 <lemma lemma="ⲣⲡⲉⲧⲡⲉ">
 <pos pos="V">
-ⲣⲡⲉⲧⲡⲉ
+<morph morph="ⲣ">
+ⲣ
+</morph>
+<morph morph="ⲡⲉⲧⲡⲉ">
+ⲡⲉⲧⲡⲉ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -1973,10 +1992,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="also like those whose angelic conduct had been fulfilled, those whose burden of the flesh didn't prevent them at all from becoming equal to angels or from the conduct of those who are in heaven being fulfilled whilst they're on earth, like what the apostolic priest had said:">
 <verse_n verse_n="3">
+<arabic arabic="كَذَلِكَ أَيْضًا أُولَئِكَ الَّذِينَ أَكْمَلُوا سِيرَتَهُمُ الْمَلائِكِيَّةَ. هَؤُلاءِ الَّذِينَ لَمْ يَكُنْ ثِقْلُ الْجَسَدِ عَائِقًا لَهُمْ, بَلْ صَارُوا مُشَابِهِينَ لِلْمَلائِكَةِ, وَأَتَمُّوا سِيرَةَ الَّذينَ فِي السَّمَاوَاتِ, رَغْمَ أنَّهُمْ عَلىَ الْأرْضِ. كَمَا قَالَ الرَّسُولُ الْمُقَدَّسُ: ">
 <orig_group orig_group="ⲛⲑⲉ">
 <norm_group norm_group="ⲛⲧϩⲉ">
 <orig orig="ⲛ">
@@ -2760,16 +2781,18 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="“As for us, our citizenship is in heaven, wherein we await our Savior, our Lord,">
 <verse_n verse_n="4">
+<arabic arabic="أمَّا نَحْنُ, فَإنَّ سِيرَتَنَا فِي السَّماوَاتِ, الْمَكَان الَّذِي نَنْتَظِرُ فِيهِ مُخَلِّصَنَا وَسَيِّدَنَا&quot;">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
 <norm norm="ⲁⲛⲟⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
-<pos pos="PPERI">
+<pos pos="PPERS">
 ⲁⲛⲟⲛ
 </pos>
 </lemma>
@@ -3033,10 +3056,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="who will change our humility into the likeness of the body of his glory.”">
 <verse_n verse_n="5">
+<arabic arabic="ذَلِكَ الَّذِي سَيُغَيِّر جَسَد تَوَاضُعِنَا لِيُشَابِه جَسَد مَجْدِهِ.&quot;">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -3234,6 +3259,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -3242,6 +3268,7 @@
 <chapter_n chapter_n="2">
 <translation translation="Because of this, when I wanted to publish the story of the holy Apa Longinus and his spiritual father Apa Lucius who fulfilled their conduct, in order for me to not say “their contests” or “their struggles”, I was in doubt within myself. Being aware of my own weakness and the exaltedness of the virtues of that saint, like someone standing under a very tall rock, attempting to take that rock or go up it, I doubted from each side how I'd be able to go over that rock. Pardon my saying “rock”, as it was Christ.">
 <verse_n verse_n="1">
+<arabic arabic="وَلِهذَا، عِندَمَا أَرَدتُ أَنْ أَنْشُرَ قِصَّةَ الْقِدِّيس أَبَا لُونْجِينُوسْ وَأَبِيهِ الرُّوحِيِّ أَبَا لُوسْيُوسْ، اللَّذَيْن أَتَمَّا سِيرَتَهُمَا، لِكَيْ لَا أَقُولَ &quot;جِهَادَاتَهُمَا&quot; أَوْ &quot;نِضَالَاتِهِمَا&quot;، تَرَدَّدْتُ فِي دَاخِلِي؛ حَيْثُ إِنِّي كُنْتُ أَعْرِفُ ضَعْفِيَ جَيِّدًا، وَعَظَمَةَ فَضَائِلِ ذٰلِكَ الْقِدِّيسِ، كَمَنْ يَقِفُ أَمَامَ صَخْرَةٍ شَاهِقَةٍ جِدًّا، مُحَاوِلًا أَنْ يَبْلُغَ الصَّخْرَةَ أَوْ يصْعَدَهَا، وَمُتَرَدِّدًا مِنْ كُلِّ جَانِبٍ: كَيْفَ سَأَصْعَدُ عَلَى تِلْكَ الصَّخْرَةِ؟ وَاعْذُرُونِي، فَإِنَّ ذٰلِكَ الْفِكْرَ الَّذِي سَمَّيْتُهُ صَخْرَةً كَانَ هُوَ الْمَسِيحَ.">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
@@ -3392,7 +3419,15 @@
 <norm norm="ⲡⲉⲧⲟⲩⲁⲁⲃ">
 <lemma lemma="ⲡⲉⲧⲟⲩⲁⲁⲃ">
 <pos pos="N">
-ⲡⲉⲧⲟⲩⲁⲁⲃ
+<morph morph="ⲡ">
+ⲡ
+</morph>
+<morph morph="ⲉⲧ">
+ⲉⲧ
+</morph>
+<morph morph="ⲟⲩⲁⲁⲃ">
+ⲟⲩⲁⲁⲃ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -4055,7 +4090,15 @@
 <norm norm="ⲡⲉⲧⲟⲩⲁⲁⲃ">
 <lemma lemma="ⲡⲉⲧⲟⲩⲁⲁⲃ">
 <pos pos="N">
-ⲡⲉⲧⲟⲩⲁⲁⲃ
+<morph morph="ⲡ">
+ⲡ
+</morph>
+<morph morph="ⲉⲧ">
+ⲉⲧ
+</morph>
+<morph morph="ⲟⲩⲁⲁⲃ">
+ⲟⲩⲁⲁⲃ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -4981,10 +5024,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="For wherever the saints are, the Lord of the saints is there.">
 <verse_n verse_n="2">
+<arabic arabic="فَأَيْنَمَا يُوجَدُ الْقِدِّيسُونَ، فَهُنَاكَ يَكُونُ رَبُّ الْقِدِّيسِينَ.">
 <entity entity="place">
 <orig_group orig_group="ⲡⲙⲁ">
 <norm_group norm_group="ⲡⲙⲁ">
@@ -5200,10 +5245,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="For whoever did not refrain from going into the mountains with Peter and John">
 <verse_n verse_n="3">
+<arabic arabic="لأَنَّ كُلَّ مَنْ لَمْ يَمْتَنِعْ عَنِ الذَّهَابِ إِلَى الْجِبَالِ مَعَ بُطْرُسَ وَيُوحَنَّا">
 <orig_group orig_group="ⲡⲉⲧⲉⲙⲡⲉϥϯⲥⲟ">
 <norm_group norm_group="ⲡⲉⲧⲉⲙⲡⲉϥϯⲥⲟ">
 <entity entity="person">
@@ -5415,10 +5462,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="also did not refrain from dwelling with Apa Longinus and Apa Lucius his father where they were. And, perhaps, however that vision showed Peter and John who'd gone into that rocky place,">
 <verse_n verse_n="4">
+<arabic arabic="فَإِنَّهُ لَمْ يَمْتَنِعْ أَيْضًا مِنْ أَنْ يَكُونَ مَعَ أَبَا لُونْجِينُوسْ وَأَبَا لُوسْيُوسْ أَبِيهِ، فِي الْمَكَانِ الَّذِي كَانَا فِيهِ. وَرُبَّمَا كَانَتْ تِلْكَ الرُّؤْيَا قَدْ عَلَّمَتْ بُطْرُسَ وَيُوحَنَّا، اللَّذَيْنِ صَعِدَا إِلَى تِلْكَ الصَّخْرَةِ.">
 <orig_group orig_group="ⲙⲡⲉϥϯⲥⲟ">
 <norm_group norm_group="ⲙⲡⲉϥϯⲥⲟ">
 <orig orig="ⲙⲡⲉ">
@@ -5775,7 +5824,9 @@
 <norm norm="ⲁⲧⲟⲡⲧⲁⲥⲓⲁ">
 <lemma lemma="ⲁⲧⲟⲡⲧⲁⲥⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲁⲧⲟⲡⲧⲁⲥⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -6034,10 +6085,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="this too is how he showed Apa Longinus and Apa Lucius the orthodox faith that many obtained through them, just like we'll make clear as we proceed.">
 <verse_n verse_n="5">
+<arabic arabic="وَبِهذِهِ الطَّرِيقَةِ أَيْضًا أَظْهَرَ لِأَبَا لُونْجِينُوسْ وَأَبَا لُوسْيُوسْ الإِيمَانَ الْمُسْتَقِيمَ، ذلكَ الَّذِي نَالَهُ كَثِيرُونَ بِوَاسِطَتِهِمَا، كَمَا سَنَتَبَيَّنُ فِيمَا يَلِي.">
 <orig_group orig_group="ⲧⲁⲓ">
 <norm_group norm_group="ⲧⲁⲓ">
 <entity entity="abstract">
@@ -6616,6 +6669,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -6624,6 +6678,7 @@
 <chapter_n chapter_n="3">
 <translation translation="However, while I recognize my own weaknesses and wish to be silent on the story of those saints, on account of their exaltedness and my lowliness in turn,">
 <verse_n verse_n="1">
+<arabic arabic="وَعَلَى الرَّغْمِ مِنْ أَنِّي أُدْرِكُ ضَعْفِيَ الشَّخْصِيَّ، وَأَرْغَبُ فِي الصَّمْتِ عَنْ قِصَّةِ أُولئِكَ الْقِدِّيسِينَ، بِسَبَبِ عُلُوِّ مَقَامِهِمْ وَحَقَارَتِي،">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
@@ -7014,10 +7069,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="it's as if I'm seeing the very accusation before my eyes, threatening me like so: “Is this kind of fear pleasing to God? If you wholly acknowledge that they're saints and that they're exemplaries, and that their conduct is so exalted, just like you're saying,">
 <verse_n verse_n="2">
+<arabic arabic="كَأَنَّنِي أَرَى خَطِيئَةً أَمَامَ عَيْنَيَّ، تُهَدِّدُنِي هَكَذَا: هَلْ هذَا النَّوْعُ مِنَ الْخَوْفِ يُرْضِي اللَّهَ؟ إِنْ كُنْتَ مُقْتَنِعًا حَقًّا بِأَنَّهُمْ قِدِّيسُونَ، وَأَنَّهُمْ قُدْوَةٌ، وَأَنَّ سِيرَتَهُمْ سَامِيَةٌ إِلَى هذَا الْحَدِّ، كَمَا تَقُولُ،">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -7850,10 +7907,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="and that it's possible for their lives to edify those who'd hear about them, why do you prefer silence over telling us about the lives of those saints?">
 <verse_n verse_n="3">
+<arabic arabic="وَأَنَّ سِيرَتَهُمْ يُمْكِنُ أَنْ تُفِيدَ الَّذِينَ سَوْفَ يَسْمَعُونَ عَنْهُمْ، فَلِمَاذَا تُفَضِّلُ الصَّمْتَ وَلَا تُخْبِرُنَا عَنْ حَيَاةِ أُولٰئِكَ الْقِدِّيسِينَ؟">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -8303,10 +8362,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Even if you cannot tell us about the conduct of those saints who are filled with every virtue, humbly tell us, nevertheless, whatever you can handle, so that you shall not become envious of the usefulness of the souls of those who'll hear about the lives of those holy exemplaries and follow a small part within themselves.">
 <verse_n verse_n="4">
+<arabic arabic="وَإِنْ لَمْ تَسْتَطِعْ أَنْ تَسْرُدَ لَنَا سِيرَةَ أُولٰئِكَ الْقِدِّيسِينَ الْمَمْلُوءَةِ مِنْ كُلِّ فَضِيلَةٍ، فَقَلِّ الَّذِي تَسْتَطِيعُ إِدْرَاكَهُ، فِي تَوَاضُعٍ، لِئَلَّا تَغَارَ مِنْ فَائِدَةِ أَنْفُسِ أُولئِكَ الَّذِينَ سَيَسْمَعُونَ تِلْكَ السِّيرَةَ الْمَمْدُوحَةَ وَالْمُقَدَّسَةَ، وَيَجْعَلُونَ جُزْءًا صَغِيرًا فِي دَاخِلِهِمْ.">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <orig orig="ⲕⲁⲛ">
@@ -9168,6 +9229,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -9177,6 +9239,7 @@
 <lb_n lb_n="1">
 <translation translation="Especially since the herald of truth, the masterful Paul, announces:">
 <verse_n verse_n="1">
+<arabic arabic="وَخُصُوصًا لِأَنَّ مُبَشِّرَ الْحَقِّ، الْمُعَلِّمَ بُولُسَ، يُعْلِنُ:">
 <orig_group orig_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <norm_group norm_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <orig orig="ⲙⲁⲗⲓⲥⲧⲁ">
@@ -9342,11 +9405,13 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 </lb_n>
 <translation translation="‘Remember your leaders, who've spoken the word of God to you. Those whose behavior you look up to—imitate their faith.’ And as God knows that they'll be of benefit to those who'll hear about the ones who lived their lives according to his will, he wrote down for us—through his Holy Spirit—the lives of the patriarchs and the rest of the saints">
 <verse_n verse_n="2">
+<arabic arabic="&quot;اُذْكُرُوا مُرْشِدِيكُمْ، الَّذِينَ كَلَّمُوكُمْ بِكَلِمَةِ اللَّهِ، أُولئِكَ الَّذِينَ تَنْظُرُونَ إِلَى عُلُوِّ سِيرَتِهِمْ، تَشَبَّهُوا بِإِيمَانِهِمْ.&quot; وَإِذْ كَانَ اللَّهُ يَعْلَمُ أَنَّهُمْ سَيَكُونُونَ لِفَائِدَةِ الَّذِينَ سَيَسْمَعُونَ سِيرَةَ أُولئِكَ الَّذِينَ قَدْ سَلَكُوا مَشِيئَتَهُ، فَإِنَّهُ كَتَبَ لَنَا، بِرُوحِهِ الْقُدُسِ، سِيَرَ الْآبَاءِ وَسَائِرِ الْقِدِّيسِينَ.">
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="Heb. 13 , 7">
 <lb_n lb_n="2">
@@ -10364,10 +10429,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="who were in the Old Testament and the New, so that we would not only hear about them, but also liken ourselves to their example. We, too, inherit the promises God made to those who love him.”">
 <verse_n verse_n="3">
+<arabic arabic="الَّذِينَ كَانُوا فِي الْعَهْدِ الْقَدِيمِ وَالْجَدِيدِ، لِكَيْ لَا نَسْمَعَ عَنْهُمْ فَقَطْ، بَلْ لِنَتَشَبَّهَ بِمِثَالِهِمْ. فَنَحْنُ أَيْضًا نَرِثُ الْوُعُودَ الَّتِي وَعَدَ اللَّهُ بِهَا الَّذِينَ يُحِبُّونَهُ.">
 <entity entity="abstract">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -10959,10 +11026,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Thus, thinking these things within myself, I considered it necessary to begin the history of the saints, and to commemorate their conduct for you, knowing with certainty that “the righteous person's memory is a good memory,” and that “a good reputation rejoices the heart,” and most of all, that “people rejoice when talking about the righteous,” like the wise Solomon had said.">
 <verse_n verse_n="4">
+<arabic arabic="وَهَكَذَا، إِذْ كُنْتُ أُفَكِّرُ فِي دَاخِلِي، وَجَدْتُ أَنَّهُ مِنَ الضَّرُورِيِّ أَنْ أَبْدَأَ فِي تَارِيخِ الْقِدِّيسِينَ، وَأَنْ أُخَلِّدَ سِيرَتَهُمْ لَكُمْ، عَالِمًا بِالْيَقِينِ أَنَّ: «ذِكْرَ الْبَارِّ بَرَكَةٌ»، وَأَنَّ: «الصِّيتَ الْحَسَنَ يُفْرِحُ الْقَلْبَ»، وَأَنَّ: «النَّاسَ تَفْرَحُ إِذَا ذُكِرَ الْأَبْرَارُ»، كَمَا قَالَ سُلَيْمَانُ الْحَكِيمُ.">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -12139,10 +12208,12 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="The conduct and life of our holy father, Apa Longinus, who hailed from the lavra of the Enaton in Alexandria.">
 <verse_n verse_n="5">
+<arabic arabic="سِيرَةُ وَحَيَاةُ أَبِينَا الْقِدِّيسِ أَبَا لُونْجِينُوسْ، الَّذِي كَانَ مِنْ دَيْرِ الْأَنَاطُونْ بِالْإِسْكَنْدَرِيَّةِ.">
 <entity entity="abstract">
 <lb_n lb_n="15">
 <orig_group orig_group="ⲧⲡⲟⲗⲏϯⲁ">
@@ -12476,6 +12547,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -12484,6 +12556,7 @@
 <chapter_n chapter_n="5">
 <translation translation="Now he was such a kind of person, being from a city in Lycia per his lineage belonging to the earth, being a citizen of the Jerusalem of heaven whose citizenship was in the heavens, according to the wise Paul's account.">
 <verse_n verse_n="1">
+<arabic arabic="كَانَ رَجُلًا مِنْ نَوْعٍ مُمَيَّزٍ، فَقَدْ كَانَ مِنْ مَدِينَةٍ فِي لِيكِيَا حَسَبَ نَسَبِهِ الْأَرْضِيِّ، وَلَكِنَّهُ كَانَ مُوَاطِنًا لِأُورُشَلِيمَ السَّمَاوِيَّةِ، لِأَنَّ مَوْطِنَهُ الْحَقِيقِيَّ فِي السَّمَاوَاتِ، وَفْقًا لِمَا قَالَهُ بُولُسُ الْحَكِيمُ.">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲉⲟⲩ">
 <norm_group norm_group="ⲛⲉⲟⲩ">
@@ -13134,10 +13207,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="While still a child, he loved the philosophy of monastic life, and made his way to a monastery in his home country of Lycia called “Apa Hieronikos's Place”.">
 <verse_n verse_n="2">
+<arabic arabic="وَفِيمَا كَانَ لَا يَزَالُ طِفْلًا، أَحَبَّ فَلْسَفَةَ الْحَيَاةِ الرَّهْبَانِيَّةِ، وَتَوَجَّهَ إِلَى دَيْرٍ فِي بَلْدَتِهِ لِيكِيَا، يُسَمَّى دَيْرَ أَبَا هِيرُونِيكُوسْ.">
 <orig_group orig_group="ⲁⲓⲧⲉⲓ">
 <norm_group norm_group="ⲁⲓⲧⲉⲓ">
 <orig orig="ⲁⲓⲧⲉⲓ">
@@ -13713,10 +13788,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="And when he was worthy of donning the holy garb of monasticism at that monastery, he was handed over to a great ascetic whose name was Apa Lucius, who was adorned with the word of the holy scriptures and sagacity—the mother of all virtues.">
 <verse_n verse_n="3">
+<arabic arabic="وَعِنْدَمَا اسْتَحَقَّ اللِّبَاسَ الْمُقَدَّسَ لِلرَّهْبَنَةِ فِي ذَلِكَ الدَّيْرِ، سُلِّمَ إِلَى نَاسِكٍ عَظِيمٍ، اسْمُهُ أَبَا لُوسِيُوسْ، كَانَ مُزْدَانًا بِكَلِمَةِ الْكُتُبِ الْمُقَدَّسَةِ وَبِالْحِكْمَةِ، أُمِّ جَمِيعِ الْفَضَائِلِ.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -14387,10 +14464,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="He also educated him in the faith and in every ritual appropriate to monastic life.">
 <verse_n verse_n="4">
+<arabic arabic="وَعَلَّمَهُ أَيْضًا فِي الإِيمَانِ وَفِي كُلِّ طَقْسٍ يَلِيقُ بِالْحَيَاةِ الرَّهْبَانِيَّةِ. ">
 <orig_group orig_group="ⲁϥⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ">
 <norm_group norm_group="ⲁϥⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ">
 <orig orig="ⲁ">
@@ -14656,6 +14735,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -14664,6 +14744,7 @@
 <chapter_n chapter_n="6">
 <translation translation="After he'd spent time in the monastery living his life through Christ's virtues, i.e., humility, meekness, renunciation, and the rest of the virtues resembling these, the abbot—a quiet and peaceful man—passed away in that monastery, with someone else appointed in his stead. Then, disorder arose amongst the monastery's congregation, for this reason:">
 <verse_n verse_n="1">
+<arabic arabic="وَبَعْدَ أَنْ قَضَى وَقْتًا فِي الدَّيْرِ، بِفَضَائِلِ الْمَسِيحِ، أَيْ: التَّوَاضُعِ، وَالصَّبْرِ، وَالزُّهْدِ، وَسَائِرِ الْفَضَائِلِ الْمُشَابِهَةِ لَهَا، تُوُفِّيَ رَئِيسُ ذَلِكَ الدَّيْرِ، وَكَانَ رَجُلًا هَادِئًا وَمُسَالِمًا، فَتَمَّ تَعْيِينُ غَيْرِهِ مَكَانَهُ. ثُمَّ وَقَعَ اضْطِرَابٌ فِي كَنِيسَةِ الدَّيْرِ، وَلِهَذَا السَّبَبِ:">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲣⲟⲩⲟⲉⲓϣ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲟⲩⲟⲉⲓϣ">
@@ -15737,10 +15818,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="They all knew Apa Lucius, and they all anticipated him to be the one who'd preside as abbot over them after whoever passed away. At any rate, when the saint comprehended the disorder that was destined to happen because of him,">
 <verse_n verse_n="2">
+<arabic arabic="كَانُوا جَمِيعًا يَعْرِفُونَ أَبَا لُوسِيُوسَ، وَكَانُوا جَمِيعًا يَتَوَقَّعُونَ أَنَّهُ الَّذِي سَيَكُونُ رَئِيسَهُمْ بَعْدَ الَّذِي تُوُفِّيَ. وَعَلَى أَيَّةِ حَالٍ، لَمَّا أَدْرَكَ الْقِدِّيسُ الِاضْطِرَابَ الَّذِي عَلَى وَشْكِ أَنْ يَحْدُثَ بِسَبَبِهِ،">
 <orig_group orig_group="ⲉⲩⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲉⲩⲥⲟⲟⲩⲛ">
 <orig orig="ⲉ">
@@ -16304,10 +16387,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="he decided to avoid their presence—i.e., to leave that monastery—so that the place should calm down.">
 <verse_n verse_n="3">
+<arabic arabic="قَرَّرَ أَنْ يَنْسَحِبَ مِنْ بَيْنِهِمْ، أَيْ يُغَادِرَ ذَلِكَ الدَّيْرَ، لِكَيْ يَهْدَأَ الْمَكَانُ.">
 <orig_group orig_group="ⲁϥⲥⲟⲧⲡⲥ">
 <norm_group norm_group="ⲁϥⲥⲟⲧⲡⲥ">
 <orig orig="ⲁ">
@@ -16650,10 +16735,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="All the more, he never stopped pursuing humility, like his Lord.">
 <verse_n verse_n="4">
+<arabic arabic="وَفَوْقَ ذَلِكَ، لَمْ يَتَوَقَّفْ أَبَدًا عَنْ طَلَبِ التَّوَاضُعِ، كَمَا فَعَلَ سَيِّدُهُ.">
 <orig_group orig_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <norm_group norm_group="ⲙⲁⲗⲓⲥⲧⲁ">
 <orig orig="ⲙⲁⲗⲓⲥⲧⲁ">
@@ -16858,6 +16945,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -16866,6 +16954,7 @@
 <chapter_n chapter_n="7">
 <translation translation="As he thought about these things, he called his disciple Apa Longinus and said to him, “My son, we know it's superfluous for us to part from our monastery during our lives; but, in order for us to avoid being responsible for such disorder and having an accusation against us, I think it's better for us to retire somewhere alone, just like what's written in the Proverbs:">
 <verse_n verse_n="1">
+<arabic arabic="وَفِيمَا هُوَ يُفَكِّرُ فِي هَذِهِ الْأُمُورِ، نَادَى تِلْمِيذَهُ أَبَا لُونْجِينُوسَ، وَقَالَ لَهُ: &quot;يَا بُنَيَّ، نَحْنُ نَعْلَمُ أَنَّهُ لَيْسَ مِنَ الضَّرُورِيِّ أَنْ نَتْرُكَ دَيْرَنَا وَنَحْنُ أَحْيَاءٌ، وَلَكِنْ لِكَيْ لَا نُصْبِحَ سَبَبًا فِي هَذَا الِاضْطِرَابِ، وَلِكَيْ لَا تَكُونَ تُهْمَةٌ عَلَيْنَا، فَإِنِّي أَرَى أَنَّهُ مِنَ الْأَفْضَلِ لَنَا أَنْ نَعْتَزِلَ فِي مَكَانٍ مُنْفَرِدٍ، كَمَا هُوَ مَكْتُوبٌ فِي سِفْرِ الْأَمْثَالِ:">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -17860,10 +17949,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="‘Better to dwell on the corner of a roof than to dwell in a new house and places affected by strife.’">
 <verse_n verse_n="2">
+<arabic arabic="&quot;الأَفْضَلُ أَنْ يُسْكَنَ فِي زَاوِيَةٍ عَلَى سَطْحٍ، مِنْ أَنْ يُسْكَنَ فِي بَيْتٍ جَدِيدٍ وَأَمَاكِنَ مَمْلُوءَةٍ بِالنِّزَاعِ.&quot;">
 <orig_group orig_group="ⲛⲁⲛⲟⲩⲥ">
 <norm_group norm_group="ⲛⲁⲛⲟⲩⲥ">
 <orig orig="ⲛⲁⲛⲟⲩ">
@@ -18166,10 +18257,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Thus, better that we retire somewhere alone and be at ease for the salvation of our souls,">
 <verse_n verse_n="3">
+<arabic arabic="لِذَلِكَ، فَالأَفْضَلُ لَنَا أَنْ نَعْتَزِلَ فِي مَكَانٍ مُنْفَرِدٍ، وَنَتَفَرَّغَ لِخَلَاصِ نُفُوسِنَا, ">
 <orig_group orig_group="ⲥⲣⲛⲟϥⲣⲉ">
 <norm_group norm_group="ⲥⲣⲛⲟϥⲣⲉ">
 <orig orig="ⲥ">
@@ -18465,10 +18558,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="for which we've renounced the world and those in it, than to sit here and see the distortion of our monastery.” Behold, this is the reason they left their monastery.">
 <verse_n verse_n="4">
+<arabic arabic="&quot;الَّتِي مِنْ أَجْلِهَا تَرَكْنَا الْعَالَمَ وَكُلَّ مَا فِيهِ، أَفْضَلُ مِنْ أَنْ نَجْلِسَ هُنَا وَنَشْهَدَ خَرَابَ دَيْرِنَا.&quot; وَهَذَا هُوَ السَّبَبُ الَّذِي مِنْ أَجْلِهِ تَرَكُوا الدَّيْرَ.">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -19057,10 +19152,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Moreover, it was one of God's plans that came to pass, that he should reveal the graces of his goodness, which manage our bodies and our souls through his chosen ones, so that many should be saved through them.">
 <verse_n verse_n="5">
+<arabic arabic="وَفَوْقَ ذَلِكَ، فَإِنَّهُ تَدْبِيرُ اللهِ الَّذِي تَحَقَّقَ، لِكَيْ يُظْهِرَ نِعَمَ صَلَاحِهِ، الَّتِي تُدَبِّرُ الْأَجْسَادَ وَالْأَنْفُسَ بِوَاسِطَةِ مُخْتَارِيهِ، وَقَدْ نَالَ كَثِيرُونَ الْخَلَاصَ بِسَبَبِهِمْ.">
 <orig_group orig_group="ⲙⲁⲗⲗⲟⲛ">
 <norm_group norm_group="ⲙⲁⲗⲗⲟⲛ">
 <orig orig="ⲙⲁⲗⲗⲟⲛ">
@@ -19565,6 +19662,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -19573,6 +19671,7 @@
 <chapter_n chapter_n="8">
 <translation translation="Now after they left their monastery, they arrived in a quiet town in that country of Lycia, and they settled in a church in that town referred to by the name of the honorable holy martyr Theoktistos.">
 <verse_n verse_n="1">
+<arabic arabic="وَبَعْدَمَا تَرَكُوا دَيْرَهُمْ، وَصَلُوا إِلَى قَرْيَةٍ فِي بِلَادِ لِيكِيَا، وَأَقَامُوا فِي كَنِيسَةٍ فِي تِلْكَ الْقَرْيَةِ، تُسَمَّى بِاسْمِ الشَّهِيدِ الْمُقَدَّسِ الْمُكَرَّمِ ثِيُوكْتِسْتُوس.">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲉⲓ">
@@ -20199,10 +20298,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="This other thing, moreover, didn't simply occur like this, but rather so that the miracles of God would appear,">
 <verse_n verse_n="2">
+<arabic arabic="وَأَيْضًا، هَذَا الأَمْرُ الآخَرُ لَمْ يَحْدُثْ بِالصُّدْفَةِ، وَلَكِنْ لِكَيْ تَظْهَرَ عَجَائِبُ اللهِ, ">
 <orig_group orig_group="ⲡⲉⲓⲕⲉⲟⲩⲁ">
 <norm_group norm_group="ⲡⲉⲓⲕⲉⲟⲩⲁ">
 <entity entity="person">
@@ -20485,10 +20586,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="per what was revealed through the meaning of the honorable name of the martyr Theoktistos, foreshadowing what would happen in his chapel through these saints.">
 <verse_n verse_n="3">
+<arabic arabic="كَمَا يَتَضِحُ مِنْ مَعْنَى اسْمِ الشَّهِيدِ الْمُكَرَّمِ ثِيُوكْتِسْتُوس، كَإِشَارَةٍ إِلَى ذَلِكَ الَّذِي سَيَحْدُثُ فِي مُصَلَّاهُ عَلَى يَدِ هَؤُلَاءِ الْقِدِّيسِينَ.">
 <orig_group orig_group="ⲕⲁⲧⲁⲑⲉ">
 <norm_group norm_group="ⲕⲁⲧⲁⲧϩⲉ">
 <orig orig="ⲕⲁⲧⲁ">
@@ -20908,10 +21011,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Indeed, Theoktistos is translated “who has been built by God”. Whilst these saints were edified in the name of the martyr through their acts of asceticism and their numerous struggles,">
 <verse_n verse_n="4">
+<arabic arabic="حَيْثُ إِنَّ اسْمَ ثِيُوكْتِسْتُوسَ يَعْنِي: &quot;ذَلِكَ الَّذِي أُنشِئَ بِيَدِ اللهِ&quot;. وَفِي أَثْنَاءِ ذَلِكَ، كَانَ هَؤُلَاءِ الْقِدِّيسُونَ قَدْ بُنُوا بِاسْمِ الشَّهِيدِ، مِنْ خِلَالِ نُسْكِهِمْ وَجِهَادَاتِهِمُ الْكَثِيرَةِ.">
 <orig_group orig_group="ⲑⲉⲟⲕⲇⲓⲥⲧⲟⲥ">
 <norm_group norm_group="ⲑⲉⲟⲕⲧⲓⲥⲧⲟⲥ">
 <entity entity="person">
@@ -21423,10 +21528,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="they, in turn, edified lots of souls through the miracles and healings that God worked through them in that shrine.">
 <verse_n verse_n="5">
+<arabic arabic="وَهُمْ بِدَوْرِهِمْ بَنَوْا نُفُوسًا كَثِيرَةً، مِنْ خِلَالِ الْمُعْجِزَاتِ وَالشِّفَاءَاتِ الَّتِي صَنَعَهَا اللهُ عَلَى أَيْدِيهِمْ فِي ذَلِكَ الْمَكَانِ الْمُقَدَّسِ.">
 <orig_group orig_group="ⲁⲩⲕⲱⲧ">
 <norm_group norm_group="ⲁⲩⲕⲱⲧ">
 <orig orig="ⲁ">
@@ -21797,10 +21904,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="After they settled there, many from the surrounding area had come, bringing the sick.">
 <verse_n verse_n="6">
+<arabic arabic="وَبَعْدَمَا اسْتَقَرُّوا فِي ذَلِكَ الْمَكَانِ، جَاءَ كَثِيرُونَ مِنَ الْمَنَاطِقِ الْمُجَاوِرَةِ، يَحْمِلُونَ الْمَرْضَى. ">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱϩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲟⲩⲱϩ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -22047,10 +22156,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Those possessed by unclean spirits, especially, were laid down in the burial ground which was there,">
 <verse_n verse_n="7">
+<arabic arabic="وَكَانَ يُوضَعُ الَّذِينَ هُمْ مَمْسُوسُونَ بِالْأَرْوَاحِ النَّجِسَةِ فِي ذَلِكَ الْمَوْضِعِ هُنَاكَ, ">
 <orig_group orig_group="ⲛϩⲟⲩⲟ">
 <norm_group norm_group="ⲛϩⲟⲩⲟ">
 <orig orig="ⲛ">
@@ -22312,10 +22423,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="and they obtained healing through the prayers of that saint.">
 <verse_n verse_n="8">
+<arabic arabic="وَنَالُوا الشِّفَاءَ بِصَلَوَاتِ ذَلِكَ الْقِدِّيسِ.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22505,6 +22618,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
@@ -22514,6 +22628,7 @@
 <lb_n lb_n="1">
 <translation translation="There was a woman, in fact, who was possessed by a very stubborn unclean spirit.">
 <verse_n verse_n="1">
+<arabic arabic="فَمَثَلًا، كَانَتْ هُنَاكَ امْرَأَةٌ مَمْسُوسَةً بِرُوحٍ نَجِسٍ شِرِّيرٍ جِدًّا. ">
 <orig_group orig_group="ⲟⲩⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲟⲩⲥϩⲓⲙⲉ">
 <entity entity="person">
@@ -22702,19 +22817,21 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 </lb_n>
 <translation translation="She caused great distress and disorder through the demon inside her, so much so that anyone who would come near her had their clothes, as well as their bodies, torn at.">
 <verse_n verse_n="2">
+<arabic arabic="وَكَانَتْ تُحْدِثُ إِنْزِعَاجًا وَاضْطِرَابًا كَبِيرَيْنِ بِفِعْلِ الشَّيْطَانِ الَّذِي فِيهَا، بِحَيْثُ إِنَّ كُلَّ مَنْ يَقْتَرِبُ مِنْهَا، تُـمَزَّقْ ثِيَابُهُ، وَأَيْضًا جَسَدُهُ.">
 <lb_n lb_n="2">
 <orig_group orig_group="ⲇⲁⲓ">
 <norm_group norm_group="ⲇⲁⲓ">
 <entity entity="person">
 <orig orig="ⲇⲁⲓ">
-<norm norm="ⲇⲁⲓ">
-<lemma lemma="ⲇⲁⲓ">
-<pos pos="N">
+<norm norm="ⲡⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
+<pos pos="PDEM">
 ⲇⲁⲓ
 </pos>
 </lemma>
@@ -23163,10 +23280,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="When they brought her to the servants of God and begged them to pray for her, so that she might obtain healing through their intervention,">
 <verse_n verse_n="3">
+<arabic arabic="وَعِنْدَمَا أَحْضَرُوهَا إِلَى خُدَّامِ اللهِ، وَتَضَرَّعُوا إِلَيْهِمْ لِيُصَلُّوا مِنْ أَجْلِهَا، كَيْ تَنَالَ الشِّفَاءَ بِوَاسِطَةِ شَفَاعَاتِهِمْ،">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲛⲧⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲛⲧⲥ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -23516,10 +23635,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="she then began to hit and attack those around her. Then, she fell to their feet and remained tormented through the evil spirit inside her, and she was foaming at the mouth.">
 <verse_n verse_n="4">
+<arabic arabic="بَدَأَتْ حِينَئِذٍ تَخْدِشُ وَتُهَاجِمُ مَنْ حَوْلَهَا، ثُمَّ سَقَطَتْ عِنْدَ أَقْدَامِهِمْ، وَبَقِيَتْ تَتَعَذَّبُ بِفِعْلِ الرُّوحِ الشِّرِّيرِ الَّذِي بِدَاخِلِهَا، وَكَانَتْ تُخْرِجُ زَبَدًا مِنْ فَمِهَا.">
 <orig_group orig_group="ⲁⲥⲁⲣⲭⲉⲓ">
 <norm_group norm_group="ⲁⲥⲁⲣⲭⲉⲓ">
 <orig orig="ⲁ">
@@ -23736,10 +23857,12 @@
 <orig_group orig_group="ⲧⲟⲧⲟ">
 <norm_group norm_group="ⲧⲟⲧⲟ">
 <orig orig="ⲧⲟⲧⲟ">
-<norm norm="ⲧⲟⲧⲟ">
-<lemma lemma="ⲧⲟⲧⲟ">
-<pos pos="NPROP">
+<norm norm="ⲧⲟⲧⲉ">
+<lemma lemma="ⲧⲟⲧⲉ">
+<pos pos="ADV">
+<lang lang="Greek">
 ⲧⲟⲧⲟ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -24080,10 +24203,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="After she cried out in a loud voice, she acted like those who are dead. Then, after the blessed Lucius pitied her, he began to pray and raise his hands over her, and ordered his disciple Longinus to pray as well, and to lay his hands on her, and to make the sign of the cross on her.">
 <verse_n verse_n="5">
+<arabic arabic="وَبَعْدَ أَنْ صَرَخَتْ بِصَوْتٍ عَالٍ، كَانَتْ قَدْ أَصْبَحَتْ كَالْمَوْتَى. حِينَئِذٍ، أَشْفَقَ عَلَيْهَا الْمُبَارَكُ لُوسِيُوسُ، وَبَدَأَ يُصَلِّي وَيَرْفَعُ يَدَيْهِ فَوْقَهَا، وَأَمَرَ تِلْمِيذَهُ لُونْجِينُوسَ أَنْ يُصَلِّيَ أَيْضًا، وَأَنْ يَضَعَ يَدَيْهِ عَلَيْهَا، وَأَنْ يَرْسُمَ عَلَيْهَا عَلَامَةَ الصَّلِيبِ.">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲥⲱϣ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲥⲱϣ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -24214,16 +24339,32 @@
 </orig>
 </lb_n>
 <lb_n lb_n="9">
-<orig orig="ⲣⲑⲉ">
-<norm norm="ⲣⲧϩⲉ">
-<lemma lemma="ⲣⲧϩⲉ">
+<orig orig="ⲣ">
+<norm norm="ⲣ">
+<lemma lemma="ⲉⲓⲣⲉ">
 <pos pos="V">
 <morph morph="ⲣ">
 ⲣ
 </morph>
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲑ">
+<norm norm="ⲧ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
 <morph morph="ⲧ">
 ⲑ
 </morph>
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲉ">
+<norm norm="ϩⲉ">
+<lemma lemma="ϩⲉ">
+<pos pos="N">
 <morph morph="ϩⲉ">
 ⲉ
 </morph>
@@ -24895,10 +25036,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="When this was done, the demon came out of her immediately, and she arose like someone who has arisen from slumber, cleansed of the scourge that was inside her.">
 <verse_n verse_n="6">
+<arabic arabic="وَبَعْدَمَا فَعَلُوا ذَلِكَ، خَرَجَ الشَّيْطَانُ مِنْهَا فِي الْحَالِ، وَقَامَتْ كَمَنْ يَسْتَيْقِظُ مِنَ النَّوْمِ، قَدْ تَطَهَّرَتْ مِنَ الْبَلَاءِ الَّذِي كَانَ فِيهَا.">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
@@ -25388,10 +25531,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="And like this, she was tending to the sick in the martyr's shrine from that day until her death.">
 <verse_n verse_n="7">
+<arabic arabic="وَهَكَذَا، أَصْبَحَتْ تَخْدِمُ الْمَرْضَى فِي الضَّرِيحِ، مُنْذُ ذَلِكَ الْيَوْمِ حَتَّى وَفَاتِهَا.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -25533,7 +25678,7 @@
 <orig orig="ϣⲱⲛⲉ">
 <norm norm="ϣⲱⲛⲉ">
 <lemma lemma="ϣⲱⲛⲉ">
-<pos pos="V">
+<pos pos="N">
 ϣⲱⲛⲉ
 </pos>
 </lemma>
@@ -25566,11 +25711,13 @@
 <norm norm="ⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
 <lemma lemma="ⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
 <pos pos="N">
+<lang lang="Greek">
 <placeName_type placeName_type="martyr_shrine">
 <placeName_ref placeName_ref="non_egyptian">
 ⲙⲁⲣⲧⲏⲣⲓⲟⲛ
 </placeName_ref>
 </placeName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -25657,18 +25804,18 @@
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ⲡⲉ">
-<norm norm="ⲡⲉ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
+<orig orig="ⲡⲉⲥ">
+<norm norm="ⲡⲉⲥ">
+<lemma lemma="ⲡⲉⲥ">
+<pos pos="PPOS">
 ⲡⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲙⲟⲩ">
-<norm norm="ⲥⲙⲟⲩ">
-<lemma lemma="ⲥⲙⲟⲩ">
+<orig orig="ⲙⲟⲩ">
+<norm norm="ⲙⲟⲩ">
+<lemma lemma="ⲙⲟⲩ">
 <pos pos="N">
 ⲥⲙⲟⲩ
 </pos>
@@ -25691,10 +25838,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</arabic>
 </verse_n>
 </translation>
 <translation translation="Thus, this is the first miracle that God worked through them after they had left their monastery and settled in that church.">
 <verse_n verse_n="8">
+<arabic arabic="وَهَذِهِ هِيَ أَوَّلُ مُعْجِزَةٍ صَنَعَهَا اللهُ عَلَى أَيْدِيهِمْ، بَعْدَ أَنْ رَحَلُوا عَنْ دَيْرِهِمْ، وَاسْتَقَرُّوا فِي تِلْكَ الْكَنِيسَةِ.">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
@@ -25879,7 +26028,7 @@
 <norm_group norm_group="ϩⲓⲧⲟⲟⲧⲟⲩ">
 <orig orig="ϩⲓⲧⲟⲟⲧ">
 <norm norm="ϩⲓⲧⲟⲟⲧ">
-<lemma lemma="ϩⲓⲧⲟⲟⲧ">
+<lemma lemma="ϩⲓⲧⲛ̅">
 <pos pos="PREP">
 ϩⲓⲧⲟⲟⲧ
 </pos>
@@ -26090,6 +26239,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</arabic>
 </verse_n>
 </translation>
 </chapter_n>
