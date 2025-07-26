@@ -10566,7 +10566,9 @@
 <norm norm="ⲕⲩⲛⲏ">
 <lemma lemma="ⲕⲩⲛⲏ">
 <pos pos="N">
+<lang lang="Greek">
 ⲕⲩⲛⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -12493,7 +12495,9 @@
 <norm norm="ϩⲉⲛⲁⲧⲟⲛ">
 <lemma lemma="ϩⲉⲛⲁⲧⲟⲛ">
 <pos pos="NPROP">
+<lang lang="Greek">
 ϩⲉⲛⲁⲧⲟⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -12766,11 +12770,13 @@
 <norm norm="ⲗⲩⲕⲓⲁ">
 <lemma lemma="ⲗⲩⲕⲓⲁ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <placeName_type placeName_type="country">
 <placeName_ref placeName_ref="non_egyptian">
 ⲗⲩⲕⲓⲁ
 </placeName_ref>
 </placeName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -12948,25 +12954,16 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉⲑⲓⲉⲗ︤ⲏ︦ⲙ︥">
 <norm_group norm_group="ⲛⲧⲉⲧϩⲓⲉⲗⲏⲙ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
+<orig orig="ⲛⲧⲉ">
+<norm norm="ⲛⲧⲉ">
+<lemma lemma="ⲛⲧⲉ">
 <pos pos="PREP">
-ⲛ
+ⲛⲧⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<entity identity="Jerusalem" entity="place">
-<orig orig="ⲧⲉ">
-<norm norm="ⲧⲉ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲧⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
+<entity entity="place">
 <placeName_type placeName_type="biblical">
 <orig orig="ⲑ">
 <norm norm="ⲧ">
@@ -13622,11 +13619,13 @@
 <norm norm="ⲗⲩⲕⲓⲁ">
 <lemma lemma="ⲗⲩⲕⲓⲁ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <placeName_type placeName_type="country">
 <placeName_ref placeName_ref="non_egyptian">
 ⲗⲩⲕⲓⲁ
 </placeName_ref>
 </placeName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -13764,7 +13763,9 @@
 <norm norm="ϩⲓⲉⲣⲟⲛⲓⲕⲟⲥ">
 <lemma lemma="ϩⲓⲉⲣⲟⲛⲓⲕⲟⲥ">
 <pos pos="NPROP">
+<lang lang="Greek">
 ϩⲓⲉⲣⲟⲛⲓⲕⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14187,9 +14188,11 @@
 <norm norm="ⲗⲟⲩⲅⲓⲟⲥ">
 <lemma lemma="ⲗⲟⲩⲅⲓⲟⲥ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <persName_type persName_type="monk">
 ⲗⲟⲩⲅⲓⲟⲥ
 </persName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14494,7 +14497,9 @@
 <norm norm="ⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ">
 <lemma lemma="ⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ">
 <pos pos="V">
+<lang lang="Greek">
 ⲡⲁⲓⲇⲁⲅⲱⲅⲉⲓ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14597,7 +14602,9 @@
 <norm norm="ⲁⲕⲟⲗⲟⲑⲓⲁ">
 <lemma lemma="ⲁⲕⲟⲗⲟⲑⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲁⲕⲟⲗⲟⲑⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14767,7 +14774,7 @@
 </norm>
 </orig>
 <orig orig="ⲣⲟⲩⲟⲉⲓϣ">
-<norm norm="ⲟⲩⲟⲉⲓϣ">
+<norm norm="ⲣⲟⲩⲟⲉⲓϣ">
 <lemma lemma="ⲣⲟⲩⲟⲉⲓϣ">
 <pos pos="V">
 <morph morph="ⲣ">
@@ -15292,9 +15299,11 @@
 </orig>
 <orig orig="ⲡⲣⲟⲉⲥⲧⲟⲥ">
 <norm norm="ⲡⲣⲟⲉⲥⲧⲟⲥ">
-<lemma lemma="ⲡⲣⲟⲉⲥⲧⲟⲥ">
+<lemma lemma="ⲡⲣⲟⲉⲥⲧⲱⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲡⲣⲟⲉⲥⲧⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -15908,9 +15917,11 @@
 <norm norm="ⲗⲟⲩⲕⲓⲟⲥ">
 <lemma lemma="ⲗⲟⲩⲕⲓⲟⲥ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <persName_type persName_type="monk">
 ⲗⲟⲩⲕⲓⲟⲥ
 </persName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
