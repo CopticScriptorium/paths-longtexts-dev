@@ -1,9 +1,10 @@
-<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Philippe Zaher, Amir Zeldes" arabic_translation="Philippe Zaher" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:62-132" entities="automatic" identities="checked" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="2" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths_manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" people="Devil; Isaiah; Jesus; Jethro (biblical figure); Moses; Pope Theophilus of Alexandria" placeName="This" places="Midian; Oxyrhynchus" previous="urn:cts:copticLit:lives.aphou.paths_ed:0-61" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="automatic" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Apa Aphou part 2" translation="none" Trismegistos="108414" version_date="-" version_n="6.2.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Lance Martin, Philippe Zaher, Amir Zeldes" arabic_translation="Philippe Zaher" author="unknown" Coptic_edition="Rossi (1885) fasc. 3:5-22" corpus="life.aphou" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.aphou.paths_ed:62-132" entities="automatic" identities="checked" idno="63000 ff. 31-46r" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Apa Aphou" msName="GIOV.AC" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Dates for codex are based on the palaeographical and codicological criteria of PATHS. Chapter divisions based on ekthesis documented in Rossi's edition" objectType="codex" order="2" origDate="701" origDate_notAfter="750" origDate_notBefore="651" origDate_precision="medium" origPlace="unknown" parsing="automatic" paths_manuscript="&lt;a href='https://atlas.paths-erc.eu/manuscripts/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/407'&gt;407&lt;/a&gt;" people="Devil; Isaiah; Jesus; Jethro (biblical figure); Moses; Pope Theophilus of Alexandria" placeName="This" places="Midian; Oxyrhynchus" previous="urn:cts:copticLit:lives.aphou.paths_ed:0-61" project="Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Egyptian Museum Turin" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0407.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Apa Aphou part 2" translation="Aurelio La Rotta" Trismegistos="108414" version_date="2025-08-15" version_n="6.2.0">
 <p_source p_source="PATHS">
 <p_n p_n="62">
-<translation translation="And immediately he wrote to all the lands and he repudiated the previous statement that it was faulty and it was without understanding that we thought it up.">
+<translation translation="And immediately he wrote to all the lands and repudiated the previous statement that it was faulty and that  it was without understanding that we had thought it up.">
 <chapter_n chapter_n="62">
 <arabic arabic="وللوقت اَعَلن في كل كورة متبرأً من تلك العبارة الخاطئة، 'وانما بدون فهم اعتقدنا بها'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -394,14 +395,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="63">
-<translation translation="Afterwards, the blessed one beseeched him: tell me, what has been your life and where are you from, of which people. For I see your appearance like that of a crazy person,">
+<translation translation="Afterwards, he beseeched the blessed one: tell me, what has been your life and where are you from, of which people. For I see your appearance (which is) like that of a crazy person,">
 <chapter_n chapter_n="63">
 <arabic arabic="وبعد ئلك استحلف (أي رئيس الأساقفة) الطوباوي (أفو) قائلاً: 'اخبرني ما هي سيرتك؟ ومن أين موطنك في جنسك؟ لأني أرى هيئتك مثل أولئك العوام">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲛⲁⲓ">
 <orig orig="ⲙⲛⲛⲥⲁ">
@@ -852,6 +855,7 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -860,6 +864,7 @@
 <translation translation="But on the other hand I hear your words which are truly exalted beyond those of a sage.">
 <chapter_n chapter_n="64">
 <arabic arabic="لكني أيضًا اسمع كلامك أرفع من كلام الحكماء'">
+<verse_n verse_n="1">
 <orig_group orig_group="ϯⲥⲱⲧⲙ">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
@@ -1046,14 +1051,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="65">
-<translation translation="He answered: I have wished to live like a monk, but I am far from that honor">
+<translation translation="He answered: I have wished to live like a monk, but I am (still) far from (reaching) that honor">
 <chapter_n chapter_n="65">
 <arabic arabic="اجاب قائلاً: ' لقد أردتُ أن احيا كراهب، إلا أنني بعيد عن تلك الكرامة، ">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -1356,6 +1363,7 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -1364,6 +1372,7 @@
 <translation translation="And I am a man from Oxyrhynchus">
 <chapter_n chapter_n="66">
 <arabic arabic=",انا أيضًا بهنساوي">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1428,14 +1437,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="67">
-<translation translation="but since you are the one by whose wisdom we are strengthened, because of this the enemy has done this against you knowing that a multitude will stumble because of this.">
+<translation translation="But since you are the one through whose wisdom we are strengthened, it is because of this that the enemy has done this against you, knowing that a multitude will stumble because of it.">
 <chapter_n chapter_n="67">
 <arabic arabic="لكن حيث أنك أنتَ هو الذي نعتمد على حكمتك، من أجل هذا بدأ العدو في عمل هذا بواسطتك، عالمًا أنه يوجد كثيرون سيعثرون">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -1790,6 +1801,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -1798,6 +1810,7 @@
 <translation translation="And they will suffer loss and they will not hear the word of the Holy Teaching that comes forth from your mouth.">
 <chapter_n chapter_n="68">
 <arabic arabic="بسبب هذا، ويتضررون، ولا يسمعون كلام التعليم المقدس الخرج من فمك">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -2054,14 +2067,16 @@
 </orig_group>
 </entity>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="69">
-<translation translation="...">
+<translation translation="But through the love for God which is in your heart, see, you have vanquished any crafty form of the devil in listening to the words of my humble self. // For the greatness which is inside you was not able to raise you to an understanding (ⲉⲡⲓⲛⲟⲓⲁ? ⲉⲛⲛⲟⲓⲁ?) so that you would dominate yourself, ">
 <chapter_n chapter_n="69">
 <arabic arabic="إلا أنه من أجل المحبة الكائنة فيك نحو الله، هوذا أنتَ قد تغَلبتَ على حيل ابليس بكل اشكالها، عند سماعك كلمات حقارتي، لأن العظمة التي بداخلك لم تقدر أن تجعلك مترفعًا عن الفهم، حتى أنك تتغلب على رغبتك الشخصية">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲡⲗⲏⲛ">
 <norm_group norm_group="ⲡⲗⲏⲛ">
 <orig orig="ⲡⲗⲏⲛ">
@@ -2763,14 +2778,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="70">
-<translation translation="...">
+<translation translation="But you revealed the humility (lit. smallness, youth) that is in Christ in the same manner as the great Moses after he had obeyed Jōthor (Jethro), the priest of Madam (Midian). This indeed being what our Savior said to our fathers the Apostles: become like little children ...">
 <chapter_n chapter_n="70">
 <arabic arabic="لكنك أظهرت البساطة التي في المسيح، مثل موسى العظيم، الذي أطاع يثرون كاهن مديان، هذا بالحقيقة الذي قاله المخلص لآبائنا الرسل : 'إن (لم) ترجعوا وتصيروا مثل الأولاد الصغار'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -3448,14 +3465,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="71">
-<translation translation="...">
+<translation translation="And you truly showed yourself in that you turned from haughtiness to the purity and simplicity of a child (lit. smallness). After this, he entreated him to stay with him for a few days.">
 <chapter_n chapter_n="71">
 <arabic arabic="أما أنتَ فاعترفتَ بالحقيقة أنك رجعتَ بالكلية عن الكبرياء إلى النقاوة وبساطة الطفولة'، بعد هذا إلتمس (اي رئيس الأساقفة) منه أن يبقى معه بضع أيام.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲟⲕ">
 <norm_group norm_group="ⲛⲧⲟⲕ">
 <orig orig="ⲛⲧⲟⲕ">
@@ -3966,14 +3985,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="72">
-<translation translation="...">
+<translation translation="He (Apa Aphou) did beseech him, though, saying: this is impossible for me, and this was the way in which he  parted from him in peace and (well-)honored.">
 <chapter_n chapter_n="72">
 <arabic arabic="أما هو فتوسل قائلاً: ' هذا ليس في استطاعتي'، وهكذا خرج من لدنه بسلام وإكرام">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -4384,14 +4405,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="73">
-<translation translation="...">
+<translation translation="He (the archbishop) was afflicted, though, as he went away from him like a child whose father walks away from him. Three years after this had occurred, the bishop of Oxyrhynchus died.">
 <chapter_n chapter_n="73">
 <arabic arabic="وكان مغتمًا بينما هو خارج من عنده، مثل ابن يمشي أبوه من عنده، وبعد ثلاث سنوات منذ حدث ذلك، رقد اسقف البهنسا">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲉϥⲙⲟⲕϩ">
 <norm_group norm_group="ⲛⲉϥⲙⲟⲕϩ">
 <orig orig="ⲛⲉ">
@@ -4885,14 +4908,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="74">
-<translation translation="...">
+<translation translation="And according to the custom the entire city gathered together in one common accord">
 <chapter_n chapter_n="74">
 <arabic arabic="وحسب العادة، اجتمعت المدينة كلها معًا برأي واحد">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5101,14 +5126,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="75">
-<translation translation="...">
+<translation translation="And they voted on one of the elders who was himself pious. They sent him to Alexandria with the votes so that he be made bishop.">
 <chapter_n chapter_n="75">
 <arabic arabic="واعطوا التزكية لأحد القساوسة وكان أيضًا تقيًا، وارسلوه إلى الإسكندرية مع التزكيات لكي يُرسم أسقف">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5458,6 +5485,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -5465,9 +5493,10 @@
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="76">
-<translation translation="...">
+<translation translation="When the archbishop had received the writing">
 <chapter_n chapter_n="76">
 <arabic arabic="ولما تسلَّم رئيس الأساقفة تاوفيليس الرسائل">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥϫⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥϫⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -5612,14 +5641,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="77">
-<translation translation="...">
+<translation translation="He answered: Aphou is a monk who belongs to your city. Bring him to me that I may make him your bishop.  The elders answered: we do not know a monk Aphou in our province and we also think that there is not one among us who knows him.">
 <chapter_n chapter_n="77">
 <arabic arabic="أجاب قائلاً: 'أفو راهب من مدينتكم، احضروه إليَّ، لأرسمه لكم اسقفًا'. فأجاب القسوس قائلين نحن لا نعرف راهبًا في ايبارشيتنا (يُدعى) أفو، كما أننا نعتقد أن لا يوجد احد بيننا يعرفه'.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6398,14 +6429,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="78">
-<translation translation="...">
+<translation translation="But the archbishop answered them: If you do not bring him to me, I shall not assign anybody now!">
 <chapter_n chapter_n="78">
 <arabic arabic="فأجاب رئيس الأساقفة أيضًا قائلاً لهم: 'إذا لم تُحضروه إليَّ فلن اشرطن لكم أحدًا الآن'.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -6782,14 +6815,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="79">
-<translation translation="...">
+<translation translation="They departed from him and went to their city.">
 <chapter_n chapter_n="79">
 <arabic arabic="أما هم فخرجوا من لدنه  ومضوا إلى مدينتهم">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲟⲟⲩ">
 <norm_group norm_group="ⲛⲧⲟⲟⲩ">
 <orig orig="ⲛⲧⲟⲟⲩ">
@@ -6950,14 +6985,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="80">
-<translation translation="...">
+<translation translation="They searched for the man but he was unknown in the entire province.">
 <chapter_n chapter_n="80">
 <arabic arabic="واستفسروا عن الرجل فلم يتعرفوا عليه في كل الإيبارشية">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩϣⲓⲛⲉ">
 <norm_group norm_group="ⲁⲩϣⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -7130,14 +7167,16 @@
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="81">
-<translation translation="...">
+<translation translation="As he did not stay with people but dwelled with the beasts.">
 <chapter_n chapter_n="81">
 <arabic arabic="إذ لم يكن ساكنًا بين الناس ، لكن مع الوحوش">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉⲛⲉϥϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲛⲉϥϣⲟⲟⲡ">
 <orig orig="ⲉ">
@@ -7302,6 +7341,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -7309,9 +7349,10 @@
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="82">
-<translation translation="...">
+<translation translation="As they were afflicted, they gathered the monks and inquired about the man.">
 <chapter_n chapter_n="82">
 <arabic arabic="ولما اغتمّوا جمعوا الرهبان وسألوهم عن الرجل">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲑⲗⲓⲃⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲑⲗⲓⲃⲉ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -7527,14 +7568,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="83">
-<translation translation="...">
+<translation translation="The one who knew him answered: yes, I know him from the early days (lit. the beginning of the day), I used to find him in the wilderness where he dwells with the antelopes.">
 <chapter_n chapter_n="83">
 <arabic arabic="فأجاب الذي يعرفه منهم: 'نعم أنا اعرفه قبل اليوم، حيث اعتدتُ أن أجده في البرية مقيمًا بين البقر الوحشي'.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -7975,14 +8018,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="84">
-<translation translation="...">
+<translation translation="Right away they commanded that the hunters should trap and catch him for the brother informed them that: if he knows that you search for him to make him bishop, he will flee.">
 <chapter_n chapter_n="84">
 <arabic arabic="وللوقت أمروا أن يكمن له الصيادون حتى يمسكوه، لأن الأخ اعلمهم : 'إذا ما عَلِم هذا؛ أنكم تبحثون عنه لتجعلوه اسقفًا فسوف يهرب'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -8476,14 +8521,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="85">
-<translation translation="...">
+<translation translation="The hunters ambushed him and he went out in the night as he was about to drink with the antelopes.">
 <chapter_n chapter_n="85">
 <arabic arabic="فكمن له الصيادون بفخاخهم، ةفي الليل خرج لكي يشرب ماءًا مع البقر الوحشي">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛϭⲉⲣⲁϭⲉ">
 <norm_group norm_group="ⲛϭⲉⲣⲁϭⲉ">
 <orig orig="ⲛ">
@@ -8803,14 +8850,16 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="86">
-<translation translation="...">
+<translation translation="Right away, the hunters leapt upon him, they seized him and took him into custody.">
 <chapter_n chapter_n="86">
 <arabic arabic="وللوقت باغته الصيادون وامسكوه واحتجزوه">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -9018,14 +9067,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="87">
-<translation translation="...">
+<translation translation="He said to them: what is your business with me that you detain me? I myself am a human being like you.">
 <chapter_n chapter_n="87">
 <arabic arabic="فتكلَّم معهم: 'ما شأنكم بي لتمسكوني؟ أنا أيضًا انسان مثلكم">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥϣⲁϫⲉ">
 <norm_group norm_group="ⲁϥϣⲁϫⲉ">
 <orig orig="ⲁ">
@@ -9314,14 +9365,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="88">
-<translation translation="...">
+<translation translation="If you hunt for animals, see the antelope - you have caught him.">
 <chapter_n chapter_n="88">
 <arabic arabic="فإن كنتم تصطادون حيوانات، فهوذا بقروحشي قد اصطدتموه'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉϣϫⲉ">
 <norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -9445,14 +9498,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="89">
-<translation translation="...">
+<translation translation="They said to him: We know that you are a man and we are searching for you, that is why we have seized you.">
 <chapter_n chapter_n="89">
 <arabic arabic="قالوا له: ' نحن نعرف أنك انسان، ونحن نبحث عنك، لأجل هذا امسكناك'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
 <norm_group norm_group="ⲡⲉϫⲁⲩ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9700,14 +9755,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="90">
-<translation translation="...">
+<translation translation="He said to them: if it is me then, whom you are after, release this one, so that it may walk away.">
 <chapter_n chapter_n="90">
 <arabic arabic="قال لهم: 'أنا إذًا مَنْ تطلبونه، كفوا عن هذا (أي البقر الوحشي) ليذهب'.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -9908,14 +9965,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="91">
-<translation translation="...">
+<translation translation="Right away, they released the antelope. They raised him up right away and they brought him to Alexandria before the Archbishop.">
 <chapter_n chapter_n="91">
 <arabic arabic="وفي الحال تركوا البقر الوحشي وأركبوه (مركب أو دابة) ، وللوقت احضروه إلى الإسكندرية، إلى رئيس الأساقفة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -10218,6 +10277,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -10225,9 +10285,10 @@
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="92">
-<translation translation="...">
+<translation translation="When he saw him, he was very much in joy and when they let him know how they had caught him he was much amazed and he said: You have come, Aphou, come though, and pick up the burden with your companions. Until now you have fought by yourself and you have kept yourself safe - but now you shall strengthen and confirm your brothers and struggle with yourself for them. ">
 <chapter_n chapter_n="92">
 <arabic arabic="فلما رآه فرح جدًا، وعندما اخبروه عن  الطريقة التي كيف امسكوه بها، تعجب جدًا وقال: 'لقد أتيتَ يا أفو، تعال أنت أيضًا لتتألم مع الأعضاء شركائك . أنت تجاهد بمفردك حتى اليوم، لتخلص، الآن أيضًا ارجع وثبِّت اخوتك وجاهد مع نفسك عنهم'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -11099,14 +11160,16 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="93">
-<translation translation="...">
+<translation translation="Apa Aphou answered: Who am I, I, (oh) lord, my lord, that you will say these words to me like this? I am a weak man and it is because of my feebleness that I fled from the company of men that I should not enter into the mix of the waves of this life! Now I entreat you in the name of the Lord, to not receive me by force. For this task is impossible for me.">
 <chapter_n chapter_n="93">
 <arabic arabic="أجاب أنبا أفو: 'أنا، من أنا، أيها السيد، سيدي، حتى تقول هذا وتتكلم معي هكذا؟ لأني أنا رجل ضعيف، وبسبب ضعفي هربتُ من مخالطة البشرلكي لا اسير في الأمواج المضطربة لتلك الحياة. الآن أستحلفك بالرب ألاتُجبرني ، لأن هذا الأمر غير ممكن لي'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -12037,14 +12100,16 @@ AOPT_PPERS
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="94">
-<translation translation="...">
+<translation translation="The archbishop was much saddened because of his oath in the name of the Lord">
 <chapter_n chapter_n="94">
 <arabic arabic="فحزن رئيس الأساقفة للغاية من أجل القَسَم بالرب">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <entity entity="person">
@@ -12200,14 +12265,16 @@ AOPT_PPERS
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="95">
-<translation translation="...">
+<translation translation="And he said to him: As the Lord lives, if you do not release me from the oath that you have bound me with I make you a stranger to all company in Christendom in this time and the time to come.">
 <chapter_n chapter_n="95">
 <arabic arabic="وقال له: ' حيٌّ هو الرب، إن لم تحلني من القسم الذي ربطتني به،، فسوف اجعلك غريبًا عن كل الدعوة المسيحية للرب، في ذلك الدهر و(الدهر) الآتي'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12761,14 +12828,16 @@ AOPT_PPERS
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="96">
-<translation translation="...">
+<translation translation="Right away, Apa Aphou fell down saying: I am defeated. For this is a disgrace and an affliction forever. ">
 <chapter_n chapter_n="96">
 <arabic arabic="وللوقت خر أنبا أفو قائلاً: 'أستسلمتُ، إذ أن هذا عار عليّ ، وشِدّة إلى الأبد، ">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13154,14 +13223,16 @@ AOPT_PPERS
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="97">
-<translation translation="...">
+<translation translation="See I am before you - if I am able to do the task, do to me as you please!">
 <chapter_n chapter_n="97">
 <arabic arabic="هوذا أنا عندك ، إذا تمكنتُ أن أقوم بالعمل، فاصنع لي ما يسرّك'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <norm_group norm_group="ⲉⲓⲥϩⲏⲏⲧⲉ">
 <orig orig="ⲉⲓⲥ">
@@ -13394,14 +13465,16 @@ V
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="98">
-<translation translation="...">
+<translation translation="And right away he bowed down: Forgive me, my Lord Father!">
 <chapter_n chapter_n="98">
 <arabic arabic="وللوقت جثا وقال: 'سامحني ياسيدي الأب'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲛ">
@@ -13591,14 +13664,16 @@ V
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="99">
-<translation translation="...">
+<translation translation="And he [unclear] him. He sent him to his city. When he had begun (his) episcopate, he also began the following practice:">
 <chapter_n chapter_n="99">
 <arabic arabic="فعاتبه وارسله إلى مدينته، وعندما بدأ في الأسقفية، بدأ أيضًا قي ممارسات أخرى على تلك الشاكلة:">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -13920,14 +13995,16 @@ V
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="100">
-<translation translation="...">
+<translation translation="During the entire time of (his) episcopate he did not spent one night of sleep in the city nor did he eat a single (loaf of) bread inside it on any single day.">
 <chapter_n chapter_n="100">
 <arabic arabic="لأنه طوال فترة الأسقفيةالتي أمضاها، لو يقضي ليلة واحدة في النوم في المدينة، ولم يأكل خبزة واحدة بها يومًا ما على الإطلاق">
+<verse_n verse_n="1">
 <entity entity="abstract">
 <orig_group orig_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
@@ -14380,14 +14457,16 @@ V
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="101">
-<translation translation="...">
+<translation translation="Instead he stayed by himself in a monastery outside the city. On Saturday, though, he was wont to go to church and gather the people and spoke to them the word of God until the evening and they spend Saturday evening doing their synaxis, prayers and psalms, with him leading them (lit.: standing upon them) in the holy liturgy.">
 <chapter_n chapter_n="101">
 <arabic arabic="لكنه كان يسكن بمفرده في أحد الأديرة خارج المدينة، أما في السبت فكان معتادًا أن يأتي إلى الكنيسة ويجمع الشعب، ويتكلم معهم بكلمة الله إلى المساء، وكانوا يقضون ليلة السبت في قداساتهم، وصلواتهم، ومزاميرهم، وهو واقف قدامهم في الليتورجية المقدسة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -15280,14 +15359,16 @@ V
 </orig_group>
 </entity>
 </date_type>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="102">
-<translation translation="...">
+<translation translation="And he would keep them until the sixth hour of Sunday, then he would withdraw to his monastery until (the next) Saturday.">
 <chapter_n chapter_n="102">
 <arabic arabic="كان أيضًا يُعلمهم إلى الساعة السادسة من (يوم) الأحد، ثم يعتزل ثانية في ديره حتى السبت (التالي)">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -15575,14 +15656,16 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="103">
-<translation translation="...">
+<translation translation="He put the elder whom they had taken to make him a bishop in charge of all the accounts of the church.">
 <chapter_n chapter_n="103">
 <arabic arabic="وعين الكاهن الذي كانوا قد أخذوه ليجعلوه اسقفًا على كل حسابات الكنيسة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁϥⲕⲁⲑⲓⲥⲧⲁ">
 <norm_group norm_group="ⲁϥⲕⲁⲑⲓⲥⲧⲁ">
 <orig orig="ⲁ">
@@ -15875,14 +15958,16 @@ PREP
 </orig_group>
 </entity>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="104">
-<translation translation="...">
+<translation translation="And he gave him an account of the church once per year and all that was left beyond the expenses of the church he would send to the poor of the city and those nearby so that they might forget the troubles of their poverty through him.">
 <chapter_n chapter_n="104">
 <arabic arabic="وكان يقدم حسابات الكنيسة مرة كل عام، وكل ما يفضل من نفقات الكنيسة، يرسله لفقراء المدينة، وجيرانه، حتى أنهم ينسون شقاء فقرهم بسببه.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16557,14 +16642,16 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="105">
-<translation translation="...">
+<translation translation="For the other magistrates helped him with things outside the church.">
 <chapter_n chapter_n="105">
 <arabic arabic="لأن الأراخنة كانوا يساعادونه في مقتنيات الكنيسة الخارجية">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -16781,14 +16868,16 @@ PREP
 </orig_group>
 </entity>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="106">
-<translation translation="...">
+<translation translation="And they gave him pledges and gifts.">
 <chapter_n chapter_n="106">
 <arabic arabic="وكانوا يعطونه نذورًا وقرابين">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16921,14 +17010,16 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="107">
-<translation translation="...">
+<translation translation="And he used to distribute them to everybody according to their individual needs.">
 <chapter_n chapter_n="107">
 <arabic arabic="فكان يقسمها على كل واحد حسب احتياجه">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -17171,14 +17262,16 @@ NUM
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="108">
-<translation translation="...">
+<translation translation="Saturdays he spent among [...] the needy and those who had endured violence, he relieved their need.">
 <chapter_n chapter_n="108">
 <arabic arabic="أما في يوم السبت فكان يقضيه في [..] والمعوزين والمظلومين فكان يتكفل باحتياجاتهم">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <entity entity="time">
@@ -17486,14 +17579,16 @@ NUM
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="109">
-<translation translation="...">
+<translation translation="And he continued to bear their cries until the 9th hour. From the 9th hour onwards he would devote himself to the holy prayer until evening time and would gather them and walk out ... and would stay awake until the early hours and no woman would dare to approach him having any gold upon her.">
 <chapter_n chapter_n="109">
 <arabic arabic="وكان يظل واقفا أمام صراخهم حتى الساعة التاسعة، ومن الساعة التاسعة فصاعدًا كان يتفرغ للصلاة المقدسة حتى وقت المساء، ثم يناولهم ويخرج [..]ويصبر في سهر الليل حتى وقت السحر، ولم تكن تجرؤ أي أمرأة أن تقترب منه لتتناول وهي ترتدي أي شئ من الذهب">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -18344,14 +18439,16 @@ NUM
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="110">
-<translation translation="...">
+<translation translation="This was the way that he commanded: for no woman to approach him to receive from the body and the blood of Christ if she had any visible gold upon her or was wearing colorful clothes. Thus the deacons were afraid of him">
 <chapter_n chapter_n="110">
 <arabic arabic="وهكذا كان يعلِّم؛ ألا تقترب أي امرأة إليه للتناول من جسد ودم المسيح، ولديها أي شئ ظاهر من الذهب أو شئ من الثياب الملونة؛ لأن الشمامسة كانوا يخافونه">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲧⲁⲓ">
 <norm_group norm_group="ⲧⲁⲓ">
 <entity entity="abstract">
@@ -19029,14 +19126,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="111">
-<translation translation="...">
+<translation translation="And they stood according to their order at the door and would not let anybody come in unless they were dressed appropriately.">
 <chapter_n chapter_n="111">
 <arabic arabic="وكانوا يقفون حسب الرتبة عند كل باب، ولا يدَعون أحدًا أن يدخل مالم يكن يرتدين ثياب وقورة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -19342,14 +19441,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="112">
-<translation translation="...">
+<translation translation="Meaning that their faces and hands were covered and the clothes they wore were not of those died by wool-dyers">
 <chapter_n chapter_n="112">
 <arabic arabic="التي هي غطاء وجوههن وأياديهن، وغيرها من الثياب التي يرتدينها غير مصبوغة  عند صابغ الصوف">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉⲧⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲉ">
@@ -19690,14 +19791,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="113">
-<translation translation="...">
+<translation translation="nor with bright or shiny colors.">
 <chapter_n chapter_n="113">
 <arabic arabic="ويكون لونها أيضًا زاه ولامع">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -19834,14 +19937,16 @@ NUM
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="114">
-<translation translation="...">
+<translation translation="The deacons likewise had conducted themselves after his manner and none of them committed any injustice nor usury. Not only this, but a lot of people gave up usury, emulating and following the Way of Life.">
 <chapter_n chapter_n="114">
 <arabic arabic="أيضاً بالمثل كان الشمامسة قد اتبعوا طريقته، فلم يكن أحدٌ منهم يعمل شيئًا ظالمًا، أو يأخذ بالربا، ليس هذا فقط، ولكن الكثيرون  أيضًا كفّوا عن المراباة، غيورين زاهدين في الحياة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲇⲓⲁⲕⲟⲛⲟⲥ">
 <norm_group norm_group="ⲛⲇⲓⲁⲕⲟⲛⲟⲥ">
 <roleName_type roleName_type="ecclesiastical">
@@ -20534,14 +20639,16 @@ NUM
 </orig_group>
 </entity>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="115">
-<translation translation="...">
+<translation translation="The women were also zealously striving for sobriety and none of them gave cause for wrath during the service of the holy place.">
 <chapter_n chapter_n="115">
 <arabic arabic="والنساء أيضًا كُنّ يتنافسن في الوداعة، ولم تكن واحدة منهن تسبب الغضب في العبادة في الأماكن المقدسة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲉϩⲓⲟⲙⲉ">
 <norm_group norm_group="ⲛⲉϩⲓⲟⲙⲉ">
 <entity entity="person">
@@ -20833,14 +20940,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="116">
-<translation translation="...">
+<translation translation="So that one used to say about the entire city in those days: these truly are the people of the Lord.">
 <chapter_n chapter_n="116">
 <arabic arabic="حتى أنه كان يُقال عن المدينة كلها في تلك الأيام: 'إن هؤلاء حقًا هم شعب الله'">
+<verse_n verse_n="1">
 <orig_group orig_group="ϩⲱⲥⲧⲉ">
 <norm_group norm_group="ϩⲱⲥⲧⲉ">
 <orig orig="ϩⲱⲥⲧⲉ">
@@ -21117,14 +21226,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="117">
-<translation translation="...">
+<translation translation="For he said many times in the catechesis: my heart is not afflicted by those who suffer violence but by those who commit it.">
 <chapter_n chapter_n="117">
 <arabic arabic="إذ أنه اكن يقول لهم مرات كثيرة من التعليم قائلاً: 'إن قلبي لا يتَكّدّر بسبب الذين ظُلموا بقدر الذين ظَلَموا">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -21611,14 +21722,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="118">
-<translation translation="...">
+<translation translation="Because for those who suffer from violence, the heavenly kingdom is wide open.">
 <chapter_n chapter_n="118">
 <arabic arabic="لأن المظلومين يتسع لهم ملكوت السموات">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩϫⲓⲧⲟⲩ">
 <norm_group norm_group="ⲛⲉⲛⲧⲁⲩϫⲓⲧⲟⲩ">
 <entity entity="person">
@@ -21855,14 +21968,16 @@ NUM
 </orig_group>
 </entity>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="119">
-<translation translation="...">
+<translation translation="The perpetrators, though, rob themselves of it and they open up destruction for themselves.">
 <chapter_n chapter_n="119">
 <arabic arabic=" أمّا الظالمون فيحرمون أنفسهم وحدهم منها ويوسّع لهم الهلاك">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲣⲉϥϫⲓⲛϭⲟⲛⲥ">
 <norm_group norm_group="ⲛⲣⲉϥϫⲓⲛϭⲟⲛⲥ">
 <orig orig="ⲛ">
@@ -22122,14 +22237,16 @@ NUM
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="120">
-<translation translation="...">
+<translation translation="It happened though many times that he was in a trance and they talked to him about those who lived in the city.">
 <chapter_n chapter_n="120">
 <arabic arabic="وكان كثيرًا ما يُصاب بالدهَش، فكانوا يقولون له ما يحدث في المدينة">
+<verse_n verse_n="1">
 <orig_group orig_group="ϣⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ϣⲁⲥϣⲱⲡⲉ">
 <orig orig="ϣⲁ">
@@ -22444,14 +22561,16 @@ NUM
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="121">
-<translation translation="...">
+<translation translation="And he would tell the people to repent and he prevented that wroth took hold of them,">
 <chapter_n chapter_n="121">
 <arabic arabic="وكان يخبر الشعب أن يتوب، وكان يمنع الغضب من أن يتمكن منهم">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22703,14 +22822,16 @@ NUM
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="122">
-<translation translation="...">
+<translation translation="Even if one chanting the psalms made an error in their reading or changed it he would prevent that one add anything until he had spoken up and corrected the psalm">
 <chapter_n chapter_n="122">
 <arabic arabic="وكان إذا أخطأ مرتل المزمور في عبارة أو غيَّرها، كان يمنعه أن يزيد شيئًا حتى يقولها ويصحح (قراءته) للمزمور">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲕⲁⲛ">
 <norm_group norm_group="ⲕⲁⲛ">
 <orig orig="ⲕⲁⲛ">
@@ -23082,14 +23203,16 @@ NUM
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="123">
-<translation translation="...">
+<translation translation="And he would say while weeping: these are the words of a royal man (= king) - he said them while fasting and (wearing) a sackcloth.">
 <chapter_n chapter_n="123">
 <arabic arabic="وكان يقول باكيًا: ' هذا الكلام يخص رجلاً ملكًا، وقد قاله في اصوام ومسوح">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -23443,14 +23566,16 @@ NUM
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="124">
-<translation translation="...">
+<translation translation="We do not pay attention to them in a [word not clear - ⲙⲛⲧⲁⲧⲃⲟⲧⲉ].">
 <chapter_n chapter_n="124">
 <arabic arabic="أما نحن فلا ننتبه إليه في عدم نجاسة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲛⲟⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
@@ -23613,6 +23738,7 @@ NUM
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
@@ -23620,9 +23746,10 @@ NUM
 </p_source>
 <p_source p_source="PATHS">
 <p_n p_n="125">
-<translation translation="...">
+<translation translation="And it happened when he had completed his life that the brothers grieved for him, as he was about to pass so that putting their trust in the success of his people and the purity of his episcopate that they had witnessed they said to him: our father, speak a word to us before you go from us.">
 <chapter_n chapter_n="125">
 <arabic arabic="وحدث عندما اكمل حياته ، أن دنا منه الأخوة وهو على وشك الإنتقال ، واثقين من كمال شعبه، وطهارة اسقفيته، التي شهدوا هم لها، وقالوا له: 'يأبنا، قل لنا كلمة قبل أن تنطلق من عندنا'">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -24354,14 +24481,16 @@ NUM
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="126">
-<translation translation="...">
+<translation translation="He said to them: I only command one thing to you, that none of you desire any greatness.">
 <chapter_n chapter_n="126">
 <arabic arabic="أما هو فتكلم معهم قائلاً: 'أمر واحد الذي أوصيكم به أنا، ألا تدعوا أحد منكم يشتهي شيئًا من العظمة">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -24780,14 +24909,16 @@ CREL
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="127">
-<translation translation="...">
+<translation translation="For after the manner in which I fled it, I had barely been able to maintain that which I generated as a monk">
 <chapter_n chapter_n="127">
 <arabic arabic="إذ أنني بعد تلك التي هربتُ منها بالكاد والتي أمكنني أن أحافظ على ما اقتنيتُه في الرهبانية">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲕⲁⲓⲅⲁⲣ">
 <norm_group norm_group="ⲕⲁⲓⲅⲁⲣ">
 <orig orig="ⲕⲁⲓ">
@@ -25112,14 +25243,16 @@ place
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="128">
-<translation translation="...">
+<translation translation="(as for) the episcopate, I do not think that I have been of any use to it at all and again I have barely managed to keep myself and the manner in which I was originally.">
 <chapter_n chapter_n="128">
 <arabic arabic="أما الأسقفية فلا اذكر أني استفدتُ منها بأي شئ وبالكاد أيضًا قد استطعتُ أن أحفظ نفسي بالحال الذي كنت به منذ البدء.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲧⲙⲛⲧⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <entity entity="abstract">
@@ -25547,14 +25680,16 @@ place
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="129">
-<translation translation="...">
+<translation translation="And when he was to ordain a deacon he would not ordain him first if he had not learned 25 psalms and two letters of the Apostles and a part of the Gospel by heart.">
 <chapter_n chapter_n="129">
 <arabic arabic="فإذ أوشك على رسامة شماس لم يكن يشرطنه ما لم يحفظ أولاً عن ظهر قلب خمسة وعشرون مزمورًا ورسالتين رسوليتين وجزءًا من الإنجيل.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -25967,14 +26102,16 @@ place
 </norm_group>
 </orig_group>
 </entity>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="130">
-<translation translation="...">
+<translation translation="If it was an elder, a part of Deuteronomy and a part of Proverbs as well as a part of Isaiah.">
 <chapter_n chapter_n="130">
 <arabic arabic="وإذا كان كاهمًا فجزءًا من سفر اللاويين وجزءًا من سفر الأمثال وأيضًا جزءًا من أشعياء">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
 <norm_group norm_group="ⲉϣⲱⲡⲉ">
 <orig orig="ⲉϣⲱⲡⲉ">
@@ -26240,14 +26377,16 @@ place
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="131">
-<translation translation="...">
+<translation translation="And regarding the law which he carried inside him, there were not many people that would turn to him in a matter of this kind unless they were first prepared in any kind of firmness. And never did it happen at all that anybody would take a bribe because of a matter of investiture in his days.">
 <chapter_n chapter_n="131">
 <arabic arabic="ولأجل القانون الذي تمسك به لم يكن الكثير من الناس يتقدم إلى أمر كهذا مالم يستعدوا أولاً له بكل تدقيق، أيضًا لم يحدث البتة أن أحدًا أخذ رشوة لأجل الشرطونية في أيامه.">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -26880,14 +27019,16 @@ place
 </entity>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
 </p_n>
 <p_n p_n="132">
-<translation translation="...">
+<translation translation="But when they elected one of the people to the place where he was needed, he would first make them sit with patience until it became apparent that they loved the word of God, so that they themselves in turn would edify the people with this patience in this manner, and this was the way that he concluded his life rightly having gone before God in peace on the 21st of the month of Thout in Jesus Christ our Lord, he through whom the glory of God the Father is with him and the Holy Spirit, for ever and ever.">
 <chapter_n chapter_n="132">
 <arabic arabic="لكن عندما يُختار واحد من الشعب إلى المكان الذي يحتاجونه فيه، كان يجعلهم يمكثون أولاً بطول آناة ويُظهروا أنهم يحبون كلمة الله حتى أنهم أيضًا يشجعون الشعب (روحيًا) بطول آناة مثل هذه، وهذه هي الكيفية التي اكمل بها حياته حسنًا و مضى إلى الله بسلام في اليوم الحادي والعشرين من شهر توت بالمسيح يسوع ربنا هذا الذي من قِبَله المجد لله الآب معه مع الروح القدس إلى أبد الآبدين. آمين">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -28256,6 +28397,7 @@ place
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </arabic>
 </chapter_n>
 </translation>
