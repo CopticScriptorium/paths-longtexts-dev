@@ -2073,7 +2073,7 @@
 </translation>
 </p_n>
 <p_n p_n="69">
-<translation translation="But through the love for God which is in your heart, see, you have vanquished any crafty form of the devil in listening to the words of my humble self. // For the greatness which is inside you was not able to raise you to an understanding (ⲉⲡⲓⲛⲟⲓⲁ? ⲉⲛⲛⲟⲓⲁ?) so that you would dominate yourself, ">
+<translation translation="But through the love for God which is in your heart, see, you have vanquished any crafty form of the devil in listening to the words of my humble self. // For the greatness which is inside you was not able to raise you to an understanding so that you would dominate yourself, ">
 <chapter_n chapter_n="69">
 <arabic arabic="إلا أنه من أجل المحبة الكائنة فيك نحو الله، هوذا أنتَ قد تغَلبتَ على حيل ابليس بكل اشكالها، عند سماعك كلمات حقارتي، لأن العظمة التي بداخلك لم تقدر أن تجعلك مترفعًا عن الفهم، حتى أنك تتغلب على رغبتك الشخصية">
 <verse_n verse_n="1">
@@ -2557,31 +2557,33 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲩⲉⲛⲟⲛⲟⲓⲁ">
-<norm_group norm_group="ⲉⲩⲉⲛⲟⲛⲟⲓⲁ">
+<norm_group norm_group="ⲉⲩⲉⲛⲛⲟⲓⲁ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲉ">
+<pos pos="PREP">
 ⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲩⲉ">
-<norm norm="ⲩⲉ">
-<lemma lemma="ⲩⲉ">
-<pos pos="EXIST">
-ⲩⲉ
+<orig orig="ⲩ">
+<norm norm="ⲩ">
+<lemma lemma="ⲟⲩ">
+<pos pos="ART">
+ⲩ
 </pos>
 </lemma>
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ⲛⲟⲛⲟⲓⲁ">
-<norm norm="ⲛⲟⲛⲟⲓⲁ">
-<lemma lemma="ⲛⲟⲛⲟⲓⲁ">
+<orig orig="ⲉⲛⲟⲛⲟⲓⲁ">
+<norm norm="ⲉⲛⲛⲟⲓⲁ">
+<lemma lemma="ⲉⲛⲛⲟⲓⲁ">
 <pos pos="N">
-ⲛⲟⲛⲟⲓⲁ
+<lang lang="Greek">
+ⲉⲛⲟⲛⲟⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -23572,7 +23574,7 @@ NUM
 </translation>
 </p_n>
 <p_n p_n="124">
-<translation translation="We do not pay attention to them in a [word not clear - ⲙⲛⲧⲁⲧⲃⲟⲧⲉ].">
+<translation translation="We do not pay attention to them in a in our innocence.">
 <chapter_n chapter_n="124">
 <arabic arabic="أما نحن فلا ننتبه إليه في عدم نجاسة">
 <verse_n verse_n="1">
