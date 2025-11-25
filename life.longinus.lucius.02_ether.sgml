@@ -2,6 +2,7 @@
 <p_n p_n="10">
 <chapter_n chapter_n="10">
 <translation translation="I will now also tell of the other miracle that God performed through his servants. There was a man in that region who had a noble son who was nearing adolescence.">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ϯⲛⲁϫⲱ">
 <norm_group norm_group="ϯⲛⲁϫⲱ">
@@ -583,8 +584,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="There was a woman named Flavia. She entrusted a document with the parents of that boy,">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲉⲩⲛⲟⲩⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲛⲉⲩⲛⲟⲩⲥϩⲓⲙⲉ">
 <orig orig="ⲛⲉ">
@@ -850,8 +853,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="and they gave it to their son to keep it safe.">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁⲛⲁⲓ">
 <norm_group norm_group="ⲁⲛⲁⲓ">
 <orig orig="ⲁ">
@@ -1025,8 +1030,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="It happened that, when the boy died suddenly, his parents were unaware of where the document was.">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <orig orig="ⲁ">
@@ -1390,8 +1397,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="That woman, Flavia, came looking for her deposit, i.e. the document she'd entrusted with them. And when they were at a loss and couldn't find it,">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲧⲉⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲁⲧⲉⲥϩⲓⲙⲉ">
 <orig orig="ⲁ">
@@ -1750,8 +1759,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="because they didn't know where the boy left it,">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -1957,8 +1968,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="she very angrily threatened to make them slaves to her ⟦When these blessed ones heard these things⟧ if they didn't hand her back her document. Then the boy's parents, after continuing to be pestered by that woman, left their son without burying him, and they quickly made their way to the sanctuary where the saints were, with other large crowds—their relatives and their neighbors—following them. They bowed at the feet of Apa Lucius and Apa Longinus, begging them, saying,">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲁⲥⲁⲡⲉⲓⲗⲉ">
 <norm_group norm_group="ⲁⲥⲁⲡⲉⲓⲗⲉ">
 <orig orig="ⲁ">
@@ -3497,8 +3510,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="“Call on the Lord Christ, to whom you are servants, so that he may reveal the soul of our dead son, and we learn through him where he placed the document">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲥⲟⲡⲥ̄">
 <norm_group norm_group="ⲥⲟⲡⲥ">
 <orig orig="ⲥⲟⲡⲥ̄">
@@ -3991,8 +4006,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="that a rich woman entrusted with us, now threatening to make us slaves if we haven't found the document and given it to her.”">
+<verse_n verse_n="9">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -4424,12 +4441,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
 <p_n p_n="11">
 <chapter_n chapter_n="11">
 <translation translation="...">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -6787,8 +6806,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7363,8 +7384,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7862,8 +7885,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -8289,12 +8314,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
 <p_n p_n="12">
 <chapter_n chapter_n="12">
 <translation translation="...">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲥⲟⲉⲓⲧ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲥⲟⲉⲓⲧ">
@@ -9506,8 +9533,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲉⲓⲙⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲉⲓⲙⲉ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -9911,8 +9940,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲛⲉⲩϣⲟⲟⲡ">
 <norm_group norm_group="ⲛⲉⲩϣⲟⲟⲡ">
 <orig orig="ⲛⲉ">
@@ -10197,12 +10228,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
 <p_n p_n="13">
 <chapter_n chapter_n="13">
 <translation translation="...">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲧⲟⲧⲉ">
 <norm_group norm_group="ⲧⲟⲧⲉ">
@@ -10981,8 +11014,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ϯⲥⲱⲧⲙ">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
@@ -11839,8 +11874,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12201,8 +12238,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12737,8 +12776,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲉⲕϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲕϣⲟⲟⲡ">
 <orig orig="ⲉ">
@@ -13326,12 +13367,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
 <p_n p_n="14">
 <chapter_n chapter_n="14">
 <translation translation="...">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -13623,8 +13666,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -14057,8 +14102,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -14601,8 +14648,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -14787,8 +14836,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲛⲅ">
 <norm_group norm_group="ⲁⲛⲅ">
 <orig orig="ⲁⲛⲅ">
@@ -15028,8 +15079,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <orig orig="ⲟⲩⲇⲉ">
@@ -15944,8 +15997,10 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="7">
 <lb_n lb_n="12">
 <orig_group orig_group="ⲛⲉⲁⲡⲉϥⲃⲱ">
 <norm_group norm_group="ⲛⲉⲁⲡⲉϥⲃⲱ">
@@ -16295,8 +16350,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -16455,8 +16512,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="9">
 <orig_group orig_group="ⲡⲉⲙⲛⲟⲩⲧ">
 <norm_group norm_group="ⲡⲉⲙⲛⲟⲩⲧ">
 <entity entity="person">
@@ -16685,8 +16744,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="10">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -17154,8 +17215,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="11">
 <orig_group orig_group="ϫⲓ">
 <norm_group norm_group="ϫⲓ">
 <orig orig="ϫⲓ">
@@ -17349,12 +17412,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
 <p_n p_n="15">
 <chapter_n chapter_n="15">
 <translation translation="...">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
@@ -17699,8 +17764,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲟⲉⲓⲕ">
 <norm_group norm_group="ⲛⲟⲉⲓⲕ">
 <orig orig="ⲛ">
@@ -17829,8 +17896,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
 <norm_group norm_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -18395,9 +18464,11 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 <lb_n lb_n="6">
 <translation translation="...">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲙⲡⲉⲡⲛⲟϭ">
 <norm_group norm_group="ⲙⲡⲉⲡⲛⲟϭ">
 <orig orig="ⲙⲡⲉ">
@@ -18541,8 +18612,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="5">
 <entity identity="Anthony the Great" entity="person">
 <orig_group orig_group="ⲡⲙⲁⲕⲁⲣⲓⲟⲥ">
 <norm_group norm_group="ⲡⲙⲁⲕⲁⲣⲓⲟⲥ">
@@ -18949,8 +19022,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
@@ -19531,8 +19606,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲉⲑⲩⲣⲟⲩⲣⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲉⲑⲩⲣⲟⲩⲣⲟⲥ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -19771,8 +19848,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲛⲉϣⲁϥϭⲛⲧϥ">
 <norm_group norm_group="ⲛⲉϣⲁϥϭⲛⲧϥ">
 <orig orig="ⲛⲉ">
@@ -19956,6 +20035,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 </lb_n>
 <translation translation="...">
@@ -20519,6 +20599,7 @@
 </orig_group>
 </translation>
 <translation translation="...">
+<verse_n verse_n="9">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -20663,8 +20744,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="10">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -20783,8 +20866,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="11">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -20932,8 +21017,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="12">
 <orig_group orig_group="ⲉⲫⲟⲥⲟⲛ">
 <norm_group norm_group="ⲉⲡϩⲟⲥⲟⲛ">
 <orig orig="ⲉ">
@@ -21415,12 +21502,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
 <p_n p_n="16">
 <chapter_n chapter_n="16">
 <translation translation="...">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲗⲟⲓⲡⲟⲛ">
 <norm_group norm_group="ⲗⲟⲓⲡⲟⲛ">
@@ -22217,8 +22306,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22624,8 +22715,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ⲡⲛⲟⲩⲧⲉ">
 <entity entity="person">
@@ -23160,8 +23253,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="4">
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="Mt. 5 , 15">
 <orig_group orig_group="ⲙⲉⲩϫⲉⲣⲉ">
@@ -23541,8 +23636,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲙⲡⲉϥⲟⲩⲱϣ">
 <norm_group norm_group="ⲙⲡⲉϥⲟⲩⲱϣ">
 <orig orig="ⲙⲡⲉ">
@@ -24142,8 +24239,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="...">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲉⲁϥⲣⲟⲩⲟⲉⲓⲛ">
 <norm_group norm_group="ⲉⲁϥⲣⲟⲩⲟⲉⲓⲛ">
 <orig orig="ⲉ">
@@ -24539,6 +24638,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 </chapter_n>
 </p_n>
