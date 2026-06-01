@@ -1,8 +1,8 @@
-<meta annotation="Julian Bogdani, Caroline Schroeder, Randy Komforty, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:17-23" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." order="2" origDate_precision="accurate" parsing="automatic" paths_manuscripts="&lt;a href='http://paths.uniroma1.it/atlas/manuscripts/237'&gt;237&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/418'&gt;418&lt;/a&gt;" people="Anthony the Great; Lazarus of Bethany; Paul of Thebes" places="Alexandria" previous="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 2" translation="Randy Komforty" version_date="-" version_n="4.0.0">
+<meta annotation="Julian Bogdani, Caroline T. Schroeder, Randy Komforty, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:17-23" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." order="2" origDate_precision="accurate" parsing="automatic" paths_manuscripts="&lt;a href='http://paths.uniroma1.it/atlas/manuscripts/237'&gt;237&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/418'&gt;418&lt;/a&gt;" people="Anthony the Great; Lazarus of Bethany; Paul of Thebes" places="Alexandria" previous="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 2" translation="Randy Komforty" version_date="2025-11-25" version_n="6.2.0">
 <p_n p_n="10">
 <chapter_n chapter_n="10">
-<translation translation="I will now also tell of the other miracle that God performed through his servants. There was a man in that region who had a noble son who was nearing adolescence.">
-<verse_n verse_n="1">
+<translation_old translation_old="I will now also tell of the other miracle that God performed through his servants. There was a man in that region who had a noble son who was nearing adolescence.">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ϯⲛⲁϫⲱ">
 <norm_group norm_group="ϯⲛⲁϫⲱ">
@@ -584,10 +584,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="There was a woman named Flavia. She entrusted a document with the parents of that boy,">
-<verse_n verse_n="2">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="There was a woman named Flavia. She entrusted a document with the parents of that boy,">
+<pathsverse_n pathsverse_n="2">
 <orig_group orig_group="ⲛⲉⲩⲛⲟⲩⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲛⲉⲩⲛⲟⲩⲥϩⲓⲙⲉ">
 <orig orig="ⲛⲉ">
@@ -853,10 +853,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="and they gave it to their son to keep it safe.">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="and they gave it to their son to keep it safe.">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲁⲛⲁⲓ">
 <norm_group norm_group="ⲁⲛⲁⲓ">
 <orig orig="ⲁ">
@@ -1030,10 +1030,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="It happened that, when the boy died suddenly, his parents were unaware of where the document was.">
-<verse_n verse_n="4">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="It happened that, when the boy died suddenly, his parents were unaware of where the document was.">
+<pathsverse_n pathsverse_n="4">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <orig orig="ⲁ">
@@ -1397,10 +1397,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="That woman, Flavia, came looking for her deposit, i.e. the document she'd entrusted with them. And when they were at a loss and couldn't find it,">
-<verse_n verse_n="5">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="That woman, Flavia, came looking for her deposit, i.e. the document she'd entrusted with them. And when they were at a loss and couldn't find it,">
+<pathsverse_n pathsverse_n="5">
 <orig_group orig_group="ⲁⲧⲉⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲁⲧⲉⲥϩⲓⲙⲉ">
 <orig orig="ⲁ">
@@ -1759,10 +1759,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="because they didn't know where the boy left it,">
-<verse_n verse_n="6">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="because they didn't know where the boy left it,">
+<pathsverse_n pathsverse_n="6">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -1968,10 +1968,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="she very angrily threatened to make them slaves to her ⟦When these blessed ones heard these things⟧ if they didn't hand her back her document. Then the boy's parents, after continuing to be pestered by that woman, left their son without burying him, and they quickly made their way to the sanctuary where the saints were, with other large crowds—their relatives and their neighbors—following them. They bowed at the feet of Apa Lucius and Apa Longinus, begging them, saying,">
-<verse_n verse_n="7">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="she very angrily threatened to make them slaves to her ⟦When these blessed ones heard these things⟧ if they didn't hand her back her document. Then the boy's parents, after continuing to be pestered by that woman, left their son without burying him, and they quickly made their way to the sanctuary where the saints were, with other large crowds—their relatives and their neighbors—following them. They bowed at the feet of Apa Lucius and Apa Longinus, begging them, saying,">
+<pathsverse_n pathsverse_n="7">
 <orig_group orig_group="ⲁⲥⲁⲡⲉⲓⲗⲉ">
 <norm_group norm_group="ⲁⲥⲁⲡⲉⲓⲗⲉ">
 <orig orig="ⲁ">
@@ -3510,10 +3510,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="“Call on the Lord Christ, to whom you are servants, so that he may reveal the soul of our dead son, and we learn through him where he placed the document">
-<verse_n verse_n="8">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="“Call on the Lord Christ, to whom you are servants, so that he may reveal the soul of our dead son, and we learn through him where he placed the document">
+<pathsverse_n pathsverse_n="8">
 <orig_group orig_group="ⲥⲟⲡⲥ̄">
 <norm_group norm_group="ⲥⲟⲡⲥ">
 <orig orig="ⲥⲟⲡⲥ̄">
@@ -4006,10 +4006,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="that a rich woman entrusted with us, now threatening to make us slaves if we haven't found the document and given it to her.”">
-<verse_n verse_n="9">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="that a rich woman entrusted with us, now threatening to make us slaves if we haven't found the document and given it to her.”">
+<pathsverse_n pathsverse_n="9">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -4441,14 +4441,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 <p_n p_n="11">
 <chapter_n chapter_n="11">
-<translation translation="...">
-<verse_n verse_n="1">
+<translation_old translation_old="And when the blessed ones heard these things from the boy's parents, they took pity on them through the love and compassion of Christ that was in them. They arose quickly and followed them without worry or delay, and when they reached the house that the dead boy was in, they entered the place where the deceased lay, knelt down, and prayed as though God wished to reveal the miracle to the blessed Apa Longinus, full of virtue. He was immediately filled with the Holy Spirit, and took the boy's hand in the presence of the crowd, and said thus: “God, who once raised Lazarus, is the same one who now will return your spirit to you, so that you'll tell us where you left the rich woman's document so that she won't take your parents as slaves.”">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -4463,7 +4463,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ">
+<orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ̄">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ">
 <orig orig="ⲛⲧⲉⲣ">
 <norm norm="ⲛⲧⲉⲣ">
@@ -4483,11 +4483,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲱⲧⲙ">
+<orig orig="ⲥⲱⲧⲙ̄">
 <norm norm="ⲥⲱⲧⲙ">
 <lemma lemma="ⲥⲱⲧⲙ">
 <pos pos="V">
-ⲥⲱⲧⲙ
+ⲥⲱⲧⲙ̄
 </pos>
 </lemma>
 </norm>
@@ -4553,23 +4553,23 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓⲧⲛ︦ⲛ︦ⲉⲓⲟⲧⲉ">
+<orig_group orig_group="ϩⲓⲧⲛ̇ⲛⲉⲓⲟⲧⲉ">
 <norm_group norm_group="ϩⲓⲧⲛⲛⲉⲓⲟⲧⲉ">
-<orig orig="ϩⲓⲧⲛ︦">
+<orig orig="ϩⲓⲧⲛ̇">
 <norm norm="ϩⲓⲧⲛ">
 <lemma lemma="ϩⲓⲧⲛ">
 <pos pos="PREP">
-ϩⲓⲧⲛ︦
+ϩⲓⲧⲛ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 <entity entity="person">
-<orig orig="ⲛ︦">
+<orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
-ⲛ︦
+ⲛ
 </pos>
 </lemma>
 </norm>
@@ -4741,7 +4741,7 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲛⲧⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
+<orig_group orig_group="ⲙⲛⲧⲙⲛⲧϣⲁⲛϩ̇ⲧⲏϥ">
 <norm_group norm_group="ⲙⲛⲧⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
 <orig orig="ⲙⲛ">
 <norm norm="ⲙⲛ">
@@ -4762,7 +4762,7 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
+<orig orig="ⲙⲛⲧϣⲁⲛϩ̇ⲧⲏϥ">
 <norm norm="ⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
 <lemma lemma="ⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
 <pos pos="N">
@@ -4776,7 +4776,7 @@
 ⲛ
 </morph>
 <morph morph="ϩⲧⲏ">
-ϩⲧⲏ
+ϩ̇ⲧⲏ
 </morph>
 <morph morph="ϥ">
 ϥ
@@ -4787,13 +4787,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲭ︤ⲥ︥">
+<orig_group orig_group="ⲙ̇ⲡⲉⲭ︤ⲥ︥">
 <norm_group norm_group="ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ">
-<orig orig="ⲙ">
+<orig orig="ⲙ̇">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙ
+ⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -4821,7 +4821,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲛϩⲏⲧⲟⲩ">
+<orig_group orig_group="ⲉⲧⲛ̇ϩⲏⲧⲟⲩ">
 <norm_group norm_group="ⲉⲧⲛϩⲏⲧⲟⲩ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
@@ -4834,11 +4834,11 @@
 </orig>
 </lb_n>
 <lb_n lb_n="3">
-<orig orig="ⲛϩⲏⲧ">
+<orig orig="ⲛ̇ϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ⲛϩⲏⲧ
+ⲛ̇ϩⲏⲧ
 </pos>
 </lemma>
 </norm>
@@ -4856,13 +4856,13 @@
 </orig_group>
 </entity>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -5016,7 +5016,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϣⲧⲟⲣⲧⲣ">
+<orig_group orig_group="ⲛϣ̇ⲧⲟⲣⲧⲣ̇">
 <norm_group norm_group="ⲛϣⲧⲟⲣⲧⲣ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -5028,11 +5028,11 @@
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ϣⲧⲟⲣⲧⲣ">
+<orig orig="ϣ̇ⲧⲟⲣⲧⲣ̇">
 <norm norm="ϣⲧⲟⲣⲧⲣ">
 <lemma lemma="ϣⲧⲟⲣⲧⲣ">
 <pos pos="N">
-ϣⲧⲟⲣⲧⲣ
+ϣ̇ⲧⲟⲣⲧⲣ̇
 </pos>
 </lemma>
 </norm>
@@ -5075,19 +5075,6 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5271,8 +5258,8 @@
 </orig_group>
 </entity>
 </entity>
-<orig_group orig_group="ⲁⲩ︦ⲱⲕ">
-<norm_group norm_group="ⲁⲩⲱⲕ">
+<orig_group orig_group="ⲁⲩⲃⲱⲕ">
+<norm_group norm_group="ⲁⲩⲃⲱⲕ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -5282,20 +5269,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲩ︦">
+<orig orig="ⲩ">
 <norm norm="ⲩ">
 <lemma lemma="ⲛⲧⲟⲟⲩ">
 <pos pos="PPERS">
-ⲩ︦
+ⲩ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲱⲕ">
-<norm norm="ⲱⲕ">
-<lemma lemma="ⲱⲕ">
+<orig orig="ⲃⲱⲕ">
+<norm norm="ⲃⲱⲕ">
+<lemma lemma="ⲃⲱⲕ">
 <pos pos="V">
-ⲱⲕ
+ⲃⲱⲕ
 </pos>
 </lemma>
 </norm>
@@ -5389,20 +5376,20 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲕⲟⲧⲕ">
+<orig_group orig_group="ⲛ̇ⲕⲟⲧⲕ̇">
 <norm_group norm_group="ⲛⲕⲟⲧⲕ">
-<orig orig="ⲛⲕⲟⲧⲕ">
+<orig orig="ⲛ̇ⲕⲟⲧⲕ̇">
 <norm norm="ⲛⲕⲟⲧⲕ">
 <lemma lemma="ⲛⲕⲟⲧⲕ">
 <pos pos="V">
-ⲛⲕⲟⲧⲕ
+ⲛ̇ⲕⲟⲧⲕ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲏⲧϥ">
+<orig_group orig_group="ⲛϩⲏⲧϥ̄">
 <norm_group norm_group="ⲛϩⲏⲧϥ">
 <orig orig="ⲛϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
@@ -5413,11 +5400,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̄">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̄
 </pos>
 </lemma>
 </norm>
@@ -5618,8 +5605,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉϣⲡⲡⲣⲉ">
-<norm_group norm_group="ⲛⲧⲉϣⲡⲡⲣⲉ">
+<orig_group orig_group="ⲛⲧⲉϣⲡⲏⲣⲉ">
+<norm_group norm_group="ⲛⲧⲉϣⲡⲏⲣⲉ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -5639,11 +5626,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲡⲡⲣⲉ">
-<norm norm="ϣⲡⲡⲣⲉ">
-<lemma lemma="ϣⲡⲡⲣⲉ">
+<orig orig="ϣⲡⲏⲣⲉ">
+<norm norm="ϣⲡⲏⲣⲉ">
+<lemma lemma="ϣⲡⲏⲣⲉ">
 <pos pos="N">
-ϣⲡⲡⲣⲉ
+ϣⲡⲏⲣⲉ
 </pos>
 </lemma>
 </norm>
@@ -5778,13 +5765,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -5925,6 +5912,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁϥⲁⲙⲁϩⲧⲉ">
 <norm_group norm_group="ⲁϥⲁⲙⲁϩⲧⲉ">
 <orig orig="ⲁ">
@@ -6033,7 +6033,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲙⲧⲟ">
+<orig_group orig_group="ⲙⲡⲙ̇ⲧⲟ">
 <norm_group norm_group="ⲙⲡⲙⲧⲟ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
@@ -6054,11 +6054,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲧⲟ">
+<orig orig="ⲙ̇ⲧⲟ">
 <norm norm="ⲙⲧⲟ">
 <lemma lemma="ⲙⲧⲟ">
 <pos pos="N">
-ⲙⲧⲟ
+ⲙ̇ⲧⲟ
 </pos>
 </lemma>
 </norm>
@@ -6151,13 +6151,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲓϩⲉ">
+<orig_group orig_group="ⲛ̇ⲧⲉⲓϩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲓϩⲉ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -6182,8 +6182,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉ">
-<norm_group norm_group="ϫⲉ">
+<orig_group orig_group="ϫⲉⲡⲛⲟⲩⲧⲉ">
+<norm_group norm_group="ϫⲉⲡⲛⲟⲩⲧⲉ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -6193,24 +6193,7 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
 <entity entity="person">
-<orig_group orig_group="ⲡⲛⲟⲩⲧⲉ">
-<norm_group norm_group="ⲡⲛⲟⲩⲧⲉ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -6231,8 +6214,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲁϥⲧⲟⲩⲛⲉⲥ">
-<norm_group norm_group="ⲛⲧⲁϥⲧⲟⲩⲛⲉⲥ">
+<orig_group orig_group="ⲛⲧⲁϥⲧⲟⲩⲛⲉⲥⲗⲁⲍⲁⲣⲟⲥ">
+<norm_group norm_group="ⲛⲧⲁϥⲧⲟⲩⲛⲉⲥⲗⲁⲍⲁⲣⲟⲥ">
 <orig orig="ⲛⲧ">
 <norm norm="ⲛⲧ">
 <lemma lemma="ⲉⲧⲉⲣⲉ">
@@ -6269,10 +6252,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲗⲁⲍⲁⲣⲟⲥ">
-<norm_group norm_group="ⲗⲁⲍⲁⲣⲟⲥ">
 <entity identity="Lazarus of Bethany" entity="person">
 <orig orig="ⲗⲁⲍⲁⲣⲟⲥ">
 <norm norm="ⲗⲁⲍⲁⲣⲟⲥ">
@@ -6424,7 +6403,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲕⲡⲛⲁ">
+<orig_group orig_group="ⲙⲡⲉⲕⲡⲛ︤ⲁ︥">
 <norm_group norm_group="ⲙⲡⲉⲕⲡⲛⲉⲩⲙⲁ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
@@ -6445,12 +6424,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲛⲁ">
+<orig orig="ⲡⲛ︤ⲁ︥">
 <norm norm="ⲡⲛⲉⲩⲙⲁ">
 <lemma lemma="ⲡⲛⲉⲩⲙⲁ">
 <pos pos="N">
 <lang lang="Greek">
-ⲡⲛⲁ
+ⲡⲛ︤ⲁ︥
 </lang>
 </pos>
 </lemma>
@@ -6628,13 +6607,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲣⲙⲙⲁⲟ">
+<orig_group orig_group="ⲛ̇ⲣⲙⲙⲁⲟ">
 <norm_group norm_group="ⲛⲣⲙⲙⲁⲟ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -6682,13 +6661,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -6793,23 +6772,23 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="2">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="And the boy's spirit immediately returned to him. He got up, sat down, and opened his mouth as all the bystanders listened to him, and he told them where in the house the document lay.">
+<pathsverse_n pathsverse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -6854,7 +6833,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁⲡⲉⲡⲛⲁ">
+<orig_group orig_group="ⲁⲡⲉⲡⲛ︤ⲁ︥">
 <norm_group norm_group="ⲁⲡⲉⲡⲛⲉⲩⲙⲁ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -6875,12 +6854,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲛⲁ">
+<orig orig="ⲡⲛ︤ⲁ︥">
 <norm norm="ⲡⲛⲉⲩⲙⲁ">
 <lemma lemma="ⲡⲛⲉⲩⲙⲁ">
 <pos pos="N">
 <lang lang="Greek">
-ⲡⲛⲁ
+ⲡⲛ︤ⲁ︥
 </lang>
 </pos>
 </lemma>
@@ -7107,13 +7086,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -7371,23 +7350,23 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="And his parents asked him about other things they were unaware of, and he addressed everything they asked him about. And like this, he immediately lay down.">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7600,6 +7579,19 @@
 </orig_group>
 </entity>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁϥⲁⲡⲟⲗⲟⲅⲓⲍⲉ">
 <norm_group norm_group="ⲁϥⲁⲡⲟⲗⲟⲅⲓⲍⲉ">
 <orig orig="ⲁ">
@@ -7766,6 +7758,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7779,13 +7784,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲓϩⲉ">
+<orig_group orig_group="ⲛ̇ⲧⲉⲓϩⲉ">
 <norm_group norm_group="ⲛⲧⲉⲓϩⲉ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -7810,7 +7815,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥⲛⲕⲟⲧⲕ">
+<orig_group orig_group="ⲁϥⲛ̇ⲕⲟⲧⲕ̇">
 <norm_group norm_group="ⲁϥⲛⲕⲟⲧⲕ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -7830,11 +7835,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛⲕⲟⲧⲕ">
+<orig orig="ⲛ̇ⲕⲟⲧⲕ̇">
 <norm norm="ⲛⲕⲟⲧⲕ">
 <lemma lemma="ⲛⲕⲟⲧⲕ">
 <pos pos="V">
-ⲛⲕⲟⲧⲕ
+ⲛ̇ⲕⲟⲧⲕ̇
 </pos>
 </lemma>
 </norm>
@@ -7872,23 +7877,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="4">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="When the people of Lycia saw this miraculous thing that happened through the saints, they glorified God, who alone performs these miracles.">
+<pathsverse_n pathsverse_n="4">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -8035,17 +8040,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϣⲡⲏⲣⲉ">
-<norm_group norm_group="ⲛϣⲡⲏⲣⲉ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
+<orig_group orig_group="ϣⲡⲏⲣⲉ">
+<norm_group norm_group="ϣⲡⲏⲣⲉ">
 <entity entity="event">
 <orig orig="ϣⲡⲏⲣⲉ">
 <norm norm="ϣⲡⲏⲣⲉ">
@@ -8300,13 +8296,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -8314,14 +8310,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 <p_n p_n="12">
 <chapter_n chapter_n="12">
-<translation translation="...">
-<verse_n verse_n="1">
+<translation_old translation_old="When their fame spread throughout that region, the entire crowd brought to them their sick with every disease, to have them pray for them and heal them, and they paid them great honors. When they were distressed by the majority of the crowd who pestered them and by the praise they were given, which they didn't consider themselves worthy of due to their great humility, they finally decided to flee in secret and depart from that district.">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲥⲟⲉⲓⲧ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲥⲟⲉⲓⲧ">
@@ -8463,6 +8459,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲛⲉⲣⲉⲡⲙⲏⲏϣⲉ">
 <norm_group norm_group="ⲛⲉⲣⲉⲡⲙⲏⲏϣⲉ">
 <orig orig="ⲛⲉⲣⲉ">
@@ -8751,6 +8760,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -8849,7 +8871,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲁⲉⲓⲟ">
+<orig_group orig_group="ⲛⲧⲁⲉⲓ̈ⲟ">
 <norm_group norm_group="ⲛⲧⲁⲉⲓⲟ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -8860,11 +8882,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲁⲉⲓⲟ">
+<orig orig="ⲧⲁⲉⲓ̈ⲟ">
 <norm norm="ⲧⲁⲉⲓⲟ">
 <lemma lemma="ⲧⲁⲉⲓⲟ">
 <pos pos="N">
-ⲧⲁⲉⲓⲟ
+ⲧⲁⲉⲓ̈ⲟ
 </pos>
 </lemma>
 </norm>
@@ -8872,20 +8894,7 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲧⲉⲣⲟⲩϩⲟϫϩϫ">
+<orig_group orig_group="ⲛⲧⲉⲣⲟⲩϩⲟϫϩϫ̇">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩϩⲟϫϩϫ">
 <orig orig="ⲛⲧⲉⲣ">
 <norm norm="ⲛⲧⲉⲣ">
@@ -8907,24 +8916,24 @@
 </orig>
 </lb_n>
 <lb_n lb_n="4">
-<orig orig="ϩⲟϫϩϫ">
+<orig orig="ϩⲟϫϩϫ̇">
 <norm norm="ϩⲟϫϩϫ">
 <lemma lemma="ϩⲟϫϩϫ">
 <pos pos="V">
-ϩⲟϫϩϫ
+ϩⲟϫϩϫ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓⲧⲙⲡⲉϩⲟⲩⲟ">
+<orig_group orig_group="ϩⲓ̈ⲧⲙⲡⲉϩⲟⲩⲟ">
 <norm_group norm_group="ϩⲓⲧⲙⲡⲉϩⲟⲩⲟ">
-<orig orig="ϩⲓⲧⲙ">
+<orig orig="ϩⲓ̈ⲧⲙ">
 <norm norm="ϩⲓⲧⲙ">
 <lemma lemma="ϩⲓⲧⲛ">
 <pos pos="PREP">
-ϩⲓⲧⲙ
+ϩⲓ̈ⲧⲙ
 </pos>
 </lemma>
 </norm>
@@ -9138,13 +9147,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -9271,7 +9280,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲑⲃⲃⲓⲟ">
+<orig_group orig_group="ⲛⲑⲃ̇ⲃⲓⲟ">
 <norm_group norm_group="ⲛⲑⲃⲃⲓⲟ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -9282,11 +9291,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲑⲃⲃⲓⲟ">
+<orig orig="ⲑⲃ̇ⲃⲓⲟ">
 <norm norm="ⲑⲃⲃⲓⲟ">
 <lemma lemma="ⲑⲃⲃⲓⲟ">
 <pos pos="N">
-ⲑⲃⲃⲓⲟ
+ⲑⲃ̇ⲃⲓⲟ
 </pos>
 </lemma>
 </norm>
@@ -9294,13 +9303,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -9520,23 +9529,23 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="2">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="When those residing in the surrounding area found out, they remained on the lookout for them, as they didn't want to be deprived of their blessing and their proximity to them.">
+<pathsverse_n pathsverse_n="2">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲉⲓⲙⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲉⲓⲙⲉ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -9583,13 +9592,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϭⲓⲛⲉⲧⲟⲩⲏϩ">
+<orig_group orig_group="ⲛ̇ϭⲓⲛⲉⲧⲟⲩⲏϩ">
 <norm_group norm_group="ⲛϭⲓⲛⲉⲧⲟⲩⲏϩ">
-<orig orig="ⲛϭⲓ">
+<orig orig="ⲛ̇ϭⲓ">
 <norm norm="ⲛϭⲓ">
 <lemma lemma="ⲛϭⲓ">
 <pos pos="PTC">
-ⲛϭⲓ
+ⲛ̇ϭⲓ
 </pos>
 </lemma>
 </norm>
@@ -9744,6 +9753,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ϩⲱⲥ">
 <norm_group norm_group="ϩⲱⲥ">
 <orig orig="ϩⲱⲥ">
@@ -9872,6 +9894,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲙⲛⲧⲉⲩϭⲓⲛⲟⲩⲱϩ">
 <norm_group norm_group="ⲙⲛⲧⲉⲩϭⲓⲛⲟⲩⲱϩ">
 <orig orig="ⲙⲛ">
@@ -9908,7 +9943,7 @@
 <norm_group norm_group="ϩⲁⲧⲏⲩ">
 <orig orig="ϩⲁⲧⲏ">
 <norm norm="ϩⲁⲧⲏ">
-<lemma lemma="ϩⲁⲧⲏ">
+<lemma lemma="ϩⲁϩⲧⲛ">
 <pos pos="PREP">
 ϩⲁⲧⲏ
 </pos>
@@ -9927,23 +9962,23 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="Indeed, they were the pride of that entire region, due to the quantity of the miracles happening through them.">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲛⲉⲩϣⲟⲟⲡ">
 <norm_group norm_group="ⲛⲉⲩϣⲟⲟⲡ">
 <orig orig="ⲛⲉ">
@@ -10048,7 +10083,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲧⲏⲣⲥ">
+<orig_group orig_group="ⲧⲏⲣⲥ̇">
 <norm_group norm_group="ⲧⲏⲣⲥ">
 <orig orig="ⲧⲏⲣ">
 <norm norm="ⲧⲏⲣ">
@@ -10059,11 +10094,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥ">
+<orig orig="ⲥ̇">
 <norm norm="ⲥ">
 <lemma lemma="ⲛⲧⲟⲥ">
 <pos pos="PPERO">
-ⲥ
+ⲥ̇
 </pos>
 </lemma>
 </norm>
@@ -10093,6 +10128,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲉⲧⲃⲉⲧⲁϣⲏ">
 <norm_group norm_group="ⲉⲧⲃⲉⲧⲁϣⲏ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -10196,7 +10244,7 @@
 <norm_group norm_group="ϩⲓⲧⲟⲟⲧⲟⲩ">
 <orig orig="ϩⲓⲧⲟⲟⲧ">
 <norm norm="ϩⲓⲧⲟⲟⲧ">
-<lemma lemma="ϩⲓⲧⲟⲟⲧ">
+<lemma lemma="ϩⲓⲧⲛ">
 <pos pos="PREP">
 ϩⲓⲧⲟⲟⲧ
 </pos>
@@ -10214,28 +10262,15 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 <p_n p_n="13">
 <chapter_n chapter_n="13">
-<translation translation="...">
-<verse_n verse_n="1">
+<translation_old translation_old="The blessed Lucius then took his disciple aside, and said to him, “We won't be able to continue like this, putting up with people's empty praise, nor is it good for our souls. That said, my son, obey me, and arise secretly, and go to Alexandria—">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲧⲟⲧⲉ">
 <norm_group norm_group="ⲧⲟⲧⲉ">
@@ -10359,13 +10394,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲁⲟⲩⲥⲁ">
+<orig_group orig_group="ⲛ̇ⲥⲁⲟⲩⲥⲁ">
 <norm_group norm_group="ⲛⲥⲁⲟⲩⲥⲁ">
-<orig orig="ⲛⲥⲁ">
+<orig orig="ⲛ̇ⲥⲁ">
 <norm norm="ⲛⲥⲁ">
 <lemma lemma="ⲛⲥⲁ">
 <pos pos="PREP">
-ⲛⲥⲁ
+ⲛ̇ⲥⲁ
 </pos>
 </lemma>
 </norm>
@@ -10439,8 +10474,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉ">
-<norm_group norm_group="ϫⲉ">
+<orig_group orig_group="ϫⲉⲛ̇ⲧⲛ̇ⲛⲁϣϭⲱ">
+<norm_group norm_group="ϫⲉⲛⲧⲛⲛⲁϣϭⲱ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -10450,37 +10485,20 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲧⲛⲛⲁϣϭⲱ">
-<norm_group norm_group="ⲛⲧⲛⲛⲁϣϭⲱ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="NEG">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲛ">
+<orig orig="ⲧⲛ̇">
 <norm norm="ⲧⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERS">
-ⲧⲛ
+ⲧⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -10552,6 +10570,19 @@
 <lemma lemma="ϩⲉ">
 <pos pos="N">
 ϩⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
 </pos>
 </lemma>
 </norm>
@@ -10643,8 +10674,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲡⲱⲙⲉ">
-<norm_group norm_group="ⲛⲛⲡⲣⲱⲙⲉ">
+<orig_group orig_group="ⲛⲛ̇ⲣⲱⲙⲉ">
+<norm_group norm_group="ⲛⲛⲣⲱⲙⲉ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -10655,27 +10686,40 @@
 </norm>
 </orig>
 <entity entity="person">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 </lb_n>
 <lb_n lb_n="3">
-<orig orig="ⲡⲱⲙⲉ">
-<norm norm="ⲡⲣⲱⲙⲉ">
-<lemma lemma="ⲡⲣⲱⲙⲉ">
+<orig orig="ⲣⲱⲙⲉ">
+<norm norm="ⲣⲱⲙⲉ">
+<lemma lemma="ⲣⲱⲙⲉ">
 <pos pos="N">
-ⲡⲱⲙⲉ
+ⲣⲱⲙⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲟⲩⲇⲉ">
@@ -10698,7 +10742,7 @@
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
-<pos pos="PREP">
+<pos pos="NEG">
 ⲛ
 </pos>
 </lemma>
@@ -10753,8 +10797,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲉⲛⲯⲩⲭⲏ">
-<norm_group norm_group="ⲛⲛⲉⲛⲯⲩⲭⲏ">
+<orig_group orig_group="ⲛⲛ̇ⲯⲩⲭⲏ">
+<norm_group norm_group="ⲛⲛⲯⲩⲭⲏ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -10765,11 +10809,11 @@
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ⲛⲉⲛ">
-<norm norm="ⲛⲉⲛ">
-<lemma lemma="ⲡⲉⲛ">
-<pos pos="PPOS">
-ⲛⲉⲛ
+<orig orig="ⲛ̇">
+<norm norm="ⲛ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -10788,13 +10832,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -10840,13 +10884,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲥⲱⲧⲙ">
+<orig_group orig_group="ⲥⲱⲧⲙ̇">
 <norm_group norm_group="ⲥⲱⲧⲙ">
-<orig orig="ⲥⲱⲧⲙ">
+<orig orig="ⲥⲱⲧⲙ̇">
 <norm norm="ⲥⲱⲧⲙ">
 <lemma lemma="ⲥⲱⲧⲙ">
 <pos pos="V">
-ⲥⲱⲧⲙ
+ⲥⲱⲧⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -10878,13 +10922,26 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅⲧⲱⲟⲩⲛ">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛ̇ⲅⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲛⲅⲧⲱⲟⲩⲛ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛⲧⲉ">
 <pos pos="ACONJ">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -10942,13 +10999,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅⲃⲱⲕ">
+<orig_group orig_group="ⲛ̇ⲅⲃⲱⲕ">
 <norm_group norm_group="ⲛⲅⲃⲱⲕ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛⲧⲉ">
 <pos pos="ACONJ">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -11001,24 +11058,24 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="˽">
-<norm_group norm_group="˽">
-<orig orig="˽">
-<norm norm="˽">
-<lemma lemma="˽">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-˽
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="2">
-<orig_group orig_group="ϯⲥⲱⲧⲙ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="I hear of a monastery to the west of that city called Enaton, wherein there's great tranquility, by God—and seek out a Corinthian whose name is Gaius, who is the cenobiarch of his own cenoby that he built there, and remain inside with him.">
+<pathsverse_n pathsverse_n="2">
+<orig_group orig_group="ϯⲥⲱⲧⲙ̄">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
 <norm norm="ϯ">
@@ -11029,11 +11086,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲱⲧⲙ">
+<orig orig="ⲥⲱⲧⲙ̄">
 <norm norm="ⲥⲱⲧⲙ">
 <lemma lemma="ⲥⲱⲧⲙ">
 <pos pos="V">
-ⲥⲱⲧⲙ
+ⲥⲱⲧⲙ̄
 </pos>
 </lemma>
 </norm>
@@ -11172,7 +11229,7 @@
 </placeName_type>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲙⲙⲁⲩ">
+<orig_group orig_group="ⲉⲧⲙ̄ⲙⲁⲩ">
 <norm_group norm_group="ⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
@@ -11183,11 +11240,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲙⲁⲩ">
+<orig orig="ⲙ̄ⲙⲁⲩ">
 <norm norm="ⲙⲙⲁⲩ">
 <lemma lemma="ⲙⲙⲁⲩ">
 <pos pos="ADV">
-ⲙⲙⲁⲩ
+ⲙ̄ⲙⲁⲩ
 </pos>
 </lemma>
 </norm>
@@ -11351,22 +11408,22 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲛϩⲏⲧϥ">
+<orig_group orig_group="ⲛ̇ϩⲏⲧϥ̇">
 <norm_group norm_group="ⲛϩⲏⲧϥ">
-<orig orig="ⲛϩⲏⲧ">
+<orig orig="ⲛ̇ϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ⲛϩⲏⲧ
+ⲛ̇ϩⲏⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -11408,22 +11465,35 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="˽ⲛⲅϣⲓⲛⲉ">
-<norm_group norm_group="˽ⲛⲅϣⲓⲛⲉ">
-<orig orig="˽ⲛ">
-<norm norm="˽ⲛ">
-<lemma lemma="˽ⲛ">
-<pos pos="ANEGAOR">
-˽ⲛ
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅ">
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲅ̇ϣⲓⲛⲉ">
+<norm_group norm_group="ⲛⲅϣⲓⲛⲉ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="ANEGAOR">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲅ̇">
 <norm norm="ⲅ">
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERS">
-ⲅ
+ⲅ̇
 </pos>
 </lemma>
 </norm>
@@ -11439,7 +11509,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲁⲟⲩⲣⲙⲕⲟⲣⲓⲛⲑⲟⲥ">
+<orig_group orig_group="ⲛⲥⲁⲟⲩⲣⲙ̇ⲕⲟⲣⲓⲛⲑⲟⲥ">
 <norm_group norm_group="ⲛⲥⲁⲟⲩⲣⲙⲕⲟⲣⲓⲛⲑⲟⲥ">
 <persName_type persName_type="monk">
 <orig orig="ⲛⲥⲁ">
@@ -11461,12 +11531,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲙⲕⲟⲣⲓⲛⲑⲟⲥ">
+<orig orig="ⲣⲙ̇ⲕⲟⲣⲓⲛⲑⲟⲥ">
 <norm norm="ⲣⲙⲕⲟⲣⲓⲛⲑⲟⲥ">
 <lemma lemma="ⲣⲙⲕⲟⲣⲓⲛⲑⲟⲥ">
 <pos pos="N">
 <morph morph="ⲣⲙ">
-ⲣⲙ
+ⲣⲙ̇
 </morph>
 <lang lang="Greek">
 <morph morph="ⲕⲟⲣⲓⲛⲑⲟⲥ">
@@ -11485,8 +11555,8 @@
 <norm_group norm_group="ⲉⲡⲉϥⲣⲁⲛ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -11595,7 +11665,9 @@
 <norm norm="ⲕⲟⲛⲟⲃⲓⲁⲣⲭⲏⲥ">
 <lemma lemma="ⲕⲟⲛⲟⲃⲓⲁⲣⲭⲏⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲕⲟⲛⲟⲃⲓⲁⲣⲭⲏⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -11628,11 +11700,13 @@
 <norm norm="ⲕⲟⲓⲛⲟⲃⲓⲟⲛ">
 <lemma lemma="ⲕⲟⲓⲛⲟⲃⲓⲟⲛ">
 <pos pos="N">
+<lang lang="Greek">
 <placeName_type placeName_type="monastery">
 <placeName_ref placeName_ref="pleiades:727070">
 ⲕⲟⲛⲟⲃⲓⲟⲛ
 </placeName_ref>
 </placeName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -11661,6 +11735,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <orig orig="ⲡⲁⲓ">
@@ -11674,7 +11761,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲁϥⲕⲟⲧϥ">
+<orig_group orig_group="ⲛⲧⲁϥⲕⲟⲧϥ̇">
 <norm_group norm_group="ⲛⲧⲁϥⲕⲟⲧϥ">
 <orig orig="ⲛⲧ">
 <norm norm="ⲛⲧ">
@@ -11715,11 +11802,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -11782,20 +11869,20 @@
 </orig_group>
 </entity>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅϭⲱ">
+<orig_group orig_group="ⲛⲅ̇ϭⲱ">
 <norm_group norm_group="ⲛⲅϭⲱ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -11806,11 +11893,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅ">
+<orig orig="ⲅ̇">
 <norm norm="ⲅ">
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERS">
-ⲅ
+ⲅ̇
 </pos>
 </lemma>
 </norm>
@@ -11861,23 +11948,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="And I trust in the Lord God, our Savior, that wherever you are, he will not deprive me of physically being with you.">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12106,22 +12193,31 @@
 </orig>
 <orig orig="ϩⲟⲩⲣⲱⲱⲧ">
 <norm norm="ϩⲟⲩⲣⲱⲱⲧ">
-<lemma lemma="ϩⲟⲩⲣⲱⲱⲧ">
+<lemma lemma="ϩⲟⲩⲣⲉ-">
 <pos pos="V">
-ϩⲟⲩⲣⲱⲱⲧ
+ϩⲟⲩⲣⲱⲱ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm norm="ⲧ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERO">
+ⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁⲛ">
+<orig_group orig_group="ⲁ⳯">
 <norm_group norm_group="ⲁⲛ">
-<orig orig="ⲁⲛ">
+<orig orig="ⲁ⳯">
 <norm norm="ⲁⲛ">
 <lemma lemma="ⲁⲛ">
 <pos pos="NEG">
-ⲁⲛ
+ⲁ⳯
 </pos>
 </lemma>
 </norm>
@@ -12225,23 +12321,23 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="4">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="And, even if I'm away from you for some time, I trust in the Lord that I'll surely come to you, so that we may together complete our trajectory in whatever place the Lord has us destined for, according to his desire.">
+<pathsverse_n pathsverse_n="4">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12318,7 +12414,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲓⲙⲡⲉⲕⲃⲟⲗ">
+<orig_group orig_group="ⲉⲓⲙ̇ⲡⲉⲕⲃⲟⲗ">
 <norm_group norm_group="ⲉⲓⲙⲡⲉⲕⲃⲟⲗ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -12338,11 +12434,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙ">
+<orig orig="ⲙ̇">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙ
+ⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -12367,6 +12463,19 @@
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϯⲡⲓⲥⲧⲉⲩⲉ">
@@ -12541,13 +12650,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲛⲇⲣⲟⲙⲟⲥ">
+<orig_group orig_group="ⲙ̇ⲡⲉⲛⲇⲣⲟⲙⲟⲥ">
 <norm_group norm_group="ⲙⲡⲉⲛⲇⲣⲟⲙⲟⲥ">
-<orig orig="ⲙ">
+<orig orig="ⲙ̇">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙ
+ⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -12763,23 +12872,23 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="5">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="Wherever you happen to be, my son, flee people's empty praise, and go to the martyr's shrine of Saint Mena, and pray first. Then, go to Enaton, and reside in the monastery of Apa Gaius.”">
+<pathsverse_n pathsverse_n="5">
 <orig_group orig_group="ⲉⲕϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲕϣⲟⲟⲡ">
 <orig orig="ⲉ">
@@ -12915,13 +13024,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲟⲟⲩ">
+<orig_group orig_group="ⲙ̇ⲡⲉⲟⲟⲩ">
 <norm_group norm_group="ⲙⲡⲉⲟⲟⲩ">
-<orig orig="ⲙ">
+<orig orig="ⲙ̇">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙ
+ⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -12969,7 +13078,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲣⲱⲙⲉ">
+<orig_group orig_group="ⲛⲛ̇ⲣⲱⲙⲉ">
 <norm_group norm_group="ⲛⲛⲣⲱⲙⲉ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -12981,11 +13090,11 @@
 </norm>
 </orig>
 <entity entity="person">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -13003,6 +13112,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -13031,7 +13153,7 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="14">
-<orig_group orig_group="ⲉⲡⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
+<orig_group orig_group="ⲉⲡⲙⲁⲣⲧⲏⲣⲓⲟ⳯">
 <norm_group norm_group="ⲉⲡⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -13054,11 +13176,13 @@
 </orig>
 <placeName_type placeName_type="martyr_shrine">
 <placeName_ref placeName_ref="pleiades:727105">
-<orig orig="ⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
+<orig orig="ⲙⲁⲣⲧⲏⲣⲓⲟ⳯">
 <norm norm="ⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
 <lemma lemma="ⲙⲁⲣⲧⲏⲣⲓⲟⲛ">
 <pos pos="N">
-ⲙⲁⲣⲧⲏⲣⲓⲟⲛ
+<lang lang="Greek">
+ⲙⲁⲣⲧⲏⲣⲓⲟ⳯
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -13101,16 +13225,28 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲙⲏⲛⲁⲛⲅϣⲗⲏⲗ">
-<norm_group norm_group="ⲙⲏⲛⲁⲛⲅϣⲗⲏⲗ">
-<orig orig="ⲙⲏⲛⲁⲛ">
-<norm norm="ⲙⲏⲛⲁⲛ">
-<lemma lemma="ⲙⲏⲛⲁⲛ">
-<pos pos="ANEGAOR">
+<orig_group orig_group="ⲙⲏⲛⲁ">
+<norm_group norm_group="ⲙⲏⲛⲁ">
+<orig orig="ⲙⲏⲛⲁ">
+<norm norm="ⲙⲏⲛⲁ">
+<lemma lemma="ⲙⲏⲛⲁ">
+<pos pos="NPROP">
 ⲙⲏⲛⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 </placeName_ref>
 </placeName_type>
-ⲛ
+<orig_group orig_group="ⲛ̇ⲅϣⲗⲏⲗ">
+<norm_group norm_group="ⲛⲅϣⲗⲏⲗ">
+<orig orig="ⲛ̇">
+<norm norm="ⲛ">
+<lemma lemma="ⲛⲧⲉ">
+<pos pos="ACONJ">
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -13135,22 +13271,22 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϣⲟⲣⲡ">
+<orig_group orig_group="ⲛ̇ϣⲟⲣⲡ̇">
 <norm_group norm_group="ⲛϣⲟⲣⲡ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲟⲣⲡ">
+<orig orig="ϣⲟⲣⲡ̇">
 <norm norm="ϣⲟⲣⲡ">
 <lemma lemma="ϣⲟⲣⲡ">
 <pos pos="N">
-ϣⲟⲣⲡ
+ϣⲟⲣⲡ̇
 </pos>
 </lemma>
 </norm>
@@ -13172,7 +13308,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅⲃⲱⲕ">
+<orig_group orig_group="ⲛⲅ̇ⲃⲱⲕ">
 <norm_group norm_group="ⲛⲅⲃⲱⲕ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -13183,11 +13319,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅ">
+<orig orig="ⲅ̇">
 <norm norm="ⲅ">
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERS">
-ⲅ
+ⲅ̇
 </pos>
 </lemma>
 </norm>
@@ -13228,11 +13364,13 @@
 <norm norm="ϩⲉⲛⲁⲧⲟⲛ">
 <lemma lemma="ϩⲉⲛⲁⲧⲟⲛ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <placeName_type placeName_type="monastery">
 <placeName_ref placeName_ref="pleiades:727070">
 ϩⲉⲛⲁⲧⲟⲛ
 </placeName_ref>
 </placeName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -13242,7 +13380,7 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="15">
-<orig_group orig_group="ⲛⲅϣⲱⲡⲉ">
+<orig_group orig_group="ⲛⲅ̇ϣⲱⲡⲉ">
 <norm_group norm_group="ⲛⲅϣⲱⲡⲉ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -13253,11 +13391,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅ">
+<orig orig="ⲅ̇">
 <norm norm="ⲅ">
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERS">
-ⲅ
+ⲅ̇
 </pos>
 </lemma>
 </norm>
@@ -13273,7 +13411,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
+<orig_group orig_group="ϩⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟ⳯">
 <norm_group norm_group="ϩⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <orig orig="ϩⲙ">
 <norm norm="ϩⲙ">
@@ -13295,12 +13433,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
+<orig orig="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟ⳯">
 <norm norm="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <lemma lemma="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <pos pos="N">
 <lang lang="Greek">
-ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ
+ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟ⳯
 </lang>
 </pos>
 </lemma>
@@ -13353,13 +13491,13 @@
 </persName_type>
 </placeName_type>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -13367,14 +13505,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 <p_n p_n="14">
 <chapter_n chapter_n="14">
-<translation translation="...">
-<verse_n verse_n="1">
+<translation_old translation_old="When he said these things, they prayed and embraced one another, and like this he left him.">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -13471,6 +13609,19 @@
 <lemma lemma="ϣⲗⲏⲗ">
 <pos pos="V">
 ϣⲗⲏⲗ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
 </pos>
 </lemma>
 </norm>
@@ -13631,13 +13782,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓⲧⲟⲟⲧϥ">
+<orig_group orig_group="ϩⲓ̈ⲧⲟⲟⲧϥ">
 <norm_group norm_group="ϩⲓⲧⲟⲟⲧϥ">
-<orig orig="ϩⲓⲧⲟⲟⲧ">
+<orig orig="ϩⲓ̈ⲧⲟⲟⲧ">
 <norm norm="ϩⲓⲧⲟⲟⲧ">
 <lemma lemma="ϩⲓⲧⲟⲟⲧ">
 <pos pos="PREP">
-ϩⲓⲧⲟⲟⲧ
+ϩⲓ̈ⲧⲟⲟⲧ
 </pos>
 </lemma>
 </norm>
@@ -13653,23 +13804,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="2">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="When the blessed Apa Longinus arrived in Alexandria, he looked for the monastery of Apa Gaius in Enaton, and some devout men showed it to him.">
+<pathsverse_n pathsverse_n="2">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -13807,6 +13958,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁϥϣⲓⲛⲉ">
 <norm_group norm_group="ⲁϥϣⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -13863,11 +14027,13 @@
 <norm norm="ϩⲉⲛⲁⲧⲟⲛ">
 <lemma lemma="ϩⲉⲛⲁⲧⲟⲛ">
 <pos pos="NPROP">
+<lang lang="Greek">
 <placeName_type placeName_type="monastery">
 <placeName_ref placeName_ref="pleiades:727070">
 ϩⲉⲛⲁⲧⲟⲛ
 </placeName_ref>
 </placeName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -13875,13 +14041,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲁⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
+<orig_group orig_group="ⲛ̇ⲥⲁⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <norm_group norm_group="ⲛⲥⲁⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
-<orig orig="ⲛⲥⲁ">
+<orig orig="ⲛ̇ⲥⲁ">
 <norm norm="ⲛⲥⲁ">
 <lemma lemma="ⲛⲥⲁ">
 <pos pos="PREP">
-ⲛⲥⲁ
+ⲛ̇ⲥⲁ
 </pos>
 </lemma>
 </norm>
@@ -13957,6 +14123,19 @@
 </placeName_ref>
 </placeName_type>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -14034,7 +14213,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϭⲓϩⲉⲛⲣⲱⲙⲉ">
+<orig_group orig_group="ⲛϭⲓϩⲉ⳯ⲣⲱⲙⲉ">
 <norm_group norm_group="ⲛϭⲓϩⲉⲛⲣⲱⲙⲉ">
 <orig orig="ⲛϭⲓ">
 <norm norm="ⲛϭⲓ">
@@ -14045,11 +14224,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲉⲛ">
+<orig orig="ϩⲉ⳯">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ⲟⲩ">
 <pos pos="ART">
-ϩⲉⲛ
+ϩⲉ⳯
 </pos>
 </lemma>
 </norm>
@@ -14081,7 +14260,9 @@
 <norm norm="ⲉⲩⲗⲁⲃⲏⲥ">
 <lemma lemma="ⲉⲩⲗⲁⲃⲏⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲉⲩⲗⲁⲃⲏⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14089,23 +14270,23 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="When he arrived at the monastery, he knocked quietly on the door. When the doorman opened the door, he asked him, “Where are you from, and for what reason have you come here?”">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -14192,7 +14373,7 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥⲕⲱⲗϩ">
+<orig_group orig_group="ⲁϥⲕⲱⲗϩ̇">
 <norm_group norm_group="ⲁϥⲕⲱⲗϩ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -14212,11 +14393,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲕⲱⲗϩ">
+<orig orig="ⲕⲱⲗϩ̇">
 <norm norm="ⲕⲱⲗϩ">
 <lemma lemma="ⲕⲱⲗϩ">
 <pos pos="V">
-ⲕⲱⲗϩ
+ⲕⲱⲗϩ̇
 </pos>
 </lemma>
 </norm>
@@ -14279,7 +14460,7 @@
 </orig>
 <orig orig="ⲥϭⲣⲉϩⲧ">
 <norm norm="ⲥϭⲣⲉϩⲧ">
-<lemma lemma="ⲥϭⲣⲉϩⲧ">
+<lemma lemma="ⲥϭⲣⲁϩⲧ">
 <pos pos="N">
 ⲥϭⲣⲉϩⲧ
 </pos>
@@ -14289,13 +14470,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -14337,13 +14518,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲟⲩⲱⲛ">
+<orig_group orig_group="ⲟⲩⲱ⳯">
 <norm_group norm_group="ⲟⲩⲱⲛ">
-<orig orig="ⲟⲩⲱⲛ">
+<orig orig="ⲟⲩⲱ⳯">
 <norm norm="ⲟⲩⲱⲛ">
 <lemma lemma="ⲟⲩⲱⲛ">
 <pos pos="V">
-ⲟⲩⲱⲛ
+ⲟⲩⲱ⳯
 </pos>
 </lemma>
 </norm>
@@ -14381,6 +14562,19 @@
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁϥϫⲛⲟⲩϥ">
@@ -14425,8 +14619,8 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="5">
-<orig_group orig_group="ϫⲉ">
-<norm_group norm_group="ϫⲉ">
+<orig_group orig_group="ϫⲉⲛⲧⲅⲟⲩⲉⲃⲟⲗ">
+<norm_group norm_group="ϫⲉⲛⲧⲕⲟⲩⲉⲃⲟⲗ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -14436,23 +14630,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲧⲅ">
-<norm_group norm_group="ⲛⲧⲕ">
 <orig orig="ⲛⲧⲅ">
 <norm norm="ⲛⲧⲕ">
 <lemma lemma="ⲛⲧⲟⲕ">
@@ -14462,10 +14639,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲟⲩⲉⲃⲟⲗ">
-<norm_group norm_group="ⲟⲩⲉⲃⲟⲗ">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -14486,13 +14659,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲧⲱⲛ">
+<orig_group orig_group="ⲧⲱ⳯">
 <norm_group norm_group="ⲧⲱⲛ">
-<orig orig="ⲧⲱⲛ">
+<orig orig="ⲧⲱ⳯">
 <norm norm="ⲧⲱⲛ">
 <lemma lemma="ⲧⲱⲛ">
 <pos pos="PINT">
-ⲧⲱⲛ
+ⲧⲱ⳯
 </pos>
 </lemma>
 </norm>
@@ -14613,7 +14786,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲛⲁⲓϯⲁ">
-<norm_group norm_group="ⲛⲁⲓϯⲁ">
+<norm_group norm_group="ⲛⲁⲓⲧⲓⲁ">
 <orig orig="ⲛⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -14624,10 +14797,12 @@
 </norm>
 </orig>
 <orig orig="ⲁⲓϯⲁ">
-<norm norm="ⲁⲓϯⲁ">
-<lemma lemma="ⲁⲓϯⲁ">
+<norm norm="ⲁⲓⲧⲓⲁ">
+<lemma lemma="ⲁⲓⲧⲓⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲁⲓϯⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14635,24 +14810,11 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=";">
-<norm_group norm_group=";">
-<orig orig=";">
-<norm norm=";">
-<lemma lemma=";">
-<pos pos="PUNCT">
-;
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="4">
-<orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="The truly humble Apa Longinus replied and said,">
+<pathsverse_n pathsverse_n="4">
+<orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ̇">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -14672,11 +14834,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩⲱϣⲃ">
+<orig orig="ⲟⲩⲱϣⲃ̇">
 <norm norm="ⲟⲩⲱϣⲃ">
 <lemma lemma="ⲟⲩⲱϣⲃ">
 <pos pos="V">
-ⲟⲩⲱϣⲃ
+ⲟⲩⲱϣⲃ̇
 </pos>
 </lemma>
 </norm>
@@ -14685,13 +14847,13 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="6">
-<orig_group orig_group="ⲛϭⲓⲡⲉⲧⲑⲃⲃⲓⲏⲩ">
+<orig_group orig_group="ⲛ̇ϭⲓⲡⲉⲧⲑⲃⲃⲓⲏⲩ">
 <norm_group norm_group="ⲛϭⲓⲡⲉⲧⲑⲃⲃⲓⲏⲩ">
-<orig orig="ⲛϭⲓ">
+<orig orig="ⲛ̇ϭⲓ">
 <norm norm="ⲛϭⲓ">
 <lemma lemma="ⲛϭⲓ">
 <pos pos="PTC">
-ⲛϭⲓ
+ⲛ̇ϭⲓ
 </pos>
 </lemma>
 </norm>
@@ -14823,39 +14985,22 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="5">
-<orig_group orig_group="ⲁⲛⲅ">
-<norm_group norm_group="ⲁⲛⲅ">
-<orig orig="ⲁⲛⲅ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="“I'm from the country of Lycia, and I've come here to become a monk.”">
+<pathsverse_n pathsverse_n="5">
+<orig_group orig_group="ⲁⲛⲅ̇ⲟⲩⲉⲃⲟⲗ">
+<norm_group norm_group="ⲁⲛⲅⲟⲩⲉⲃⲟⲗ">
+<orig orig="ⲁⲛⲅ̇">
 <norm norm="ⲁⲛⲅ">
 <lemma lemma="ⲁⲛⲟⲕ">
 <pos pos="PPERI">
-ⲁⲛⲅ
+ⲁⲛⲅ̇
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
 <entity entity="person">
-<orig_group orig_group="ⲟⲩⲉⲃⲟⲗ">
-<norm_group norm_group="ⲟⲩⲉⲃⲟⲗ">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -14951,6 +15096,19 @@
 </orig_group>
 </entity>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -15037,7 +15195,7 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<orig_group orig_group="ⲉⲣ̇ⲙⲟⲛⲁⲭⲟⲥ">
 <norm_group norm_group="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -15048,12 +15206,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲙⲟⲛⲁⲭⲟⲥ">
+<orig orig="ⲣ̇ⲙⲟⲛⲁⲭⲟⲥ">
 <norm norm="ⲣⲙⲟⲛⲁⲭⲟⲥ">
 <lemma lemma="ⲣⲙⲟⲛⲁⲭⲟⲥ">
 <pos pos="V">
 <morph morph="ⲣ">
-ⲣ
+ⲣ̇
 </morph>
 <lang lang="Greek">
 <morph morph="ⲙⲟⲛⲁⲭⲟⲥ">
@@ -15079,10 +15237,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="6">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="Indeed, due to his great humility, he couldn't bear to call himself a monk, wearing neither a hood nor a cloak (nor is it customary for foreign monks to wear things like this), but only a kolobion, pallium, and belt: These were what he was wearing when he arrived at the monastery.">
+<pathsverse_n pathsverse_n="6">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <orig orig="ⲟⲩⲇⲉ">
@@ -15113,13 +15271,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉϥⲁⲛⲉⲭⲉ">
+<orig_group orig_group="ⲙ̄ⲡⲉϥⲁⲛⲉⲭⲉ">
 <norm_group norm_group="ⲙⲡⲉϥⲁⲛⲉⲭⲉ">
-<orig orig="ⲙⲡⲉ">
+<orig orig="ⲙ̄ⲡⲉ">
 <norm norm="ⲙⲡⲉ">
 <lemma lemma="ⲙⲡⲉ">
 <pos pos="ANEGPST">
-ⲙⲡⲉ
+ⲙ̄ⲡⲉ
 </pos>
 </lemma>
 </norm>
@@ -15338,13 +15496,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -15365,7 +15523,7 @@
 <entity entity="object">
 <orig orig="ⲕⲗⲁⲃⲧ">
 <norm norm="ⲕⲗⲁⲃⲧ">
-<lemma lemma="ⲕⲗⲁⲃⲧ">
+<lemma lemma="ⲕⲗⲁϥⲧ">
 <pos pos="N">
 <rs_type rs_type="object">
 ⲕⲗⲁⲃⲧ
@@ -15421,9 +15579,11 @@
 <norm norm="ⲁⲛⲁⲃⲟⲗⲟⲥ">
 <lemma lemma="ⲁⲛⲁⲃⲟⲗⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 <rs_type rs_type="object">
 ⲁⲛⲁⲃⲟⲗⲟⲥ
 </rs_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -15560,7 +15720,9 @@
 <norm norm="ⲝⲉⲛⲓⲕⲟⲥ">
 <lemma lemma="ⲝⲉⲛⲓⲕⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲝⲉⲛⲓⲕⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -15647,13 +15809,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -15682,9 +15844,11 @@
 <norm norm="ⲕⲟⲗⲟⲃⲓⲟⲛ">
 <lemma lemma="ⲕⲟⲗⲟⲃⲓⲟⲛ">
 <pos pos="N">
+<lang lang="Greek">
 <rs_type rs_type="object">
 ⲕⲟⲗⲟⲃⲓⲟⲛ
 </rs_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -15708,9 +15872,11 @@
 <norm norm="ⲡⲁⲗⲗⲓⲛ">
 <lemma lemma="ⲡⲁⲗⲗⲓⲛ">
 <pos pos="N">
+<lang lang="Greek">
 <rs_type rs_type="object">
 ⲡⲁⲗⲗⲓⲛ
 </rs_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -15732,7 +15898,7 @@
 <entity entity="object">
 <orig orig="ⲙⲟϫ">
 <norm norm="ⲙⲟϫ">
-<lemma lemma="ⲙⲟϫ">
+<lemma lemma="ⲙⲟϫϩ">
 <pos pos="N">
 <rs_type rs_type="object">
 ⲙⲟϫ
@@ -15759,13 +15925,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -15808,7 +15974,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲉⲧϥⲫⲟⲣⲉⲓ">
+<orig_group orig_group="ⲛⲉⲧϥ̇ⲫⲟⲣⲉⲓ">
 <norm_group norm_group="ⲛⲉⲧϥⲫⲟⲣⲉⲓ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -15828,11 +15994,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERS">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -15983,13 +16149,13 @@
 </orig_group>
 </entity>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -15997,10 +16163,10 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="7">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="Indeed, his hair had grown a bit from the number of days he'd spent along the road he'd been travelling in the interim.">
+<pathsverse_n pathsverse_n="7">
 <lb_n lb_n="12">
 <orig_group orig_group="ⲛⲉⲁⲡⲉϥⲃⲱ">
 <norm_group norm_group="ⲛⲉⲁⲡⲉϥⲃⲱ">
@@ -16034,7 +16200,7 @@
 </orig>
 <orig orig="ⲃⲱ">
 <norm norm="ⲃⲱ">
-<lemma lemma="ⲃⲱ">
+<lemma lemma="ϥⲱ">
 <pos pos="N">
 ⲃⲱ
 </pos>
@@ -16167,13 +16333,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲛⲧⲁϥⲁⲁⲩ">
+<orig_group orig_group="ⲛ̇ⲧⲁϥⲁⲁⲩ">
 <norm_group norm_group="ⲛⲧⲁϥⲁⲁⲩ">
-<orig orig="ⲛⲧ">
+<orig orig="ⲛ̇ⲧ">
 <norm norm="ⲛⲧ">
 <lemma lemma="ⲉⲧⲉⲣⲉ">
 <pos pos="CREL">
-ⲛⲧ
+ⲛ̇ⲧ
 </pos>
 </lemma>
 </norm>
@@ -16243,7 +16409,9 @@
 <norm norm="ⲇⲓⲁⲥⲧⲏⲙⲁ">
 <lemma lemma="ⲇⲓⲁⲥⲧⲏⲙⲁ">
 <pos pos="N">
+<lang lang="Greek">
 ⲇⲓⲁⲥⲧⲏⲙⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -16252,11 +16420,20 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉϩⲓⲏ">
 <norm_group norm_group="ⲛⲧⲉϩⲓⲏ">
-<orig orig="ⲛⲧⲉ">
-<norm norm="ⲛⲧⲉ">
-<lemma lemma="ⲛⲧⲉ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛⲧⲉ
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧⲉ">
+<norm norm="ⲧⲉ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲧⲉ
 </pos>
 </lemma>
 </norm>
@@ -16314,7 +16491,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲏⲧⲥ">
+<orig_group orig_group="ⲛϩⲏⲧⲥ̇">
 <norm_group norm_group="ⲛϩⲏⲧⲥ">
 <orig orig="ⲛϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
@@ -16325,11 +16502,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥ">
+<orig orig="ⲥ̇">
 <norm norm="ⲥ">
 <lemma lemma="ⲛⲧⲟⲥ">
 <pos pos="PPERO">
-ⲥ
+ⲥ̇
 </pos>
 </lemma>
 </norm>
@@ -16337,23 +16514,23 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="8">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="Because of this, he wasn't immediately recognized as a monk.">
+<pathsverse_n pathsverse_n="8">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -16418,13 +16595,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
+<orig_group orig_group="ⲛ̇ⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -16439,7 +16616,7 @@
 </norm>
 </orig>
 <orig orig="ⲩⲛⲟⲩ">
-<norm norm="ⲩⲛⲟⲩ">
+<norm norm="ⲟⲩⲛⲟⲩ">
 <lemma lemma="ⲟⲩⲛⲟⲩ">
 <pos pos="N">
 ⲩⲛⲟⲩ
@@ -16499,23 +16676,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="9">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="And the doorman said to him, “You won't be able to be a monk here.">
+<pathsverse_n pathsverse_n="9">
 <orig_group orig_group="ⲡⲉⲙⲛⲟⲩⲧ">
 <norm_group norm_group="ⲡⲉⲙⲛⲟⲩⲧ">
 <entity entity="person">
@@ -16614,24 +16791,24 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅⲛⲁϣⲣⲙⲟⲛⲁⲭⲟⲥ">
+<orig_group orig_group="ⲛ̇ⲅⲛⲁϣⲣ̇ⲙⲟⲛⲁⲭⲟⲥ">
 <norm_group norm_group="ⲛⲅⲛⲁϣⲣⲙⲟⲛⲁⲭⲟⲥ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛ">
+<lemma lemma="ⲛ̇">
 <pos pos="NEG">
 ⲛ
 </pos>
@@ -16642,7 +16819,7 @@
 <norm norm="ⲅ">
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERS">
-ⲅ
+ⲅ̇
 </pos>
 </lemma>
 </norm>
@@ -16665,12 +16842,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲙⲟⲛⲁⲭⲟⲥ">
+<orig orig="ⲣ̇ⲙⲟⲛⲁⲭⲟⲥ">
 <norm norm="ⲣⲙⲟⲛⲁⲭⲟⲥ">
 <lemma lemma="ⲣⲙⲟⲛⲁⲭⲟⲥ">
 <pos pos="V">
 <morph morph="ⲣ">
-ⲣ
+ⲣ̇
 </morph>
 <lang lang="Greek">
 <morph morph="ⲙⲟⲛⲁⲭⲟⲥ">
@@ -16696,13 +16873,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲓⲙⲁ">
+<orig_group orig_group="ⲙ̇ⲡⲉⲓⲙⲁ">
 <norm_group norm_group="ⲙⲡⲉⲓⲙⲁ">
-<orig orig="ⲙ">
+<orig orig="ⲙ̇">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙ
+ⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -16731,23 +16908,23 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="10">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="Indeed, even the rule of our psalmody is strict, and how we eat, and how we sleep, as well as the remainder of our tasks, involve much difficulty and exhaustion. There's no comfort in them.">
+<pathsverse_n pathsverse_n="10">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -16779,7 +16956,7 @@
 </norm_group>
 </orig_group>
 <entity entity="abstract">
-<orig_group orig_group="ⲡⲕⲁⲛⲱⲛ">
+<orig_group orig_group="ⲡⲕⲁⲛⲱ⳯">
 <norm_group norm_group="ⲡⲕⲁⲛⲱⲛ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -16790,12 +16967,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲕⲁⲛⲱⲛ">
+<orig orig="ⲕⲁⲛⲱ⳯">
 <norm norm="ⲕⲁⲛⲱⲛ">
 <lemma lemma="ⲕⲁⲛⲱⲛ">
 <pos pos="N">
 <lang lang="Greek">
-ⲕⲁⲛⲱⲛ
+ⲕⲁⲛⲱ⳯
 </lang>
 </pos>
 </lemma>
@@ -16876,6 +17053,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -16889,14 +17079,14 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲧⲛϭⲓⲛⲟⲩⲱⲙ">
+<orig_group orig_group="ⲧⲛ̄ϭⲓⲛⲟⲩⲱⲙ">
 <norm_group norm_group="ⲧⲉⲛϭⲓⲛⲟⲩⲱⲙ">
 <entity entity="object">
-<orig orig="ⲧⲛ">
+<orig orig="ⲧⲛ̄">
 <norm norm="ⲧⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
 <pos pos="PPOS">
-ⲧⲛ
+ⲧⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -16918,7 +17108,7 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲛⲧⲉⲛϭⲓⲛⲛⲕⲟⲧⲕ">
+<orig_group orig_group="ⲙⲛⲧⲉⲛϭⲓⲛⲛ̇ⲕⲟⲧⲕ̇">
 <norm_group norm_group="ⲙⲛⲧⲉⲛϭⲓⲛⲛⲕⲟⲧⲕ">
 <orig orig="ⲙⲛ">
 <norm norm="ⲙⲛ">
@@ -16941,7 +17131,7 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϭⲓⲛⲛⲕⲟⲧⲕ">
+<orig orig="ϭⲓⲛⲛ̇ⲕⲟⲧⲕ̇">
 <norm norm="ϭⲓⲛⲛⲕⲟⲧⲕ">
 <lemma lemma="ϭⲓⲛⲛⲕⲟⲧⲕ">
 <pos pos="N">
@@ -16949,13 +17139,26 @@
 ϭⲓⲛ
 </morph>
 <morph morph="ⲛⲕⲟⲧⲕ">
-ⲛⲕⲟⲧⲕ
+ⲛ̇ⲕⲟⲧⲕ̇
 </morph>
 </pos>
 </lemma>
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲡⲥⲉⲉⲡⲉ">
@@ -17063,7 +17266,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲙⲟⲕϩⲥ">
+<orig_group orig_group="ⲙⲙⲟⲕϩⲥ̇">
 <norm_group norm_group="ⲙⲙⲟⲕϩⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
@@ -17074,11 +17277,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲟⲕϩⲥ">
+<orig orig="ⲙⲟⲕϩⲥ̇">
 <norm norm="ⲙⲟⲕϩⲥ">
 <lemma lemma="ⲙⲟⲕϩⲥ">
 <pos pos="N">
-ⲙⲟⲕϩⲥ
+ⲙⲟⲕϩⲥ̇
 </pos>
 </lemma>
 </norm>
@@ -17086,6 +17289,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲙⲛⲟⲩϩⲓⲥⲉ">
 <norm_group norm_group="ⲙⲛⲟⲩϩⲓⲥⲉ">
 <orig orig="ⲙⲛ">
@@ -17119,28 +17335,15 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
-<pos pos="PUNCT">
-,
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
 </lb_n>
 <lb_n lb_n="17">
-<orig_group orig_group="ⲙⲛⲗⲁⲁⲩ">
+<orig_group orig_group="ⲙⲛ̇ⲗⲁⲁⲩ">
 <norm_group norm_group="ⲙⲛⲗⲁⲁⲩ">
-<orig orig="ⲙⲛ">
+<orig orig="ⲙⲛ̇">
 <norm norm="ⲙⲛ">
 <lemma lemma="ⲙⲛ">
 <pos pos="EXIST">
-ⲙⲛ
+ⲙⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -17157,22 +17360,22 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲟⲗⲥⲗ">
+<orig_group orig_group="ⲛ̇ⲥⲟⲗⲥⲗ̇">
 <norm_group norm_group="ⲛⲥⲟⲗⲥⲗ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲟⲗⲥⲗ">
+<orig orig="ⲥⲟⲗⲥⲗ̇">
 <norm norm="ⲥⲟⲗⲥⲗ">
 <lemma lemma="ⲥⲟⲗⲥⲗ">
 <pos pos="N">
-ⲥⲟⲗⲥⲗ
+ⲥⲟⲗⲥⲗ̇
 </pos>
 </lemma>
 </norm>
@@ -17202,23 +17405,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="11">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="So take some consecrated bread for yourself. Lord be with you.”">
+<pathsverse_n pathsverse_n="11">
 <orig_group orig_group="ϫⲓ">
 <norm_group norm_group="ϫⲓ">
 <orig orig="ϫⲓ">
@@ -17337,19 +17540,6 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
 <entity entity="person">
 <orig_group orig_group="ⲡϫⲟⲉⲓⲥ">
 <norm_group norm_group="ⲡϫⲟⲉⲓⲥ">
@@ -17398,13 +17588,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -17412,14 +17602,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 <p_n p_n="15">
 <chapter_n chapter_n="15">
-<translation translation="...">
-<verse_n verse_n="1">
+<translation_old translation_old="Now he, the noble Apa Longinus, did not object to being told anything, but when he heard the name of the Eucharist,">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
@@ -17450,7 +17640,7 @@
 </norm_group>
 </orig_group>
 <entity entity="person">
-<orig_group orig_group="ⲡⲅⲉⲛⲛⲁⲓⲟⲥ">
+<orig_group orig_group="ⲡⲅⲉⲛⲛⲁⲓ̈ⲟⲥ">
 <norm_group norm_group="ⲡⲅⲉⲛⲛⲁⲓⲟⲥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -17461,12 +17651,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅⲉⲛⲛⲁⲓⲟⲥ">
+<orig orig="ⲅⲉⲛⲛⲁⲓ̈ⲟⲥ">
 <norm norm="ⲅⲉⲛⲛⲁⲓⲟⲥ">
 <lemma lemma="ⲅⲉⲛⲛⲁⲓⲟⲥ">
 <pos pos="N">
 <lang lang="Greek">
-ⲅⲉⲛⲛⲁⲓⲟⲥ
+ⲅⲉⲛⲛⲁⲓ̈ⲟⲥ
 </lang>
 </pos>
 </lemma>
@@ -17508,7 +17698,7 @@
 </entity>
 </entity>
 <orig_group orig_group="ⲙⲡⲉϥⲁⲛϯⲗⲓⲅⲉ">
-<norm_group norm_group="ⲙⲡⲉϥⲁⲛϯⲗⲓⲅⲉ">
+<norm_group norm_group="ⲙⲡⲉϥⲁⲛⲧⲓⲗⲓⲅⲉ">
 <orig orig="ⲙⲡⲉ">
 <norm norm="ⲙⲡⲉ">
 <lemma lemma="ⲙⲡⲉ">
@@ -17528,10 +17718,12 @@
 </norm>
 </orig>
 <orig orig="ⲁⲛϯⲗⲓⲅⲉ">
-<norm norm="ⲁⲛϯⲗⲓⲅⲉ">
-<lemma lemma="ⲁⲛϯⲗⲓⲅⲉ">
+<norm norm="ⲁⲛⲧⲓⲗⲓⲅⲉ">
+<lemma lemma="ⲁⲛⲧⲓⲗⲉⲅⲉ">
 <pos pos="V">
+<lang lang="Greek">
 ⲁⲛϯⲗⲓⲅⲉ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -17635,6 +17827,19 @@
 </entity>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -17650,7 +17855,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
+<orig_group orig_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ̇">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ">
 <orig orig="ⲛⲧⲉⲣⲉ">
 <norm norm="ⲛⲧⲉⲣⲉ">
@@ -17670,11 +17875,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲱⲧⲙ">
+<orig orig="ⲥⲱⲧⲙ̇">
 <norm norm="ⲥⲱⲧⲙ">
 <lemma lemma="ⲥⲱⲧⲙ">
 <pos pos="V">
-ⲥⲱⲧⲙ
+ⲥⲱⲧⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -17751,23 +17956,10 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
-<pos pos="PUNCT">
-,
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="2">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="he took the bread with the blessing,">
+<pathsverse_n pathsverse_n="2">
 <orig_group orig_group="ⲛⲟⲉⲓⲕ">
 <norm_group norm_group="ⲛⲟⲉⲓⲕ">
 <orig orig="ⲛ">
@@ -17883,23 +18075,23 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="and waited at the door for many days, likening himself, in addition, to Anthony the Great, whom—when he'd come to the great anchorite Paul after much exhaustion on the desert road he'd endured—">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
 <norm_group norm_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -17933,13 +18125,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓⲡⲙⲡⲣⲟ">
-<norm_group norm_group="ϩⲓⲡⲙⲡⲣⲟ">
-<orig orig="ϩⲓⲡⲙ">
-<norm norm="ϩⲓⲡⲙ">
-<lemma lemma="ϩⲓⲡⲙ">
+<orig_group orig_group="ϩⲓⲣⲙ̇ⲡⲣⲟ">
+<norm_group norm_group="ϩⲓⲣⲙⲡⲣⲟ">
+<orig orig="ϩⲓⲣⲙ̇">
+<norm norm="ϩⲓⲣⲙ">
+<lemma lemma="ϩⲓⲣⲙ">
 <pos pos="PREP">
-ϩⲓⲡⲙ
+ϩⲓⲣⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -17996,13 +18188,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲟⲟⲩ">
+<orig_group orig_group="ⲛ̇ϩⲟⲟⲩ">
 <norm_group norm_group="ⲛϩⲟⲟⲩ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -18019,7 +18211,7 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲉϥⲧⲛⲧⲱⲛϥ">
+<orig_group orig_group="ⲉϥⲧⲛⲧⲱⲛϥ̇">
 <norm_group norm_group="ⲉϥⲧⲛⲧⲱⲛϥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -18048,11 +18240,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -18151,6 +18343,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="person">
@@ -18246,7 +18451,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲡⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ">
+<orig_group orig_group="ⲡⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ">
 <norm_group norm_group="ⲡⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -18257,15 +18462,15 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ">
+<orig orig="ⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ">
 <norm norm="ⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ">
-<lemma lemma="ⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ">
+<lemma lemma="ⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ">
 <pos pos="N">
 <lang lang="Greek">
 ⲁ
 </lb_n>
 <lb_n lb_n="5">
-ⲛⲁⲭⲱⲣⲓⲧⲏⲥ
+ⲛⲁⲭⲱⲣⲏⲧⲏⲥ
 </lang>
 </pos>
 </lemma>
@@ -18274,6 +18479,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲙⲛⲛⲥⲁⲡⲛⲟϭ">
 <norm_group norm_group="ⲙⲛⲛⲥⲁⲡⲛⲟϭ">
 <orig orig="ⲙⲛⲛⲥⲁ">
@@ -18306,13 +18524,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲓⲥⲉ">
+<orig_group orig_group="ⲛ̇ϩⲓⲥⲉ">
 <norm_group norm_group="ⲛϩⲓⲥⲉ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -18330,11 +18548,20 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉϩⲓⲏ">
 <norm_group norm_group="ⲛⲧⲉϩⲓⲏ">
-<orig orig="ⲛⲧⲉ">
-<norm norm="ⲛⲧⲉ">
-<lemma lemma="ⲛⲧⲉ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛⲧⲉ
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧⲉ">
+<norm norm="ⲧⲉ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲧⲉ
 </pos>
 </lemma>
 </norm>
@@ -18375,9 +18602,11 @@
 </orig>
 <orig orig="ⲏⲣⲏⲙⲟⲥ">
 <norm norm="ⲏⲣⲏⲙⲟⲥ">
-<lemma lemma="ⲏⲣⲏⲙⲟⲥ">
+<lemma lemma="ⲉⲣⲏⲙⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲏⲣⲏⲙⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -18450,13 +18679,13 @@
 </orig_group>
 </entity>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -18464,11 +18693,11 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 <lb_n lb_n="6">
-<translation translation="...">
-<verse_n verse_n="4">
+<translation_old translation_old="was not immediately accepted by that great one.">
+<pathsverse_n pathsverse_n="4">
 <orig_group orig_group="ⲙⲡⲉⲡⲛⲟϭ">
 <norm_group norm_group="ⲙⲡⲉⲡⲛⲟϭ">
 <orig orig="ⲙⲡⲉ">
@@ -18501,7 +18730,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲙⲙⲁⲩ">
+<orig_group orig_group="ⲉⲧⲙ̇ⲙⲁⲩ">
 <norm_group norm_group="ⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
@@ -18512,11 +18741,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲙⲁⲩ">
+<orig orig="ⲙ̇ⲙⲁⲩ">
 <norm norm="ⲙⲙⲁⲩ">
 <lemma lemma="ⲙⲙⲁⲩ">
 <pos pos="ADV">
-ⲙⲙⲁⲩ
+ⲙ̇ⲙⲁⲩ
 </pos>
 </lemma>
 </norm>
@@ -18524,7 +18753,7 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ϣⲟⲡϥ">
+<orig_group orig_group="ϣⲟⲡϥ̇">
 <norm_group norm_group="ϣⲟⲡϥ">
 <orig orig="ϣⲟⲡ">
 <norm norm="ϣⲟⲡ">
@@ -18535,11 +18764,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -18568,13 +18797,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
+<orig_group orig_group="ⲛ̇ⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲩⲛⲟⲩ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -18589,7 +18818,7 @@
 </norm>
 </orig>
 <orig orig="ⲩⲛⲟⲩ">
-<norm norm="ⲩⲛⲟⲩ">
+<norm norm="ⲟⲩⲛⲟⲩ">
 <lemma lemma="ⲟⲩⲛⲟⲩ">
 <pos pos="N">
 ⲩⲛⲟⲩ
@@ -18599,23 +18828,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="5">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="The blessed Anthony, in turn, waited at the entrance, saying, “I've inquired and found, and I trust that they'll open to me.”">
+<pathsverse_n pathsverse_n="5">
 <entity identity="Anthony the Great" entity="person">
 <orig_group orig_group="ⲡⲙⲁⲕⲁⲣⲓⲟⲥ">
 <norm_group norm_group="ⲡⲙⲁⲕⲁⲣⲓⲟⲥ">
@@ -18829,13 +19058,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -18900,6 +19129,19 @@
 <lemma lemma="ϭⲓⲛⲉ">
 <pos pos="V">
 ϭⲓⲛⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
 </pos>
 </lemma>
 </norm>
@@ -18985,7 +19227,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲁⲓ">
+<orig_group orig_group="ⲛⲁⲓ̈">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁ">
 <norm norm="ⲛⲁ">
@@ -18996,11 +19238,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲓ">
+<orig orig="ⲓ̈">
 <norm norm="ⲓ">
 <lemma lemma="ⲁⲛⲟⲕ">
 <pos pos="PPERO">
-ⲓ
+ⲓ̈
 </pos>
 </lemma>
 </norm>
@@ -19022,10 +19264,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="6">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="He too, for his part—as it was this same spirit in him, and he thought these things in his mind—he too waited at the door until, due to his great perseverance, he achieved what he'd been thinking about in his mind.">
+<pathsverse_n pathsverse_n="6">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
@@ -19182,7 +19424,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲏⲧϥ">
+<orig_group orig_group="ⲛϩⲏⲧϥ̇">
 <norm_group norm_group="ⲛϩⲏⲧϥ">
 <orig orig="ⲛϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
@@ -19193,11 +19435,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -19205,6 +19447,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -19304,6 +19559,19 @@
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
@@ -19427,7 +19695,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲧϥⲙⲉⲉⲩⲉ">
+<orig_group orig_group="ⲙⲡⲉⲧϥ̇ⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲙⲡⲉⲧϥⲙⲉⲉⲩⲉ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
@@ -19457,11 +19725,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERS">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -19493,6 +19761,19 @@
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
 ϥ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
 </pos>
 </lemma>
 </norm>
@@ -19593,23 +19874,23 @@
 </orig_group>
 </entity>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="7">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="When the porter kept coming out daily to perform the tasks assigned to him,">
+<pathsverse_n pathsverse_n="7">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲉⲑⲩⲣⲟⲩⲣⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲉⲑⲩⲣⲟⲩⲣⲟⲥ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -19633,11 +19914,13 @@
 </orig>
 <orig orig="ⲑⲩⲣⲟⲩⲣⲟⲥ">
 <norm norm="ⲑⲩⲣⲟⲩⲣⲟⲥ">
-<lemma lemma="ⲑⲩⲣⲟⲩⲣⲟⲥ">
+<lemma lemma="ⲑⲩⲣⲱⲣⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 <roleName_type roleName_type="ecclesiastical">
 ⲑⲩⲣⲟⲩⲣⲟⲥ
 </roleName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -19835,24 +20118,24 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="8">
-<orig_group orig_group="ⲛⲉϣⲁϥϭⲛⲧϥ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="he'd find him sitting at the door with great perseverance,">
+<pathsverse_n pathsverse_n="8">
+<orig_group orig_group="ⲛⲉϣⲁϥϭⲛⲧϥ̇">
 <norm_group norm_group="ⲛⲉϣⲁϥϭⲛⲧϥ">
 <orig orig="ⲛⲉ">
 <norm norm="ⲛⲉ">
@@ -19890,11 +20173,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -20022,23 +20305,24 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </lb_n>
-<translation translation="...">
+<translation_old translation_old="and would report to the leader of the monastery, saying, “There's a boy—a foreigner—at the entrance to the monastery. He's been saying for many days now, ‘I'd like to become a monk.’">
+<pathsverse_n pathsverse_n="9">
 <lb_n lb_n="13">
 <orig_group orig_group="ⲁϥϫⲓ">
 <norm_group norm_group="ⲁϥϫⲓ">
@@ -20134,7 +20418,9 @@
 <norm norm="ϩⲩⲅⲟⲩⲙⲉⲛⲟⲥ">
 <lemma lemma="ϩⲩⲅⲟⲩⲙⲉⲛⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲩⲅⲟⲩⲙⲉⲛⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -20209,13 +20495,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲙⲟⲥ">
+<orig_group orig_group="ⲙ̇ⲙⲟⲥ">
 <norm_group norm_group="ⲙⲙⲟⲥ">
-<orig orig="ⲙⲙⲟ">
+<orig orig="ⲙ̇ⲙⲟ">
 <norm norm="ⲙⲙⲟ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙⲙⲟ
+ⲙ̇ⲙⲟ
 </pos>
 </lemma>
 </norm>
@@ -20231,6 +20517,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ϫⲉ">
 <norm_group norm_group="ϫⲉ">
 <orig orig="ϫⲉ">
@@ -20238,19 +20537,6 @@
 <lemma lemma="ϫⲉ">
 <pos pos="CONJ">
 ϫⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
 </pos>
 </lemma>
 </norm>
@@ -20304,13 +20590,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲝⲉⲛⲓⲕⲟⲥ">
+<orig_group orig_group="ⲛ̇ⲝⲉⲛⲓⲕⲟⲥ">
 <norm_group norm_group="ⲛⲝⲉⲛⲓⲕⲟⲥ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -20320,7 +20606,9 @@
 <norm norm="ⲝⲉⲛⲓⲕⲟⲥ">
 <lemma lemma="ⲝⲉⲛⲓⲕⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲝⲉⲛⲓⲕⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -20328,13 +20616,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓⲣⲙⲡⲣⲟ">
+<orig_group orig_group="ϩⲓⲣⲙ̇ⲡⲣⲟ">
 <norm_group norm_group="ϩⲓⲣⲙⲡⲣⲟ">
-<orig orig="ϩⲓⲣⲙ">
+<orig orig="ϩⲓⲣⲙ̇">
 <norm norm="ϩⲓⲣⲙ">
 <lemma lemma="ϩⲓⲣⲛ">
 <pos pos="PREP">
-ϩⲓⲣⲙ
+ϩⲓⲣⲙ̇
 </pos>
 </lemma>
 </norm>
@@ -20419,13 +20707,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲟⲟⲩ">
+<orig_group orig_group="ⲛ̇ϩⲟⲟⲩ">
 <norm_group norm_group="ⲛϩⲟⲟⲩ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -20511,21 +20799,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲉⲓⲟⲩⲱϥ">
-<norm_group norm_group="ⲉⲓⲟⲩⲱϥ">
+<orig_group orig_group="ⲉⲓⲟⲩⲱϣ">
+<norm_group norm_group="ⲉⲓⲟⲩⲱϣ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
@@ -20544,18 +20819,18 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩⲱϥ">
-<norm norm="ⲟⲩⲱϥ">
-<lemma lemma="ⲟⲩⲱϥ">
+<orig orig="ⲟⲩⲱϣ">
+<norm norm="ⲟⲩⲱϣ">
+<lemma lemma="ⲟⲩⲱϣ">
 <pos pos="V">
-ⲟⲩⲱϥ
+ⲟⲩⲱϣ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<orig_group orig_group="ⲉⲣ̄ⲙⲟⲛⲁⲭⲟⲥ">
 <norm_group norm_group="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -20566,12 +20841,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲙⲟⲛⲁⲭⲟⲥ">
+<orig orig="ⲣ̄ⲙⲟⲛⲁⲭⲟⲥ">
 <norm norm="ⲣⲙⲟⲛⲁⲭⲟⲥ">
 <lemma lemma="ⲣⲙⲟⲛⲁⲭⲟⲥ">
 <pos pos="V">
 <morph morph="ⲣ">
-ⲣ
+ⲣ̄
 </morph>
 <lang lang="Greek">
 <morph morph="ⲙⲟⲛⲁⲭⲟⲥ">
@@ -20584,22 +20859,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</translation>
-<translation translation="...">
-<verse_n verse_n="9">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="I've refused him many times,">
+<pathsverse_n pathsverse_n="10">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -20731,23 +21007,10 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
-<pos pos="PUNCT">
-,
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="10">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="yet he's persisted until now.”">
+<pathsverse_n pathsverse_n="11">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -20853,24 +21116,24 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="11">
-<orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="The abbot replied, saying,">
+<pathsverse_n pathsverse_n="12">
+<orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ̇">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -20890,24 +21153,24 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩⲱϣⲃ">
+<orig orig="ⲟⲩⲱϣⲃ̇">
 <norm norm="ⲟⲩⲱϣⲃ">
 <lemma lemma="ⲟⲩⲱϣⲃ">
 <pos pos="V">
-ⲟⲩⲱϣⲃ
+ⲟⲩⲱϣⲃ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϭⲓⲡⲉⲡⲣⲟⲉⲥⲧⲟⲥ">
+<orig_group orig_group="ⲛ̇ϭⲓⲡⲉⲡⲣⲟⲉⲥⲧⲟⲥ">
 <norm_group norm_group="ⲛϭⲓⲡⲉⲡⲣⲟⲉⲥⲧⲟⲥ">
-<orig orig="ⲛϭⲓ">
+<orig orig="ⲛ̇ϭⲓ">
 <norm norm="ⲛϭⲓ">
 <lemma lemma="ⲛϭⲓ">
 <pos pos="PTC">
-ⲛϭⲓ
+ⲛ̇ϭⲓ
 </pos>
 </lemma>
 </norm>
@@ -20924,11 +21187,13 @@
 </orig>
 <orig orig="ⲡⲣⲟⲉⲥⲧⲟⲥ">
 <norm norm="ⲡⲣⲟⲉⲥⲧⲟⲥ">
-<lemma lemma="ⲡⲣⲟⲉⲥⲧⲟⲥ">
+<lemma lemma="ⲡⲣⲟⲉⲥⲧⲱⲥ">
 <pos pos="N">
+<lang lang="Greek">
 <roleName_type roleName_type="ecclesiastical">
 ⲡⲣⲟⲉⲥⲧⲟⲥ
 </roleName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -20991,6 +21256,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ϫⲉ">
 <norm_group norm_group="ϫⲉ">
 <orig orig="ϫⲉ">
@@ -21004,49 +21282,18 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="12">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="“Since you've seen his perseverance, bring him inside the gate with you, and he'll stay to help you with your tasks—anything you assign to him.”">
+<pathsverse_n pathsverse_n="13">
 <orig_group orig_group="ⲉⲫⲟⲥⲟⲛ">
-<norm_group norm_group="ⲉⲡϩⲟⲥⲟⲛ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
-ⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲫ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲫ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲟⲥⲟⲛ">
-<norm norm="ϩⲟⲥⲟⲛ">
+<norm_group norm_group="ⲉⲫⲟⲥⲟⲛ">
+<orig orig="ⲉⲫⲟⲥⲟⲛ">
+<norm norm="ⲉⲫⲟⲥⲟⲛ">
 <lemma lemma="ϩⲟⲥⲟⲛ">
-<pos pos="N">
+<pos pos="PREP">
 <lang lang="Greek">
-ⲟⲥⲟⲛ
+ⲉⲫⲟⲥⲟⲛ
 </lang>
 </pos>
 </lemma>
@@ -21159,16 +21406,14 @@
 <norm_group norm_group="ϩⲁⲧⲏⲕ">
 <orig orig="ϩⲁⲧⲏ">
 <norm norm="ϩⲁⲧⲏ">
-<lemma lemma="ϩⲁⲧⲏ">
+<lemma lemma="ϩⲁϩⲧⲛ">
 <pos pos="PREP">
-ϩⲁ
-</lb_n>
-<lb_n lb_n="18">
-ⲧⲏ
+ϩⲁⲧⲏ
 </pos>
 </lemma>
 </norm>
 </orig>
+</lb_n>
 <orig orig="ⲕ">
 <norm norm="ⲕ">
 <lemma lemma="ⲛⲧⲟⲕ">
@@ -21239,7 +21484,7 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲛϥϭⲱ">
+<orig_group orig_group="ⲛϥ̇ϭⲱ">
 <norm_group norm_group="ⲛϥϭⲱ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -21250,11 +21495,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERS">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
@@ -21301,35 +21546,35 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲟⲟⲧϥ">
+<orig_group orig_group="ⲛ̇ⲧⲟⲟⲧϥ̇">
 <norm_group norm_group="ⲛⲧⲟⲟⲧϥ">
-<orig orig="ⲛⲧⲟⲟⲧ">
+<orig orig="ⲛ̇ⲧⲟⲟⲧ">
 <norm norm="ⲛⲧⲟⲟⲧ">
 <lemma lemma="ⲛⲧⲛ">
 <pos pos="PREP">
-ⲛⲧⲟⲟⲧ
+ⲛ̇ⲧⲟⲟⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̇">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲙⲙⲁⲕ">
+<orig_group orig_group="ⲛⲙ̇ⲙⲁⲕ">
 <norm_group norm_group="ⲛⲙⲙⲁⲕ">
-<orig orig="ⲛⲙⲙⲁ">
+<orig orig="ⲛⲙ̇ⲙⲁ">
 <norm norm="ⲛⲙⲙⲁ">
 <lemma lemma="ⲙⲛ">
 <pos pos="PREP">
-ⲛⲙⲙⲁ
+ⲛⲙ̇ⲙⲁ
 </pos>
 </lemma>
 </norm>
@@ -21339,6 +21584,19 @@
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERO">
 ⲕ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
 </pos>
 </lemma>
 </norm>
@@ -21400,7 +21658,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb_n>
 <lb_n lb_n="19">
 <orig_group orig_group="ⲛⲓⲙ">
 <norm_group norm_group="ⲛⲓⲙ">
@@ -21488,13 +21745,13 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -21502,14 +21759,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 <p_n p_n="16">
 <chapter_n chapter_n="16">
-<translation translation="...">
-<verse_n verse_n="1">
+<translation_old translation_old="At last the doorman brought him in through the gate per the order of the father of the monastery. Not only did he perform every task the porter ordered of him, but he would do anything ordered of him by the brothers with great diligence and complete obedience.">
+<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲗⲟⲓⲡⲟⲛ">
 <norm_group norm_group="ⲗⲟⲓⲡⲟⲛ">
@@ -21561,13 +21818,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧϥ">
+<orig_group orig_group="ⲛ̇ⲧϥ">
 <norm_group norm_group="ⲛⲧϥ">
-<orig orig="ⲛⲧ">
+<orig orig="ⲛ̇ⲧ">
 <norm norm="ⲛⲧ">
 <lemma lemma="ⲉⲓⲛⲉ">
 <pos pos="V">
-ⲛⲧ
+ⲛ̇ⲧ
 </pos>
 </lemma>
 </norm>
@@ -21596,8 +21853,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲡⲩⲇⲏ">
-<norm_group norm_group="ⲉⲧⲡⲩⲇⲏ">
+<orig_group orig_group="ⲉⲧⲡⲩⲗⲏ">
+<norm_group norm_group="ⲉⲧⲡⲩⲗⲏ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -21617,11 +21874,13 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲩⲇⲏ">
-<norm norm="ⲡⲩⲇⲏ">
-<lemma lemma="ⲡⲩⲇⲏ">
+<orig orig="ⲡⲩⲗⲏ">
+<norm norm="ⲡⲩⲗⲏ">
+<lemma lemma="ⲡⲩⲗⲏ">
 <pos pos="N">
-ⲡⲩⲇⲏ
+<lang lang="Greek">
+ⲡⲩⲗⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -21702,8 +21961,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ.">
-<norm_group norm_group="ⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ.">
+<orig_group orig_group="ⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟ⳯">
+<norm_group norm_group="ⲙⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -21723,13 +21982,13 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ.">
-<norm norm="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ.">
-<lemma lemma="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ.">
+<orig orig="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟ⳯">
+<norm norm="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
+<lemma lemma="ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ">
 <pos pos="N">
-ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ
-</roleName_type>
-.
+<lang lang="Greek">
+ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟ⳯
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -21737,6 +21996,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</roleName_type>
 </entity>
 </entity>
 </entity>
@@ -21746,7 +22006,9 @@
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
 <pos pos="FM">
+<lang lang="Greek">
 ⲟⲩ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -21950,11 +22212,13 @@
 </orig>
 <orig orig="ⲑⲩⲣⲟⲩⲣⲟⲥ">
 <norm norm="ⲑⲩⲣⲟⲩⲣⲟⲥ">
-<lemma lemma="ⲑⲩⲣⲟⲩⲣⲟⲥ">
+<lemma lemma="ⲑⲩⲣⲱⲣⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 <roleName_type roleName_type="ecclesiastical">
 ⲑⲩⲣⲟⲩⲣⲟⲥ
 </roleName_type>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -21962,13 +22226,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -22183,13 +22447,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲡⲟⲩⲇⲏ">
+<orig_group orig_group="ⲛ̇ⲥⲡⲟⲩⲇⲏ">
 <norm_group norm_group="ⲛⲥⲡⲟⲩⲇⲏ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -22208,8 +22472,8 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲙⲛⲟⲧⲙⲛⲧⲥⲧⲙⲏⲧ">
-<norm_group norm_group="ⲙⲛⲟⲧⲙⲛⲧⲥⲧⲙⲏⲧ">
+<orig_group orig_group="ⲙⲛⲟⲩⲙⲛⲧⲥⲧⲙⲏⲧ">
+<norm_group norm_group="ⲙⲛⲟⲩⲙⲛⲧⲥⲧⲙⲏⲧ">
 <orig orig="ⲙⲛ">
 <norm norm="ⲙⲛ">
 <lemma lemma="ⲙⲛ">
@@ -22220,11 +22484,11 @@
 </norm>
 </orig>
 <entity entity="abstract">
-<orig orig="ⲟⲧ">
-<norm norm="ⲟⲧ">
-<lemma lemma="ⲟⲧ">
+<orig orig="ⲟⲩ">
+<norm norm="ⲟⲩ">
+<lemma lemma="ⲟⲩ">
 <pos pos="ART">
-ⲟⲧ
+ⲟⲩ
 </pos>
 </lemma>
 </norm>
@@ -22293,23 +22557,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="2">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="And he persisted like this with such tasks for two or more years, and he didn't tell the brothers at all that he was a monk.">
+<pathsverse_n pathsverse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22489,6 +22753,19 @@
 </entity>
 </entity>
 </lb_n>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <lb_n lb_n="6">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
@@ -22549,6 +22826,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -22602,7 +22892,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲥⲛⲏⲩ">
+<orig_group orig_group="ⲛⲛ̄ⲥⲛⲏⲩ">
 <norm_group norm_group="ⲛⲛⲥⲛⲏⲩ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -22614,11 +22904,11 @@
 </norm>
 </orig>
 <entity entity="person">
-<orig orig="ⲛ">
+<orig orig="ⲛ̄">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
-ⲛ
+ⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -22702,23 +22992,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="3">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="God, who always glorifies those who glorify him, and reveals what is hidden, and exalts the humble—He has said with his truthful mouth:">
+<pathsverse_n pathsverse_n="3">
 <orig_group orig_group="ⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ⲡⲛⲟⲩⲧⲉ">
 <entity entity="person">
@@ -22921,7 +23211,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉϥϭⲱⲗⲡ">
+<orig_group orig_group="ⲉϥϭⲱⲗⲡ̇">
 <norm_group norm_group="ⲉϥϭⲱⲗⲡ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -22941,11 +23231,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϭⲱⲗⲡ">
+<orig orig="ϭⲱⲗⲡ̇">
 <norm norm="ϭⲱⲗⲡ">
 <lemma lemma="ϭⲱⲗⲡ">
 <pos pos="V">
-ϭⲱⲗⲡ
+ϭⲱⲗⲡ̇
 </pos>
 </lemma>
 </norm>
@@ -23007,6 +23297,19 @@
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -23095,13 +23398,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group=",">
-<norm_group norm_group=",">
-<orig orig=",">
-<norm norm=",">
-<lemma lemma=",">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-,
+·
 </pos>
 </lemma>
 </norm>
@@ -23240,23 +23543,10 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
-<pos pos="PUNCT">
-·
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="4">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="“A lamp is not lit and put under a basket, but rather it is set on the lampstand, and illuminates all those who are in the house.”">
+<pathsverse_n pathsverse_n="4">
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="Mt. 5 , 15">
 <orig_group orig_group="ⲙⲉⲩϫⲉⲣⲉ">
@@ -23290,7 +23580,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲟⲩϩⲏⲃⲥ">
+<orig_group orig_group="ⲟⲩϩⲏⲃⲥ̇">
 <norm_group norm_group="ⲟⲩϩⲏⲃⲥ">
 <entity entity="object">
 <orig orig="ⲟⲩ">
@@ -23302,11 +23592,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲏⲃⲥ">
+<orig orig="ϩⲏⲃⲥ̇">
 <norm norm="ϩⲏⲃⲥ">
 <lemma lemma="ϩⲏⲃⲥ">
 <pos pos="N">
-ϩⲏⲃⲥ
+ϩⲏⲃⲥ̇
 </pos>
 </lemma>
 </norm>
@@ -23314,13 +23604,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲉⲕⲁⲁϥ">
+<orig_group orig_group="ⲛ̇ⲥⲉⲕⲁⲁϥ">
 <norm_group norm_group="ⲛⲥⲉⲕⲁⲁϥ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛⲧⲉ">
 <pos pos="ACONJ">
-ⲛ
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -23402,13 +23692,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϣⲁⲩⲕⲁⲁϥ">
+<orig_group orig_group="ⲛ̇ϣⲁⲩⲕⲁⲁϥ">
 <norm_group norm_group="ⲛϣⲁⲩⲕⲁⲁϥ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̇">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
-<pos pos="NEG">
-ⲛ
+<pos pos="ACONJ">
+ⲛ̇
 </pos>
 </lemma>
 </norm>
@@ -23488,7 +23778,7 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϥⲣⲟⲩⲟⲉⲓⲛ">
+<orig_group orig_group="ⲛϥⲣ̄ⲟⲩⲟⲉⲓⲛ">
 <norm_group norm_group="ⲛϥⲣⲟⲩⲟⲉⲓⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -23508,12 +23798,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲟⲩⲟⲉⲓⲛ">
+<orig orig="ⲣ̄ⲟⲩⲟⲉⲓⲛ">
 <norm norm="ⲣⲟⲩⲟⲉⲓⲛ">
 <lemma lemma="ⲣⲟⲩⲟⲉⲓⲛ">
 <pos pos="V">
 <morph morph="ⲣ">
-ⲣ
+ⲣ̄
 </morph>
 <morph morph="ⲟⲩⲟⲉⲓⲛ">
 ⲟⲩⲟⲉⲓⲛ
@@ -23623,30 +23913,30 @@
 </orig_group>
 </quote_ref>
 </quote_type>
-<orig_group orig_group="–">
-<norm_group norm_group="–">
-<orig orig="–">
-<norm norm="–">
-<lemma lemma="–">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-–
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="5">
-<orig_group orig_group="ⲙⲡⲉϥⲟⲩⲱϣ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="He did not wish for his chosen one to remain hidden, but instead truly revealed him as a light, and set him on the intelligible lampstand, being not only a light for those around him, but for the others who are far from him,">
+<pathsverse_n pathsverse_n="5">
+<orig_group orig_group="ⲙ̇ⲡⲉϥⲟⲩⲱϣ">
 <norm_group norm_group="ⲙⲡⲉϥⲟⲩⲱϣ">
 <orig orig="ⲙⲡⲉ">
 <norm norm="ⲙⲡⲉ">
-<lemma lemma="ⲙⲡⲉ">
+<lemma lemma="ⲙ̇ⲡⲉ">
 <pos pos="ANEGPST">
-ⲙⲡⲉ
+ⲙ̇ⲡⲉ
 </pos>
 </lemma>
 </norm>
@@ -23759,6 +24049,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -23843,19 +24146,19 @@
 </norm_group>
 </orig_group>
 <entity entity="person">
-<orig_group orig_group="ⲣⲉϥⲣⲟⲩⲟⲉⲓⲛⲉ">
+<orig_group orig_group="ⲣⲉϥⲣ̇ⲟⲩⲟⲉⲓⲛⲉ">
 <norm_group norm_group="ⲣⲉϥⲣⲟⲩⲟⲉⲓⲛⲉ">
-<orig orig="ⲣⲉϥⲣⲟⲩⲟⲉⲓⲛⲉ">
+<orig orig="ⲣⲉϥⲣ̇ⲟⲩⲟⲉⲓⲛⲉ">
 <norm norm="ⲣⲉϥⲣⲟⲩⲟⲉⲓⲛⲉ">
-<lemma lemma="ⲣⲉϥⲣⲟⲩⲟⲉⲓⲛⲉ">
+<lemma lemma="ⲣⲉϥⲣⲟⲩⲟⲉⲓⲛ">
 <pos pos="N">
 <morph morph="ⲣⲉϥ">
 ⲣⲉϥ
 </morph>
 <morph morph="ⲣ">
-ⲣ
+ⲣ̇
 </morph>
-<morph morph="ⲟⲩⲟⲉⲓⲛⲉ">
+<morph morph="ⲟⲩⲟⲉⲓⲛ">
 ⲟⲩⲟⲉⲓⲛⲉ
 </morph>
 </pos>
@@ -23896,6 +24199,19 @@
 </norm_group>
 </orig_group>
 </entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁϥⲕⲁⲁϥ">
 <norm_group norm_group="ⲁϥⲕⲁⲁϥ">
 <orig orig="ⲁ">
@@ -24134,6 +24450,19 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -24226,24 +24555,24 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="6">
-<orig_group orig_group="ⲉⲁϥⲣⲟⲩⲟⲉⲓⲛ">
+</pathsverse_n>
+</translation_old>
+<translation_old translation_old="having illuminated them through the abundance of his fruits and good deeds, just as the word will reveal to us when the account proceeds.">
+<pathsverse_n pathsverse_n="6">
+<orig_group orig_group="ⲉⲁϥⲣ̇ⲟⲩⲟⲉⲓⲛ">
 <norm_group norm_group="ⲉⲁϥⲣⲟⲩⲟⲉⲓⲛ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -24272,12 +24601,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲟⲩⲟⲉⲓⲛ">
+<orig orig="ⲣ̇ⲟⲩⲟⲉⲓⲛ">
 <norm norm="ⲣⲟⲩⲟⲉⲓⲛ">
 <lemma lemma="ⲣⲟⲩⲟⲉⲓⲛ">
 <pos pos="V">
 <morph morph="ⲣ">
-ⲣ
+ⲣ̇
 </morph>
 <morph morph="ⲟⲩⲟⲉⲓⲛ">
 ⲟⲩⲟⲉⲓⲛ
@@ -24310,32 +24639,32 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓⲧⲛⲧⲁϣⲏⲛ">
-<norm_group norm_group="ϩⲓⲧⲛⲧⲁϣⲏⲛ">
-<orig orig="ϩⲓⲧⲛ">
+<orig_group orig_group="ϩⲓⲧⲛ̇ⲧⲁϣⲏ">
+<norm_group norm_group="ϩⲓⲧⲛⲧⲁϣⲏ">
+<orig orig="ϩⲓⲧⲛ̇">
 <norm norm="ϩⲓⲧⲛ">
 <lemma lemma="ϩⲓⲧⲛ">
 <pos pos="PREP">
-ϩⲓⲧⲛ
+ϩⲓⲧⲛ̇
 </pos>
 </lemma>
 </norm>
 </orig>
 <entity entity="plant">
-<orig orig="ⲧⲁ">
-<norm norm="ⲧⲁ">
-<lemma lemma="ⲡⲁ">
-<pos pos="PPOS">
-ⲧⲁ
+<orig orig="ⲧ">
+<norm norm="ⲧ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲏⲛ">
-<norm norm="ϣⲏⲛ">
-<lemma lemma="ϣⲏⲛ">
+<orig orig="ⲁϣⲏ">
+<norm norm="ⲁϣⲏ">
+<lemma lemma="ⲁϣⲏ">
 <pos pos="N">
-ϣⲏⲛ
+ⲁϣⲏ
 </pos>
 </lemma>
 </norm>
@@ -24344,9 +24673,18 @@
 </norm_group>
 </orig_group>
 </lb_n>
+<orig_group orig_group="ⲛⲛⲉϥⲕⲁⲣⲡⲟⲥ">
+<norm_group norm_group="ⲛⲛⲉϥⲕⲁⲣⲡⲟⲥ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
 <lb_n lb_n="14">
-<orig_group orig_group="ⲛⲉϥⲕⲁⲣⲡⲟⲥ">
-<norm_group norm_group="ⲛⲉϥⲕⲁⲣⲡⲟⲥ">
 <entity entity="plant">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
@@ -24404,6 +24742,19 @@
 </norm>
 </orig>
 </entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
+<pos pos="PUNCT">
+·
+</pos>
+</lemma>
+</norm>
+</orig>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲕⲁⲧⲁⲑⲉ">
@@ -24472,7 +24823,7 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲁⲟⲩⲉⲛϩⲡⲁⲓ">
+<orig_group orig_group="ⲛⲁⲟⲩⲉⲛϩ̇ⲡⲁⲓ">
 <norm_group norm_group="ⲛⲁⲟⲩⲉⲛϩⲡⲁⲓ">
 <orig orig="ⲛⲁ">
 <norm norm="ⲛⲁ">
@@ -24483,11 +24834,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩⲉⲛϩ">
+<orig orig="ⲟⲩⲉⲛϩ̇">
 <norm norm="ⲟⲩⲉⲛϩ">
 <lemma lemma="ⲟⲩⲱⲛϩ">
 <pos pos="V">
-ⲟⲩⲉⲛϩ
+ⲟⲩⲉⲛϩ̇
 </pos>
 </lemma>
 </norm>
@@ -24624,13 +24975,13 @@
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="·">
-<norm_group norm_group="·">
-<orig orig="·">
-<norm norm="·">
-<lemma lemma="·">
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm norm="·">
+<lemma lemma="·">
 <pos pos="PUNCT">
-·
+·
 </pos>
 </lemma>
 </norm>
@@ -24638,8 +24989,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</verse_n>
-</translation>
+</pathsverse_n>
+</translation_old>
 </chapter_n>
 </p_n>
 </meta>
