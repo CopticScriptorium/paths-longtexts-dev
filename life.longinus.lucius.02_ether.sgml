@@ -1,8 +1,8 @@
 <meta annotation="Julian Bogdani, Caroline T. Schroeder, Randy Komforty, Lance Martin, Amir Zeldes" author="unknown" Coptic_edition="Tito Orlandi, A. Campagnano, Vite dei monaci Phif e Longino. Milano, Cisalpino Goliardica, 1975, pp. 47-93 (Vita Longinis)" corpus="life.longinus.lucius" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.longinus_lucius.paths_ed:10-16" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" msItem_title="The Life of Longinus and Lucius" next="urn:cts:copticLit:lives.longinus_lucius.paths_ed:17-23" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019." order="2" origDate_precision="accurate" parsing="automatic" paths_manuscripts="&lt;a href='http://paths.uniroma1.it/atlas/manuscripts/237'&gt;237&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/418'&gt;418&lt;/a&gt;" people="Anthony the Great; Lazarus of Bethany; Paul of Thebes" places="Alexandria" previous="urn:cts:copticLit:lives.longinus_lucius.paths_ed:0-9" project="Coptic SCRIPTORIUM, CMCL, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href='https://atlas.paths-erc.eu'&gt;PATHS&lt;/a&gt;, PATHS &lt;a href='https://github.com/paths-erc/coptic-texts/blob/master/cc0418.xml'&gt;GitHub Repository&lt;/a&gt;" tagging="automatic" title="Life of Longinus and Lucius part 2" translation="Randy Komforty" version_date="2025-11-25" version_n="6.2.0">
 <p_n p_n="10">
 <chapter_n chapter_n="10">
-<translation_old translation_old="I will now also tell of the other miracle that God performed through his servants. There was a man in that region who had a noble son who was nearing adolescence.">
-<pathsverse_n pathsverse_n="1">
+<translation translation="I will now also tell of the other miracle that God performed through his servants. There was a man in that region who had a noble son who was nearing adolescence.">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ϯⲛⲁϫⲱ">
 <norm_group norm_group="ϯⲛⲁϫⲱ">
@@ -584,10 +584,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="There was a woman named Flavia. She entrusted a document with the parents of that boy,">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="There was a woman named Flavia. She entrusted a document with the parents of that boy,">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲉⲩⲛⲟⲩⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲛⲉⲩⲛⲟⲩⲥϩⲓⲙⲉ">
 <orig orig="ⲛⲉ">
@@ -853,10 +853,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="and they gave it to their son to keep it safe.">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="and they gave it to their son to keep it safe.">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁⲛⲁⲓ">
 <norm_group norm_group="ⲁⲛⲁⲓ">
 <orig orig="ⲁ">
@@ -1030,10 +1030,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="It happened that, when the boy died suddenly, his parents were unaware of where the document was.">
-<pathsverse_n pathsverse_n="4">
+</verse_n>
+</translation>
+<translation translation="It happened that, when the boy died suddenly, his parents were unaware of where the document was.">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲉ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲉ">
 <orig orig="ⲁ">
@@ -1397,10 +1397,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="That woman, Flavia, came looking for her deposit, i.e. the document she'd entrusted with them. And when they were at a loss and couldn't find it,">
-<pathsverse_n pathsverse_n="5">
+</verse_n>
+</translation>
+<translation translation="That woman, Flavia, came looking for her deposit, i.e. the document she'd entrusted with them. And when they were at a loss and couldn't find it, because they didn't know where the boy left it,">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲧⲉⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲁⲧⲉⲥϩⲓⲙⲉ">
 <orig orig="ⲁ">
@@ -1759,10 +1759,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="because they didn't know where the boy left it,">
-<pathsverse_n pathsverse_n="6">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -1968,10 +1964,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="she very angrily threatened to make them slaves to her ⟦When these blessed ones heard these things⟧ if they didn't hand her back her document. Then the boy's parents, after continuing to be pestered by that woman, left their son without burying him, and they quickly made their way to the sanctuary where the saints were, with other large crowds—their relatives and their neighbors—following them. They bowed at the feet of Apa Lucius and Apa Longinus, begging them, saying,">
-<pathsverse_n pathsverse_n="7">
+</verse_n>
+</translation>
+<verse_n verse_n="6">
+<translation translation="she very angrily threatened to make them slaves to her.">
 <orig_group orig_group="ⲁⲥⲁⲡⲉⲓⲗⲉ">
 <norm_group norm_group="ⲁⲥⲁⲡⲉⲓⲗⲉ">
 <orig orig="ⲁ">
@@ -1987,7 +1983,9 @@
 <norm norm="ⲥ">
 <lemma lemma="ⲛⲧⲟⲥ">
 <pos pos="PPERS">
+<note note="Anomalous phrase likely an anticipation of the beginning of Ch. 11 v. 1">
 ⲥ
+</note>
 </pos>
 </lemma>
 </norm>
@@ -2214,6 +2212,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="[When these blessed ones heard these things] if they didn't hand her back her document, then the boy's parents, after continuing to be pestered by that woman, left their son without burying him, and they quickly made their way to the sanctuary where the saints were, with other large crowds—their relatives and their neighbors—following them.">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -3193,6 +3193,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+</verse_n>
+<translation translation="They bowed at the feet of Apa Lucius and Apa Longinus, begging them, saying, “Call on the Lord Christ, to whom you are servants, so that he may reveal the soul of our dead son, and we learn through him where he placed the document.">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲁⲩⲡⲁϩⲧⲟⲩ">
 <norm_group norm_group="ⲁⲩⲡⲁϩⲧⲟⲩ">
 <orig orig="ⲁ">
@@ -3510,10 +3514,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="“Call on the Lord Christ, to whom you are servants, so that he may reveal the soul of our dead son, and we learn through him where he placed the document">
-<pathsverse_n pathsverse_n="8">
+</verse_n>
+<verse_n verse_n="88">
 <orig_group orig_group="ⲥⲟⲡⲥ̄">
 <norm_group norm_group="ⲥⲟⲡⲥ">
 <orig orig="ⲥⲟⲡⲥ̄">
@@ -4006,10 +4008,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="that a rich woman entrusted with us, now threatening to make us slaves if we haven't found the document and given it to her.”">
-<pathsverse_n pathsverse_n="9">
+</verse_n>
+</translation>
+<translation translation="The one that a rich woman entrusted with us, now threatening to make us slaves if we haven't found the document and given it to her.”">
+<verse_n verse_n="9">
 <entity entity="person">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
@@ -4441,28 +4443,32 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 <p_n p_n="11">
 <chapter_n chapter_n="11">
-<translation_old translation_old="And when the blessed ones heard these things from the boy's parents, they took pity on them through the love and compassion of Christ that was in them. They arose quickly and followed them without worry or delay, and when they reached the house that the dead boy was in, they entered the place where the deceased lay, knelt down, and prayed as though God wished to reveal the miracle to the blessed Apa Longinus, full of virtue. He was immediately filled with the Holy Spirit, and took the boy's hand in the presence of the crowd, and said thus: “God, who once raised Lazarus, is the same one who now will return your spirit to you, so that you'll tell us where you left the rich woman's document so that she won't take your parents as slaves.”">
-<pathsverse_n pathsverse_n="1">
 <lb_n lb_n="1">
+<translation translation="And when the blessed ones heard these things from the boy's parents, they took pity on them through the love and compassion of Christ that was in them. They arose quickly and followed them without worry or delay, and when they reached the house that the dead boy was in, they entered the place where the deceased lay, knelt down, and prayed as though God wished to reveal the miracle to the blessed Apa Longinus, full of virtue.">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
 <norm norm="ⲁⲩⲱ">
 <lemma lemma="ⲁⲩⲱ">
 <pos pos="CONJ">
+<verse_n verse_n="1">
 ⲁⲩⲱ
+</verse_n>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="He was immediately filled with the Holy Spirit, and took the boy's hand in the presence of the crowd, and said thus: “God, who once raised Lazarus, is the same one who now will return your spirit to you, so that you'll tell us where you left the rich woman's document so that she won't take your parents as slaves.”">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ̄">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲥⲱⲧⲙ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -6785,10 +6791,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="And the boy's spirit immediately returned to him. He got up, sat down, and opened his mouth as all the bystanders listened to him, and he told them where in the house the document lay.">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="And the boy's spirit immediately returned to him. He got up, sat down, and opened his mouth as all the bystanders listened to him, and he told them where in the house the document lay.">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7363,10 +7369,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="And his parents asked him about other things they were unaware of, and he addressed everything they asked him about. And like this, he immediately lay down.">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="And his parents asked him about other things they were unaware of, and he addressed everything they asked him about. And like this, he immediately lay down.">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -7890,10 +7896,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="When the people of Lycia saw this miraculous thing that happened through the saints, they glorified God, who alone performs these miracles.">
-<pathsverse_n pathsverse_n="4">
+</verse_n>
+</translation>
+<translation translation="When the people of Lycia saw this miraculous thing that happened through the saints, they glorified God, who alone performs these miracles.">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -8310,14 +8316,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 <p_n p_n="12">
 <chapter_n chapter_n="12">
-<translation_old translation_old="When their fame spread throughout that region, the entire crowd brought to them their sick with every disease, to have them pray for them and heal them, and they paid them great honors. When they were distressed by the majority of the crowd who pestered them and by the praise they were given, which they didn't consider themselves worthy of due to their great humility, they finally decided to flee in secret and depart from that district.">
-<pathsverse_n pathsverse_n="1">
+<translation translation="When their fame spread throughout that region, the entire crowd brought to them their sick with every disease, to have them pray for them and heal them, and they paid them great honors.">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲥⲟⲉⲓⲧ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲥⲟⲉⲓⲧ">
@@ -8773,6 +8779,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="When they were distressed by the majority of the crowd who pestered them and by the praise they were given, which they didn't consider themselves worthy of due to their great humility, they finally decided to flee in secret and depart from that district.">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -9542,10 +9552,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="When those residing in the surrounding area found out, they remained on the lookout for them, as they didn't want to be deprived of their blessing and their proximity to them.">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="When those residing in the surrounding area found out, they remained on the lookout for them, as they didn't want to be deprived of their blessing and their proximity to them.">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲛⲧⲉⲣⲟⲩⲉⲓⲙⲉ">
 <norm_group norm_group="ⲛⲧⲉⲣⲟⲩⲉⲓⲙⲉ">
 <orig orig="ⲛⲧⲉⲣ">
@@ -9975,10 +9985,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="Indeed, they were the pride of that entire region, due to the quantity of the miracles happening through them.">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="Indeed, they were the pride of that entire region, due to the quantity of the miracles happening through them.">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲛⲉⲩϣⲟⲟⲡ">
 <norm_group norm_group="ⲛⲉⲩϣⲟⲟⲡ">
 <orig orig="ⲛⲉ">
@@ -10263,14 +10273,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 <p_n p_n="13">
 <chapter_n chapter_n="13">
-<translation_old translation_old="The blessed Lucius then took his disciple aside, and said to him, “We won't be able to continue like this, putting up with people's empty praise, nor is it good for our souls. That said, my son, obey me, and arise secretly, and go to Alexandria—">
-<pathsverse_n pathsverse_n="1">
+<translation translation="The blessed Lucius then took his disciple aside, and said to him, “We won't be able to continue like this, putting up with people's empty praise, nor is it good for our souls. That said, my son, obey me, and arise secretly, and go to Alexandria—">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲧⲟⲧⲉ">
 <norm_group norm_group="ⲧⲟⲧⲉ">
@@ -11071,10 +11081,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="I hear of a monastery to the west of that city called Enaton, wherein there's great tranquility, by God—and seek out a Corinthian whose name is Gaius, who is the cenobiarch of his own cenoby that he built there, and remain inside with him.">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="I hear of a monastery to the west of that city called Enaton, wherein there's great tranquility, by God—and seek out a Corinthian whose name is Gaius, who is the cenobiarch of his own cenoby that he built there, and remain inside with him.">
+<verse_n verse_n="2">
 <orig_group orig_group="ϯⲥⲱⲧⲙ̄">
 <norm_group norm_group="ϯⲥⲱⲧⲙ">
 <orig orig="ϯ">
@@ -11961,10 +11971,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="And I trust in the Lord God, our Savior, that wherever you are, he will not deprive me of physically being with you.">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="And I trust in the Lord God, our Savior, that wherever you are, he will not deprive me of physically being with you.">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12334,10 +12344,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="And, even if I'm away from you for some time, I trust in the Lord that I'll surely come to you, so that we may together complete our trajectory in whatever place the Lord has us destined for, according to his desire.">
-<pathsverse_n pathsverse_n="4">
+</verse_n>
+</translation>
+<translation translation="And, even if I'm away from you for some time, I trust in the Lord that I'll surely come to you, so that we may together complete our trajectory in whatever place the Lord has us destined for, according to his desire.">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12885,10 +12895,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="Wherever you happen to be, my son, flee people's empty praise, and go to the martyr's shrine of Saint Mena, and pray first. Then, go to Enaton, and reside in the monastery of Apa Gaius.”">
-<pathsverse_n pathsverse_n="5">
+</verse_n>
+</translation>
+<translation translation="Wherever you happen to be, my son, flee people's empty praise, and go to the martyr's shrine of Saint Mena, and pray first. Then, go to Enaton, and reside in the monastery of Apa Gaius.”">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲉⲕϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲕϣⲟⲟⲡ">
 <orig orig="ⲉ">
@@ -13505,14 +13515,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 <p_n p_n="14">
 <chapter_n chapter_n="14">
-<translation_old translation_old="When he said these things, they prayed and embraced one another, and like this he left him.">
-<pathsverse_n pathsverse_n="1">
+<translation translation="When he said these things, they prayed and embraced one another, and like this he left him.">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
@@ -13817,10 +13827,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="When the blessed Apa Longinus arrived in Alexandria, he looked for the monastery of Apa Gaius in Enaton, and some devout men showed it to him.">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="When the blessed Apa Longinus arrived in Alexandria, he looked for the monastery of Apa Gaius in Enaton, and some devout men showed it to him.">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -14283,10 +14293,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="When he arrived at the monastery, he knocked quietly on the door. When the doorman opened the door, he asked him, “Where are you from, and for what reason have you come here?”">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="When he arrived at the monastery, he knocked quietly on the door. When the doorman opened the door, he asked him, “Where are you from, and for what reason have you come here?”">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲉⲓ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -14810,10 +14820,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="The truly humble Apa Longinus replied and said,">
-<pathsverse_n pathsverse_n="4">
+</verse_n>
+</translation>
+<translation translation="The truly humble Apa Longinus replied and said,">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ̇">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -14985,10 +14995,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="“I'm from the country of Lycia, and I've come here to become a monk.”">
-<pathsverse_n pathsverse_n="5">
+</verse_n>
+</translation>
+<translation translation="“I'm from the country of Lycia, and I've come here to become a monk.”">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲛⲅ̇ⲟⲩⲉⲃⲟⲗ">
 <norm_group norm_group="ⲁⲛⲅⲟⲩⲉⲃⲟⲗ">
 <orig orig="ⲁⲛⲅ̇">
@@ -15237,10 +15247,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="Indeed, due to his great humility, he couldn't bear to call himself a monk, wearing neither a hood nor a cloak (nor is it customary for foreign monks to wear things like this), but only a kolobion, pallium, and belt: These were what he was wearing when he arrived at the monastery.">
-<pathsverse_n pathsverse_n="6">
+</verse_n>
+</translation>
+<translation translation="Indeed, due to his great humility, he couldn't bear to call himself a monk, wearing neither a hood nor a cloak (nor is it customary for foreign monks to wear things like this), but only a kolobion, pallium, and belt: These were what he was wearing when he arrived at the monastery.">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <orig orig="ⲟⲩⲇⲉ">
@@ -16163,10 +16173,10 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="Indeed, his hair had grown a bit from the number of days he'd spent along the road he'd been travelling in the interim.">
-<pathsverse_n pathsverse_n="7">
+</verse_n>
+</translation>
+<translation translation="Indeed, his hair had grown a bit from the number of days he'd spent along the road he'd been travelling in the interim.">
+<verse_n verse_n="7">
 <lb_n lb_n="12">
 <orig_group orig_group="ⲛⲉⲁⲡⲉϥⲃⲱ">
 <norm_group norm_group="ⲛⲉⲁⲡⲉϥⲃⲱ">
@@ -16527,10 +16537,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="Because of this, he wasn't immediately recognized as a monk.">
-<pathsverse_n pathsverse_n="8">
+</verse_n>
+</translation>
+<translation translation="Because of this, he wasn't immediately recognized as a monk.">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -16689,10 +16699,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="And the doorman said to him, “You won't be able to be a monk here.">
-<pathsverse_n pathsverse_n="9">
+</verse_n>
+</translation>
+<translation translation="And the doorman said to him, “You won't be able to be a monk here.">
+<verse_n verse_n="9">
 <orig_group orig_group="ⲡⲉⲙⲛⲟⲩⲧ">
 <norm_group norm_group="ⲡⲉⲙⲛⲟⲩⲧ">
 <entity entity="person">
@@ -16921,10 +16931,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="Indeed, even the rule of our psalmody is strict, and how we eat, and how we sleep, as well as the remainder of our tasks, involve much difficulty and exhaustion. There's no comfort in them.">
-<pathsverse_n pathsverse_n="10">
+</verse_n>
+</translation>
+<translation translation="Indeed, even the rule of our psalmody is strict, and how we eat, and how we sleep, as well as the remainder of our tasks, involve much difficulty and exhaustion. There's no comfort in them.">
+<verse_n verse_n="10">
 <orig_group orig_group="ⲕⲁⲓ">
 <norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲁⲓ">
@@ -17418,10 +17428,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="So take some consecrated bread for yourself. Lord be with you.”">
-<pathsverse_n pathsverse_n="11">
+</verse_n>
+</translation>
+<translation translation="So take some consecrated bread for yourself. Lord be with you.”">
+<verse_n verse_n="11">
 <orig_group orig_group="ϫⲓ">
 <norm_group norm_group="ϫⲓ">
 <orig orig="ϫⲓ">
@@ -17602,14 +17612,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 <p_n p_n="15">
 <chapter_n chapter_n="15">
-<translation_old translation_old="Now he, the noble Apa Longinus, did not object to being told anything, but when he heard the name of the Eucharist,">
-<pathsverse_n pathsverse_n="1">
+<translation translation="Now he, the noble Apa Longinus, did not object to being told anything, but when he heard the name of the Eucharist,">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
@@ -17956,10 +17966,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="he took the bread with the blessing,">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="he took the bread with the blessing,">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲛⲟⲉⲓⲕ">
 <norm_group norm_group="ⲛⲟⲉⲓⲕ">
 <orig orig="ⲛ">
@@ -18088,10 +18098,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="and waited at the door for many days, likening himself, in addition, to Anthony the Great, whom—when he'd come to the great anchorite Paul after much exhaustion on the desert road he'd endured—">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="and waited at the door for many days, likening himself, in addition, to Anthony the Great, whom—when he'd come to the great anchorite Paul after much exhaustion on the desert road he'd endured—">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
 <norm_group norm_group="ⲁϥϩⲩⲡⲟⲙⲓⲛⲉ">
 <orig orig="ⲁ">
@@ -18693,11 +18703,11 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 <lb_n lb_n="6">
-<translation_old translation_old="was not immediately accepted by that great one.">
-<pathsverse_n pathsverse_n="4">
+<translation translation="was not immediately accepted by that great one.">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲙⲡⲉⲡⲛⲟϭ">
 <norm_group norm_group="ⲙⲡⲉⲡⲛⲟϭ">
 <orig orig="ⲙⲡⲉ">
@@ -18841,10 +18851,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="The blessed Anthony, in turn, waited at the entrance, saying, “I've inquired and found, and I trust that they'll open to me.”">
-<pathsverse_n pathsverse_n="5">
+</verse_n>
+</translation>
+<translation translation="The blessed Anthony, in turn, waited at the entrance, saying, “I've inquired and found, and I trust that they'll open to me.”">
+<verse_n verse_n="5">
 <entity identity="Anthony the Great" entity="person">
 <orig_group orig_group="ⲡⲙⲁⲕⲁⲣⲓⲟⲥ">
 <norm_group norm_group="ⲡⲙⲁⲕⲁⲣⲓⲟⲥ">
@@ -19264,10 +19274,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="He too, for his part—as it was this same spirit in him, and he thought these things in his mind—he too waited at the door until, due to his great perseverance, he achieved what he'd been thinking about in his mind.">
-<pathsverse_n pathsverse_n="6">
+</verse_n>
+</translation>
+<translation translation="He too, for his part—as it was this same spirit in him, and he thought these things in his mind—he too waited at the door until, due to his great perseverance, he achieved what he'd been thinking about in his mind.">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <entity entity="abstract">
@@ -19887,10 +19897,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="When the porter kept coming out daily to perform the tasks assigned to him,">
-<pathsverse_n pathsverse_n="7">
+</verse_n>
+</translation>
+<translation translation="When the porter kept coming out daily to perform the tasks assigned to him,">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲛⲧⲉⲣⲉⲡⲉⲑⲩⲣⲟⲩⲣⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉⲡⲉⲑⲩⲣⲟⲩⲣⲟⲥ">
 <orig orig="ⲛⲧⲉⲣⲉ">
@@ -20131,10 +20141,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="he'd find him sitting at the door with great perseverance,">
-<pathsverse_n pathsverse_n="8">
+</verse_n>
+</translation>
+<translation translation="he'd find him sitting at the door with great perseverance,">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲛⲉϣⲁϥϭⲛⲧϥ̇">
 <norm_group norm_group="ⲛⲉϣⲁϥϭⲛⲧϥ">
 <orig orig="ⲛⲉ">
@@ -20318,11 +20328,11 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </lb_n>
-<translation_old translation_old="and would report to the leader of the monastery, saying, “There's a boy—a foreigner—at the entrance to the monastery. He's been saying for many days now, ‘I'd like to become a monk.’">
-<pathsverse_n pathsverse_n="9">
+<translation translation="and would report to the leader of the monastery, saying, “There's a boy—a foreigner—at the entrance to the monastery. He's been saying for many days now, ‘I'd like to become a monk.’">
+<verse_n verse_n="9">
 <lb_n lb_n="13">
 <orig_group orig_group="ⲁϥϫⲓ">
 <norm_group norm_group="ⲁϥϫⲓ">
@@ -20872,10 +20882,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="I've refused him many times,">
-<pathsverse_n pathsverse_n="10">
+</verse_n>
+</translation>
+<translation translation="I've refused him many times,">
+<verse_n verse_n="10">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -21007,10 +21017,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="yet he's persisted until now.”">
-<pathsverse_n pathsverse_n="11">
+</verse_n>
+</translation>
+<translation translation="yet he's persisted until now.”">
+<verse_n verse_n="11">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -21129,10 +21139,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="The abbot replied, saying,">
-<pathsverse_n pathsverse_n="12">
+</verse_n>
+</translation>
+<translation translation="The abbot replied, saying,">
+<verse_n verse_n="12">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ̇">
 <norm_group norm_group="ⲁϥⲟⲩⲱϣⲃ">
 <orig orig="ⲁ">
@@ -21282,10 +21292,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="“Since you've seen his perseverance, bring him inside the gate with you, and he'll stay to help you with your tasks—anything you assign to him.”">
-<pathsverse_n pathsverse_n="13">
+</verse_n>
+</translation>
+<translation translation="“Since you've seen his perseverance, bring him inside the gate with you, and he'll stay to help you with your tasks—anything you assign to him.”">
+<verse_n verse_n="13">
 <orig_group orig_group="ⲉⲫⲟⲥⲟⲛ">
 <norm_group norm_group="ⲉⲫⲟⲥⲟⲛ">
 <orig orig="ⲉⲫⲟⲥⲟⲛ">
@@ -21759,14 +21769,14 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 <p_n p_n="16">
 <chapter_n chapter_n="16">
-<translation_old translation_old="At last the doorman brought him in through the gate per the order of the father of the monastery. Not only did he perform every task the porter ordered of him, but he would do anything ordered of him by the brothers with great diligence and complete obedience.">
-<pathsverse_n pathsverse_n="1">
+<translation translation="At last the doorman brought him in through the gate per the order of the father of the monastery. Not only did he perform every task the porter ordered of him, but he would do anything ordered of him by the brothers with great diligence and complete obedience.">
+<verse_n verse_n="1">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲗⲟⲓⲡⲟⲛ">
 <norm_group norm_group="ⲗⲟⲓⲡⲟⲛ">
@@ -22570,10 +22580,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="And he persisted like this with such tasks for two or more years, and he didn't tell the brothers at all that he was a monk.">
-<pathsverse_n pathsverse_n="2">
+</verse_n>
+</translation>
+<translation translation="And he persisted like this with such tasks for two or more years, and he didn't tell the brothers at all that he was a monk.">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -23005,10 +23015,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="God, who always glorifies those who glorify him, and reveals what is hidden, and exalts the humble—He has said with his truthful mouth:">
-<pathsverse_n pathsverse_n="3">
+</verse_n>
+</translation>
+<translation translation="God, who always glorifies those who glorify him, and reveals what is hidden, and exalts the humble—He has said with his truthful mouth:">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ⲡⲛⲟⲩⲧⲉ">
 <entity entity="person">
@@ -23543,10 +23553,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="“A lamp is not lit and put under a basket, but rather it is set on the lampstand, and illuminates all those who are in the house.”">
-<pathsverse_n pathsverse_n="4">
+</verse_n>
+</translation>
+<translation translation="“A lamp is not lit and put under a basket, but rather it is set on the lampstand, and illuminates all those who are in the house.”">
+<verse_n verse_n="4">
 <quote_type quote_type="biblical">
 <quote_ref quote_ref="Mt. 5 , 15">
 <orig_group orig_group="ⲙⲉⲩϫⲉⲣⲉ">
@@ -23926,10 +23936,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="He did not wish for his chosen one to remain hidden, but instead truly revealed him as a light, and set him on the intelligible lampstand, being not only a light for those around him, but for the others who are far from him,">
-<pathsverse_n pathsverse_n="5">
+</verse_n>
+</translation>
+<translation translation="He did not wish for his chosen one to remain hidden, but instead truly revealed him as a light, and set him on the intelligible lampstand, being not only a light for those around him, but for the others who are far from him,">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲙ̇ⲡⲉϥⲟⲩⲱϣ">
 <norm_group norm_group="ⲙⲡⲉϥⲟⲩⲱϣ">
 <orig orig="ⲙⲡⲉ">
@@ -24568,10 +24578,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</pathsverse_n>
-</translation_old>
-<translation_old translation_old="having illuminated them through the abundance of his fruits and good deeds, just as the word will reveal to us when the account proceeds.">
-<pathsverse_n pathsverse_n="6">
+</verse_n>
+</translation>
+<translation translation="having illuminated them through the abundance of his fruits and good deeds, just as the word will reveal to us when the account proceeds.">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲉⲁϥⲣ̇ⲟⲩⲟⲉⲓⲛ">
 <norm_group norm_group="ⲉⲁϥⲣⲟⲩⲟⲉⲓⲛ">
 <orig orig="ⲉ">
@@ -24989,8 +24999,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</pathsverse_n>
-</translation_old>
+</verse_n>
+</translation>
 </chapter_n>
 </p_n>
 </meta>
