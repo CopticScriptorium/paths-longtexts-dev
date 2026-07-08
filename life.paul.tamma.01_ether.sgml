@@ -1,7 +1,7 @@
-<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" people="Abib and Apollo; Agathonicus; Anthony the Great; Daniel (biblical figure); Elisha; Isidore of Pelusium; Jesus; John the Apostle; Joseph (Genesis); Michael (archangel); Paul the Apostle" places="Wadi El Natrun" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Paul of Tamma part 1" translation="none" Trismegistos="none" version_date="2020-08-31" version_n="4.0.0">
+<meta annotation="Julian Bogdani, Amir Zeldes, Lance Martin, Caroline T. Schroeder" Arabic_translation="Philippe Zaher" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" people="Abib and Apollo; Agathonicus; Anthony the Great; Daniel (biblical figure); Elisha; Isidore of Pelusium; Jesus; John the Apostle; Joseph (Genesis); Michael (archangel); Paul the Apostle" places="Wadi El Natrun" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Paul of Tamma part 1" translation="none" Trismegistos="none" version_date="2020-08-31" version_n="4.0.0">
 <p_n p_n="1">
 <chapter_n chapter_n="1">
-<translation translation="...">
+<translation translation="The life of our beloved brother Apa Paul of Tamma, who rested on the seventh day of the month of Paopi. May his blessing be upon us and may we be saved, in God’s peace, amen.">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
 <entity entity="abstract">
@@ -264,6 +264,7 @@
 </norm>
 </orig>
 <entity identity="Paopi" entity="time">
+<entity_identity entity_identity="Paopi">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -297,6 +298,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 </date_type>
 </entity>
@@ -500,7 +502,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Listen, O lovers of listening, to the voice …  as he said to his disciples, “if you keep my commands” … “you will remain in …”">
 <verse_n verse_n="2">
 <p_source p_source="PATHS">
 <orig_group orig_group="ⲥⲱⲧⲙ">
@@ -583,7 +585,7 @@
 <orig orig="ⲡⲉ">
 <norm norm="ⲡⲉ">
 <lemma lemma="ⲡⲉ">
-<pos pos="COP">
+<pos pos="UNKNOWN">
 ⲡⲉ
 </pos>
 </lemma>
@@ -890,7 +892,7 @@
 <orig orig="ⲥⲟⲟⲩ">
 <norm norm="ⲥⲟⲟⲩ">
 <lemma lemma="ⲥⲟⲟⲩ">
-<pos pos="NUM">
+<pos pos="UNKNOWN">
 ⲥⲟⲟⲩ
 </pos>
 </lemma>
@@ -902,7 +904,7 @@
 </entity>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="… God sent to me Michael the archangel at noon on the sixteenth day of Epep.">
 <verse_n verse_n="3">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
@@ -919,22 +921,26 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉϩⲁⲡⲛⲟⲩⲧⲉ">
-<norm_group norm_group="ⲉϩⲁⲡⲛⲟⲩⲧⲉ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
+<orig_group orig_group="ⲉϩ">
+<norm_group norm_group="ⲉϩ">
+<orig orig="ⲉϩ">
+<norm norm="ⲉϩ">
 <lemma lemma="UNKNOWN">
 <pos pos="UNKNOWN">
-ⲉ
+ⲉϩ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲁ">
-<norm norm="ϩⲁ">
-<lemma lemma="ϩⲁ">
-<pos pos="PREP">
-ϩⲁ
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲡⲛⲟⲩⲧⲉ">
+<norm_group norm_group="ⲁⲡⲛⲟⲩⲧⲉ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
 </pos>
 </lemma>
 </norm>
@@ -1009,6 +1015,7 @@
 </orig>
 <entity identity="Michael (archangel)" entity="person">
 <persName_type persName_type="arch_angel">
+<entity_identity entity_identity="Michael (archangel)">
 <orig orig="ⲙⲓⲭⲁⲏⲗ">
 <norm norm="ⲙⲓⲭⲁⲏⲗ">
 <lemma lemma="ⲙⲓⲭⲁⲏⲗ">
@@ -1046,6 +1053,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </persName_type>
 </entity>
 <orig_group orig_group="ⲙⲡⲛⲁⲩ">
@@ -1157,7 +1165,9 @@
 <norm norm="ⲉⲡⲏⲡ">
 <lemma lemma="ⲉⲡⲏⲡ">
 <pos pos="NPROP">
+<entity_identity entity_identity="Epeiph">
 ⲉⲡⲏⲡ
+</entity_identity>
 </pos>
 </lemma>
 </norm>
@@ -1170,7 +1180,7 @@
 </verse_n>
 </translation>
 </p_source>
-<translation translation="...">
+<translation translation="He said to me, “Greetings, my honored child!”">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -1293,7 +1303,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="I answered him, “Surely, greetings! …”">
 <p_source p_source="PATHS">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲁⲛⲟⲕ">
@@ -1441,7 +1451,7 @@
 <orig orig="ⲧⲟⲩ">
 <norm norm="ⲧⲟⲩ">
 <lemma lemma="ⲡⲟⲩ">
-<pos pos="PPOS">
+<pos pos="UNKNOWN">
 ⲧⲟⲩ
 </pos>
 </lemma>
@@ -1452,7 +1462,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“… the man of Tamma. For you are the one who will be in charge of his body when he lays it down.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="6">
 <orig_group orig_group="[...]">
@@ -1728,7 +1738,7 @@
 </p_n>
 <p_n p_n="2">
 <chapter_n chapter_n="2">
-<translation translation="...">
+<translation translation="After he said these things, he went to heaven in glory. I arose immediately and left …">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲛⲁⲓ">
@@ -2103,7 +2113,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="John said, “Let him be thus our father and our bishop.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲡⲉϫⲉⲓⲱϩⲁⲛⲛⲏⲥ">
@@ -2124,7 +2134,9 @@
 <pos pos="NPROP">
 <lang lang="Hebrew">
 <persName_type persName_type="monk">
+<entity_identity entity_identity="John the Apostle">
 ⲓⲱϩⲁⲛⲛⲏⲥ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -2267,7 +2279,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Peter said, “My father Paul, arise and call upon God to send us bread from heaven, that we may eat together.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
@@ -2622,7 +2634,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father said, “Forgive me, bless me. Arise, pray to him, and he will satisfy us.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -2900,7 +2912,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="They arose and they spread out their hands at the same time. My father called on God, saying, “My Lord Jesus Christ, who blessed five loaves, and five thousand men ate what came from those five barley loaves and two fish.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲁⲩⲧⲱⲟⲩⲛ">
@@ -3188,6 +3200,7 @@
 </norm>
 </orig>
 <entity identity="Jesus" entity="person">
+<entity_identity entity_identity="Jesus">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
 <lemma lemma="ⲡⲁ">
@@ -3342,6 +3355,7 @@
 </norm_group>
 </orig_group>
 </entity>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲁϯⲟⲩ">
 <norm_group norm_group="ⲁϯⲟⲩ">
@@ -3366,8 +3380,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϣⲉ">
-<norm_group norm_group="ⲛϣⲉ">
+<orig_group orig_group="ⲛϣⲁ">
+<norm_group norm_group="ⲛϣⲟ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -3377,11 +3391,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲉ">
-<norm norm="ϣⲉ">
-<lemma lemma="ϣⲉ">
+<orig orig="ϣⲁ">
+<norm norm="ϣⲟ">
+<lemma lemma="ϣⲟ">
 <pos pos="NUM">
-ϣⲉ
+ϣⲟ
 </pos>
 </lemma>
 </norm>
@@ -3596,7 +3610,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“Who heard Elisha, and satisfied ten hundred men with the ten barley loaves, may you hear me today.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="6">
 <entity entity="person">
@@ -3667,7 +3681,9 @@
 <pos pos="NPROP">
 <lang lang="Hebrew">
 <persName_type persName_type="biblical">
+<entity_identity entity_identity="Elisha">
 ⲉⲗⲓⲥⲥⲁⲓⲟⲥ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -3700,7 +3716,7 @@
 </orig>
 <orig orig="ⲧⲥⲉⲓⲁ">
 <norm norm="ⲧⲥⲉⲓⲁ">
-<lemma lemma="ⲧⲥⲟ">
+<lemma lemma="ⲧⲥⲓⲟ">
 <pos pos="V">
 ⲧⲥⲉⲓⲁ
 </pos>
@@ -3923,7 +3939,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“Who heard Daniel when he was in the lions’ den, and sent Habakkuk to him when the meal was in his hands.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="7">
 <entity entity="person">
@@ -3994,7 +4010,9 @@
 <pos pos="NPROP">
 <lang lang="Hebrew">
 <persName_type persName_type="biblical">
+<entity_identity entity_identity="Daniel (biblical figure)">
 ⲇⲁⲛⲓⲏⲗ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -4241,7 +4259,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“May you hear me today and send me bread from heaven, then I will eat with my brothers and fathers.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲉⲕⲉⲥⲱⲧⲙ">
@@ -4421,12 +4439,12 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲉⲛⲧⲡⲉ">
-<norm_group norm_group="ϩⲉⲛⲧⲡⲉ">
+<norm_group norm_group="ϩⲛⲧⲡⲉ">
 <orig orig="ϩⲉⲛ">
-<norm norm="ϩⲉⲛ">
-<lemma lemma="ϩⲉⲛ">
+<norm norm="ϩⲛ">
+<lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ϩⲉⲛ
+ϩⲛ
 </pos>
 </lemma>
 </norm>
@@ -4548,7 +4566,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Immediately, behold, a table with three hot loaves on a plate came forth and was placed in our midst.">
 <p_source p_source="PATHS">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
@@ -4822,7 +4840,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲟⲩⲱϩ">
-<norm_group norm_group="ⲁⲩⲟⲩⲱⲙ">
+<norm_group norm_group="ⲁⲩⲟⲩⲱϩ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -4842,8 +4860,8 @@
 </norm>
 </orig>
 <orig orig="ⲟⲩⲱϩ">
-<norm norm="ⲟⲩⲱⲙ">
-<lemma lemma="ⲟⲩⲱⲙ">
+<norm norm="ⲟⲩⲱϩ">
+<lemma lemma="ⲟⲩⲱϩ">
 <pos pos="V">
 ⲟⲩⲱϩ
 </pos>
@@ -4888,7 +4906,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father said to them, “Arise and eat the bread of heaven.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -5085,7 +5103,7 @@
 </p_n>
 <p_n p_n="4">
 <chapter_n chapter_n="4">
-<translation translation="...">
+<translation translation="He also took a little salt and put it on the table. We prayed together and we ate the little bread by the blessing of the Lord.">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲁϥϫⲓ">
@@ -5494,7 +5512,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father spoke and said to the brothers, “I say to you, behold, for fifty-four years, from the day when my head was shaved on the mountain by my beloved father Apa Hyperichos, until now, a single loaf and a pint of water every forty days is what was appointed for me by God. I don’t know where they come from.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -6421,7 +6439,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“I eat them at sundown after my forty (day fast).”">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
 <orig_group orig_group="ϣⲁⲓⲟⲩⲱⲙ">
@@ -6550,7 +6568,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“I don’t eat, you see, until the end of my forty (day fast), to follow the Savior’s rule, which he gave us in the holy gospel, where he himself did not eat or drink for forty days and forty nights.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲙⲉⲓⲟⲩⲱⲙ">
@@ -7072,7 +7090,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="The brothers said to him, “You are right to do so.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲡⲉϫⲁⲩ">
@@ -7225,7 +7243,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“An athlete does not win unless he competes according to the rules.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲙⲉⲣⲉϣⲟⲉⲓϫ">
@@ -7336,7 +7354,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="He raised his hands up to heaven and he prayed with the brothers saying, “O Lord Jesus Christ, O King of Kings, hear us today and send to us a hot, fresh loaf.">
 <p_source p_source="PATHS">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲁϥϥⲓ">
@@ -7578,6 +7596,7 @@
 </norm>
 </orig>
 <entity identity="Jesus" entity="person">
+<entity_identity entity_identity="Jesus">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -7692,6 +7711,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲥⲱⲧⲙ">
 <norm_group norm_group="ⲥⲱⲧⲙ">
@@ -7925,7 +7945,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Immediately, behold, … from heaven was placed in our midst, wrapped in fine linen.">
 <p_source p_source="PATHS">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲛⲧⲉⲩⲛⲟⲩ">
@@ -8045,7 +8065,7 @@
 </orig_group>
 </entity>
 <orig_group orig_group="ⲁⲩⲟⲩⲱϩ">
-<norm_group norm_group="ⲁⲩⲟⲩⲱⲙ">
+<norm_group norm_group="ⲁⲩⲟⲩⲱϩ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -8065,8 +8085,8 @@
 </norm>
 </orig>
 <orig orig="ⲟⲩⲱϩ">
-<norm norm="ⲟⲩⲱⲙ">
-<lemma lemma="ⲟⲩⲱⲙ">
+<norm norm="ⲟⲩⲱϩ">
+<lemma lemma="ⲟⲩⲱϩ">
 <pos pos="V">
 ⲟⲩⲱϩ
 </pos>
@@ -8199,7 +8219,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Peter said to John, “Behold, the loaf and the cloths. We still need the furniture for the Eucharist.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲉⲧⲣⲟⲥ">
@@ -8248,7 +8268,9 @@
 <pos pos="NPROP">
 <lang lang="Hebrew">
 <persName_type persName_type="monk">
+<entity_identity entity_identity="John the Apostle">
 ⲓⲱϩⲁⲛⲛⲏⲥ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -8452,7 +8474,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="John answered, saying to the brothers, “Pray for me and I will be the one who ...”">
 <p_source p_source="PATHS">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -8504,7 +8526,9 @@
 <pos pos="NPROP">
 <lang lang="Hebrew">
 <persName_type persName_type="monk">
+<entity_identity entity_identity="John the Apostle">
 ⲓⲱϩⲁⲛⲛⲏⲥ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -8704,7 +8728,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="... John opened his mouth saying, “Our Lord Jesus Christ, may you send a table from heaven, so that we may place on it your body and your blood.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="11">
 <orig_group orig_group="[...]">
@@ -8798,6 +8822,7 @@
 </norm>
 </orig>
 <entity identity="John the Apostle" entity="person">
+<entity_identity entity_identity="John the Apostle">
 <orig orig="ⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm norm="ⲓⲱϩⲁⲛⲛⲏⲥ">
 <lemma lemma="ⲓⲱϩⲁⲛⲛⲏⲥ">
@@ -8866,6 +8891,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ϫⲉⲡⲉⲛϫⲟⲉⲓⲥ">
 <norm_group norm_group="ϫⲉⲡⲉⲛϫⲟⲉⲓⲥ">
@@ -8879,6 +8905,7 @@
 </norm>
 </orig>
 <entity identity="Jesus" entity="person">
+<entity_identity entity_identity="Jesus">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
@@ -8938,6 +8965,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲉⲕⲉⲧⲛⲛⲟⲟⲩ">
 <norm_group norm_group="ⲉⲕⲉⲧⲛⲛⲟⲟⲩ">
@@ -9188,7 +9216,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="And immediately, behold, a golden table came from heaven and settled in our midst.">
 <p_source p_source="PATHS">
 <verse_n verse_n="12">
 <orig_group orig_group="ⲁⲩⲱ">
@@ -9442,7 +9470,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Paul also arose and prayed in this manner, saying, “My Lord Jesus Christ, who called me to the office of the holy apostles when at first I was a persecutor, persecuting your holy bride, the church.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="13">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
@@ -9516,7 +9544,9 @@
 <pos pos="NPROP">
 <lang lang="Greek">
 <persName_type persName_type="monk">
+<entity_identity entity_identity="Paul the Apostle">
 ⲡⲁⲩⲗⲟⲥ
+</entity_identity>
 </persName_type>
 </lang>
 </pos>
@@ -9653,6 +9683,7 @@
 </norm>
 </orig>
 <entity identity="Jesus" entity="person">
+<entity_identity entity_identity="Jesus">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
 <lemma lemma="ⲡⲁ">
@@ -9712,6 +9743,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲧⲁϩⲙⲉⲧ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲧⲁϩⲙⲉⲧ">
@@ -10071,7 +10103,7 @@
 </p_n>
 <p_n p_n="5">
 <chapter_n chapter_n="5">
-<translation translation="...">
+<translation translation="“Now again, O Lord, hear me in the midst of my brothers and send me a cup from heaven filled with wine from the true grapevine.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
@@ -10496,7 +10528,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="At that moment, behold, a cup filled with wine from the true grapevine was placed on the table.">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
@@ -10809,7 +10841,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="The monk Apa Esidoros the priest also arose, and he lifted both his hands up to heaven and prayed, saying,">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
@@ -10877,6 +10909,7 @@
 </norm>
 </orig>
 <entity identity="Isidore of Pelusium" entity="person">
+<entity_identity entity_identity="Isidore of Pelusium">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -10955,6 +10988,7 @@
 </roleName_type>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲁϥϥⲓ">
 <norm_group norm_group="ⲁϥϥⲓ">
@@ -11166,7 +11200,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“O Lord God Almighty, O King of Kings, I don’t deserve to speak in the midst of my brothers and your chosen, these whom you chose for your apostles,”">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <orig_group orig_group="ϫⲉⲡϫⲟⲉⲓⲥ">
@@ -11601,7 +11635,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“but because of the joy you gave me, I arose and I called on you, that you might satisfy me and send me incense from the incense in paradise, so that we may offer it up until we call on your name over your body and your holy blood.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲁⲗⲗⲁ">
@@ -12265,7 +12299,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Immediately, behold, a bowl filled with incense settled in the middle, and we were refreshed by the incense.">
 <p_source p_source="PATHS">
 <verse_n verse_n="6">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
@@ -12554,7 +12588,7 @@
 </p_source>
 </translation>
 <p_source p_source="PATHS">
-<translation translation="...">
+<translation translation="Another arose, Apa Agathonikos from the mountain of ... he said ...">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
 <norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
@@ -12621,6 +12655,7 @@
 </norm>
 </orig>
 <entity identity="Agathonicus" entity="person">
+<entity_identity entity_identity="Agathonicus">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
 <lemma lemma="ⲁⲡⲁ">
@@ -12649,6 +12684,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲡⲁⲡⲧⲟⲟⲩ">
 <norm_group norm_group="ⲡⲁⲡⲧⲟⲟⲩ">
@@ -12796,7 +12832,7 @@
 </orig_group>
 </translation>
 </p_source>
-<translation translation="...">
+<translation translation="remaining pieces ... they put them in my father’s basket.">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲗⲁⲕⲙ">
@@ -12994,7 +13030,7 @@
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="I drank the water in the pitcher then we prayed and walked away from that place.">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁⲓⲥⲱ">
@@ -13239,7 +13275,7 @@
 </p_source>
 </translation>
 <p_source p_source="PATHS">
-<translation translation="...">
+<translation translation="We came southward from the entire mountain ...">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲓ">
@@ -13473,7 +13509,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="... to the brother monks.">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
 <norm_group norm_group="ⲛⲱⲛⲉⲛⲉⲥⲛⲏⲟⲩ">
@@ -13557,7 +13593,7 @@
 </verse_n>
 </translation>
 </p_source>
-<translation translation="...">
+<translation translation="We heard a voice, “… bless us O Apa Paul of Tamma and Ezekiel of Kouinerot. Come in, you who are holy in the Lord!”">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲁⲛⲥⲱⲧⲙ">
@@ -13969,7 +14005,7 @@
 </p_source>
 </translation>
 <p_source p_source="PATHS">
-<translation translation="...">
+<translation translation="“Rightly you came to us (welcome), Apa Paul of Tamma, whom the Lord raised ...”">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲕⲁⲗⲱⲥ">
 <norm_group norm_group="ⲕⲁⲗⲱⲥ">
@@ -14202,7 +14238,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="...">
+<translation translation="“... we who are here today.”">
 <verse_n verse_n="6">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
@@ -14316,7 +14352,7 @@
 </p_source>
 </verse_n>
 </translation>
-<translation translation="...">
+<translation translation="My father said, “Rightly to you (hello) Apa Pamoun of the garment of many colors, like Joseph the righteous king!”">
 <p_source p_source="PATHS">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
@@ -14578,6 +14614,7 @@ PREP
 </norm>
 </orig>
 <entity identity="Joseph (Genesis)" entity="person">
+<entity_identity entity_identity="Joseph (Genesis)">
 <orig orig="ⲓⲱⲥⲏⲫ">
 <norm norm="ⲓⲱⲥⲏⲫ">
 <lemma lemma="ⲓⲱⲥⲏⲫ">
@@ -14639,11 +14676,12 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Then he asked him, “Who is the one who shaved your head?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲁϥϫⲛⲟⲩϥ">
@@ -14788,7 +14826,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="He said, “It was my father Apa Hellen.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -14894,7 +14932,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“Remember me, O my holy father Ap[a] ......... My father ... why do you gather on the sabbath and the Lord’s day?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ">
@@ -14990,14 +15028,14 @@ PREP
 </orig_group>
 </entity>
 <orig_group orig_group="ⲁⲡ">
-<norm_group norm_group="ϩⲁⲡ">
+<norm_group norm_group="ⲁⲡⲁ">
 <entity entity="abstract">
 <orig orig="ⲁⲡ">
-<norm norm="ϩⲁⲡ">
-<lemma lemma="ϩⲁⲡ">
+<norm norm="ⲁⲡⲁ">
+<lemma lemma="ⲁⲡⲁ">
 <pos pos="N">
-<lang lang="Greek">
-ⲁⲡ
+<lang lang="Hebrew">
+ⲁⲡⲁ
 </lang>
 </pos>
 </lemma>
@@ -15201,7 +15239,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Apa Pamoun answered, “John the Virgin gathered on the sabbath and the Lord’s day.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="11">
 <orig_group orig_group="ⲁϥⲟⲩⲱϣⲃ">
@@ -15286,6 +15324,7 @@ PREP
 </norm>
 </orig>
 <entity identity="John the Apostle" entity="person">
+<entity_identity entity_identity="John the Apostle">
 <orig orig="ⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm norm="ⲓⲱϩⲁⲛⲛⲏⲥ">
 <lemma lemma="ⲓⲱϩⲁⲛⲛⲏⲥ">
@@ -15325,6 +15364,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲡⲉϣⲁϥⲥⲩⲛⲁⲅⲉ">
 <norm_group norm_group="ⲡⲉϣⲁϥⲥⲩⲛⲁⲅⲉ">
@@ -15442,7 +15482,7 @@ PREP
 </p_source>
 </translation>
 <p_source p_source="PATHS">
-<translation translation="...">
+<translation translation="“For sabbaths …”">
 <verse_n verse_n="12">
 <orig_group orig_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲛⲥⲁⲃⲃⲁⲧⲟⲛ">
@@ -15540,9 +15580,10 @@ PREP
 </p_n>
 <p_n p_n="8">
 <chapter_n chapter_n="8">
-<translation translation="...">
+<translation translation="... Apa Apollo, we found him sitting on a chair, instructing his children in the commands of life.">
 <verse_n verse_n="1">
 <entity identity="Abib and Apollo" entity="person">
+<entity_identity entity_identity="Abib and Apollo">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
 <orig orig="ⲁⲡⲁ">
@@ -15573,8 +15614,9 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
-<orig_group orig_group="ⲁⲛϭⲉⲛⲧϥ">
+<orig_group orig_group="ⲁⲛϭⲉⲛⲧϥ̄">
 <norm_group norm_group="ⲁⲛϭⲉⲛⲧϥ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -15603,11 +15645,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̄">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̄
 </pos>
 </lemma>
 </norm>
@@ -15645,13 +15687,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓϫⲛⲟⲩⲑⲣⲟⲛⲟⲥ">
+<orig_group orig_group="ϩⲓ̈ϫⲛ̄ⲟⲩⲑⲣⲟⲛⲟⲥ">
 <norm_group norm_group="ϩⲓϫⲛⲟⲩⲑⲣⲟⲛⲟⲥ">
-<orig orig="ϩⲓϫⲛ">
+<orig orig="ϩⲓ̈ϫⲛ̄">
 <norm norm="ϩⲓϫⲛ">
 <lemma lemma="ϩⲓϫⲛ">
 <pos pos="PREP">
-ϩⲓϫⲛ
+ϩⲓ̈ϫⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -15718,13 +15760,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲉϥϣⲏⲣⲉ">
+<orig_group orig_group="ⲛ̄ⲛⲉϥϣⲏⲣⲉ">
 <norm_group norm_group="ⲛⲛⲉϥϣⲏⲣⲉ">
-<orig orig="ⲛ">
+<orig orig="ⲛ̄">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -15751,13 +15793,13 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲛⲛⲉⲉⲛⲧⲟⲗⲏ">
+<orig_group orig_group="ϩⲛ̄ⲛⲉⲉⲛⲧⲟⲗⲏ">
 <norm_group norm_group="ϩⲛⲛⲉⲉⲛⲧⲟⲗⲏ">
-<orig orig="ϩⲛ">
+<orig orig="ϩⲛ̄">
 <norm norm="ϩⲛ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ϩⲛ
+ϩⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -15785,7 +15827,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲱⲛϩ">
+<orig_group orig_group="ⲙⲡⲱⲛ︤ϩ︥">
 <norm_group norm_group="ⲙⲡⲱⲛϩ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
@@ -15806,11 +15848,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲱⲛϩ">
+<orig orig="ⲱⲛ︤ϩ︥">
 <norm norm="ⲱⲛϩ">
 <lemma lemma="ⲱⲛϩ">
 <pos pos="N">
-ⲱⲛϩ
+ⲱⲛ︤ϩ︥
 </pos>
 </lemma>
 </norm>
@@ -15822,10 +15864,10 @@ PREP
 </verse_n>
 </translation>
 </p_source>
-<translation translation="...">
+<translation translation="When he saw my father Apa Paul he leapt down from his chair and embraced him and kissed him.">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
-<orig_group orig_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
+<orig_group orig_group="ⲛⲧⲉⲣⲉϥ̄ⲛⲁⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥⲛⲁⲩ">
 <orig orig="ⲛⲧⲉⲣⲉ">
 <norm norm="ⲛⲧⲉⲣⲉ">
@@ -15836,11 +15878,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̄">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERS">
-ϥ
+ϥ̄
 </pos>
 </lemma>
 </norm>
@@ -15856,7 +15898,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲡⲁⲉⲓⲱⲧ">
+<orig_group orig_group="ⲉⲡⲁⲉⲓ̈ⲱⲧ">
 <norm_group norm_group="ⲉⲡⲁⲉⲓⲱⲧ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -15877,11 +15919,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲓⲱⲧ">
+<orig orig="ⲉⲓ̈ⲱⲧ">
 <norm norm="ⲉⲓⲱⲧ">
 <lemma lemma="ⲉⲓⲱⲧ">
 <pos pos="N">
-ⲉⲓⲱⲧ
+ⲉⲓ̈ⲱⲧ
 </pos>
 </lemma>
 </norm>
@@ -15919,7 +15961,7 @@ PREP
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲁϥⲃⲟϭϥ">
+<orig_group orig_group="ⲁϥⲃⲁϭϥ">
 <norm_group norm_group="ⲁϥⲃⲟϭϥ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -15939,11 +15981,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲃⲟϭ">
+<orig orig="ⲃⲁϭ">
 <norm norm="ⲃⲟϭ">
 <lemma lemma="ϥⲱϭⲉ">
 <pos pos="V">
-ⲃⲟϭ
+ⲃⲁϭ
 </pos>
 </lemma>
 </norm>
@@ -15959,26 +16001,26 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉϩⲣⲁⲓ">
+<orig_group orig_group="ⲉϩⲣⲁⲓ̈">
 <norm_group norm_group="ⲉϩⲣⲁⲓ">
-<orig orig="ⲉϩⲣⲁⲓ">
+<orig orig="ⲉϩⲣⲁⲓ̈">
 <norm norm="ⲉϩⲣⲁⲓ">
 <lemma lemma="ⲉϩⲣⲁⲓ">
 <pos pos="ADV">
-ⲉϩⲣⲁⲓ
+ⲉϩⲣⲁⲓ̈
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲓϫⲙⲡⲉϥⲑⲣⲟⲛⲟⲥ">
+<orig_group orig_group="ϩⲓ̈ϫⲙ̄ⲡⲉϥⲑⲣⲟⲛⲟⲥ">
 <norm_group norm_group="ϩⲓϫⲙⲡⲉϥⲑⲣⲟⲛⲟⲥ">
-<orig orig="ϩⲓϫⲙ">
+<orig orig="ϩⲓ̈ϫⲙ̄">
 <norm norm="ϩⲓϫⲙ">
 <lemma lemma="ϩⲓϫⲛ">
 <pos pos="PREP">
-ϩⲓϫⲙ
+ϩⲓ̈ϫⲙ̄
 </pos>
 </lemma>
 </norm>
@@ -16075,7 +16117,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥϯⲡⲓ">
+<orig_group orig_group="ⲁϥϯⲡⲓ̈">
 <norm_group norm_group="ⲁϥϯⲡⲓ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -16095,7 +16137,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϯⲡⲓ">
+<orig orig="ϯⲡⲓ̈">
 <norm norm="ϯⲡⲓ">
 <lemma lemma="ϯⲡⲓ">
 <pos pos="V">
@@ -16103,7 +16145,7 @@ PREP
 ϯ
 </morph>
 <morph morph="ⲡⲓ">
-ⲡⲓ
+ⲡⲓ̈
 </morph>
 </pos>
 </lemma>
@@ -16136,7 +16178,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="He said, “Rightly you came to us today (welcome), O athlete of Christ, Apa Paul, whom the Lord raised from the dead five times! Moreover, he will raise you another time, just as he told you.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -16187,7 +16229,7 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁⲕⲓ">
+<orig_group orig_group="ⲁⲕⲓ̈">
 <norm_group norm_group="ⲁⲕⲓ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -16207,24 +16249,24 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲓ">
+<orig orig="ⲓ̈">
 <norm norm="ⲓ">
 <lemma lemma="ⲉⲓ">
 <pos pos="V">
-ⲓ
+ⲓ̈
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϣⲁⲣⲟⲛ">
+<orig_group orig_group="ϣⲁⲣⲁⲛ">
 <norm_group norm_group="ϣⲁⲣⲟⲛ">
-<orig orig="ϣⲁⲣⲟ">
+<orig orig="ϣⲁⲣⲁ">
 <norm norm="ϣⲁⲣⲟ">
 <lemma lemma="ϣⲁ">
 <pos pos="PREP">
-ϣⲁⲣⲟ
+ϣⲁⲣⲁ
 </pos>
 </lemma>
 </norm>
@@ -16273,7 +16315,7 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲡϣⲟⲉⲓϫ">
+<orig_group orig_group="ⲡϣⲁⲉⲓ̈ϫϥ̄">
 <norm_group norm_group="ⲡϣⲟⲉⲓϫ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -16284,24 +16326,24 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲟⲉⲓϫ">
+<orig orig="ϣⲁⲉⲓ̈ϫϥ̄">
 <norm norm="ϣⲟⲉⲓϫ">
 <lemma lemma="ϣⲟⲉⲓϫ">
 <pos pos="N">
-ϣⲟⲉⲓϫ
+ϣⲁⲉⲓ̈ϫϥ̄
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ">
+<orig_group orig_group="ⲉⲡⲉⲭ︦ⲥ︦">
 <norm_group norm_group="ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ">
-<orig orig="ⲙ">
+<orig orig="ⲉ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲙ
+ⲉ
 </pos>
 </lemma>
 </norm>
@@ -16316,12 +16358,12 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲭⲣⲓⲥⲧⲟⲥ">
+<orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
 <pos pos="N">
 <lang lang="Greek">
-ⲭⲣⲓⲥⲧⲟⲥ
+ⲭ︦ⲥ︦
 </lang>
 </pos>
 </lemma>
@@ -16362,7 +16404,7 @@ PREP
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲡⲉⲛⲧⲁⲡϫⲟⲉⲓⲥ">
+<orig_group orig_group="ⲡⲛ̄ⲧⲁⲡϫⲟⲉⲓ̈ⲥ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁⲡϫⲟⲉⲓⲥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -16373,11 +16415,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲛⲧ">
+<orig orig="ⲛ̄ⲧ">
 <norm norm="ⲉⲛⲧ">
 <lemma lemma="ⲉⲧⲉⲣⲉ">
 <pos pos="CREL">
-ⲉⲛⲧ
+ⲛ̄ⲧ
 </pos>
 </lemma>
 </norm>
@@ -16401,11 +16443,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲟⲉⲓⲥ">
+<orig orig="ϫⲟⲉⲓ̈ⲥ">
 <norm norm="ϫⲟⲉⲓⲥ">
 <lemma lemma="ϫⲟⲉⲓⲥ">
 <pos pos="N">
-ϫⲟⲉⲓⲥ
+ϫⲟⲉⲓ̈ⲥ
 </pos>
 </lemma>
 </norm>
@@ -16413,13 +16455,13 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲧⲟⲩⲛⲟⲥϥ">
+<orig_group orig_group="ⲧⲟⲩⲛⲁⲥϥ">
 <norm_group norm_group="ⲧⲟⲩⲛⲟⲥϥ">
-<orig orig="ⲧⲟⲩⲛⲟⲥ">
+<orig orig="ⲧⲟⲩⲛⲁⲥ">
 <norm norm="ⲧⲟⲩⲛⲟⲥ">
 <lemma lemma="ⲧⲟⲩⲛⲟⲥ">
 <pos pos="V">
-ⲧⲟⲩⲛⲟⲥ
+ⲧⲟⲩⲛⲁⲥ
 </pos>
 </lemma>
 </norm>
@@ -16448,13 +16490,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲛⲛⲉⲧⲙⲟⲟⲩⲧ">
+<orig_group orig_group="ϩⲛ̄ⲛⲉⲧⲙⲟⲟⲩⲧ">
 <norm_group norm_group="ϩⲛⲛⲉⲧⲙⲟⲟⲩⲧ">
-<orig orig="ϩⲛ">
+<orig orig="ϩⲛ̄">
 <norm norm="ϩⲛ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ϩⲛ
+ϩⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -16512,7 +16554,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲥⲟⲡ">
+<orig_group orig_group="ⲛⲥⲁⲡ">
 <norm_group norm_group="ⲛⲥⲟⲡ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -16523,11 +16565,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲟⲡ">
+<orig orig="ⲥⲁⲡ">
 <norm norm="ⲥⲟⲡ">
 <lemma lemma="ⲥⲟⲡ">
 <pos pos="N">
-ⲥⲟⲡ
+ⲥⲁⲡ
 </pos>
 </lemma>
 </norm>
@@ -16562,7 +16604,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϥⲛⲁⲧⲟⲩⲛⲟⲥⲕ">
+<orig_group orig_group="ϥⲛⲁⲧⲟⲩⲛⲁⲥⲕ">
 <norm_group norm_group="ϥⲛⲁⲧⲟⲩⲛⲟⲥⲕ">
 <orig orig="ϥ">
 <norm norm="ϥ">
@@ -16582,11 +16624,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲟⲩⲛⲟⲥ">
+<orig orig="ⲧⲟⲩⲛⲁⲥ">
 <norm norm="ⲧⲟⲩⲛⲟⲥ">
 <lemma lemma="ⲧⲟⲩⲛⲟⲥ">
 <pos pos="V">
-ⲧⲟⲩⲛⲟⲥ
+ⲧⲟⲩⲛⲁⲥ
 </pos>
 </lemma>
 </norm>
@@ -16602,7 +16644,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲕⲉⲥⲟⲡ">
+<orig_group orig_group="ⲛⲕⲉⲥⲁⲡ">
 <norm_group norm_group="ⲛⲕⲉⲥⲟⲡ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -16618,16 +16660,18 @@ PREP
 <norm norm="ⲕⲉ">
 <lemma lemma="ⲕⲉ">
 <pos pos="ART">
+<note note="There is a hole in the manuscript and only the left line of ⲕ and the upper right arc of ⲉ are visible.">
 ⲕⲉ
+</note>
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲟⲡ">
+<orig orig="ⲥⲁⲡ">
 <norm norm="ⲥⲟⲡ">
 <lemma lemma="ⲥⲟⲡ">
 <pos pos="N">
-ⲥⲟⲡ
+ⲥⲁⲡ
 </pos>
 </lemma>
 </norm>
@@ -16635,7 +16679,7 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲕⲁⲧⲁⲑⲉ">
+<orig_group orig_group="ⲕⲁⲧⲁⲑⲏ">
 <norm_group norm_group="ⲕⲁⲧⲁⲧϩⲉ">
 <orig orig="ⲕⲁⲧⲁ">
 <norm norm="ⲕⲁⲧⲁ">
@@ -16657,11 +16701,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉ">
+<orig orig="ⲏ">
 <norm norm="ϩⲉ">
 <lemma lemma="ϩⲉ">
 <pos pos="N">
-ⲉ
+ⲏ
 </pos>
 </lemma>
 </norm>
@@ -16742,7 +16786,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“And the seventh time he will raise you will be the day of the resurrection of all who are holy.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁⲩⲱ">
@@ -16759,7 +16803,7 @@ PREP
 </norm_group>
 </orig_group>
 <entity entity="time">
-<orig_group orig_group="ⲡⲙⲉϩⲥⲁϣϥ">
+<orig_group orig_group="ⲡⲙⲉϩⲥⲁϣϥⲉ">
 <norm_group norm_group="ⲡⲙⲉϩⲥⲁϣϥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -16770,7 +16814,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲉϩⲥⲁϣϥ">
+<orig orig="ⲙⲉϩⲥⲁϣϥⲉ">
 <norm norm="ⲙⲉϩⲥⲁϣϥ">
 <lemma lemma="ⲙⲉϩⲥⲁϣϥ">
 <pos pos="NUM">
@@ -16778,7 +16822,9 @@ PREP
 ⲙⲉϩ
 </morph>
 <morph morph="ⲥⲁϣϥ">
-ⲥⲁϣϥ
+<note note="There is a hole in the manuscript so the bottom right of ϣ including the tail is lost.">
+ⲥⲁϣϥⲉ
+</note>
 </morph>
 </pos>
 </lemma>
@@ -16808,7 +16854,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧϥⲛⲁⲧⲟⲩⲛⲟⲥⲕ">
+<orig_group orig_group="ⲉⲧϥ̄ⲛⲁⲧⲟⲩⲛⲁⲥⲕ">
 <norm_group norm_group="ⲉⲧϥⲛⲁⲧⲟⲩⲛⲟⲥⲕ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
@@ -16819,11 +16865,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̄">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERS">
-ϥ
+ϥ̄
 </pos>
 </lemma>
 </norm>
@@ -16837,11 +16883,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲟⲩⲛⲟⲥ">
+<orig orig="ⲧⲟⲩⲛⲁⲥ">
 <norm norm="ⲧⲟⲩⲛⲟⲥ">
 <lemma lemma="ⲧⲟⲩⲛⲟⲥ">
 <pos pos="V">
-ⲧⲟⲩⲛⲟⲥ
+ⲧⲟⲩⲛⲁⲥ
 </pos>
 </lemma>
 </norm>
@@ -16857,13 +16903,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲏⲧϥ">
+<orig_group orig_group="ⲉⲛϩⲏⲧϥ">
 <norm_group norm_group="ⲛϩⲏⲧϥ">
-<orig orig="ⲛϩⲏⲧ">
+<orig orig="ⲉⲛϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ⲛϩⲏⲧ
+ⲉⲛϩⲏⲧ
 </pos>
 </lemma>
 </norm>
@@ -16916,7 +16962,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
+<orig_group orig_group="ⲛⲧⲁⲛⲁⲥⲧⲁⲥⲓ̈ⲥ">
 <norm_group norm_group="ⲛⲧⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
@@ -16937,12 +16983,12 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
+<orig orig="ⲁⲛⲁⲥⲧⲁⲥⲓ̈ⲥ">
 <norm norm="ⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
 <lemma lemma="ⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
 <pos pos="N">
 <lang lang="Greek">
-ⲁⲛⲁⲥⲧⲁⲥⲓⲥ
+ⲁⲛⲁⲥⲧⲁⲥⲓ̈ⲥ
 </lang>
 </pos>
 </lemma>
@@ -17023,17 +17069,17 @@ PREP
 </p_n>
 <p_n p_n="9">
 <chapter_n chapter_n="9">
-<translation translation="...">
+<translation translation="When Apa Apollo had said these things he had all the people gather. He went to the church and we participated in the holy Eucharist. He sent the brothers to the dining area.">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
-<orig_group orig_group="ⲛⲁⲓ">
+<orig_group orig_group="ⲛⲁⲓ̈">
 <norm_group norm_group="ⲛⲁⲓ">
 <entity entity="abstract">
-<orig orig="ⲛⲁⲓ">
+<orig orig="ⲛⲁⲓ̈">
 <norm norm="ⲛⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
 <pos pos="PDEM">
-ⲛⲁⲓ
+ⲛⲁⲓ̈
 </pos>
 </lemma>
 </norm>
@@ -17056,13 +17102,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲣⲉϥϫⲟⲟⲩ">
+<orig_group orig_group="ⲛⲧⲉⲣϥϫⲟⲟⲩ">
 <norm_group norm_group="ⲛⲧⲉⲣⲉϥϫⲟⲟⲩ">
-<orig orig="ⲛⲧⲉⲣⲉ">
+<orig orig="ⲛⲧⲉⲣ">
 <norm norm="ⲛⲧⲉⲣⲉ">
 <lemma lemma="ⲛⲧⲉⲣⲉ">
 <pos pos="APREC">
-ⲛⲧⲉⲣⲉ
+ⲛⲧⲉⲣ
 </pos>
 </lemma>
 </norm>
@@ -17211,22 +17257,24 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲧⲏⲣϥ">
+<orig_group orig_group="ⲧⲏⲣϥ̄">
 <norm_group norm_group="ⲧⲏⲣϥ">
 <orig orig="ⲧⲏⲣ">
 <norm norm="ⲧⲏⲣ">
 <lemma lemma="ⲧⲏⲣ">
 <pos pos="IMOD">
+<note note="The vertical bar of ⲧ and the left bar of ⲏ are one and the same, forming a ligature.">
 ⲧⲏⲣ
+</note>
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϥ">
+<orig orig="ϥ̄">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
 <pos pos="PPERO">
-ϥ
+ϥ̄
 </pos>
 </lemma>
 </norm>
@@ -17265,8 +17313,8 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲉⲕⲕⲗⲩⲥⲓⲁ">
-<norm_group norm_group="ⲉⲧⲉⲕⲕⲗⲩⲥⲓⲁ">
+<orig_group orig_group="ⲉⲧⲉⲕⲕⲗⲩⲥⲓ̈ⲁ">
+<norm_group norm_group="ⲉⲧⲉⲕⲕⲗⲏⲥⲓⲁ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -17286,13 +17334,13 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲕⲕⲗⲩⲥⲓⲁ">
-<norm norm="ⲉⲕⲕⲗⲩⲥⲓⲁ">
-<lemma lemma="ⲉⲕⲕⲗⲩⲥⲓⲁ">
+<orig orig="ⲉⲕⲕⲗⲩⲥⲓ̈ⲁ">
+<norm norm="ⲉⲕⲕⲗⲏⲥⲓⲁ">
+<lemma lemma="ⲉⲕⲕⲗⲏⲥⲓⲁ">
 <pos pos="N">
 <placeName_type placeName_type="church_basilica">
 <placeName_ref placeName_ref="pleiades:756663">
-ⲉⲕⲕⲗⲩⲥⲓⲁ
+ⲉⲕⲕⲗⲩⲥⲓ̈ⲁ
 </placeName_ref>
 </placeName_type>
 </pos>
@@ -17335,13 +17383,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲛⲧⲉⲡⲣⲟⲥⲫⲱⲣⲁ">
+<orig_group orig_group="ϩⲛ̄ⲧⲉⲡⲣⲟⲥⲫⲱⲣⲁ">
 <norm_group norm_group="ϩⲛⲧⲉⲡⲣⲟⲥⲫⲱⲣⲁ">
-<orig orig="ϩⲛ">
+<orig orig="ϩⲛ̄">
 <norm norm="ϩⲛ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ϩⲛ
+ϩⲛ̄
 </pos>
 </lemma>
 </norm>
@@ -17485,12 +17533,12 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="But he took us to the diakonia (service area) and he had them prepare for us so we could eat.">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
-<orig_group orig_group="ⲁⲛⲟⲛ">
+<orig_group orig_group="ⲁⲛⲁⲛ">
 <norm_group norm_group="ⲁⲛⲟⲛ">
-<orig orig="ⲁⲛⲟⲛ">
+<orig orig="ⲁⲛⲁⲛ">
 <norm norm="ⲁⲛⲟⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERI">
@@ -17516,7 +17564,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥϫⲓⲧⲛ">
+<orig_group orig_group="ⲁϥϫⲓ̈ⲧⲛ̄">
 <norm_group norm_group="ⲁϥϫⲓⲧⲛ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -17536,27 +17584,27 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲓⲧ">
+<orig orig="ϫⲓ̈ⲧ">
 <norm norm="ϫⲓⲧ">
 <lemma lemma="ϫⲓ">
 <pos pos="V">
-ϫⲓⲧ
+ϫⲓ̈ⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛ">
+<orig orig="ⲛ̄">
 <norm norm="ⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERO">
-ⲛ
+ⲛ̄
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲇⲓⲁⲕⲟⲛⲓⲁ">
+<orig_group orig_group="ⲉⲧⲇⲓ̈ⲁⲕⲟⲛⲓ̈ⲁ">
 <norm_group norm_group="ⲉⲧⲇⲓⲁⲕⲟⲛⲓⲁ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
@@ -17577,13 +17625,13 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲇⲓⲁⲕⲟⲛⲓⲁ">
+<orig orig="ⲇⲓ̈ⲁⲕⲟⲛⲓ̈ⲁ">
 <norm norm="ⲇⲓⲁⲕⲟⲛⲓⲁ">
 <lemma lemma="ⲇⲓⲁⲕⲟⲛⲓⲁ">
 <pos pos="N">
 <lang lang="Greek">
 <rs_type rs_type="service">
-ⲇⲓⲁⲕⲟⲛⲓⲁ
+ⲇⲓ̈ⲁⲕⲟⲛⲓ̈ⲁ
 </rs_type>
 </lang>
 </pos>
@@ -17593,7 +17641,7 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥⲧⲣⲉⲩⲥⲟⲃⲧⲉ">
+<orig_group orig_group="ⲁϥⲧⲣⲉⲩⲥⲁϥⲧⲉ">
 <norm_group norm_group="ⲁϥⲧⲣⲉⲩⲥⲟⲃⲧⲉ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -17631,11 +17679,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲟⲃⲧⲉ">
+<orig orig="ⲥⲁϥⲧⲉ">
 <norm norm="ⲥⲟⲃⲧⲉ">
 <lemma lemma="ⲥⲟⲃⲧⲉ">
 <pos pos="V">
-ⲥⲟⲃⲧⲉ
+ⲥⲁϥⲧⲉ
 </pos>
 </lemma>
 </norm>
@@ -17716,10 +17764,10 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="But my father did not want to eat because he had been fasting three days of the forty (day fast).">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
-<orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
+<orig_group orig_group="ⲡⲁⲉⲓ̈ⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <entity entity="person">
 <orig orig="ⲡⲁ">
@@ -17731,11 +17779,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲓⲱⲧ">
+<orig orig="ⲉⲓ̈ⲱⲧ">
 <norm norm="ⲉⲓⲱⲧ">
 <lemma lemma="ⲉⲓⲱⲧ">
 <pos pos="N">
-ⲉⲓⲱⲧ
+ⲉⲓ̈ⲱⲧ
 </pos>
 </lemma>
 </norm>
@@ -17847,13 +17895,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛϩⲟⲟⲩ">
+<orig_group orig_group="ⲉⲛϩⲟⲟⲩ">
 <norm_group norm_group="ⲛϩⲟⲟⲩ">
-<orig orig="ⲛ">
+<orig orig="ⲉⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-ⲛ
+ⲉⲛ
 </pos>
 </lemma>
 </norm>
@@ -17960,13 +18008,13 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϩⲙⲡⲉϩⲙⲏ">
+<orig_group orig_group="ϩⲙ̄ⲡⲉϩⲙⲏ">
 <norm_group norm_group="ϩⲙⲡⲉϩⲙⲏ">
-<orig orig="ϩⲙ">
+<orig orig="ϩⲙ̄">
 <norm norm="ϩⲙ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ϩⲙ
+ϩⲙ̄
 </pos>
 </lemma>
 </norm>
@@ -17997,11 +18045,11 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Our father Apa Apollo ... entreating him, saying, “Satisfy me, my father, and eat with me so that a grace may be in my dwelling and my monastery today because of you.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <entity entity="person">
-<orig_group orig_group="ⲡⲉⲛⲉⲓⲱⲧ">
+<orig_group orig_group="ⲡⲉⲛⲉⲓ̈ⲱⲧ">
 <norm_group norm_group="ⲡⲉⲛⲉⲓⲱⲧ">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
@@ -18012,11 +18060,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲓⲱⲧ">
+<orig orig="ⲉⲓ̈ⲱⲧ">
 <norm norm="ⲉⲓⲱⲧ">
 <lemma lemma="ⲉⲓⲱⲧ">
 <pos pos="N">
-ⲉⲓⲱⲧ
+ⲉⲓ̈ⲱⲧ
 </pos>
 </lemma>
 </norm>
@@ -18060,7 +18108,9 @@ PREP
 <lemma lemma="ⲁⲡⲟⲗⲗⲱ">
 <pos pos="NPROP">
 <persName_type persName_type="monk">
+<note note="There is a tear and a gap extending to the bottom of the manuscript so the ⲁ is assumed.">
 ⲁⲡⲟⲗⲗⲱ
+</note>
 </persName_type>
 </pos>
 </lemma>
@@ -18069,8 +18119,8 @@ PREP
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲁϥⲧⲱⲟⲩⲛ">
-<norm_group norm_group="ⲁϥⲧⲱⲟⲩⲛ">
+<orig_group orig_group="ⲁϥ[...]">
+<norm_group norm_group="ⲁϥ...">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -18089,24 +18139,30 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲱⲟⲩⲛ">
-<norm norm="ⲧⲱⲟⲩⲛ">
-<lemma lemma="ⲧⲱⲟⲩⲛ">
-<pos pos="V">
-ⲧⲱⲟⲩⲛ
+<orig orig="[...]">
+<norm norm="...">
+<lemma lemma="UNKNOWN">
+<pos pos="UNKNOWN">
+<gap gap="gap">
+<note note="There is a tear and a gap extending to the bottom of the manuscript so the verb is uncertain. Amélineau and Zoega have ϭⲱ, while Orlandi put ⲧⲱⲟⲩⲛ in his normalized text, which could not fit in the gap. It appears that there is a faint letter at the beginning of the line, possibly an ⲁ (it does not look like a ϭ), followed by either an ⲱ or ϣ (only the first loop is visible.) The verb may be ⲁϣ.">
+[...]
+</note>
+</gap>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥⲕⲱⲣⲉϣ">
-<norm_group norm_group="ⲁϥⲕⲱⲣⲉϣ">
-<orig orig="ⲁ">
-<norm norm="ⲁ">
-<lemma lemma="ⲁ">
-<pos pos="APST">
-ⲁ
+<orig_group orig_group="[...]ϥⲕⲱⲣⲉϣ">
+<norm_group norm_group="...ϥⲕⲱⲣⲉϣ">
+<orig orig="[...]">
+<norm norm="...">
+<lemma lemma="UNKNOWN">
+<pos pos="UNKNOWN">
+<note note="There is a tear and a gap extending to the bottom of the manuscript. Only the short top arc of a letter is visible. Amélineau and Zoega have ⲉ, while Orlandi has ⲁ. ⲁ seems unlikely because it consistently has a thick downstroke, while the only visible part of the letter is at the top of the line and has some blank space beneath it.">
+[...]
+</note>
 </pos>
 </lemma>
 </norm>
@@ -18122,7 +18178,7 @@ PREP
 </orig>
 <orig orig="ⲕⲱⲣⲉϣ">
 <norm norm="ⲕⲱⲣⲉϣ">
-<lemma lemma="ⲕⲱⲣⲉϣ">
+<lemma lemma="ⲕⲱⲣϣ">
 <pos pos="V">
 ⲕⲱⲣⲉϣ
 </pos>
@@ -18206,7 +18262,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲡⲓⲑⲉ">
+<orig_group orig_group="ϫⲉⲡⲓ̈ⲑⲉ">
 <norm_group norm_group="ϫⲉⲡⲉⲓⲑⲉ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
@@ -18217,12 +18273,12 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲓⲑⲉ">
+<orig orig="ⲡⲓ̈ⲑⲉ">
 <norm norm="ⲡⲉⲓⲑⲉ">
 <lemma lemma="ⲡⲉⲓⲑⲉ">
 <pos pos="V">
 <lang lang="Greek">
-ⲡⲓⲑⲉ
+ⲡⲓ̈ⲑⲉ
 </lang>
 </pos>
 </lemma>
@@ -18230,7 +18286,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲙⲟⲓ">
+<orig_group orig_group="ⲙⲙⲟⲓ̈">
 <norm_group norm_group="ⲙⲙⲟⲓ">
 <orig orig="ⲙⲙⲟ">
 <norm norm="ⲙⲙⲟ">
@@ -18241,18 +18297,18 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲓ">
+<orig orig="ⲓ̈">
 <norm norm="ⲓ">
 <lemma lemma="ⲁⲛⲟⲕ">
 <pos pos="PPERO">
-ⲓ
+ⲓ̈
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
+<orig_group orig_group="ⲡⲁⲉⲓ̈ⲱⲧ">
 <norm_group norm_group="ⲡⲁⲉⲓⲱⲧ">
 <entity entity="person">
 <orig orig="ⲡⲁ">
@@ -18264,11 +18320,11 @@ PREP
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲓⲱⲧ">
+<orig orig="ⲉⲓ̈ⲱⲧ">
 <norm norm="ⲉⲓⲱⲧ">
 <lemma lemma="ⲉⲓⲱⲧ">
 <pos pos="N">
-ⲉⲓⲱⲧ
+ⲉⲓ̈ⲱⲧ
 </pos>
 </lemma>
 </norm>
@@ -18276,22 +18332,22 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅⲟⲩⲱⲙ">
+<orig_group orig_group="ⲛ︤ⲅ︥ⲟⲩⲱⲙ">
 <norm_group norm_group="ⲛⲅⲟⲩⲱⲙ">
-<orig orig="ⲛ">
+<orig orig="ⲛ︤">
 <norm norm="ⲛ">
 <lemma lemma="ⲛⲧⲉ">
 <pos pos="ACONJ">
-ⲛ
+ⲛ︤
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅ">
+<orig orig="ⲅ︥">
 <norm norm="ⲅ">
 <lemma lemma="ⲛⲧⲟⲕ">
 <pos pos="PPERS">
-ⲅ
+ⲅ︥
 </pos>
 </lemma>
 </norm>
@@ -18307,22 +18363,22 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲙⲙⲁⲓ">
+<orig_group orig_group="ⲛⲙⲙⲟⲓ̈">
 <norm_group norm_group="ⲛⲙⲙⲁⲓ">
-<orig orig="ⲛⲙⲙⲁ">
+<orig orig="ⲛⲙⲙⲟ">
 <norm norm="ⲛⲙⲙⲁ">
 <lemma lemma="ⲙⲛ">
 <pos pos="PREP">
-ⲛⲙⲙⲁ
+ⲛⲙⲙⲟ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲓ">
+<orig orig="ⲓ̈">
 <norm norm="ⲓ">
 <lemma lemma="ⲁⲛⲟⲕ">
 <pos pos="PPERO">
-ⲓ
+ⲓ̈
 </pos>
 </lemma>
 </norm>
@@ -18334,7 +18390,7 @@ PREP
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
-<pos pos="PREP">
+<pos pos="ACONJ">
 ⲛⲧⲉ
 </pos>
 </lemma>
@@ -18361,13 +18417,26 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="ϣⲱⲡⲉ">
+<norm_group norm_group="ϣⲱⲡⲉ">
+<orig orig="ϣⲱⲡⲉ">
+<norm norm="ϣⲱⲡⲉ">
+<lemma lemma="ϣⲱⲡⲉ">
+<pos pos="V">
+ϣⲱⲡⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ϩⲙⲡⲁⲙⲁⲛ">
 <norm_group norm_group="ϩⲙⲡⲁⲙⲁⲛ">
 <orig orig="ϩⲙ">
 <norm norm="ϩⲙ">
 <lemma lemma="ϩⲛ">
 <pos pos="PREP">
-ϩⲙ
+ϩⲙ̄
 </pos>
 </lemma>
 </norm>
@@ -18496,7 +18565,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“You know, my beloved father, ‘it is not what went into the man’s mouth which defiles him.’ ”">
 <p_source p_source="PATHS">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲕⲥⲟⲟⲩⲛ">
@@ -18764,7 +18833,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="“Now, therefore, my father, satisfy me and eat with me.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲧⲉⲛⲟⲩ">
@@ -18910,6 +18979,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
+<translation translation="Then my father stretched out to eat with Apa Apollo.">
 <p_source p_source="PATHS">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
@@ -19029,6 +19099,7 @@ PREP
 </norm>
 </orig>
 <entity identity="Abib and Apollo" entity="person">
+<entity_identity entity_identity="Abib and Apollo">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
 <lemma lemma="ⲁⲡⲁ">
@@ -19057,10 +19128,12 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 </verse_n>
 </p_source>
-<translation translation="...">
+</translation>
+<translation translation="But Papohe and I ate together with the rest of the brothers (who were) with us, namely, Apa Paese, Apa Nishkroou, Apa Soures, and Apa Pita.">
 <p_source p_source="PATHS">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲁⲛⲟⲕ">
@@ -19519,7 +19592,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="When we finished eating at sundown our father Apa Apollo came in our midst and clapped his hands together saying, “He who took-wing, let him fly away.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲛⲧⲉⲣⲛⲟⲩⲱ">
@@ -19666,6 +19739,7 @@ PREP
 </norm>
 </orig>
 <entity identity="Abib and Apollo" entity="person">
+<entity_identity entity_identity="Abib and Apollo">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
@@ -19716,6 +19790,7 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲉⲓ">
 <norm_group norm_group="ⲉⲓ">
@@ -20024,7 +20099,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="At that moment Apa Paese flew away (set out) and went to the mountain of Hakye.">
 <p_source p_source="PATHS">
 <verse_n verse_n="10">
 <orig_group orig_group="ϩⲛⲧⲉⲩⲛⲟⲩ">
@@ -20242,7 +20317,7 @@ PREP
 </p_n>
 <p_n p_n="10">
 <chapter_n chapter_n="10">
-<translation translation="...">
+<translation translation="Apa Nishkroou also flew away and went to the mountain north of Antinoou.">
 <p_source p_source="PATHS">
 <verse_n verse_n="1">
 <entity entity="person">
@@ -20475,7 +20550,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Apa Pitta also flew away and went to the mountain of Sioout.">
 <p_source p_source="PATHS">
 <verse_n verse_n="2">
 <entity entity="person">
@@ -20495,13 +20570,13 @@ PREP
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲡⲓⲧⲧⲁ">
-<norm_group norm_group="ⲡⲓⲧⲧⲁ">
+<norm_group norm_group="ⲡⲓⲧⲁ">
 <orig orig="ⲡⲓⲧⲧⲁ">
-<norm norm="ⲡⲓⲧⲧⲁ">
-<lemma lemma="ⲡⲓⲧⲧⲁ">
+<norm norm="ⲡⲓⲧⲁ">
+<lemma lemma="ⲡⲓⲧⲁ">
 <pos pos="NPROP">
 <persName_type persName_type="monk">
-ⲡⲓⲧⲧⲁ
+ⲡⲓⲧⲁ
 </persName_type>
 </pos>
 </lemma>
@@ -20671,16 +20746,16 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="At dawn our father Apa Apollo accompanied us to the south of the monastery, said goodbye to us, and sent us away in peace.">
 <p_source p_source="PATHS">
 <verse_n verse_n="3">
-<orig_group orig_group="ϩⲉ">
-<norm_group norm_group="ϩⲉ">
-<orig orig="ϩⲉ">
-<norm norm="ϩⲉ">
-<lemma lemma="ϩⲉ">
+<orig_group orig_group="ϩⲧⲟⲟⲩⲉ">
+<norm_group norm_group="ϩⲧⲟⲟⲩⲉ">
+<orig orig="ϩⲧⲟⲟⲩⲉ">
+<norm norm="ϩⲧⲟⲟⲩⲉ">
+<lemma lemma="ϩⲧⲟⲟⲩⲉ">
 <pos pos="N">
-ϩⲉ
+ϩⲧⲟⲟⲩⲉ
 </pos>
 </lemma>
 </norm>
@@ -20745,6 +20820,7 @@ PREP
 </norm>
 </orig>
 <entity identity="Abib and Apollo" entity="person">
+<entity_identity entity_identity="Abib and Apollo">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
@@ -20795,23 +20871,24 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲑⲡⲟⲛ">
 <norm_group norm_group="ⲧϩⲡⲟⲛ">
-<orig orig="ⲑ">
-<norm norm="ⲧ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲑ
+<orig orig="ⲑⲡⲟ">
+<norm norm="ⲧϩⲡⲟ">
+<lemma lemma="ⲧϩⲡⲟ">
+<pos pos="V">
+ⲑⲡⲟ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲟⲛ">
-<norm norm="ϩⲡⲟⲛ">
-<lemma lemma="ϩⲡⲟⲛ">
-<pos pos="N">
-ⲡⲟⲛ
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲁⲛⲟⲛ">
+<pos pos="PPERO">
+ⲛ
 </pos>
 </lemma>
 </norm>
@@ -21058,7 +21135,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="Then we walked south from the mountain Tereb until we came to the mountain of Terotashans in the south of Kos. We found antelopes in the bottom of a valley with a monk in their midst.">
 <p_source p_source="PATHS">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁⲛⲟⲛ">
@@ -21184,7 +21261,7 @@ PREP
 <orig orig="ⲧⲏⲣⲏⲃ">
 <norm norm="ⲧⲏⲣⲏⲃ">
 <lemma lemma="ⲧⲏⲣⲏⲃ">
-<pos pos="V">
+<pos pos="NPROP">
 <placeName_type placeName_type="city_village">
 ⲧⲏⲣⲏⲃ
 </placeName_type>
@@ -21544,7 +21621,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father approached and greeted him. He said to him, “What is your name?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲡⲁⲉⲓⲱⲧ">
@@ -21809,7 +21886,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="He said, “Aphou is my name. Remember me (in your prayers) my father Apa Paul, that the Lord completes me well.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -21849,7 +21926,7 @@ PREP
 <orig orig="ⲁⲫⲟⲩ">
 <norm norm="ⲁⲫⲟⲩ">
 <lemma lemma="ⲁⲫⲟⲩ">
-<pos pos="N">
+<pos pos="NPROP">
 ⲁⲫⲟⲩ
 </pos>
 </lemma>
@@ -22066,7 +22143,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father said to him, “How many years have you been in this place?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -22215,6 +22292,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
+<translation translation="He said, “For fifty-four years.“">
 <p_source p_source="PATHS">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -22262,21 +22340,12 @@ PREP
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲁⲓⲟⲩ">
-<norm_group norm_group="ⲧⲁⲉⲓⲟⲩ">
-<orig orig="ⲧⲁⲓⲟ">
-<norm norm="ⲧⲁⲉⲓⲟ">
-<lemma lemma="ⲧⲁⲉⲓⲟ">
-<pos pos="V">
-ⲧⲁⲓⲟ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲩ">
-<norm norm="ⲩ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERO">
-ⲩ
+<norm_group norm_group="ⲧⲁⲓⲟⲩ">
+<orig orig="ⲧⲁⲓⲟⲩ">
+<norm norm="ⲧⲁⲓⲟⲩ">
+<lemma lemma="ⲧⲁⲓⲟⲩ">
+<pos pos="NUM">
+ⲧⲁⲓⲟⲩ
 </pos>
 </lemma>
 </norm>
@@ -22331,7 +22400,8 @@ PREP
 </entity>
 </verse_n>
 </p_source>
-<translation translation="...">
+</translation>
+<translation translation="My father said to him again, “Who conferred the schema (monastic habit) upon you?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -22515,7 +22585,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="He said, “It was Apa Anthony of Scetis.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -22552,6 +22622,7 @@ PREP
 </norm>
 </orig>
 <entity identity="Anthony the Great" entity="person">
+<entity_identity entity_identity="Anthony the Great">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
 <lemma lemma="ⲁⲡⲁ">
@@ -22598,7 +22669,9 @@ PREP
 <pos pos="NPROP">
 <placeName_type placeName_type="city_village">
 <placeName_ref placeName_ref="pleiades:727232">
+<entity_identity entity_identity="Wadi El Natrun">
 ϣⲓⲏⲧ
+</entity_identity>
 </placeName_ref>
 </placeName_type>
 </pos>
@@ -22608,6 +22681,7 @@ PREP
 </entity>
 </norm_group>
 </orig_group>
+</entity_identity>
 </entity>
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
@@ -22625,7 +22699,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father said to him, “So what do you live on while walking with these antelopes?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="11">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -22736,8 +22810,8 @@ PREP
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲟⲩⲉⲕⲙⲟⲟϣⲉ">
-<norm_group norm_group="ⲛⲟⲩⲉⲕⲙⲟⲟϣⲉ">
+<orig_group orig_group="ⲛⲟⲩ">
+<norm_group norm_group="ⲛⲟⲩ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -22751,17 +22825,30 @@ PREP
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
-<pos pos="ART">
+<pos pos="PINT">
 ⲟⲩ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲕ">
-<norm norm="ⲉⲕ">
-<lemma lemma="ⲉⲕ">
-<pos pos="N">
-ⲉⲕ
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲕⲙⲟⲟϣⲉ">
+<norm_group norm_group="ⲉⲕⲙⲟⲟϣⲉ">
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
+ⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm norm="ⲕ">
+<lemma lemma="ⲛⲧⲟⲕ">
+<pos pos="PPERS">
+ⲕ
 </pos>
 </lemma>
 </norm>
@@ -22814,7 +22901,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="He said, “My food and that of these antelopes is the same food, namely, these plants of the field and these greens.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="12">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -22852,8 +22939,8 @@ PREP
 </orig>
 <orig orig="ⲧⲁ">
 <norm norm="ⲧⲁ">
-<lemma lemma="ⲛⲧⲉ_ⲁⲛⲟⲕ">
-<pos pos="ACONJ_PPERS">
+<lemma lemma="ⲡⲁ">
+<pos pos="PPOS">
 ⲧⲁ
 </pos>
 </lemma>
@@ -22861,8 +22948,8 @@ PREP
 </orig>
 <orig orig="ⲧⲣⲱⲫⲏ">
 <norm norm="ⲧⲣⲱⲫⲏ">
-<lemma lemma="ⲧⲣⲱⲫⲏ">
-<pos pos="V">
+<lemma lemma="ⲧⲣⲟⲫⲏ">
+<pos pos="N">
 ⲧⲣⲱⲫⲏ
 </pos>
 </lemma>
@@ -22924,7 +23011,7 @@ PREP
 </orig>
 <orig orig="ⲧⲣⲱⲫⲏ">
 <norm norm="ⲧⲣⲱⲫⲏ">
-<lemma lemma="ⲧⲣⲱⲫⲏ">
+<lemma lemma="ⲧⲣⲟⲫⲏ">
 <pos pos="N">
 ⲧⲣⲱⲫⲏ
 </pos>
@@ -23020,7 +23107,7 @@ PREP
 </orig>
 <orig orig="ⲉⲛⲧⲏϭ">
 <norm norm="ⲉⲛⲧⲏϭ">
-<lemma lemma="ⲉⲛⲧⲏϭ">
+<lemma lemma="ⲛⲧⲏϭ">
 <pos pos="N">
 ⲉⲛⲧⲏϭ
 </pos>
@@ -23099,7 +23186,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father said to him, “You are not cold in the winter or hot in the summer?”">
 <p_source p_source="PATHS">
 <verse_n verse_n="13">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -23188,7 +23275,7 @@ PREP
 </orig>
 <orig orig="ⲱϭⲉⲃ">
 <norm norm="ⲱϭⲉⲃ">
-<lemma lemma="ⲱϭⲉⲃ">
+<lemma lemma="ⲱϭⲃ">
 <pos pos="V">
 ⲱϭⲉⲃ
 </pos>
@@ -23267,7 +23354,7 @@ PREP
 </orig>
 <orig orig="ⲥⲱϣⲉⲙ">
 <norm norm="ⲥⲱϣⲉⲙ">
-<lemma lemma="ⲥⲱϣⲉⲙ">
+<lemma lemma="ⲥⲱϣⲙ">
 <pos pos="V">
 ⲥⲱϣⲉⲙ
 </pos>
@@ -23312,6 +23399,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
+<translation translation="He said to him, “If it is the winter, I sleep in the midst of these antelopes and they warm me with the vapor which is in their mouth.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="14">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -23589,12 +23677,21 @@ PREP
 </lemma>
 </norm>
 </orig>
+<orig orig="ⲡⲉ">
+<norm norm="ⲡⲉ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲡⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
 <entity entity="abstract">
-<orig orig="ⲡⲉⲗϩⲱⲃ">
-<norm norm="ⲡⲉⲗϩⲱⲃ">
-<lemma lemma="ⲡⲉⲗϩⲱⲃ">
+<orig orig="ⲗϩⲱⲃ">
+<norm norm="ⲗϩⲱⲃ">
+<lemma lemma="ⲗϩⲱⲃ">
 <pos pos="N">
-ⲡⲉⲗϩⲱⲃ
+ⲗϩⲱⲃ
 </pos>
 </lemma>
 </norm>
@@ -23646,7 +23743,8 @@ PREP
 </entity>
 </verse_n>
 </p_source>
-<translation translation="...">
+</translation>
+<translation translation="“If it is the summer, they gather together and they stand and shade me so the heat shall not bother me.”">
 <p_source p_source="PATHS">
 <verse_n verse_n="15">
 <orig_group orig_group="ⲉϣⲱⲡⲉ">
@@ -23900,9 +23998,11 @@ PREP
 </orig>
 <orig orig="ⲕⲁⲩⲥⲟⲛ">
 <norm norm="ⲕⲁⲩⲥⲟⲛ">
-<lemma lemma="ⲕⲁⲩⲥⲟⲛ">
+<lemma lemma="ⲕⲁⲩⲥⲱⲛ">
 <pos pos="N">
+<lang lang="Greek">
 ⲕⲁⲩⲥⲟⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -23950,7 +24050,7 @@ PREP
 </verse_n>
 </p_source>
 </translation>
-<translation translation="...">
+<translation translation="My father said to him, “Truly you are worthy of being called ‘Apa Aphou the Antelope!’ ”">
 <p_source p_source="PATHS">
 <verse_n verse_n="16">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲉⲓⲱⲧ">
@@ -24077,7 +24177,12 @@ PREP
 <norm norm="ϣⲟⲩⲙⲟⲩⲧⲉ">
 <lemma lemma="ϣⲟⲩⲙⲟⲩⲧⲉ">
 <pos pos="N">
-ϣⲟⲩⲙⲟⲩⲧⲉ
+<morph morph="ϣⲟⲩ">
+ϣⲟⲩ
+</morph>
+<morph morph="ⲙⲟⲩⲧⲉ">
+ⲙⲟⲩⲧⲉ
+</morph>
 </pos>
 </lemma>
 </norm>
