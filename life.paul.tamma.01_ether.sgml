@@ -1,4 +1,4 @@
-<meta annotation="Julian Bogdani, Lawrence Rafferty, Amir Zeldes, Lance Martin, Caroline T. Schroeder" Arabic_translation="Philippe Zaher" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" people="Abib and Apollo; Agathonicus; Anthony the Great; Daniel (biblical figure); Elisha; Isidore of Pelusium; Jesus; John the Apostle; Joseph (Genesis); Michael (archangel); Paul the Apostle" places="Wadi El Natrun" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Paul of Tamma part 1" translation="Lawrence Rafferty" Trismegistos="none" version_date="2020-08-31" version_n="4.0.0">
+<meta annotation="Julian Bogdani, Lawrence Rafferty, Amir Zeldes, Lance Martin, Caroline T. Schroeder" Arabic_translation="Philippe Zaher" attributed_author="Ezechiel the Disciple" author="unknown" Coptic_edition="Amélineau 1888 p. 759-769, Orlandi 1974 p. 154-161, unpublished folios" corpus="life.paul.tamma" country="Egypt" document_cts_urn="urn:cts:copticLit:lives.paul_tamma.paths_ed:1-10" entities="automatic" identities="checked" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'&gt;CC BY-NC-SA 4.0&lt;/a&gt;" next="urn:cts:copticLit:lives.paul_tamma.paths_ed:11-18" note="Digital, TEI-XML encoded text from the PATHS GitHub Repository September 2019. Verse divisions based roughly on PATHs paragraph divisions. Note on contents from Orlandi's CMCL edition: R.-G. Coquin sta lavorando sul testo arabo della Vita di Paolo. In copto i frammenti più estesi provengono da un codice del Monastero Bianco (CMCL = MONB.FI), in gran parte pubblicato da Amélineau 1888, p. 759-769 (= p. 67-68 e 83-94 del ms.). Due fogli dalla Michigan University Library, 158.44, sono inediti (p. 59-62 del ms.). Quando inizia il testo conservato (p. 59 del ms.) si comprende che Paolo ed il suo discepolo Ezechiele (che scrive in prima persona) hanno intrapreso un viaggio per visitare gli anacoreti del deserto del Medio Egitto. Essi si trovano probabilmente presso un gruppo di anacoreti sotto la guida di un Isidoro presbitero, e sono miracolosamente visitati dagli apostoli Pietro, Paolo e Giovanni. È menzionato anche un Agatonico, forse allusione alla figura di Agatonico di Tarso. Dopo una lacuna di 5 pagine Paolo di Tamma si trova presso apa Pamoun, da riconnettersi probabilmente all’Amoun delle iscrizioni del monastero di Apollo c.d. di Bauit. Dopo una lacuna di 16 pagine troviamo Paolo ed Ezechiele in visita da Apollo, da identificare con Apollo «di Baouit» (cf. la Vita attribuita a Papohe: Orlandi 1975), e poi da Aphou (cf. la Vita anonima: Rossi 1885, e cf. Orlandi 1984 p. 51-66), e poi da Phib (il discepolo di Apollo, cf. Orlandi 1975). Quindi Paolo ed Ezechiele soggiornano in un luogo chiamato Meroeit, dove avvengono alcuni mira- coli, e poi in un luogo presso Siout, dove li raggiunge apa Pshai &lt;ko&gt;nte ieremias (che da un punto di vista cronologico non dovrebbe aver a che fare con l’apa Ieremias del monastero), e dove avvengono altri miracoli. Un frammento è anche conservato dall’inizio di un altro Page 2 July 12, 19101 codice (Wien, Papyrussammlung K4664.a-d, ed. Orlandi 1974 p. 154-161). Da esso sembra di capire che Michele arcangelo sia apparso ad Ezechiele, ordinandogli di prendersi cura di Paolo ed assisterlo nel momento della morte. Questo potrebbe bene essere l’inizio del testo con- tenuto nell’altro manoscritto." order="01" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/47'&gt;47&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/152'&gt;152&lt;/a&gt;" people="Daniel (biblical figure); Elisha; Habakkuk; Jesus; John the Apostle; Michael (archangel); Paul of Tammah" places="none" project="Coptic SCRIPTORIUM, PATHS" redundant="no" segmentation="checked" source="PATHS, CMCL" source_info="&lt;a href=&amp;quot;https://atlas.paths-erc.eu&amp;quot;&gt;PATHS&lt;/a&gt;, PATHS &lt;a href=&amp;quot;https://github.com/paths-erc/coptic-texts/blob/master/cc0152.xml&amp;quot;&gt;GitHub Repository&lt;/a&gt;" tagging="checked" title="Life of Paul of Tamma part 1" translation="Lawrence Rafferty" Trismegistos="none" version_date="2020-08-31" version_n="4.0.0">
 <p_n p_n="1">
 <chapter_n chapter_n="1">
 <translation translation="The life of our beloved brother Apa Paul of Tamma, who rested on the seventh day of the month of Paopi. May his blessing be upon us and may we be saved, in God’s peace, amen.">
@@ -40,7 +40,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="person">
+<entity identity="Paul of Tammah" entity="person">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
@@ -1703,13 +1703,11 @@
 <morph morph="ⲕⲁ">
 ⲕⲁ
 </morph>
-<entity entity="object">
 <lang lang="Greek">
 <morph morph="ⲥⲱⲙⲁ">
 ⲥⲱⲙⲁ
 </morph>
 </lang>
-</entity>
 </pos>
 </lemma>
 </norm>
@@ -2293,7 +2291,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="person">
+<entity identity="(pass)" entity="person">
 <orig orig="ⲡⲉⲧⲣⲟⲥ">
 <norm norm="ⲡⲉⲧⲣⲟⲥ">
 <lemma lemma="ⲡⲉⲧⲣⲟⲥ">
@@ -2321,7 +2319,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="person">
+<entity identity="Paul of Tammah" entity="person">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
 <lemma lemma="ⲡⲁ">
@@ -4149,7 +4147,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="person">
+<entity identity="Habakkuk" entity="person">
 <orig orig="ⲁⲃⲁⲅⲟⲩⲙ">
 <norm norm="ⲁⲃⲁⲅⲟⲩⲙ">
 <lemma lemma="ⲁⲃⲁⲅⲟⲩⲙ">
@@ -5937,7 +5935,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="person">
+<entity identity="(pass)" entity="person">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
 <lemma lemma="ⲡⲁ">
@@ -7277,11 +7275,9 @@
 <morph morph="ϫⲓ">
 ϫⲓ
 </morph>
-<entity entity="object">
 <morph morph="ⲕⲗⲟⲙ">
 ⲕⲗⲟⲙ
 </morph>
-</entity>
 </pos>
 </lemma>
 </norm>
@@ -7595,7 +7591,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="Jesus" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Jesus">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -8233,7 +8229,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="person">
+<entity identity="(pass)" entity="person">
 <orig orig="ⲡⲉⲧⲣⲟⲥ">
 <norm norm="ⲡⲉⲧⲣⲟⲥ">
 <lemma lemma="ⲡⲉⲧⲣⲟⲥ">
@@ -8821,7 +8817,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="John the Apostle" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="John the Apostle">
 <orig orig="ⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm norm="ⲓⲱϩⲁⲛⲛⲏⲥ">
@@ -8904,7 +8900,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="Jesus" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Jesus">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
@@ -9537,7 +9533,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="Paul the Apostle" entity="person">
+<entity entity="person">
 <orig orig="ⲡⲁⲩⲗⲟⲥ">
 <norm norm="ⲡⲁⲩⲗⲟⲥ">
 <lemma lemma="ⲡⲁⲩⲗⲟⲥ">
@@ -9682,7 +9678,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="Jesus" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Jesus">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
@@ -10908,7 +10904,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="Isidore of Pelusium" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Isidore of Pelusium">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -12654,7 +12650,7 @@
 </lemma>
 </norm>
 </orig>
-<entity identity="Agathonicus" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Agathonicus">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
@@ -14636,7 +14632,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="Joseph (Genesis)" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Joseph (Genesis)">
 <orig orig="ⲓⲱⲥⲏⲫ">
 <norm norm="ⲓⲱⲥⲏⲫ">
@@ -15346,7 +15342,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="John the Apostle" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="John the Apostle">
 <orig orig="ⲓⲱϩⲁⲛⲛⲏⲥ">
 <norm norm="ⲓⲱϩⲁⲛⲛⲏⲥ">
@@ -15605,7 +15601,7 @@ PREP
 <chapter_n chapter_n="8">
 <translation translation="... Apa Apollo, we found him sitting on a chair, instructing his children in the commands of life.">
 <verse_n verse_n="1">
-<entity identity="Abib and Apollo" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Abib and Apollo">
 <orig_group orig_group="ⲁⲡⲁ">
 <norm_group norm_group="ⲁⲡⲁ">
@@ -19144,7 +19140,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="Abib and Apollo" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Abib and Apollo">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
@@ -19801,7 +19797,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="Abib and Apollo" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Abib and Apollo">
 <orig orig="ⲡⲛ̄">
 <norm norm="ⲡⲉⲛ">
@@ -20953,7 +20949,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="Abib and Apollo" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Abib and Apollo">
 <orig orig="ⲡⲉⲛ">
 <norm norm="ⲡⲉⲛ">
@@ -22773,7 +22769,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="Anthony the Great" entity="person">
+<entity entity="person">
 <entity_identity entity_identity="Anthony the Great">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
@@ -22814,7 +22810,7 @@ PREP
 </lemma>
 </norm>
 </orig>
-<entity identity="Wadi El Natrun" entity="place">
+<entity entity="place">
 <orig orig="ϣⲓⲏⲧ">
 <norm norm="ϣⲓⲏⲧ">
 <lemma lemma="ϣⲓⲏⲧ">
